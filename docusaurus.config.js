@@ -87,13 +87,12 @@ module.exports = {
           rehypePlugins: [require("rehype-katex")],
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/geekodour/wiki/edit/master/website/",
+          editUrl: "https://github.com/geekodour/wiki/edit/master/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/geekodour/wiki/edit/master/website/blog/",
+          editUrl: "https://github.com/geekodour/wiki/edit/master/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

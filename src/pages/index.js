@@ -26,7 +26,7 @@ function Home() {
   const { siteConfig = {} } = context;
   return (
     <Layout title={`null`} description="trying to calm my mind.">
-      <small>nothing to see here.</small>
+      <div style={{ textAlign: "center", padding: "6em" }}>🌻</div>
     </Layout>
   );
 }

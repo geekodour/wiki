@@ -4,16 +4,25 @@ title: Glitch in the matrix
 sidebar_label: glitch in da matrix
 ---
 
-Ordered n-tuples are often indicated by a variable with an arrow on top. For example, we can let
+## Matrix Multiplication
 
-$$
-c = \pm\sqrt{a^2 + b^2}
-$$
+![matrix mult](/img/mat_mult.png)
 
-Lift($L$) can be determined by Lift Coefficient ($C_L$) like the following equation.
+Ordered n-tuples are often indicated by a variable with an arrow on top. For example, eg. $\vec{a}=(3,1,8)$
 
-$$
-L = \frac{1}{2} \rho v^2 S C_L
-$$
+```
+// C(m, n) = A(m, k) * B(k, n)
+// This actually has pretty bad spatial locality
+// as B is being accessed column-wise. (stride-n access!)
+for (int i = 0; i < m; i++) {
+  for (int j = 0; j < n; j++) {
+    for (int p = 0; p < k; p++) {
+      C(i, j) += A(i, p) * B(p, j);
+    }
+  }
+}
+```
 
-=(3,1,8)a, with, vector, on top, equals, left parenthesis, 3, comma, 1, comma, 8, right parenthesis
+## Links
+
+- [High-Performance Matrix Multiplication](https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0)

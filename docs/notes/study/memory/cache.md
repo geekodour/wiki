@@ -72,4 +72,14 @@ When there is the need to replace a `block/line` in a cache, [cache replacement 
 - Hit Time (cpu cycles); eg. 4clock cycle for L1
 - Miss Penalty (cpu cycles) ; Total time for a `miss` = `hit time`+`miss penalty`
 
-See slides for more info.
+### Improving locality
+
+> Lots of doubts in **Cache miss analysis**
+
+#### Spatial Locality
+
+Rearranging loops. Basically going from right-to-left, we want the leftmost item to be changing the fastest eg. `A[k][i][j]`, here `j` should be changing the most if the nested loops involved are for `i`,`j`and `k`; so rearranging nested loops in the order of `k-i-j` will give the best spatial locality.
+
+#### Temporal Locality
+
+- [Supplementary notes on using Blocking to Increase Temporal Locality∗](/pdf/waside-blocking.pdf)
