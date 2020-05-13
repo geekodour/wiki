@@ -1,0 +1,31 @@
+---
+id: design_patterns
+title: Software Design Patterns
+sidebar_label: Software Design Patterns
+---
+
+> Not really SDPs, but some general development ideas/words/**jargons** that i come accross. Most of them are just me reading its wikipedia page and writing whatever i understood here.
+
+## Databases
+
+- [Water mark](<https://en.wikipedia.org/wiki/Watermark_(data_file)>) : a method for ensuring data integrity.
+- [Tombstone](<https://en.wikipedia.org/wiki/Tombstone_(data_store)>): A tombstone is a deleted record in a replica of a distributed data store.
+
+## Memory
+
+- [Thread-local storage(TLS)](https://en.wikipedia.org/wiki/Thread-local_storage) : It's just storage specific to the running thread, many threads can have a variable called `a`; `a` is local to each thread. One usage can be multiple threads accumulating information into a global variable with some kind of sync ofc.
+- [Rotational Latency](https://en.wikipedia.org/wiki/Hard_disk_drive_performance_characteristics#Rotational_latency): Time waiting for the first bit of target sector to pass under `r/w head`. Delay waiting for the rotation of the disk to bring the required(eg. requested by cpu) disk sector under the `r/w head` is the **Seek time**.
+- [Stride of an array](https://en.wikipedia.org/wiki/Stride_of_an_array) : The stride determines the distance between two elements, which will be greater than or equal to the `size` of the element. Sometimes sequential access is also called `stride-1 pattern`/`stride-unit pattern`.
+
+![](/img//stride-padding.png)
+
+```
+[a,b,c,d] // say elements are `int64`; here stride is 4bytes if there is no padding.
+[a,b,c,d] // say elements are some `struct`; here stride is size of the structs; having padding will change the stride.
+```
+
+- [Scratchpad memory](https://en.wikipedia.org/wiki/Scratchpad_memory) : Not very popular apparently, something like L1 cache ig.
+
+## Programming
+
+- [Re-entrancy](<https://en.wikipedia.org/wiki/Reentrancy_(computing)>): Subroutine is called reentrant if multiple invocations can safely run concurrently, i.e execution and then safely be called again/re-enter before its previous invocations complete execution.

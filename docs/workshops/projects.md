@@ -1,0 +1,59 @@
+---
+id: projects
+title: Projects
+sidebar_label: Projects
+---
+
+A list of educational projects that one could try. Maybe i'll add more to this list later on.
+
+## Challenges/Interesting places to spend time
+
+- [Project Euler](https://projecteuler.net/)
+- [Eudyptula Challenge](http://eudyptula-challenge.org/)
+- [Cryptopals](https://cryptopals.com/)
+- [MonadChallenge](https://mightybyte.github.io/monad-challenges/)
+- [Deadlock Empire](https://deadlockempire.github.io/#T1-Interface)
+- [Advent of Code](https://adventofcode.com/)
+- [Postgres Exercises](https://pgexercises.com/gettingstarted.html)
+- [The Computer Language Benchmarks Game](https://en.wikipedia.org/wiki/The_Computer_Language_Benchmarks_Game)
+- [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code)
+- [Esolang](https://esolangs.org/wiki/Main_Page)
+
+## Other Peoples Idea lists
+
+- [silky](https://silky.github.io/posts/2019-02-22-2018s-crazy-ideas.html)
+
+## Web Engineering
+
+- [Build a Browser Engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+
+## Data Structures and Algorithms
+
+- [Learn how to write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
+- [Implementing A\*](https://www.redblobgames.com/pathfinding/a-star/implementation.html)
+
+## Database
+
+- [Building a database in C](https://cstack.github.io/db_tutorial/)
+- [Building a database in Go](http://notes.eatonphil.com/database-basics.html)
+
+## Compilers and Parsers
+
+- [Writing a simple JSON parser](http://notes.eatonphil.com/writing-a-simple-json-parser.html)
+
+## Systems
+
+- [Writing a game emulator](http://emulator101.com/)
+- [Concurrent Servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
+
+## Protocols
+
+- [A Tiny NTP client](http://seriot.ch/ntp.php)
+
+## Interesting things from History
+
+- [The Thing](<https://en.wikipedia.org/wiki/The_Thing_(listening_device)>)
+
+## Security
+
+- [Create your own MD5 collisions](https://natmchugh.blogspot.com/2015/02/create-your-own-md5-collisions.html)

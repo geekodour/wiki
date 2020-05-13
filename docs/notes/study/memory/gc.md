@@ -1,0 +1,56 @@
+---
+id: gc
+title: Garbage Collection
+sidebar_label: Garbage Collection
+---
+
+## writing malloc
+
+- https://danluu.com/malloc-tutorial/
+- https://sites.cs.ucsb.edu/~rich/class/cs170/labs/lab1.malloc/
+- https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory
+- http://www.cs.cmu.edu/afs/cs/academic/class/15213-f10/www/lectures/17-allocation-basic.pdf
+- dmitrysoshnikov.com/compilers/writing-a-memory-allocator/
+
+## otthers
+
+- Compilers use a technique called escape analysis to determine if something can be allocated on the stack or must be placed on the heap.
+- Heap fragmentation can have a substencial impact on the cpu
+- It turns out that for modern operating systems, sweeping (freeing memory) is a very fast operation, so the GC time for Go’s mark-and-sweep GC is largely dominated by the mark component and not sweeping time.
+
+## parallel, incremental and concurrent
+
+- parallel GC is also blocking STW collector, that runs using several threads, each thread handles its own heap part. Special care should be taken as every datastructure can be handled in parallel.
+- incremental GC is also blocking STW, but it can be inturrepted by the Mutator before the end of the gc pause.
+- concurrent/almost concurrent collectors, these can run concurrently with the mutator but use some kind of gc barrier for sync and even though at some times it will need to gc pause aswell.
+
+### Appraches to garbage collection
+
+- STW : Mutator is completely blocked and usually **single** collector thread.
+- Concurrent
+- Incremental
+
+## Go's Garbage collection
+
+> As of this writing, the latest is `Go1.14`, but some of these ideas are old. More importantly, take all of these with a big grain of salt because it keeps evolving!
+
+There's some layering here:
+
+- Go-level memory metrics exposed by [runtime.MemStats](https://golang.org/pkg/runtime/#MemStats)
+- OS level memory use matters because it influences things like how much real memory your program needs and how likely it is to be killed by the OS in a low-memory situation, but there has always been a disconnect between OS level information and Go level information.
+
+---
+
+- Since v1.5, Go has incorporated a `concurrent mark-and-sweep` GC.
+- As of version 1.12, the Go programming language uses a non-generational concurrent tri-color mark and sweep collector.
+- This was originally based on tcmalloc, but has diverged quite a bit.
+- tcmalloc is a memory allocator that's optimized for high concurrency situations. The tc in tcmalloc stands for thread cache.
+- Like most modern allocators, tcmalloc is page-oriented, meaning that the internal unit of measure is usually pages rather than bytes.
+- The Go GC uses a pacer to determine when to trigger the next GC cycle.
+- Go’s default pacer will try to trigger a GC cycle every time the heap size doubles., The 2x value comes from a variable GOGC the runtime uses to set the trigger ratio.
+
+https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
+
+https://github.com/golang/go/blob/master/src/runtime/malloc.go
+
+https://utcc.utoronto.ca/~cks/space/blog/programming/GoProgramMemoryUse (some practical ideas on arena etc.)
