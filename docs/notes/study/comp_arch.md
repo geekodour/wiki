@@ -1,7 +1,7 @@
 ---
 id: comp_arch
 title: Computer Arch
-sidebar_label: Computer Arch [WIP]
+sidebar_label: Computer Arch
 ---
 
 Computer architecture is the combination of microarchitecture and instruction set architecture.

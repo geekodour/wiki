@@ -1,7 +1,7 @@
 ---
 id: math
 title: Math
-sidebar_label: Math [WIP]
+sidebar_label: Math
 ---
 
 ## Notes
@@ -23,3 +23,9 @@ Read links will be removed and added somewhere else where they fit better.
 - [Constant of integration](https://en.wikipedia.org/wiki/Constant_of_integration)
 - 🌟 [Arithmetic underflow](https://en.wikipedia.org/wiki/Arithmetic_underflow)
 - [Order of continuity](https://en.wikipedia.org/wiki/Smoothness#Order_of_continuity)
+- [Fundamental theorem of calculus](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus)
+- [Fundamental theorem of arithmetic](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic)
+- [Continuous function](https://en.wikipedia.org/wiki/Continuous_function) | [p2](https://www.ocf.berkeley.edu/~reinholz/ed/07fa_m155/lectures/continuous_functions.pdf)
+- [Linear, Polynomials, Exponential, and Power Functions](https://oregonstate.edu/instruct/mth251/cq/Stage4/Lesson/fieldGuide.1.html)
+- [Euler's number](https://artofproblemsolving.com/wiki/index.php/Euler%27s_number#Euler.27s_Number_and_Calculus)
+- [Transcendental number](https://en.wikipedia.org/wiki/Transcendental_number)

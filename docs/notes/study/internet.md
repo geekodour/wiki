@@ -1,7 +1,7 @@
 ---
 id: internet
 title: Internet
-sidebar_label: Internet [WIP]
+sidebar_label: Internet
 ---
 
 We think of the internet in three ways, the physical infrastructure, the protocols and the social aspect/content. Here are some random ideas/facts about it. In some ways, the internet is a function of devices that connect to it.

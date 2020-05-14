@@ -17,13 +17,15 @@ $ yadm push
 
 ## git
 
-```
-git show --format=email HEAD | ./scripts/checkpatch.pl --strict --codespell
+```shell
+# some linux patch trick
+$ git show --format=email HEAD | ./scripts/checkpatch.pl --strict --codespell
 ```
 
 ## xrandr
 
 ```shell
+# projector
 $ xrandr --output HDMI-1 --mode 1366x768
 $ xrandr --output HDMI-1 --off
 ```
@@ -40,7 +42,10 @@ $ xrandr --output HDMI-1 --off
 
 ## makefile
 
-- Printing in a makefile: `$(info ${VAR_NAME})`
+```makefile
+# printing in a makefile
+$(info ${VAR_NAME})
+```
 
 ## weechat
 
@@ -49,19 +54,25 @@ $ xrandr --output HDMI-1 --off
 
 ## x window
 
-- All keycodes: `xmodmap -pke`
-- keystrokes: `xev`
-- window class: `xprop`
+```shell
+# All keycodes
+$ xmodmap -pke
+# Keystrokes
+$ xev
+# Window class
+$ xprop
+```
 
 ## codespell
 
 ```shell
-codespell .
+$ codespell .
 ```
 
-## Formatting USB
+## USB
 
 ```shell
+# formatting usb
 $ dd if=/dev/zero of=/dev/sdX status=progress
 $ fdisk /dev/sdb
 $ mkfs.vfat /dev/sdb1
@@ -69,22 +80,33 @@ $ mkfs.vfat /dev/sdb1
 
 ## rsync
 
-```
-rsync -avzhP -e "ssh -i path_to_key" /from/dir/ username@host:/to/dir/
+```shell
+$ rsync -avzhP -e "ssh -i path_to_key" /from/dir/ username@host:/to/dir/
 ```
 
 ## lshw
 
 ## lscpu
 
-- `cat /proc/cpuinfo` shows individual cpu stats doe.
+```shell
+# shows individual cpu stats doe.
+$ cat /proc/cpuinfo
+# nice nice
+$ lscpu
+```
 
 ## lstopo
 
+## docker
+
+```shell
+# Just get inside the container
+$ docker run --rm -it --entrypoint="sh" <image>:master
+```
+
 ## Random snippets
 
-### Grep and replace
-
-```
-grep -rl assets|xargs sed -i 's/assets/\/img\//g'
+```shell
+# grep and replace
+$ grep -rl assets|xargs sed -i 's/assets/\/img\//g'
 ```

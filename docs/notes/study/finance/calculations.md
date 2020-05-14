@@ -7,7 +7,7 @@ sidebar_label: Calculations
 ## Interest
 
 - $p = (1+rt)$
-- $p = (1+r)^t$
+- $p = (1+r)^t$ $\implies$ $p = (1+\frac{r}{n})^{nt}$
 
 ## Returns
 

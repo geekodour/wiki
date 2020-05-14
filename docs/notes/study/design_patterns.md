@@ -6,6 +6,10 @@ sidebar_label: Software Design Patterns
 
 > Not really SDPs, but some general development ideas/words/**jargons** that i come accross. Most of them are just me reading its wikipedia page and writing whatever i understood here.
 
+## Unread
+
+- [Dynamic Scoping](https://wiki.c2.com/?DynamicScoping)
+
 ## Databases
 
 - [Water mark](<https://en.wikipedia.org/wiki/Watermark_(data_file)>) : a method for ensuring data integrity.

@@ -69,7 +69,7 @@ module.exports = {
   },
   stylesheets: [
     {
-      href: "/css/katex.min.css",
+      href: "/katex/katex.min.css",
       type: "text/css",
     },
   ],

@@ -502,6 +502,7 @@ A lot of events in history are important, but some events are more important to 
 - First online transaction happened MIT/Stanford 🍀
 - First commercially available **Floppy Disk** was released.
 - **Intel4004** - First commercially available microprocessor.
+- The **first handheld calculator** was made with the designs of 4004 by Intel and Busicom. People now no longer need to use [log tables](#1614) to do huge multiplications!
 - **Creeper the first virus**, met the internet.
 - **Project Gutenberg** is started by Michael Hart with the purpose of making copyright-free works electronically available.
 - **Unix** was born, witten in assembly with three parts assembler, [editor](#1969), and shell.

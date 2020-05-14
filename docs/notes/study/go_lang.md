@@ -4,7 +4,11 @@ title: Golang
 sidebar_label: Golang
 ---
 
-Random notes on Go.
+> Love it or hate it, I've decided to make go my staple for a while.
+
+## Notes
+
+- [Notes on pprof](/docs/notes/study/go_lang/pprof)
 
 ## Random Guidelines
 
@@ -18,11 +22,10 @@ Random notes on Go.
 - Channels orchestrate; mutexes serialize.
 - Always close channels from sending side.
 
-## Notes
+## Conversations
 
 - `./…`: An import path is a pattern if it includes one or more "..." wildcards, each of which can match any string. Example: `x/...` matches `x` as well as `x`'s subdirectories.
 - About `Context.context`: I had a [conversation on slack about `Contexts`](https://gophers.slack.com/archives/C02A8LZKT/p1588549175026200). It's not possible for a function that takes a `context.Context` and cancel it. All it could do is `newCtx, cancel := context.WithCancel(origCtx)`. In that case, when `cancel()` is called `newCtx` will be canceled, but `origCtx` will not. Additionally, when you're passing context to a some function; the original context can be used to cancel the request early. The provided context can't be cancelled by the HTTP client. `newCtx` will be canceled either when `cancel()` is called or `origCtx` is canceled, so in a manner of speaking it inherits from it. It will also have access to the same values as `origCtx` does.
-- [pprof](/docs/notes/study/go_lang/pprof)
 
 ## Source
 

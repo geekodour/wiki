@@ -20,3 +20,5 @@ sidebar_label: Dump
 - https://github.com/brantou/reading/issues uses tags!
 - https://party.lol/# (private part by gun founder)
 - https://astexplorer.net/
+- [Aerialod @ ephtracy (Win v0.0.1)](https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss)
+- https://twitter.com/rajbhagatt/status/1260588325846560774
