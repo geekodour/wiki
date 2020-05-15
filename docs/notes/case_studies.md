@@ -12,6 +12,8 @@ sidebar_label: Case Studies
 - [Consistent Hashing in viemo](https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed)
 - [The Mystery of the Slow Downloads](https://panic.com/blog/mystery-of-the-slow-downloads/)
 - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
+- [The CPU Cost of Networking on a Host](https://people.kernel.org/dsahern/the-cpu-cost-of-networking-on-a-host)
+- [A Standalone Linux Kernel Module](https://medium.com/@eitan.levinzon/a-standalone-linux-kernel-module-df54283d4803)
 - [How to store data forever](https://drewdevault.com/2020/04/22/How-to-store-data-forever.html)
 - [SRE: Debugging: Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
 - [Why I Prefer systemd Timers Over Cron](https://trstringer.com/systemd-timer-vs-cronjob/)

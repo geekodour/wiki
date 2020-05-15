@@ -25,18 +25,31 @@ module.exports = {
     Others: ["links/others/dump"],
   },
   ideas: {
-    Random: ["ideas/drawing_ducks", "ideas/quotes", "ideas/running_bsns"],
+    Random: [
+      "ideas/drawing_ducks",
+      "ideas/quotes",
+      "ideas/running_bsns",
+      "ideas/humor",
+    ],
+    Fetish: ["ideas/timelines"],
     Education: ["ideas/problems_in_edu"],
   },
   courses: {
-    Technology: [
-      "courses/soeycscs1",
-      "courses/cmu15445",
-      "courses/cmu15721",
-      "courses/cmu15213",
-    ],
+    CMU: ["courses/cmu15445", "courses/cmu15721", "courses/cmu15213"],
+    Stanford: ["courses/soeycscs1"],
     Thinking: [],
-    Math: ["courses/stats_without_tears"],
+    KhanAcademy: [
+      "courses/khan/alg2",
+      "courses/khan/sandp",
+      "courses/khan/hs-stat",
+      "courses/khan/apstat",
+      "courses/khan/compsci",
+    ],
+    "Math Books": [
+      "courses/math-books/stats_without_tears",
+      "courses/math-books/interm-alg",
+      "courses/math-books/grimaldi",
+    ],
   },
   notes: {
     Personal: ["notes/people"],

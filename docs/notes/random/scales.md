@@ -53,10 +53,24 @@ I believe you are confusing exponential growth with an exponential scale. I've n
 
 - https://en.wikipedia.org/wiki/Semi-log_plot
 - https://en.wikipedia.org/wiki/Log%E2%80%93log_plot
+- https://en.wikipedia.org/wiki/Level_(logarithmic_quantity)
+- https://en.wikipedia.org/wiki/Logarithm#History
+- https://en.wikipedia.org/wiki/Significand
+- https://en.wikipedia.org/wiki/Floating-point_arithmetic
+- https://en.wikipedia.org/wiki/Logarithmic_growth
+- https://www.quora.com/Is-there-a-difference-between-logarithmic-and-exponential-growth
+- https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_2/Fundamentals_of_data_representation/Floating_point_numbers
+- https://medium.com/biovinci/log-base-2-or-e-or-10-9f2a694faa51
 
-### Log scales
+## Log scales
 
-A scale of measurement where the position is marked using the logarithm of a value instead of the actual value.
+> ![](/img/logscale.png)
+>
+> _The distance from 1 to 2 is the same as the distance from 2 to 4, or from 4 to 8. Similarly 1 to 3 is the same as 3 to 9 and 10 to 100 is the same distance as 1 to 10. Thus moving a set distance along the scale means the number has been multiplied by 10 (or some other fixed factor) ;_
+>
+> 0 is the center of regular additive scales, 1 is the center of logarithmic scales. (???)
+
+A scale of measurement where the position is marked using the logarithm of a value instead of the actual value. Logarithmic scales reduce wide-ranging quantities to tiny scopes.
 
 Suppose you have the inputs, which have a **lot of variation:**
 
@@ -72,16 +86,21 @@ Taking $log_{10}$ of these numbers we get:
 
 which seem plottable and easily comparable. The statement _"A speck of dust is half way between the size of an atom and the planet earth if you're using logarethmic scale."_ makes sense now.
 
-Some measurements vary by a little at the small scale, or a lot at the large scale. Log scale is simply more convenient than a linear scale for these measurements. Richter Scale, concentration of ions (pH-scale), anything that involves our senses (f-stops in photography, decibels, octaves), entropy, star brightness etc.
+Some measurements vary by a little at the small scale, or a lot at the large scale. Log scale is simply more convenient than a linear scale for these measurements. Richter Scale, concentration of ions (pH-scale), anything that involves our senses (f-stops in photography, decibels, octaves), entropy, star brightness etc. Some of these use $log_{10}$ and some use $log_2$
 
-#### Decades
+### Choice of the base
 
-Interesting things to know:
+Typically, $log_{10}$ and $log_e$ scale are used.
 
-- The choice of base in logaretmic scale is upto us.
-- 0 is the center of regular old additive scales, and 1 is the center of logarithmic scales.
+## Growth
 
-### Order of Magnitude
+Often exponential growth curves are displayed on a log scale, otherwise they would increase too quickly to fit within a small graph.
+
+Linear scales are additive, log steps are multiplicative
+
+https://en.wikipedia.org/wiki/Exponential_growth
+
+## Order of Magnitude
 
 An **order of magnitude** is an approximate [position on a **logarithmic scale.**](https://psychology.wikia.org/wiki/Order_of_magnitude). Eg. $4\times10^6$ has a common logarithm of `~6.602`; Its order of magnitude is `6`.
 

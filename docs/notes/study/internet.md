@@ -10,6 +10,7 @@ We think of the internet in three ways, the physical infrastructure, the protoco
 
 ## Notes
 
+- [Notes on some meta ideas about the internet](/docs/notes/study/internet/meta_ideas)
 - [Notes on Border Gateway Protocol (BGP)](/docs/notes/study/internet/bgp)
 - [Build yourself a traceroute](/docs/notes/study/internet/traceroute)
 - [Notes on MTCP](/docs/notes/study/internet/mtcp)

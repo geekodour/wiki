@@ -9,6 +9,8 @@ sidebar_label: Math
 - [Notes on Logarithm](/docs/notes/study/math/log)
 - [Notes on Modular arithmetic](/docs/notes/study/math/mod)
 - [Notes on Matrix](/docs/notes/study/math/matrix)
+- [Notes on Exponents](/docs/notes/study/math/exponents)
+- [Notes on Calculus](/docs/notes/study/math/calculus)
 
 ## Jargons/Rabbit Holes (Unread)
 
@@ -29,3 +31,8 @@ Read links will be removed and added somewhere else where they fit better.
 - [Linear, Polynomials, Exponential, and Power Functions](https://oregonstate.edu/instruct/mth251/cq/Stage4/Lesson/fieldGuide.1.html)
 - [Euler's number](https://artofproblemsolving.com/wiki/index.php/Euler%27s_number#Euler.27s_Number_and_Calculus)
 - [Transcendental number](https://en.wikipedia.org/wiki/Transcendental_number)
+- [Inverse Functions: Exponential, Logarithmic, and Trigonometric Functions](https://courses.lumenlearning.com/boundless-calculus/chapter/inverse-functions-exponential-logarithmic-and-trigonometric-functions/)
+- [Concave Function](https://en.wikipedia.org/wiki/Concave_function)
+- [Trichotomy (mathematics)](https://en.wikipedia.org/wiki/Trichotomy_%28mathematics%29)
+- [List of types of functions](https://en.wikipedia.org/wiki/List_of_types_of_functions)
+- [Power Law](https://en.wikipedia.org/wiki/Power_law)
