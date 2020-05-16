@@ -10,13 +10,26 @@ sidebar_label: Scales
 > - $10^{13}$mts from wherever you're reading this from, [you could see the entire solarsystem infront of your eyes](https://www.youtube.com/watch?v=0fKBhvDjuy0)
 > - [Orders of magnitude (numbers)](<https://en.wikipedia.org/wiki/Orders_of_magnitude_(numbers)>)
 
+---
+
+## Decimal Separator
+
+One thing that ate my head initially was that some people use `.` [as decimal separator. why bro?](https://en.wikipedia.org/wiki/Decimal_separator)
+
+---
+
 ## million, billion, lakh, cr
 
-- 1bn = 100cr = 9 zeros = 10^9
-- 1cr = 10mn = 100lac = 7 zeros = 10^7
-- 1mn = 10lac = 6 zeros = 10^6
+- 1bn = 100cr = 9 zeros = $10^9$
+- 1cr = 10mn = 100lac = 7 zeros = $10^7$
+- 1mn = 10lac = 6 zeros = $10^6$
+- 1lac = $10^5$
 
-For currency it's again multiplying by the currency. Eg. To me a millionaire you'll need `75.69*10^6=~7cr`, so if you have around `₹ 7cr` in your bank, you're a millionaire. 🤑
+> For currency it's again multiplying by the currency. Eg. To me a millionaire you'll need:
+>
+> $75.69 \times 10^6 \approx 7*10^7$, so if you have around `₹ 7cr` in your bank, you're a millionaire. 🤑
+
+---
 
 ## bandwidth, latency and throughput
 
@@ -31,44 +44,22 @@ It'll take a lot of time for your friend to download `200TiB` of data with the I
 - **Latency**: How much time it takes for a signal(in our case the first signal) to travel to its destination. **Low Latency is good.**
 - **Throughput**: How much data is travelling. **High Throughput is good.**
 
+---
+
 ## Bytes
 
 - 1e+9 bytes = 1e9 = 10^9B = 2^30B = 1GB (1 Billion bytes in 1GB)
 - 1e+6 bytes = 1e6 = 10^6B = 2^20B = 1MB (1 Million bytes in 1MB)
 
-## Graphs
+---
 
-> The reason you choose one scale over another when graphing is to reveal detail that might otherwise be hidden by the nature of the data you're looking at. When talking about scales in graphs, `growth` is tightly coupled; so there are mentions of it aswell.
-
-confusion:
-scale: log, linear, exponential
-growth: log, linear, exponential, polinomial
-
-- exponential growth does not JUST mean a type of growth that grows very fast, it means a particular type of growth.; it's faster than polinomial growth. When things grow in relation to their own size. Proportional growth?
-
-- There is no such thing called the exponential scale
-- Does a lograthmic scale grow logatiemtically?
-
-I believe you are confusing exponential growth with an exponential scale. I've never heard of an exponential scale. With a logarithmic scale, the scale does increase exponentially, so that linear growth follows a logarithmic curve, and exponential growth follows a straight line.
-
-- https://en.wikipedia.org/wiki/Semi-log_plot
-- https://en.wikipedia.org/wiki/Log%E2%80%93log_plot
-- https://en.wikipedia.org/wiki/Level_(logarithmic_quantity)
-- https://en.wikipedia.org/wiki/Logarithm#History
-- https://en.wikipedia.org/wiki/Significand
-- https://en.wikipedia.org/wiki/Floating-point_arithmetic
-- https://en.wikipedia.org/wiki/Logarithmic_growth
-- https://www.quora.com/Is-there-a-difference-between-logarithmic-and-exponential-growth
-- https://en.wikibooks.org/wiki/A-level_Computing/AQA/Paper_2/Fundamentals_of_data_representation/Floating_point_numbers
-- https://medium.com/biovinci/log-base-2-or-e-or-10-9f2a694faa51
+> The reason you choose one scale over another when graphing is to reveal detail that might otherwise be hidden by the nature of the data you're looking at.
 
 ## Log scales
 
 > ![](/img/logscale.png)
 >
 > _The distance from 1 to 2 is the same as the distance from 2 to 4, or from 4 to 8. Similarly 1 to 3 is the same as 3 to 9 and 10 to 100 is the same distance as 1 to 10. Thus moving a set distance along the scale means the number has been multiplied by 10 (or some other fixed factor) ;_
->
-> 0 is the center of regular additive scales, 1 is the center of logarithmic scales. (???)
 
 A scale of measurement where the position is marked using the logarithm of a value instead of the actual value. Logarithmic scales reduce wide-ranging quantities to tiny scopes.
 
@@ -88,17 +79,63 @@ which seem plottable and easily comparable. The statement _"A speck of dust is h
 
 Some measurements vary by a little at the small scale, or a lot at the large scale. Log scale is simply more convenient than a linear scale for these measurements. Richter Scale, concentration of ions (pH-scale), anything that involves our senses (f-stops in photography, decibels, octaves), entropy, star brightness etc. Some of these use $log_{10}$ and some use $log_2$
 
-### Choice of the base
+![](/img/logscale_comp.png)
 
-Typically, $log_{10}$ and $log_e$ scale are used.
+### Few funny things to care about
+
+- There is no such thing called the exponential scale.
+- Often exponential growth curves are displayed on a log scale.
+- lin/linear scale is additive, while the log scale is multiplicative by a fixed number.
 
 ## Growth
 
-Often exponential growth curves are displayed on a log scale, otherwise they would increase too quickly to fit within a small graph.
+> This section probably has a lot of mistakes!
+>
+> - [OEIS Wiki Page on Growth Sequences](https://oeis.org/wiki/Growth_of_sequences)
+> - [Reddit post explaining the OEIS wiki page](http://archive.is/O5s8R)
 
-Linear scales are additive, log steps are multiplicative
+Growth refers to how fast a sequence of numbers increase. Sometimes decay is used to mean the opposite. Before we get more into growth, Let's see the concept of **bound**. We say B bounds A (above) if B grows faster than A, that is, at some point B becomes bigger than A and stays bigger forever (the same apply for bounded below). **To look at growth, we look at the derivatives.**
 
-https://en.wikipedia.org/wiki/Exponential_growth
+Among other growth sequences, the most common are growth sequences that we see in the news are **Linear < Polynomial < Exponential**
+
+> These growths are related to respective functions, So let $t$ be a variable signifying something like `time`, and let $f(t)$ be some kind of function of $t$. (Informal defs., see wikipedia for formal defs.)
+
+### Linear Growth
+
+> $f$ grows linearly if eventually, $f(t) = t$
+
+Linear is a kind of polynomial, specifically of degree 1. Linear growth is the one most people will be familiar with, as it is everywhere in our daily life.
+
+### Exponential Growth
+
+> $f$ grows exponentially if eventually, $f(t) = e^{at}$ for some constant $a > 0$.
+
+**Other names**: Proportional growth, Geometric growth(in the discrete domain)
+
+Exponential growth refers to a pattern of growth that the rate of increase is proportional to its current value.
+
+### Polynomial Growth
+
+A polynomial function does not grow exponentially. An exponential function does grow exponentially. Quadratical, Cubic, Quartic,etc fall under this.
+
+### Logarithmic Growth
+
+> $f$ grows logarithmically if eventually, $f(t) = log(t)$.
+
+Logarithmic growth is the inverse of exponential growth and is very slow.
+
+### Other Growths
+
+- [Bounded growth](https://en.wikipedia.org/wiki/Bounded_growth)
+- [Asymptotic growth](/pdf/asymptotic-growth.pdf)
+- [Hyperbolic growth](https://en.wikipedia.org/wiki/Hyperbolic_growth)
+- [Logistic growth](https://en.wikipedia.org/wiki/Logistic_function)
+- [Iterated logarithm growth](https://en.wikipedia.org/wiki/Iterated_logarithm): Even slower than log growth.
+- There are a lot more!
+
+### Other Links
+
+- [A Comparison of Linear, Parabolic, and Exponential Growth](https://asiakas.kotisivukone.com/files/clarity.kotisivukone.com/comparison_of_growth.pdf)
 
 ## Order of Magnitude
 

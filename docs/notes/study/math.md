@@ -6,11 +6,15 @@ sidebar_label: Math
 
 ## Notes
 
+- [Some meta Ideas](/docs/notes/study/math/meta_math)
+- [Notes on Numbers](/docs/notes/study/math/numbers)
 - [Notes on Logarithm](/docs/notes/study/math/log)
 - [Notes on Modular arithmetic](/docs/notes/study/math/mod)
 - [Notes on Matrix](/docs/notes/study/math/matrix)
 - [Notes on Exponents](/docs/notes/study/math/exponents)
 - [Notes on Calculus](/docs/notes/study/math/calculus)
+- [Notes on Functions](/docs/notes/study/math/functions)
+- [Notes on Floating Point](/docs/notes/study/math/fp)
 
 ## Jargons/Rabbit Holes (Unread)
 
@@ -34,5 +38,5 @@ Read links will be removed and added somewhere else where they fit better.
 - [Inverse Functions: Exponential, Logarithmic, and Trigonometric Functions](https://courses.lumenlearning.com/boundless-calculus/chapter/inverse-functions-exponential-logarithmic-and-trigonometric-functions/)
 - [Concave Function](https://en.wikipedia.org/wiki/Concave_function)
 - [Trichotomy (mathematics)](https://en.wikipedia.org/wiki/Trichotomy_%28mathematics%29)
-- [List of types of functions](https://en.wikipedia.org/wiki/List_of_types_of_functions)
 - [Power Law](https://en.wikipedia.org/wiki/Power_law)
+- [oeis wiki](https://oeis.org/wiki/Main_Page)

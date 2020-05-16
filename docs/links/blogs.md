@@ -16,7 +16,8 @@ sidebar_label: Blogs
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) : Interview prep for System design.
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book)
 - [Distributed Systems Reading List](https://tgvashworth.com/2015/12/07/distributed-systems-reading-list.html)
-- [Network Programming Self Study](https://siliconsprawl.com/2020/05/10/network-programming-self-study.html)
+- [🌟 Network Programming Self Study](https://siliconsprawl.com/2020/05/10/network-programming-self-study.html)
+- [Distributed Systems Safety Research](http://jepsen.io/)
 
 ## Databases
 

@@ -86,6 +86,8 @@ module.exports = {
         },
         blog: {
           showReadingTime: true,
+          remarkPlugins: [require("remark-math")],
+          rehypePlugins: [require("rehype-katex")],
           // Please change this to your repo.
           editUrl: "https://github.com/geekodour/wiki/edit/master/blog/",
         },

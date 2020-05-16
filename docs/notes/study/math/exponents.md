@@ -4,16 +4,6 @@ title: Notes on Exponents
 sidebar_label: Exponents
 ---
 
-import useBaseUrl from '@docusaurus/useBaseUrl';
-
-> _95% of the [numbers that you](https://www.reddit.com/r/askscience/comments/2lw34c/what_are_you_doing_when_you_take_the_natural_log/) use were invented to solve equations. Probably the least important property of these things, mathematically at least, is their decimal expansion. Their corresponding equations are infinitely more vital._
-
-<img
-alt="Docusaurus with Keytar"
-style={{height:"300px"}}
-src={useBaseUrl('img/numbers.png')}
-/>;
-
 ## What is it really?
 
 The "repeated multiplication" definition of an exponent doesn't really work by itself, just like "repeated addition" doesn't really work for multiplication. (How do you add something half a time?)
@@ -55,7 +45,21 @@ The word "inverse" does not just mean "opposite," and it certainly does not mean
 - $10^x$ inverse to $log_{10}(y)$
 - $x^{10}$ inverse to $\sqrt[10]{y}$
 
+Euler laid the foundation for the modern introduction of natural logarithm as the inverse function for the natural exponential function, f(x) = ex.
+
 > Rewatch 3blue1brown live on Log
+
+## Powers vs Exponent
+
+There is some confusion if `power` is the same as `exponent`. For this let's look into the [**Exponentiation Operation**](https://en.wikipedia.org/wiki/Exponentiation)
+
+> rewrite
+>
+> The functions y = x2 and y = ex both share a common property for all x > 0: they are both increasing at an increasing rate. In calculus, we would say that their first derivative is positive (that is, they both have growth) and that their second derivative is positive (that is, their growth is increasing and their graphs are considered concave up). Informally, people might call this exponential growth in order to distinguish it from a case where we have diminishing returns (where the function still grows, but at a decreasing rate). For this second type of function, think of something like y = arctan(x), where the curve is increasing, but levels off to be nearly horizontal.
+>
+> More formally, exponential growth refers to a special type of concave up function. It is defined as any function whose growth rate is proportional to how big it already is. In symbols, f(x) is exponential iff f'(x) = k \* f(x) for some constant k > 0.
+>
+> https://www.reddit.com/r/math/comments/3xa7g1/when_people_say_the_growth_was_exponential_do/cy2v713/
 
 ## Links
 
@@ -68,3 +72,4 @@ The word "inverse" does not just mean "opposite," and it certainly does not mean
 - [Cubic root of negative numbers](https://math.stackexchange.com/questions/25528/cubic-root-of-negative-numbers)
 - [5.1 Roots and Radicals](https://saylordotorg.github.io/text_intermediate-algebra/s08-01-roots-and-radicals.html)
 - [Graphs of Exponential and Logarithmic Functions](https://courses.lumenlearning.com/boundless-algebra/chapter/graphs-of-exponential-and-logarithmic-functions/)
+- [1.9: Limit of Exponential Functions and Logarithmic Functions](https://math.libretexts.org/Courses/Mount_Royal_University/MATH_1200%3A_Calculus_for_Scientists_I/1%3A_Limit__and_Continuity_of_Functions/1.9%3A_Limit_of_Exponential_Functions_and_Logarithmic_Functions#Limit_laws)

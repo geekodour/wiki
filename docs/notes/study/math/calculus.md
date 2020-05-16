@@ -33,3 +33,4 @@ Source: [Introduction to limits - Khan Academy](https://www.youtube.com/watch?v=
 
 - [Limits & Continuity (1 of 3: Formal intro to limits)](https://www.youtube.com/watch?v=htTTj-MsECo&t=221s)
 - [3b1b](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Section 2-8 : Limits At Infinity, Part II](https://tutorial.math.lamar.edu/Classes/CalcI/LimitsAtInfinityII.aspx)

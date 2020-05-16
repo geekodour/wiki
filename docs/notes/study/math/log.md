@@ -4,6 +4,8 @@ title: Logarithm
 sidebar_label: Logarithm
 ---
 
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 ## Intro
 
 A logarithm is the power to which a number must be raised in order to get some other number. Some references refer logarithm as an exponent. It can find the cause for an effect, i.e the **input for some output**.
@@ -55,13 +57,13 @@ In logarithm the value of a positive number depends not only on the number but a
 
 ### Natural Log
 
-The natural logarithm has the number e (that is b ≈ 2.718) as its base; its use is widespread in mathematics and physics because it is immune to integration and differentiation.i.e. $\frac{d(e^x)}{dx}=e^x$.
+The natural logarithm has the number e (that is b ≈ 2.718) as its base; its use is widespread in mathematics and physics because it is immune to integration and differentiation.i.e. $\frac{d(e^x)}{dx}=e^x$. Natural log is a continuous function.
 
 ### Common Log
 
 The logarithm base 10 (that is b = 10) is called the common logarithm and has many applications in science and engineering.
 
-#### Numbers greater than 1
+#### Numbers greater than 1 ($x$)
 
 When it's about $lg$ of numbers greater than 1 that differ by a factor of a power of 10 all have the same fractional part. This fractional part is called the `mantissa`; The integer part, called the `characteristic`
 
@@ -86,19 +88,18 @@ When it's about $lg$ of numbers greater than 1 that differ by a factor of a powe
 
 #### Numbers greater than 0 but less than 1
 
-Numbers greater than 0 and less than 1 have negative logarithms; but that's not true for something like $log_{0.2}(0.8)$
+Numbers greater than 0 and less than 1 have negative logarithms for the $log_{10}$ and other usual bases; but that's not true for something like $log_{0.2}(0.8)$
 
 ![](/img/difflogplots.png)
-
-> Decade
-> https://en.wikipedia.org/wiki/Decade_(log_scale)
+<img
+alt=""
+style={{height:"300px"}}
+src={useBaseUrl('img/log0.5.png')}
+/>;
 
 ### Binary Log
 
 The binary logarithm uses base 2 (that is b = 2) and is commonly used in computer science.
-
-> Octave
-> https://en.wikipedia.org/wiki/Octave
 
 ### Base does not matter?
 
@@ -115,3 +116,5 @@ $$
 - [Wiki: Natural Log](https://en.wikipedia.org/wiki/Natural_logarithm)
 - [Wiki: Common Log](https://en.wikipedia.org/wiki/Common_logarithm#Mantissa_and_characteristic)
 - [Clarify why all logarithms differ by a constant](https://math.stackexchange.com/questions/14133/clarify-why-all-logarithms-differ-by-a-constant)
+- [Level(logarithmic_quantity)](<https://en.wikipedia.org/wiki/Level_(logarithmic_quantity)>)
+- [Wiki: Super Log](https://en.wikipedia.org/wiki/Super-logarithm)
