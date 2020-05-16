@@ -10,6 +10,7 @@ sidebar_label: Functions
 
 - https://www.khanacademy.org/commoncore/grade-HSF-F-IF
 - [5.2 - Reference - Graphs of eight basic types of functions](http://mathonweb.com/help_ebook/html/functions_4.htm)
+- [Inverse Functions: Exponential, Logarithmic, and Trigonometric Functions](https://courses.lumenlearning.com/boundless-calculus/chapter/inverse-functions-exponential-logarithmic-and-trigonometric-functions/)
 
 ## List of function
 
