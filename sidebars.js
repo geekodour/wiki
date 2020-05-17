@@ -30,6 +30,7 @@ module.exports = {
       "ideas/quotes",
       "ideas/running_bsns",
       "ideas/humor",
+      "ideas/subjects",
     ],
     Fetish: ["ideas/timelines"],
     Education: ["ideas/problems_in_edu"],

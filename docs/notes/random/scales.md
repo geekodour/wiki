@@ -136,6 +136,7 @@ Logarithmic growth is the inverse of exponential growth and is very slow.
 ### Other Links
 
 - [A Comparison of Linear, Parabolic, and Exponential Growth](https://asiakas.kotisivukone.com/files/clarity.kotisivukone.com/comparison_of_growth.pdf)
+- [How to read a log scale and geometric mean](https://www.youtube.com/watch?v=8jR-_Om4myk)
 
 ## Order of Magnitude
 
