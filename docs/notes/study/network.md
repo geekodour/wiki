@@ -23,6 +23,13 @@ Read links will be removed and added somewhere else where they fit better.
 - [Optical mesh network](https://en.wikipedia.org/wiki/Optical_mesh_network)
 - [Ethernet and Wireless](https://networkengineering.stackexchange.com/questions/35618/relation-between-ethernet-and-802-11-headers)
 
+### IPv6
+
+- [ll1](https://blog.zivaro.com/need-know-link-local-ipv6-addresses)
+- [ll2](https://labs.ripe.net/Members/philip_homburg/whats-the-deal-with-ipv6-link-local-addresses)
+- [ula](https://en.wikipedia.org/wiki/Unique_local_address)
+- [ll3](https://serverfault.com/questions/118324/what-is-a-link-local-address)
+
 ### Mobile
 
 - [Point-to-multipoint communication](https://en.wikipedia.org/wiki/Point-to-multipoint_communication)
