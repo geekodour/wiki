@@ -8,7 +8,7 @@ jobs:
         id: lc
         uses: peter-evans/link-checker@v1
         with:
-          args: -v -r *
+          args: -v -r docs/
       - name: Create Issue From File
         uses: peter-evans/create-issue-from-file@v2
         with:
