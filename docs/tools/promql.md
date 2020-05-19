@@ -37,7 +37,7 @@ Takes argument of any promql type, gives output in any promql type.
 
 - `irate` should only be used when graphing volatile, fast-moving counters. Use `rate` for alerts and slow-moving counters, as brief changes in the rate can reset the `FOR` clause and graphs consisting entirely of rare spikes are hard to read. `irate` is basically taking `rate` of the last two samples; i.e _instant rate_
 
-- When taking `rate` it's advisable to take the range timeframe be `4x` the scraping interval. Prometheus default `scrape_interval` is 15s so it should be minimum `1m` because `rate` needs atleast two data points to calculate the rate of increase.
+- When taking `rate` it's advisable to take the range timeframe be `4x` the scraping interval. Prometheus default `scrape_interval` is 15s so it should be minimum `1m` because `rate` needs at least two data points to calculate the rate of increase.
 
 ## Links
 

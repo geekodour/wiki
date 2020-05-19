@@ -20,6 +20,8 @@ $ yadm push
 ```shell
 # some linux patch trick
 $ git show --format=email HEAD | ./scripts/checkpatch.pl --strict --codespell
+# delete remote branch
+$ git push origin --delete a1
 ```
 
 ## xrandr

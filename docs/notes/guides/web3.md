@@ -30,3 +30,4 @@ https://freshrss.org/
 https://gemini.circumlunar.space/
 https://en.wikipedia.org/wiki/Fediverse
 https://news.ycombinator.com/item?id=23161922
+https://research.protocol.ai/blog/2020/ndn-seminar-a-high-level-overview-of-the-interplanetary-file-system/

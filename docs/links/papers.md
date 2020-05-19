@@ -73,9 +73,14 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [Bittorrent DHT Protocol](http://www.bittorrent.org/beps/bep_0005.html)
 - [Peer-to-Peer Communication Across Network Address Translators](https://www.usenix.org/legacy/event/usenix05/tech/general/full_papers/ford/ford.pdf)
 
+## Security
+
+- [An Analysis of Pre-installed Android Software](https://arxiv.org/pdf/1905.02713.pdf)
+
 ## Intelligence
 
 - [Knowledge Graphs](https://arxiv.org/abs/2003.02320)
+- [The Cognitive-Theoretic Model of the Universe or CTMU](http://ctmucommunity.org/wiki/)
 
 ## Computation
 

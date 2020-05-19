@@ -129,19 +129,14 @@ module.exports = {
     ],
   },
   tools: {
-    Software: [
-      "tools/laptop_tools",
-      "tools/k8s",
-      "tools/performance_tools",
-      "tools/promql",
-      "tools/calculator",
-    ],
-    Databases: ["tools/postgres"],
-    Hardware: [],
+    Software: ["tools/laptop_tools", "tools/performance_tools"],
+    Databases: ["tools/postgres", "tools/promql"],
+    "Server Tech": ["tools/k8s", "tools/zookeeper", "tools/apache_drill"],
+    Hardware: ["tools/calculator"],
   },
   workshops: {
     Others: ["workshops/tech-guides", "workshops/projects"],
     Personal: [],
-    Attended: ["workshops/qcon-london-k8s"],
+    Attended: [],
   },
 };
