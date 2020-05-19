@@ -76,6 +76,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 ## Security
 
 - [An Analysis of Pre-installed Android Software](https://arxiv.org/pdf/1905.02713.pdf)
+- [Appsquatting](/pdf/AppSquatting20.pdf)
 
 ## Intelligence
 
