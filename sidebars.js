@@ -8,7 +8,7 @@ module.exports = {
       "books/linux_networking",
       "books/tcpdump_little_book",
     ],
-    Education: [],
+    Education: ["books/tools_sys_research"],
     History: [],
     Math: [],
   },
