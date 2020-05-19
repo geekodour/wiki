@@ -54,6 +54,7 @@ $ ps -p 322453 -u
 
 ```shell
 # Poor man's stress test by @bwplokta
-# Replaces every newline with x then `head` for 4GB(4*10^9bytes) then feed it to `grep`, grep will slowly consume 4GB of memory.
+# Replaces every newline with x then `head` for 4GB(4*10^9bytes)
+# then feed it to `grep`, grep will slowly consume 4GB of memory.
 $ yes | tr \\n x | head -c $BYTES | grep showmedamoney
 ```
