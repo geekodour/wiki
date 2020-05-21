@@ -106,6 +106,10 @@ $ lscpu
 $ docker run --rm -it --entrypoint="sh" <image>:master
 ```
 
+## soveran/map
+
+source: [soveran/map](https://github.com/soveran/map)
+
 ## Random snippets
 
 ```shell

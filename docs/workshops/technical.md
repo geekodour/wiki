@@ -16,6 +16,7 @@ I'll be adding/removing links to and from this page time to time.
 - [LearnConcurrency](https://github.com/golang/go/wiki/LearnConcurrency) : Resources for learning about concurrency in Go.
 - [tumregels/Network-Programming-with-Go](http://tumregels.github.io/Network-Programming-with-Go/#) : An e-book on building network applications in Go.
 - [go-modules-by-example/index](https://github.com/go-modules-by-example/index) : Go modules by example is a series of work-along guides
+- [inancgmus/learngo](https://github.com/inancgumus/learngo): 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
 - [workiva/go-datastructures](https://github.com/Workiva/go-datastructures)
 - [Practical Go](https://dave.cheney.net/practical-go)
 - [High Performance Go](https://dave.cheney.net/high-performance-go)

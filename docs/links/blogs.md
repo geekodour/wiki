@@ -18,6 +18,7 @@ sidebar_label: Blogs
 - [Distributed Systems Reading List](https://tgvashworth.com/2015/12/07/distributed-systems-reading-list.html)
 - [🌟 Network Programming Self Study](https://siliconsprawl.com/2020/05/10/network-programming-self-study.html)
 - [Distributed Systems Safety Research](http://jepsen.io/)
+- [An introduction to Conflict-Free Replicated Datatypes](https://lars.hupel.info/topics/crdt/01-intro)
 
 ## Databases
 
