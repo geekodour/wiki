@@ -1,10 +1,10 @@
 set -eux
 
-ROOT_DIR=..
+ROOT_DIR=$(pwd)
 
 checklinks() {
   set +e
-  ./bin/muffet -c 32\
+  ./scripts/bin/muffet -c 32\
   -e '#!$'\
   -e '.*github.com/geekodour/wiki/edit.*'\
   --timeout 45 \
@@ -15,5 +15,11 @@ pushchanges() {
 git add $ROOT_DIR/static/rotlinks.txt && git commit -m "Added rotten links" && git push origin master
 }
 
+if ! [[ "$0" =~ "scripts/broken_link_check.sh" ]]; then
+	echo "must be run from repository root"
+	exit 255
+fi
 checklinks
 pushchanges
+
+
