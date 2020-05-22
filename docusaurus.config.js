@@ -64,6 +64,11 @@ module.exports = {
           label: "GitHub",
           position: "right",
         },
+        {
+          href: "https://wiki.geekodour.xyz/rotlinks.txt",
+          label: "Link Rots",
+          position: "right",
+        },
       ],
     },
   },
