@@ -1,6 +1,8 @@
 set -eux
 
 ROOT_DIR=$(pwd)
+git config --global user.email "muffet@geekodour.xyz"
+git config --global user.name "Muffet"
 
 checklinks() {
   set +e
