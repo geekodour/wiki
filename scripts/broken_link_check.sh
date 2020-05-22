@@ -1,6 +1,6 @@
 set -eux
 
-ROOT_DIR=../
+ROOT_DIR=..
 
 checklinks() {
   set +e
