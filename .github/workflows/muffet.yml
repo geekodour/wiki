@@ -10,4 +10,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: check
-        run: ./scripts/muffet -c 32 -e '#!$' -e '.*github.com/geekodour/wiki/edit.*' --timeout 45 https://wiki.geekodour.xyz
+        run: ./scripts/broken_link_check.sh
