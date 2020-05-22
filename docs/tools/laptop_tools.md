@@ -65,10 +65,11 @@ $ xev
 $ xprop
 ```
 
-## codespell
+## Spelling
 
 ```shell
 $ codespell .
+$ hunspell filename.md
 ```
 
 ## USB

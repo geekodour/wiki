@@ -12,19 +12,19 @@ sidebar_label: Garbage Collection
 - http://www.cs.cmu.edu/afs/cs/academic/class/15213-f10/www/lectures/17-allocation-basic.pdf
 - dmitrysoshnikov.com/compilers/writing-a-memory-allocator/
 
-## otthers
+## others
 
 - Compilers use a technique called escape analysis to determine if something can be allocated on the stack or must be placed on the heap.
-- Heap fragmentation can have a substencial impact on the cpu
+- Heap fragmentation can have a substantial impact on the CPU
 - It turns out that for modern operating systems, sweeping (freeing memory) is a very fast operation, so the GC time for Go’s mark-and-sweep GC is largely dominated by the mark component and not sweeping time.
 
 ## parallel, incremental and concurrent
 
 - parallel GC is also blocking STW collector, that runs using several threads, each thread handles its own heap part. Special care should be taken as every datastructure can be handled in parallel.
-- incremental GC is also blocking STW, but it can be inturrepted by the Mutator before the end of the gc pause.
+- incremental GC is also blocking STW, but it can be interrupted by the Mutator before the end of the gc pause.
 - concurrent/almost concurrent collectors, these can run concurrently with the mutator but use some kind of gc barrier for sync and even though at some times it will need to gc pause aswell.
 
-### Appraches to garbage collection
+### Approaches to garbage collection
 
 - STW : Mutator is completely blocked and usually **single** collector thread.
 - Concurrent
