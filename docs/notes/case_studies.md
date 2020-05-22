@@ -23,6 +23,8 @@ sidebar_label: Case Studies
 - [Intel Virtualisation: How VT-x, KVM and QEMU Work Together](https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together/)
 - [Implementing Stripe-like Idempotency Keys in Postgres](https://brandur.org/idempotency-keys)
 - [Securing your zone with DNSSEC and DANE](https://mforney.org/blog/2020-05-21-securing-your-zone-with-dnssec-and-dane.html)
+- [Using Open Source to Create a Video Thumbnail Service](http://blog.flavioribeiro.com/using-open-source-to-create-a-video-thumbnails-service/)
+- [Recipe: The Best Darn HTTP Cookies](https://stormpath.com/blog/cookies-are-awesome-free-cookies)
 - [The Death Of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html)
 - [ 🌟 Time on Unix](https://venam.nixers.net/blog/unix/2020/05/02/time-on-unix.html)
 - [Why is This Website Port Scanning me?](https://nullsweep.com/why-is-this-website-port-scanning-me/)

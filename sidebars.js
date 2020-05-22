@@ -31,8 +31,9 @@ module.exports = {
       "ideas/running_bsns",
       "ideas/humor",
       "ideas/subjects",
+      "ideas/pantry",
     ],
-    Fetish: ["ideas/timelines"],
+    Stakes: ["ideas/timelines"],
     Education: ["ideas/problems_in_edu"],
   },
   courses: {

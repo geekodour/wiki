@@ -123,6 +123,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - 🖨[Women entrepreneurs in India: What is holding them back?](https://www.orfonline.org/research/women-entrepreneurs-in-india-what-is-holding-them-back-55852/)
 - 🖨[Ten years of RTE act: Revisiting achievements and examining gaps](https://www.orfonline.org/research/ten-years-of-rte-act-revisiting-achievements-and-examining-gaps-54066/)
 - 🖨[Education, skills, gender parity: An agenda for employment generation in urban India](https://www.orfonline.org/research/education-skills-gender-parity-an-agenda-for-employment-generation-in-urban-india-54599/)
+- [Building Linked Open University Data: Tsinghua University Open Data as a Showcase](https://link.springer.com/chapter/10.1007/978-3-642-29923-0_28)
 
 ## Politics
 

@@ -107,13 +107,17 @@ $ lscpu
 $ docker run --rm -it --entrypoint="sh" <image>:master
 ```
 
-## soveran/map
-
-source: [soveran/map](https://github.com/soveran/map)
-
 ## Random snippets
 
 ```shell
 # grep and replace
 $ grep -rl assets|xargs sed -i 's/assets/\/img\//g'
 ```
+
+## Future Tools
+
+> Tools that I want to try out.
+
+- [soveran/map](https://github.com/soveran/map)
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [oragono](https://github.com/oragono/oragono)

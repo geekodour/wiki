@@ -8,7 +8,7 @@ I've a [huge memory problem](https://www.youtube.com/watch?v=j_DshRUOm-o), I thi
 
 Try saving links to Pocket when you see shiny link on social media to avoid going down the rabbit hole otherwise add it to the `unread list` in specific study section of this wiki, where you can do proper study on the topic later on. Make sure you read and make notes of those dumps before they become too big!
 
-**Tools:** Pen and paper, Google Keep, Google Doc, Anki, Notion, Pocket, Liner, this wiki, ~/todo.txt
+**Tools:** Pen and paper, Google Keep, Google Doc, Anki, Notion, Pocket, ~Liner~, this wiki, ~/todo.txt
 
 > - Any nibble worth remembering, transfer to Anki.
 > - Any new word worth remembering, transfer to Anki.
@@ -47,7 +47,7 @@ Try saving links to Pocket when you see shiny link on social media to avoid goin
 
 - Save blogpost to pocket, tag laptop only blogposts with `bigscreen`
 - Read the blogpost and highlight interesting stuff.
-- If `bigscreen` , use Liner and do the same.
+- If `bigscreen` , use ~Liner~ and do the same. (Liner turned out to be very unusable.)
 - Every weekend transfer notes to notion by rewriting.
 - Transfer to wiki if out of draft, delete draft.
 

@@ -32,3 +32,7 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 - https://news.ycombinator.com/item?id=23161922
 - https://research.protocol.ai/blog/2020/ndn-seminar-a-high-level-overview-of-the-interplanetary-file-system/
 - https://hackernoon.com/a-state-of-the-art-of-decentralized-web-part-1-54f70fdb7355 (good series)
+- https://orc.network/
+- https://www.w3.org/standards/semanticweb/data
+- https://www.gkbrk.com/2018/06/fetching-activitypub-feeds/
+- https://news.ycombinator.com/item?id=17288727

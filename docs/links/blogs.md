@@ -43,7 +43,10 @@ sidebar_label: Blogs
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) : An Awesome List of computer history videos, documentaries and related folklore
 - [History of storage media](https://codewords.recurse.com/issues/seven/a-history-of-storage-media): A history of storage media
 - [10 MOST(LY DEAD) INFLUENTIAL PROGRAMMING LANGUAGES](https://www.hillelwayne.com/post/influential-dead-languages)
+- [History of IRC (Internet Relay Chat) ](https://daniel.haxx.se/irchistory.html)
 - [User agent History](https://webaim.org/blog/user-agent-string-history/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav): History of the browser user-agent string
+- [A brief history of the UUID](https://segment.com/blog/a-brief-history-of-the-uuid/)
+- [The TTY demystified](http://www.linusakesson.net/programming/tty/)
 - [In Depth: The Game Boy Printer](https://shonumi.github.io/articles/art2.html)
 - [The Great ISAs](https://www.cs.cornell.edu/courses/cs7491/2020sp/)
 

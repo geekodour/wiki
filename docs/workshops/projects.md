@@ -19,10 +19,6 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code)
 - [Esolang](https://esolangs.org/wiki/Main_Page)
 
-## Other Peoples Idea lists
-
-- [silky](https://silky.github.io/posts/2019-02-22-2018s-crazy-ideas.html)
-
 ## Web Engineering
 
 - [Build a Browser Engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)

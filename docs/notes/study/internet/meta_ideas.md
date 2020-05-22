@@ -98,3 +98,7 @@ Internet is full of information and at the same time it is also full of misinfor
 ## Source
 
 - [internet-class](https://www.youtube.com/watch?v=_KrCQPR2I4s&list=PLk97mPCd8nvayBmPKnaIdgdYIKpuhpJoe&index=9)
+
+## Links
+
+- [How the Internet works: Submarine fiber, brains in jars, and coaxial cables](https://arstechnica.com/information-technology/2016/05/how-the-internet-works-submarine-cables-data-centres-last-mile/)
