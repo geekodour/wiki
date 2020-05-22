@@ -4,4 +4,4 @@ title: Effective tools for computer systems research
 sidebar_label: Effective tools for computer systems research
 ---
 
-https://nymity.ch/book/#who-is-this-book-for
+Link to [online version of this book.](https://nymity.ch/book/#who-is-this-book-for)
