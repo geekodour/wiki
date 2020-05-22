@@ -1,0 +1,1047 @@
+https://wiki.geekodour.xyz/docs/ideas/drawing_ducks/
+	id #! not found	https://wiki.geekodour.xyz/docs/ideas/drawing_ducks/#!
+	timeout	https://wiki.geekodour.xyz/docs/ideas/humor
+https://wiki.geekodour.xyz/docs/courses/soeycscs1/
+	id #! not found	https://wiki.geekodour.xyz/docs/courses/soeycscs1/#!
+	timeout	https://courses.edx.org/courses/course-v1:StanfordOnline+SOE.YCSCS1+1T2020/course/
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15721
+	timeout	https://wiki.geekodour.xyz/docs/courses/khan/sandp
+	timeout	https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math
+https://wiki.geekodour.xyz/docs/books/zero_to_one/
+	id #! not found	https://wiki.geekodour.xyz/docs/books/zero_to_one/#!
+	timeout	https://wiki.geekodour.xyz/docs/books/tcpdump_little_book
+https://wiki.geekodour.xyz/docs/courses/math-books/grimaldi/
+	id #! not found	https://wiki.geekodour.xyz/docs/courses/math-books/grimaldi/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/courses/math-books/grimaldi.md
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15721
+	timeout	https://wiki.geekodour.xyz/docs/courses/khan/sandp
+	timeout	https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math
+	timeout	https://www.goodreads.com/book/show/1575542.Discrete_and_Combinatorial_Mathematics
+https://wiki.geekodour.xyz/docs/ideas/quotes/
+	id #! not found	https://wiki.geekodour.xyz/docs/ideas/quotes/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/ideas/quotes.md
+	timeout	https://wiki.geekodour.xyz/docs/ideas/humor
+https://wiki.geekodour.xyz/blog/
+	timeout	https://github.com/KaTeX/KaTeX
+	timeout	https://github.com/facebook/docusaurus/issues/2742
+	timeout	https://github.com/geekodour
+	timeout	https://wiki.geekodour.xyz/blog/v2
+https://wiki.geekodour.xyz/docs/ideas/running_bsns/
+	id #! not found	https://wiki.geekodour.xyz/docs/ideas/running_bsns/#!
+	timeout	https://til.hashrocket.com/
+	timeout	https://wiki.geekodour.xyz/docs/ideas/humor
+https://wiki.geekodour.xyz/docs/links/weekly/links0/
+	id #! not found	https://wiki.geekodour.xyz/docs/links/weekly/links0/#!
+	timeout	https://wiki.geekodour.xyz/docs/links/oneshot
+https://wiki.geekodour.xyz/docs/links/books/
+	id #! not found	https://wiki.geekodour.xyz/docs/links/books/#!
+	timeout	https://wiki.geekodour.xyz/docs/links/oneshot
+	timeout	https://www.goodreads.com/user/show/108036520-hrishikesh-barman
+https://wiki.geekodour.xyz/docs/courses/khan/compsci/
+	dialing to the given TCP address timed out	https://github.com/geekodour/wiki/edit/master/docs/courses/khan/compsci.md
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/courses/khan/compsci/#!
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15721
+	timeout	https://wiki.geekodour.xyz/docs/courses/khan/sandp
+	timeout	https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math
+	timeout	https://www.khanacademy.org/computing/computer-science
+https://wiki.geekodour.xyz/docs/links/others/dump/
+	id #! not found	https://wiki.geekodour.xyz/docs/links/others/dump/#!
+	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
+	timeout	http://popcornlinux.org/
+	timeout	https://bits.coop/
+	timeout	https://brid.gy/
+	timeout	https://caseymm.github.io/men-who-dont-move/
+	timeout	https://documentation.divio.com/
+	timeout	https://github.com/brantou/reading/issues
+	timeout	https://github.com/costela/wesher
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/links/others/dump.md
+	timeout	https://party.lol/
+	timeout	https://tangible.media.mit.edu/projects/
+	timeout	https://teenage.engineering/
+	timeout	https://twitter.com/rajbhagatt/status/1260588325846560774
+	timeout	https://wiki.geekodour.xyz/15eeda17.be4dc032.js
+	timeout	https://wiki.geekodour.xyz/docs/links/oneshot
+	timeout	https://www.clarityfinder.com/3
+	timeout	https://www.meshtastic.org/
+https://wiki.geekodour.xyz/docs/workshops/tech-guides/
+	id #! not found	https://wiki.geekodour.xyz/docs/workshops/tech-guides/#!
+	timeout	http://blog.dancrisan.com/a-tiny-intro-to-database-systems
+	timeout	https://fuzzing-project.org/background.html
+	timeout	https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md
+	timeout	https://github.com/Workiva/go-datastructures
+	timeout	https://github.com/aeden/pc4d-go
+	timeout	https://github.com/alex/what-happens-when
+	timeout	https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md
+	timeout	https://github.com/brendangregg/bpf-perf-workshop
+	timeout	https://github.com/creactiviti/sicp-course
+	timeout	https://github.com/fpereiro/backendlore
+	timeout	https://github.com/go-modules-by-example/index
+	timeout	https://github.com/golang/go/wiki/LearnConcurrency
+	timeout	https://github.com/goldshtn/linux-tracing-workshop
+	timeout	https://github.com/inancgumus/learngo
+	timeout	https://github.com/ipfs/camp
+	timeout	https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md
+	timeout	https://github.com/k88hudson/git-flight-rules
+	timeout	https://github.com/kelseyhightower/kubernetes-the-hard-way
+	timeout	https://github.com/leandromoreira/linux-network-performance-parameters
+	timeout	https://github.com/miekg/exdns
+	timeout	https://github.com/sathishvj/optimizing-go-programs
+	timeout	https://github.com/xairy/easy-linux-pwn
+	timeout	https://github.com/ziishaned/learn-regex
+	timeout	https://kernelnewbies.org/
+	timeout	https://nanxiao.gitbooks.io/perf-little-book/
+	timeout	https://nanxiao.gitbooks.io/strace-little-book/
+	timeout	https://peteris.rocks/blog/htop/
+	timeout	https://rkeene.org/projects/info/wiki/222
+	timeout	https://rollout.io/blog/real-life-go-benchmarking/
+	timeout	https://weberblog.net/the-ultimate-pcap/
+	timeout	https://wiki.geekodour.xyz/docs/workshops/projects
+	timeout	https://www.zytrax.com/books/dns/
+	timeout	https://www.zytrax.com/books/ldap/
+https://wiki.geekodour.xyz/docs/courses/math-books/interm-alg/
+	id #! not found	https://wiki.geekodour.xyz/docs/courses/math-books/interm-alg/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/courses/math-books/interm-alg.md
+	timeout	https://saylordotorg.github.io/text_intermediate-algebra/index.html
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15721
+	timeout	https://wiki.geekodour.xyz/docs/courses/khan/sandp
+	timeout	https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math
+https://wiki.geekodour.xyz/docs/links/videos/
+	dialing to the given TCP address timed out	https://github.com/geekodour/wiki/edit/master/docs/links/videos.md
+	id #! not found	https://wiki.geekodour.xyz/docs/links/videos/#!
+	timeout	https://wiki.geekodour.xyz/docs/links/oneshot
+	timeout	https://www.youtube.com/watch?v=AnxrJiS5uKU
+https://wiki.geekodour.xyz/docs/courses/khan/hs-stat/
+	id #! not found	https://wiki.geekodour.xyz/docs/courses/khan/hs-stat/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/courses/khan/hs-stat.md
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15721
+	timeout	https://wiki.geekodour.xyz/docs/courses/khan/sandp
+	timeout	https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math
+	timeout	https://www.khanacademy.org/math/probability
+https://wiki.geekodour.xyz/docs/ideas/timelines/
+	id #! not found	https://wiki.geekodour.xyz/docs/ideas/timelines/#!
+	timeout	https://en.wikipedia.org/wiki/Webgraph
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/ideas/timelines.md
+	timeout	https://wiki.geekodour.xyz/docs/ideas/humor
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+https://wiki.geekodour.xyz/docs/courses/khan/apstat/
+	dialing to the given TCP address timed out	https://github.com/geekodour/wiki/edit/master/docs/courses/khan/apstat.md
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/8173f81a.9e9d6617.js
+	id #! not found	https://wiki.geekodour.xyz/docs/courses/khan/apstat/#!
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15721
+	timeout	https://wiki.geekodour.xyz/docs/courses/khan/sandp
+	timeout	https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math
+	timeout	https://www.khanacademy.org/math/ap-statistics
+https://wiki.geekodour.xyz/docs/courses/math-books/stats_without_tears/
+	id #! not found	https://wiki.geekodour.xyz/docs/courses/math-books/stats_without_tears/#!
+	timeout	https://brownmath.com/swt/chap00.htm
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/courses/math-books/stats-without-tears.md
+	timeout	https://wiki.geekodour.xyz/ca6dc7e7.7eaedbf8.js
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15721
+	timeout	https://wiki.geekodour.xyz/docs/courses/khan/sandp
+	timeout	https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math
+https://wiki.geekodour.xyz/docs/courses/cmu15213/
+	dialing to the given TCP address timed out	https://www.cs.cmu.edu/~213/schedule.html
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/courses/csapp.md
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15213/#!
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15213/#summary
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15721
+	timeout	https://wiki.geekodour.xyz/docs/courses/khan/sandp
+	timeout	https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math
+https://wiki.geekodour.xyz/blog/tags/docusaurus/
+	timeout	https://github.com/KaTeX/KaTeX
+	timeout	https://github.com/facebook/docusaurus/issues/2742
+	timeout	https://github.com/geekodour
+	timeout	https://wiki.geekodour.xyz/blog/tags
+	timeout	https://wiki.geekodour.xyz/blog/v2
+https://wiki.geekodour.xyz/docs/ideas/problems_in_edu/
+	id #! not found	https://wiki.geekodour.xyz/docs/ideas/problems_in_edu/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/ideas/problems_in_edu.md
+	timeout	https://wiki.geekodour.xyz/docs/ideas/humor
+	timeout	https://yourstory.com/socialstory/2019/04/andhra-pradesh-govt-schools-reducing-learning-gap
+https://wiki.geekodour.xyz/docs/notes/guides/notetaking/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/guides/notetaking/#!
+	timeout	https://notes.shichao.io/roadmap/
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/study/virt/
+	dialing to the given TCP address timed out	https://github.com/geekodour/wiki/edit/master/docs/notes/study/virt.md
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/study/virt/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/papers/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/papers/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/study/computation/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	timeout	https://en.wikipedia.org/wiki/Complexity_class
+	timeout	https://en.wikipedia.org/wiki/Computational_complexity_theory
+	timeout	https://en.wikipedia.org/wiki/Fast-growing_hierarchy
+	timeout	https://en.wikipedia.org/wiki/List_of_complexity_classes
+	timeout	https://en.wikipedia.org/wiki/Reversible_computing
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/computation/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/computation/#jargonsrabbit-holes-unread
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/computation/#notes
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/questions/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/questions/#!
+	timeout	https://en.wikipedia.org/wiki/IP_multicast#Layer_2_delivery
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch#classification
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory#virtual-memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/guides/shitposting/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/guides/shitposting/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/notes/guides/shitposting.md
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/study/wireless/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/study/wireless/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+	timeout	https://wikimedia.org/api/rest_v1/media/math/render/svg/cd8e56f09c4da5480c1ddfd15855f2cc803938f4
+https://wiki.geekodour.xyz/docs/notes/guides/web3/
+	dialing to the given TCP address timed out	https://github.com/geekodour/wiki/edit/master/docs/notes/guides/web3.md
+	dialing to the given TCP address timed out	https://research.protocol.ai/blog/2020/ndn-seminar-a-high-level-overview-of-the-interplanetary-file-system/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/d48d5190.cee9171b.js
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	timeout	https://cdixon.org/2018/02/18/why-decentralization-matters
+	timeout	https://en.wikipedia.org/wiki/Fediverse
+	timeout	https://freshrss.org/
+	timeout	https://hackernoon.com/a-state-of-the-art-of-decentralized-web-part-1-54f70fdb7355
+	timeout	https://kevq.uk/implementing-the-indieweb-into-my-website/
+	timeout	https://lobste.rs/s/f1xb2d/rss_what_are_best_technical_social
+	timeout	https://news.ycombinator.com/item?id=22864029
+	timeout	https://news.ycombinator.com/item?id=23161922
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/guides/web3/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/guides/web3/#amartak-gun
+	timeout	https://wiki.geekodour.xyz/docs/notes/guides/web3/#dat
+	timeout	https://wiki.geekodour.xyz/docs/notes/guides/web3/#gopher
+	timeout	https://wiki.geekodour.xyz/docs/notes/guides/web3/#how-do-i-put-my-wiki-on-ipfs
+	timeout	https://wiki.geekodour.xyz/docs/notes/guides/web3/#indieweb
+	timeout	https://wiki.geekodour.xyz/docs/notes/guides/web3/#ipfs
+	timeout	https://wiki.geekodour.xyz/docs/notes/guides/web3/#ssb
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/people/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/people/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/videos/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/videos/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+	timeout	https://wiki.geekodour.xyz/img//evolution.png
+	timeout	https://www.youtube.com/watch?v=itLM2l-h6JU
+	timeout	https://www.youtube.com/watch?v=u8wGlqCPed0
+https://wiki.geekodour.xyz/docs/notes/rfc/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/rfc/#!
+	timeout	https://tools.ietf.org/html/rfc1112
+	timeout	https://tools.ietf.org/html/rfc1180
+	timeout	https://tools.ietf.org/html/rfc1335
+	timeout	https://tools.ietf.org/html/rfc1546
+	timeout	https://tools.ietf.org/html/rfc1925
+	timeout	https://tools.ietf.org/html/rfc2151
+	timeout	https://tools.ietf.org/html/rfc2464
+	timeout	https://tools.ietf.org/html/rfc2469
+	timeout	https://tools.ietf.org/html/rfc4786
+	timeout	https://tools.ietf.org/html/rfc5110
+	timeout	https://tools.ietf.org/html/rfc5771
+	timeout	https://tools.ietf.org/html/rfc7042
+	timeout	https://tools.ietf.org/html/rfc7450
+	timeout	https://tools.ietf.org/html/rfc791
+	timeout	https://tools.ietf.org/html/rfc968
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/study/os/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/study/os/#!
+	timeout	https://en.wikipedia.org/wiki/Fstab
+	timeout	https://en.wikipedia.org/wiki/Hard_link
+	timeout	https://en.wikipedia.org/wiki/Linux_kernel_version_history
+	timeout	https://en.wikipedia.org/wiki/Symbolic_link
+	timeout	https://kernelnewbies.org/LinuxVersions
+	timeout	https://news.ycombinator.com/item?id=22953730
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/os/processes
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/books/linux_networking/
+	id #! not found	https://wiki.geekodour.xyz/docs/books/linux_networking/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/books/linux-networking.md
+	timeout	https://wiki.geekodour.xyz/docs/books/tcpdump_little_book
+https://wiki.geekodour.xyz/docs/notes/guides/communities/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	dialing to the given TCP address timed out	https://www.reddit.com/r/InternetIsBeautiful/
+	dialing to the given TCP address timed out	https://www.reddit.com/r/compsci/
+	dialing to the given TCP address timed out	https://www.reddit.com/r/dataisbeautiful/
+	dialing to the given TCP address timed out	https://www.reddit.com/r/homelab/
+	dialing to the given TCP address timed out	https://www.reddit.com/r/linuxquestions/
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/guides/communities/#!
+	timeout	https://crypto.stackexchange.com
+	timeout	https://cs.stackexchange.com
+	timeout	https://cstheory.stackexchange.co
+	timeout	https://dba.stackexchange.com
+	timeout	https://dsp.stackexchange.com
+	timeout	https://electronics.stackexchange.com
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/notes/guides/communities.md
+	timeout	https://math.stackexchange.com
+	timeout	https://networkengineering.stackexchange.com
+	timeout	https://physics.stackexchange.com
+	timeout	https://raspberrypi.stackexchange.com
+	timeout	https://security.stackexchange.com
+	timeout	https://serverfault.com
+	timeout	https://unix.stackexchange.com
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+	timeout	https://www.reddit.com/r/askscience/
+	timeout	https://www.reddit.com/r/datasets/
+	timeout	https://www.reddit.com/r/isometric/
+	timeout	https://www.reddit.com/r/learnmath/
+	timeout	https://www.reddit.com/r/learnprogramming/
+	timeout	https://www.reddit.com/r/netsec/
+	timeout	https://www.reddit.com/r/osdev/
+	timeout	https://www.reddit.com/r/sysadmin/
+	timeout	https://www.reddit.com/r/unixporn/
+https://wiki.geekodour.xyz/docs/notes/study/email/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/study/email/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/study/go_lang/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/study/go_lang/#!
+	timeout	https://dave.cheney.net/practical-go/presentations/gophercon-singapore-2019.html
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/notes/study/go_lang.md
+	timeout	https://gophers.slack.com/archives/C02A8LZKT/p1588549175026200
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/tools/laptop_tools/
+	id #! not found	https://wiki.geekodour.xyz/docs/tools/laptop_tools/#!
+	timeout	https://github.com/geekodour/dotfiles
+	timeout	https://wiki.geekodour.xyz/docs/tools/performance_tools
+	timeout	https://yadm.io/docs/getting_started
+https://wiki.geekodour.xyz/docs/tools/postgres/
+	dialing to the given TCP address timed out	https://github.com/geekodour/wiki/edit/master/docs/tools/postgres.md
+	id #! not found	https://wiki.geekodour.xyz/docs/tools/postgres/#!
+	timeout	https://wiki.geekodour.xyz/docs/tools/performance_tools
+https://wiki.geekodour.xyz/docs/tools/apache_drill/
+	id #! not found	https://wiki.geekodour.xyz/docs/tools/apache_drill/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/tools/apache_drill.md
+	timeout	https://wiki.geekodour.xyz/docs/tools/performance_tools
+https://wiki.geekodour.xyz/docs/tools/calculator/
+	id #! not found	https://wiki.geekodour.xyz/docs/tools/calculator/#!
+	timeout	https://wiki.geekodour.xyz/docs/tools/performance_tools
+https://wiki.geekodour.xyz/docs/tools/zookeeper/
+	id #! not found	https://wiki.geekodour.xyz/docs/tools/zookeeper/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/tools/zookeeper.md
+	timeout	https://kubernetes.io/docs/tutorials/stateful-application/zookeeper/
+	timeout	https://stackoverflow.com/questions/25174622/difference-between-ensemble-and-quorum-in-zookeeper
+	timeout	https://wiki.geekodour.xyz/docs/tools/performance_tools
+https://wiki.geekodour.xyz/docs/notes/twitter/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/notes/twitter.md
+	timeout	https://twitter.com/ShriramKMurthi
+	timeout	https://twitter.com/ShriramKMurthi/status/1249081347857174533
+	timeout	https://twitter.com/ali01/status/1228348422056374272
+	timeout	https://twitter.com/david_perell/status/1228873220167753728
+	timeout	https://twitter.com/fortelabs/status/1251976256540696576
+	timeout	https://twitter.com/visakanv/status/1129212169701085186
+	timeout	https://twitter.com/visakanv/status/866490888519770114
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+	timeout	https://wiki.geekodour.xyz/docs/notes/twitter/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/twitter/#2020
+	timeout	https://wiki.geekodour.xyz/docs/notes/twitter/#education-is-broken
+	timeout	https://wiki.geekodour.xyz/docs/notes/twitter/#empty-your-cup
+	timeout	https://wiki.geekodour.xyz/docs/notes/twitter/#on-bundling-of-online-education
+	timeout	https://wiki.geekodour.xyz/docs/notes/twitter/#rant-on-bullshit-that-people-write-about-online-education
+	timeout	https://wiki.geekodour.xyz/docs/notes/twitter/#sleepwalking-through-life
+	timeout	https://wiki.geekodour.xyz/docs/notes/twitter/#testimony-to-the-internet-protocol
+	timeout	https://www.nytimes.com/2020/04/09/business/online-learning-virus.html
+https://wiki.geekodour.xyz/docs/links/tweets/
+	timeout	http://archive.is/HuXXW
+	timeout	http://archive.is/QJSyS
+	timeout	http://archive.is/wip/pjtln
+	timeout	https://twitter.com/KevinSimler/status/1171278541788348416
+	timeout	https://twitter.com/NirantK/status/1234077539020050432
+	timeout	https://twitter.com/ShriramKMurthi/status/1223053225705852929
+	timeout	https://twitter.com/avichal/status/1250906803849711616
+	timeout	https://twitter.com/daveambrose/status/864476831306719232
+	timeout	https://twitter.com/i/status/1093552400453885958
+	timeout	https://twitter.com/michael_nielsen/status/1098098218565390337
+	timeout	https://twitter.com/michael_nielsen/status/1224902391331319809
+	timeout	https://twitter.com/patio11/status/936615043126370306
+	timeout	https://twitter.com/visakanv/status/1088354634429677570
+	timeout	https://wiki.geekodour.xyz/docs/links/oneshot
+	timeout	https://wiki.geekodour.xyz/docs/links/tweets/#!
+https://wiki.geekodour.xyz/docs/notes/random/shrines/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/random/shrines/#!
+	timeout	https://dailyprog.org/shrine/
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+	timeout	https://wiki.geekodour.xyz/img//masked-swartz.jpg
+https://wiki.geekodour.xyz/docs/books/tools_sys_research/
+	id #! not found	https://wiki.geekodour.xyz/docs/books/tools_sys_research/#!
+	timeout	https://nymity.ch/book/#who-is-this-book-for
+	timeout	https://wiki.geekodour.xyz/docs/books/tcpdump_little_book
+https://wiki.geekodour.xyz/docs/tools/promql/
+	id #! not found	https://wiki.geekodour.xyz/docs/tools/promql/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/tools/promql.md
+	timeout	https://github.com/infinityworks/prometheus-example-queries
+	timeout	https://github.com/jitendra-1217/promql.cheat.sheet
+	timeout	https://timber.io/blog/promql-for-humans/
+	timeout	https://wiki.geekodour.xyz/dddebd81.35c8d972.js
+	timeout	https://wiki.geekodour.xyz/docs/tools/performance_tools
+	timeout	https://wiki.geekodour.xyz/img//instant_vec.png
+	timeout	https://www.metricfire.com/blog/understanding-the-prometheus-rate-function
+	timeout	https://www.robustperception.io/absent-alerting-for-jobs
+	timeout	https://www.robustperception.io/absent-alerting-for-scraped-metrics
+	timeout	https://www.robustperception.io/how-does-a-prometheus-counter-work
+	timeout	https://www.robustperception.io/rate-then-sum-never-sum-then-rate
+	timeout	https://www.section.io/blog/prometheus-querying/
+https://wiki.geekodour.xyz/docs/notes/study/design_patterns/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/study/design_patterns/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/notes/study/design_patterns.md
+	timeout	https://wiki.c2.com/?DynamicScoping
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+	timeout	https://wiki.geekodour.xyz/img//stride-padding.png
+https://wiki.geekodour.xyz/docs/ideas/subjects/
+	id #! not found	https://wiki.geekodour.xyz/docs/ideas/subjects/#!
+	timeout	https://wiki.geekodour.xyz/docs/ideas/humor
+https://wiki.geekodour.xyz/docs/notes/study/p2p/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	timeout	https://en.wikipedia.org/wiki/Network_address_translation
+	timeout	https://en.wikipedia.org/wiki/OFFSystem
+	timeout	https://en.wikipedia.org/wiki/WebTorrent
+	timeout	https://forum.vac.dev/t/notes-on-distributed-pub-sub/44
+	timeout	https://github.com/ccding/go-stun
+	timeout	https://github.com/pion/turn
+	timeout	https://github.com/wilfreddenton/udp-hole-punching
+	timeout	https://grothoff.org/christian/pwnat.pdf
+	timeout	https://news.ycombinator.com/item?id=23023675
+	timeout	https://news.ycombinator.com/item?id=23180572
+	timeout	https://wiki.geekodour.xyz/9d73660c.8080518f.js
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/p2p/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/p2p/#jargonsrabbit-holes-unread
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/p2p/#notes
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/p2p/bittorrent
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+	timeout	https://www.ietfjournal.org/a-retrospective-view-of-nat/
+	timeout	https://www.usenix.org/legacy/event/usenix05/tech/general/full_papers/ford/ford.pdf
+https://wiki.geekodour.xyz/docs/notes/study/storage/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/study/storage/#!
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/notes/study/storage.md
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+	timeout	https://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/proc.html
+https://wiki.geekodour.xyz/docs/notes/research/
+	dialing to the given TCP address timed out	https://en.wikipedia.org/wiki/Information-centric_networking
+	dialing to the given TCP address timed out	https://github.com/geekodour/wiki/edit/master/docs/notes/research.md
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/research/#!
+	timeout	https://bford.info/
+	timeout	https://dynamicland.org/
+	timeout	https://en.wikipedia.org/wiki/Named_data_networking
+	timeout	https://wiki.geekodour.xyz/7d3a4d18.cd4902ba.js
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/guides/askingq/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/guides/askingq/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/tools/k8s/
+	dialing to the given TCP address timed out	https://docs.openstack.org/neutron/pike/admin/deploy-lb-provider.html#architecture
+	dialing to the given TCP address timed out	https://www.reddit.com/r/kubernetes/comments/9ytvme/need_an_explanation_in_networking_in_kubernetes/
+	id #! not found	https://wiki.geekodour.xyz/docs/tools/k8s/#!
+	timeout	https://docs.openstack.org/neutron/pike/admin/deploy-lb-selfservice.html#architecture
+	timeout	https://dzone.com/articles/how-to-understand-and-setup-kubernetes-networking
+	timeout	https://en.wikipedia.org/wiki/IP_address_management
+	timeout	https://itnext.io/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727
+	timeout	https://itnext.io/kubernetes-networking-behind-the-scenes-39a1ab1792bb
+	timeout	https://kubernetes.io/docs/concepts/cluster-administration/networking/
+	timeout	https://kubernetes.io/docs/concepts/cluster-administration/networking/#how-to-implement-the-kubernetes-networking-model
+	timeout	https://martinfowler.com/bliki/BlueGreenDeployment.html
+	timeout	https://medium.com/@anilkreddyr/kubernetes-with-flannel-understanding-the-networking-part-1-7e1fe51820e4
+	timeout	https://msazure.club/flannel-networking-demystify/
+	timeout	https://neuvector.com/network-security/advanced-kubernetes-networking/
+	timeout	https://thenewstack.io/hackers-guide-kubernetes-networking/
+	timeout	https://wiki.geekodour.xyz/5d8c191d.69afb4e4.js
+	timeout	https://wiki.geekodour.xyz/docs/tools/performance_tools
+	timeout	https://wiki.geekodour.xyz/img/k8s_arch.png
+	timeout	https://wiki.geekodour.xyz/img/k8s_cni.png
+	timeout	https://www.praqma.com/stories/debugging-kubernetes-networking/
+https://wiki.geekodour.xyz/docs/links/blogs/
+	dialing to the given TCP address timed out	https://siliconsprawl.com/2020/05/10/network-programming-self-study.html
+	id #! not found	https://wiki.geekodour.xyz/docs/links/blogs/#!
+	timeout	http://cyborganthropology.com/Main_Page
+	timeout	https://asatarin.github.io/testing-distributed-systems/
+	timeout	https://codewords.recurse.com/issues/seven/a-history-of-storage-media
+	timeout	https://en.arguman.org/
+	timeout	https://en.wikipedia.org/wiki/List_of_eponymous_laws
+	timeout	https://erikareinhardt.com/personal-climate-action
+	timeout	https://github.com/Quartz/bad-data-guide
+	timeout	https://github.com/copyconstruct/library
+	timeout	https://github.com/danluu/post-mortems
+	timeout	https://github.com/donnemartin/system-design-primer
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/links/blogs.md
+	timeout	https://github.com/heathermiller/dist-prog-book
+	timeout	https://github.com/heidi-ann/distributed-consensus-reading-list
+	timeout	https://github.com/hjacobs/kubernetes-failure-stories
+	timeout	https://github.com/hkalant/awesome-edtech-tools
+	timeout	https://github.com/kdeldycke/awesome-falsehood
+	timeout	https://github.com/lorin/resilience-engineering
+	timeout	https://github.com/mfleming/performance-resources
+	timeout	https://github.com/mxssl/sre-interview-prep-guide
+	timeout	https://github.com/philsturgeon/awesome-earth
+	timeout	https://github.com/rxin/db-readings
+	timeout	https://github.com/vmbrasseur/Public_Speaking
+	timeout	https://github.com/watson/awesome-computer-history
+	timeout	https://lars.hupel.info/topics/crdt/01-intro
+	timeout	https://shonumi.github.io/articles/art2.html
+	timeout	https://tgvashworth.com/2015/12/07/distributed-systems-reading-list.html
+	timeout	https://webaim.org/blog/user-agent-string-history/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+	timeout	https://wiki.geekodour.xyz/docs/links/oneshot
+	timeout	https://www.coursera.org/learn/critical-thinking-skills
+	timeout	https://www.coursera.org/learn/mindware
+	timeout	https://www.cs.cornell.edu/courses/cs7491/2020sp/
+	timeout	https://www.downes.ca/cgi-bin/page.cgi?post=38526
+	timeout	https://www.gwern.net/
+	timeout	https://www.lesswrong.com/
+	timeout	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
+https://wiki.geekodour.xyz/docs/notes/study/logging/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/study/logging/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/courses/cmu15445/
+	id #! not found	https://wiki.geekodour.xyz/docs/courses/cmu15445/#!
+	timeout	https://15445.courses.cs.cmu.edu/fall2019/
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15721
+	timeout	https://wiki.geekodour.xyz/docs/courses/khan/sandp
+	timeout	https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math
+https://wiki.geekodour.xyz/docs/courses/khan/alg2/
+	dialing to the given TCP address timed out	https://github.com/geekodour/wiki/edit/master/docs/courses/khan/alg2.md
+	id #! not found	https://wiki.geekodour.xyz/docs/courses/khan/alg2/#!
+	timeout	https://wiki.geekodour.xyz/docs/courses/cmu15721
+	timeout	https://wiki.geekodour.xyz/docs/courses/khan/sandp
+	timeout	https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math
+	timeout	https://www.khanacademy.org/math/algebra2
+https://wiki.geekodour.xyz/docs/notes/study/computation/actor/
+	timeout	https://en.wikipedia.org/wiki/Arbiter_(electronics)
+	timeout	https://en.wikipedia.org/wiki/Unbounded_nondeterminism
+	timeout	https://wiki.geekodour.xyz/img//indeterm.jpg
+https://wiki.geekodour.xyz/docs/notes/guides/quantify/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/guides/quantify/#!
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/notes/study/os/interrupts/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/80275c2b.c584889e.js
+	timeout	https://en.wikipedia.org/wiki/Advanced_Programmable_Interrupt_Controller
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/notes/study/os/interrupts.md
+	timeout	https://www.tldp.org/LDP/lkmpg/2.4/html/x1210.html
+https://wiki.geekodour.xyz/docs/notes/study/os/ipc/
+	dialing to the given TCP address timed out	https://github.com/geekodour/wiki/edit/master/docs/notes/study/os/ipc.md
+https://wiki.geekodour.xyz/docs/notes/podcasts/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/podcasts/#!
+	timeout	https://podcastnotes.org/crazy-wisdom/crazy-wisdom-kapil/
+	timeout	https://podcastnotes.org/north-star-podcast/tiago-forte-david-perell-education/
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+	timeout	https://www.sunoindia.in/the-suno-india-show/draft-national-education-policy-an-engine-of-progress/
+https://wiki.geekodour.xyz/docs/notes/study/network_prog/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/random/jargon
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/docs/notes/study/math
+	id #! not found	https://wiki.geekodour.xyz/docs/notes/study/network_prog/#!
+	timeout	https://en.wikipedia.org/wiki/Nagle%27s_algorithm
+	timeout	https://github.com/geekodour/wiki/edit/master/docs/notes/study/network_prog.md
+	timeout	https://wiki.geekodour.xyz/docs/notes/blogs
+	timeout	https://wiki.geekodour.xyz/docs/notes/case_studies
+	timeout	https://wiki.geekodour.xyz/docs/notes/history
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/names
+	timeout	https://wiki.geekodour.xyz/docs/notes/random/scales
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/comp_arch
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/digital_rights
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/filesystems
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/finance
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/internet
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/memory
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/network
+	timeout	https://wiki.geekodour.xyz/docs/notes/study/security
+https://wiki.geekodour.xyz/docs/books/perf_little_book/
+	dialing to the given TCP address timed out	https://wiki.geekodour.xyz/3fdc8d6d.f532c9b4.js
+	id #! not found	https://wiki.geekodour.xyz/docs/books/perf_little_book/#!
+	timeout	https://nanxiao.gitbooks.io/perf-little-book/
+	timeout	https://stackoverflow.com/questions/45470758/what-is-lockstep-sampling
+	timeout	https://wiki.geekodour.xyz/docs/books/tcpdump_little_book
+https://wiki.geekodour.xyz/docs/notes/study/go_lang/pprof/
+	timeout	http://archive.is/jh1nv
+	timeout	https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/
+	timeout	https://blog.wolfogre.com/posts/go-ppof-practice/
+	timeout	https://github.com/golang/go/wiki/Performance
+	timeout	https://github.com/google/pprof
+	timeout	https://github.com/google/pprof#basic-usage
+	timeout	https://github.com/google/pprof#using-pprof-with-linux-perf
+	timeout	https://github.com/google/pprof/blob/master/proto/profile.proto
+	timeout	https://github.com/google/pprof/tree/master/doc
+	timeout	https://github.com/google/pprof/tree/master/doc#interpreting-the-callgraph
+	timeout	https://github.com/google/pprof/tree/master/doc#options
+	timeout	https://github.com/google/pprof/tree/master/third_party
+	timeout	https://github.com/pkg/profile
+	timeout	https://github.com/profefe/profefe
+	timeout	https://mmcloughlin.com/posts/your-pprof-is-showing
+	timeout	https://www.graphviz.org/
+	timeout	https://www.robustperception.io/wp-content/uploads/2019/04/viewport.png
+https://wiki.geekodour.xyz/docs/notes/study/p2p/basic_p2p/
+	timeout	https://en.wikipedia.org/wiki/Overlay_network
+https://wiki.geekodour.xyz/docs/notes/study/network/data_traversal/
+	timeout	https://en.wikipedia.org/wiki/IP_multicast
+	timeout	https://en.wikipedia.org/wiki/Multicast
+	timeout	https://en.wikipedia.org/wiki/Multicast_address
+	timeout	https://en.wikipedia.org/wiki/Multiple_Registration_Protocol
+	timeout	https://en.wikipedia.org/wiki/Peercasting
+	timeout	https://tools.ietf.org/html/rfc1112
+	timeout	https://tools.ietf.org/html/rfc1546
+	timeout	https://tools.ietf.org/html/rfc2464
+	timeout	https://tools.ietf.org/html/rfc2469
+	timeout	https://tools.ietf.org/html/rfc4786
+	timeout	https://tools.ietf.org/html/rfc5110
+	timeout	https://tools.ietf.org/html/rfc5771
+	timeout	https://tools.ietf.org/html/rfc7042
+	timeout	https://tools.ietf.org/html/rfc7450
+	timeout	https://wiki.geekodour.xyz/img//ipv6_reference_card.pdf
+	timeout	https://wiki.geekodour.xyz/img//unicast_multicast.png
+https://wiki.geekodour.xyz/docs/links/papers/
+	404	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37755.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41342.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44860.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45409.pdf
+	dialing to the given TCP address timed out	https://arxiv.org/abs/1901.01930
+	dialing to the given TCP address timed out	https://onlinelibrary.wiley.com/doi/full/10.1002/pmrj.12305
+	dialing to the given TCP address timed out	https://pron.github.io/posts/computation-logic-algebra-pt1#primary-sources
+	dialing to the given TCP address timed out	https://s3.amazonaws.com/systemsandpapers/papers/amazon-dynamo-sosp2007.pdf
+	dialing to the given TCP address timed out	https://s3.amazonaws.com/systemsandpapers/papers/borg.pdf
+	dialing to the given TCP address timed out	https://www.aare.edu.au/data/publications/2009/rey091135.pdf
+	dialing to the given TCP address timed out	https://www.nber.org/papers/w11904
+	timeout	http://archives.cse.iitd.ernet.in/~sbansal/csl862-virt/2010/readings/bellard.pdf
+	timeout	http://bibliography.selflanguage.org/_static/organizing-programs.pdf
+	timeout	http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.117.695
+	timeout	http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.332.3161&rep=rep1&type=pdf
+	timeout	http://highscalability.com/blog/2013/4/25/paper-making-reliable-distributed-systems-in-the-presence-of.html
+	timeout	http://mrelusive.com/publications/papers/The-DOOM-III-Network-Architecture.pdf
+	timeout	http://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf
+	timeout	http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
+	timeout	http://snap.stanford.edu/class/cs224w-readings/clarke00freenet.pdf
+	timeout	http://web.archive.org/web/20200328132050/https://www.princeton.edu/~hos/Mahoney/cra/cra.html
+	timeout	http://www.bittorrent.org/beps/bep_0005.html
+	timeout	http://www.sigops.org/ew-history/1998/papers/mazieres.ps
+	timeout	https://arxiv.org/abs/1407.3561
+	timeout	https://arxiv.org/abs/2001.07277
+	timeout	https://arxiv.org/abs/2001.08949
+	timeout	https://arxiv.org/abs/2003.02320
+	timeout	https://arxiv.org/pdf/1905.02713.pdf
+	timeout	https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/
+	timeout	https://dash.harvard.edu/handle/1/3403039
+	timeout	https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
+	timeout	https://github.com/datprotocol/whitepaper/blob/master/dat-paper.pdf
+	timeout	https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf
+	timeout	https://groups.csail.mit.edu/medg/people/psz/Licklider.html
+	timeout	https://ieeexplore.ieee.org/document/7853753
+	timeout	https://named-data.net/wp-content/uploads/main.pdf
+	timeout	https://onlinelibrary.wiley.com/doi/abs/10.1111/jcal.12414
+	timeout	https://openconnect.netflix.com/en/
+	timeout	https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf
+	timeout	https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf
+	timeout	https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+	timeout	https://queue.acm.org/detail.cfm?id=2898444
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/FOX_Brewer_99-Harvest_Yield_and_Scalable_Tolerant_Systems.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/Frederick_Brooks_87-No_Silver_Bullet_Essence_and_Accidents_of_Software_Engineering.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/Kafka.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/Lamport_82-The_Byzantine_Generals_Problem.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/acrobat-17.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/bigballofmud.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/chubby-osdi06.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/dapper.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/design-container-based-systems.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/gfs.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/mapreduce.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/mesos.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/omega.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/outofthetarpit.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/paxos-made-simple.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/raft.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/sofsem10.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/swim.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/unix_timesharing_system.pdf
+	timeout	https://s3.amazonaws.com/systemsandpapers/papers/wormhole.pdf
+	timeout	https://storageconference.us/2010/Papers/MSST/Shvachko.pdf
+	timeout	https://web.archive.org/web/20011114002413/http://www-formal.stanford.edu/jmc/basis1.pdf
+	timeout	https://web.archive.org/web/20160304033326/http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.79.8613&rep=rep1&type=pdf
+	timeout	https://web.archive.org/web/20170425043224/http://www.princeton.edu/~hos/h593/20thcent.fin.wp.html
+	timeout	https://web.archive.org/web/20181117012712/http://www.coralcdn.org/docs/coral-nsdi04.pdf
+	timeout	https://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf
+	timeout	https://wiki.c2.com/?OnHolyWarsAndaPleaForPeace
+	timeout	https://wiki.geekodour.xyz/docs/links/oneshot
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#!
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#computation
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#database
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#distributed-systems
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#education
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#electronics
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#intelligence
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#network
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#others
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#peer-to-peer
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#plt
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#politics
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#security
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#statistics
+	timeout	https://wiki.geekodour.xyz/docs/links/papers/#systems
+	timeout	https://wiki.geekodour.xyz/pdf/AppSquatting20.pdf
+	timeout	https://www.aeaweb.org/articles?id=10.1257/app.3.3.158
+	timeout	https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf
+	timeout	https://www.cs.hmc.edu/~rhodes/courses/cs134/sp19/readings/zfs.pdf
+	timeout	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
+	timeout	https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
+	timeout	https://www.jstor.org/stable/2642267?seq=1
+	timeout	https://www.microsoft.com/en-us/research/publication/time-clocks-ordering-events-distributed-system/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Flamport%2Fpubs%2Ftime-clocks.pdf
+	timeout	https://www.nature.com/articles/nature10836#Sec8
+	timeout	https://www.nature.com/articles/s41467-020-15761-4
+	timeout	https://www.orfonline.org/research/43521-the-higher-education-commission-of-india-bill-a-failure-of-imagination/
+	timeout	https://www.orfonline.org/research/affirmative-action-in-higher-education-insights-from-recent-empirical-reserach/
+	timeout	https://www.orfonline.org/research/developing-a-policy-framework-for-emerging-crowdfunding-ecosystems-52971/
+	timeout	https://www.orfonline.org/research/education-skills-gender-parity-an-agenda-for-employment-generation-in-urban-india-54599/
+	timeout	https://www.orfonline.org/research/improving-research-in-india-introducing-undergraduate-research-in-higher-education-47713/
+	timeout	https://www.orfonline.org/research/literacy-in-india-the-gender-and-age-dimension-57150/
+	timeout	https://www.orfonline.org/research/scaling-vocational-education-case-study-tiss-sve/
+	timeout	https://www.orfonline.org/research/social-identity-access-to-education-and-employment-in-india/
+	timeout	https://www.orfonline.org/research/ten-years-of-rte-act-revisiting-achievements-and-examining-gaps-54066/
+	timeout	https://www.orfonline.org/research/the-rohingya-crisis-a-health-situation-analysis-of-refugee-camps-in-bangladesh-53011/
+	timeout	https://www.orfonline.org/research/women-entrepreneurs-in-india-what-is-holding-them-back-55852/
+	timeout	https://www.rgoarchitects.com/Files/fallacies.pdf
+	timeout	https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf
+	timeout	https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+	timeout	https://www.usenix.org/legacy/event/usenix05/tech/general/full_papers/ford/ford.pdf
+	timeout	https://www.vordenker.de/ggphilosophy/jvn_the-general-and-logical-theory-of-automata.pdf
