@@ -17,3 +17,4 @@ sidebar_label: Tweets
 - [On Notetaking](https://twitter.com/michael_nielsen/status/1098098218565390337)
 - [Infosec People on twitter](http://archive.is/QJSyS)
 - [Routine and Habits](http://archive.is/wip/pjtln)
+- [What the decentralized web can learn from Wikipedia](http://archive.is/koKQB)

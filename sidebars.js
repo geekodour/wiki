@@ -53,6 +53,7 @@ module.exports = {
       "courses/math-books/grimaldi",
       "courses/math-books/libarts-math",
     ],
+    Others: ["courses/others/accessp2p"],
   },
   notes: {
     Personal: ["notes/people"],

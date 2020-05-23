@@ -218,6 +218,7 @@ A lot of events in history are important, but some events are more important to 
 - **ICANN** was founded.
 - 🇮🇳 **ICICI** Bank introduced Internet Banking in India.
 - **PayPal** was founded.
+- Nick Szabo "designed" **Bit Gold**, which is considered the direct precursor to [Bitcoin](#2009).
 - **LVM** was written.
 - **VMware** was founded.
 - **ISS** was launched.

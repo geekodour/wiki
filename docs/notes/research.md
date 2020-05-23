@@ -9,6 +9,7 @@ sidebar_label: Research
 ## Professor/Scientist/Researcher/Engineers
 
 - [Bryan Ford](https://bford.info/)
+- [Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo)
 
 ## Interesting Projects
 

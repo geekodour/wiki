@@ -25,6 +25,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [ROCA](https://en.wikipedia.org/wiki/ROCA_vulnerability)
 - [POODLE](https://en.wikipedia.org/wiki/POODLE)
 - [TCP Reset Attack](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
+- [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack)
 
 ### Others
 

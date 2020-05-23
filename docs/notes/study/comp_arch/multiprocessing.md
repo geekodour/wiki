@@ -79,3 +79,8 @@ https://en.wikipedia.org/wiki/Asymmetric_multiprocessing
 - https://en.wikipedia.org/wiki/CPU_socket
 
 - https://uops.info/
+
+* parallelism,
+* instruction-level parallelism (ILP)
+* thread-level parallelism (TLP) method
+* read more on clock rates

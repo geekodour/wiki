@@ -80,6 +80,8 @@ When there is the need to replace a `block/line` in a cache, [cache replacement 
 
 Rearranging loops. Basically going from right-to-left, we want the leftmost item to be changing the fastest eg. `A[k][i][j]`, here `j` should be changing the most if the nested loops involved are for `i`,`j`and `k`; so rearranging nested loops in the order of `k-i-j` will give the best spatial locality.
 
+Also see [Memory Hierarchy](/docs/notes/study/memory/mem_hie#locality)
+
 #### Temporal Locality
 
 - [Supplementary notes on using Blocking to Increase Temporal Locality∗](/pdf/waside-blocking.pdf)
