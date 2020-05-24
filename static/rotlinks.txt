@@ -4,6 +4,11 @@ https://wiki.geekodour.xyz/docs/links/others/dump/
 	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
 https://wiki.geekodour.xyz/docs/links/tweets/
 	404	https://twitter.com/NirantK/status/1234077539020050432
+	dialing to the given TCP address timed out	https://twitter.com/KevinSimler/status/1171278541788348416
+https://wiki.geekodour.xyz/docs/links/oneshot/
+	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
+	dialing to the given TCP address timed out	https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/signals.html
+	lookup aos.sh on 168.63.129.16:53: no such host	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
 https://wiki.geekodour.xyz/docs/links/papers/
 	404	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
 	404	https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
@@ -13,37 +18,32 @@ https://wiki.geekodour.xyz/docs/links/papers/
 	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41342.pdf
 	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44860.pdf
 	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45409.pdf
-	x509: certificate has expired or is not yet valid	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
 	x509: certificate signed by unknown authority	https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf
+https://wiki.geekodour.xyz/docs/workshops/projects/
+	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
+https://wiki.geekodour.xyz/docs/ideas/pantry/
+	404	https://twitter.com/i/lists/1222259380139069440
+https://wiki.geekodour.xyz/docs/notes/case_studies/
+	id #end-to-end-principle not found	https://wiki.geekodour.xyz/docs/notes/study/internet#end-to-end-principle
 https://wiki.geekodour.xyz/docs/notes/questions/
 	id #classification not found	https://wiki.geekodour.xyz/docs/notes/study/comp_arch#classification
 	id #virtual-memory not found	https://wiki.geekodour.xyz/docs/notes/study/memory#virtual-memory
+https://wiki.geekodour.xyz/docs/notes/guides/communities/
+	lookup cstheory.stackexchange.co on 168.63.129.16:53: no such host	https://cstheory.stackexchange.co
 https://wiki.geekodour.xyz/docs/notes/history/
 	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
 	id #eeprom not found	https://wiki.geekodour.xyz/docs/notes/study/memory#eeprom
 	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
-https://wiki.geekodour.xyz/docs/links/oneshot/
-	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
-	lookup aos.sh on 168.63.129.16:53: no such host	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
-https://wiki.geekodour.xyz/docs/workshops/projects/
-	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
-https://wiki.geekodour.xyz/docs/notes/study/memory/gc/
-	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
-https://wiki.geekodour.xyz/docs/notes/study/math/log/
-	502	https://socratic.org/questions/can-a-logarithm-have-a-negative-base
 https://wiki.geekodour.xyz/docs/notes/study/go_lang/pprof/
 	id #basic-usage not found	https://github.com/google/pprof#basic-usage
 	id #interpreting-the-callgraph not found	https://github.com/google/pprof/tree/master/doc#interpreting-the-callgraph
 	id #options not found	https://github.com/google/pprof/tree/master/doc#options
 	id #using-pprof-with-linux-perf not found	https://github.com/google/pprof#using-pprof-with-linux-perf
-https://wiki.geekodour.xyz/docs/notes/guides/communities/
-	503	https://www.reddit.com/r/osdev/
-	lookup cstheory.stackexchange.co on 168.63.129.16:53: no such host	https://cstheory.stackexchange.co
+https://wiki.geekodour.xyz/docs/notes/study/memory/gc/
+	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
 https://wiki.geekodour.xyz/docs/links/blogs/
 	522	https://en.arguman.org/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 22 May 2020 12:16:20 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=dd0173352471c8e7b81f98cba4fa1029d15901"..."//api.amplitude.com https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.io https://logs-01.loggly.com https://api.segment.io https://checkout.s"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
-https://wiki.geekodour.xyz/docs/notes/case_studies/
-	id #end-to-end-principle not found	https://wiki.geekodour.xyz/docs/notes/study/internet#end-to-end-principle
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 24 May 2020 00:19:04 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=d19812962675c7fc9a0dc915755c449e915902"..."//api.amplitude.com https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.io https://logs-01.loggly.com https://api.segment.io https://checkout.s"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
+https://wiki.geekodour.xyz/docs/notes/unread_case_studies/
 	id #slide=id.g35f391192_00 not found	https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/mobilepresent#slide=id.g35f391192_00
 	lookup imoverclocked.blogspot.in on 168.63.129.16:53: no such host	http://imoverclocked.blogspot.in/2015/12/for-love-of-bits-stop-using-gzip.html
-	timeout	https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe
