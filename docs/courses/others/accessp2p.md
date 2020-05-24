@@ -35,7 +35,10 @@ An Introduction to auction and mechanism design as well as a survey of the most 
 
 ## Network Address Translation
 
+In case of GoogleCloud or DropBox, they can probably look into your files since they are encrypted when they are stored. This creates a need of encrypted storage, Tahoe-LAFS is one of the many projects which support client side encryption.
+
 ### Links
 
 - [Tahoe-LAFS](https://en.wikipedia.org/wiki/Tahoe-LAFS): It is a free and open, secure, decentralized, fault-tolerant, distributed data store and distributed file system. It is designed around [principle of least authority](https://en.wikipedia.org/wiki/Principle_of_least_privilege). Designed by [Zooko Wilcox-O'Hearn](https://en.wikipedia.org/wiki/Zooko_Wilcox-O'Hearn) who leads [zcash](https://en.wikipedia.org/wiki/Zcash).
 - [Zooko's triangle](https://en.wikipedia.org/wiki/Zooko%27s_triangle): Zooko described this trilemma. Several platforms implement refutations of this, eg. Blockstack, Namecoin, Monero etc. but still worth looking at it.
+- [Object-capability model](https://en.wikipedia.org/wiki/Object-capability_model) : For example the `ls` command is used to list things, but it has the capability to access the network, the camera and whatnot. We can use the Object-capability model to scope this down.
