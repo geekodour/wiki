@@ -39,6 +39,7 @@ module.exports = {
   courses: {
     CMU: ["courses/cmu15445", "courses/cmu15721", "courses/cmu15213"],
     Stanford: ["courses/soeycscs1"],
+    UCSantaCruz: ["courses/cs138_distsys"],
     Thinking: [],
     KhanAcademy: [
       "courses/khan/alg2",
@@ -53,7 +54,10 @@ module.exports = {
       "courses/math-books/grimaldi",
       "courses/math-books/libarts-math",
     ],
-    Others: ["courses/others/accessp2p"],
+    Others: [
+      "courses/others/accessp2p",
+      "courses/others/distributedsystemscourse",
+    ],
   },
   notes: {
     Personal: ["notes/people"],

@@ -42,3 +42,5 @@ plus i have a bad taste in quotes. Also I decided to dump random snippets in thi
 - Be liberal in what you accept, and conservative in what you send
 - We reject: kings, presidents, and voting. We believe in: rough consensus and running code. -David Clark 1992
 - The only real test of intelligence is if you get what you want out of life.
+- Little cringe: don't do your best, do whatever it takes. varun tweeted this lel.
+- The world might criticize your ideas. Let that feedback sharpen your insights. You need to be devoid of emotions when it comes to seeking knowledge. The moment you judge yourself for your curiosity, for your desire to connect the dots, you will not grow. -KS

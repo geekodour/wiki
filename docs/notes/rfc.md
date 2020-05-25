@@ -20,6 +20,8 @@ sidebar_label: RFCs
 - [RFC#5771: IANA Guidelines for IPv4 Multicast Address Assignments](https://tools.ietf.org/html/rfc5771)
 - [RFC#7042: IANA Considerations and IETF Protocol and Documentation Usage for IEEE 802 Parameters](https://tools.ietf.org/html/rfc7042)
 - [RFC#7450: Automatic Multicast Tunneling](https://tools.ietf.org/html/rfc7450)
+- [RFC#2663: IP Network Address Translator (NAT) Terminology and Considerations](https://tools.ietf.org/html/rfc2663)
+- [RFC#1918: Address Allocation for Private Internets](https://tools.ietf.org/html/rfc1918)
 
 ## Others
 

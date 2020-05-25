@@ -128,3 +128,7 @@ These are not pure podcast notes as it includes my view on some ideas. So as to 
 > Don't confuse this **Q/A** point with Jeff Bezos's way of measuring on controlled inputs for **Goals** in which he says that _"The score takes care of itself if everyone in the organization does their work precisely and accurately and is done consistently."_
 
 - AI will be replacing tasks and not jobs, how do you prepare people to work for the new tasks is a challenge.
+
+### Navigating perfectionism
+
+🔍 [Link to podcast](https://changelog.com/brainscience/20)

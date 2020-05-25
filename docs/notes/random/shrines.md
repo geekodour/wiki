@@ -12,6 +12,10 @@ sidebar_label: Shrines
 
 ## Donald Knuth
 
+## John Carmack
+
+I'll have to update this list soon!
+
 ---
 
 ## Prizes

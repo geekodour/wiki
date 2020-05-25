@@ -107,6 +107,13 @@ $ lscpu
 $ docker run --rm -it --entrypoint="sh" <image>:master
 ```
 
+## systemctl
+
+```shell
+# show systemd service file
+$ systemctl cat dhcpcd.service
+```
+
 ## Random snippets
 
 ```shell
@@ -121,3 +128,6 @@ $ grep -rl assets|xargs sed -i 's/assets/\/img\//g'
 - [soveran/map](https://github.com/soveran/map)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [oragono](https://github.com/oragono/oragono)
+- [thoughts](https://lobste.rs/s/yabibk/thoughts_portable_posixy_pal_for_putting)
+- [nethogs](https://linux.die.net/man/8/nethogs)
+- [bc](#)

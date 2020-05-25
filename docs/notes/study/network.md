@@ -29,6 +29,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [ll2](https://labs.ripe.net/Members/philip_homburg/whats-the-deal-with-ipv6-link-local-addresses)
 - [ula](https://en.wikipedia.org/wiki/Unique_local_address)
 - [ll3](https://serverfault.com/questions/118324/what-is-a-link-local-address)
+- [Happy Eyeballs](https://en.wikipedia.org/wiki/Happy_Eyeballs)
 
 ### Mobile
 

@@ -16,12 +16,18 @@ sidebar_label: Idea Pantry
 
 Ideas should come from necessity but sometimes looking at new things help birth new ideas. Here's a list of random things I'd like to fiddle around with when I get time.
 
+### Tools
+
+- [retro css](https://github.com/matt-auckland/retro-css)
+- [cool backgrounds](https://coolbackgrounds.io/)
+
+### Projects
+
 - [/r/internetisbeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
 - [rejectedus](https://rejected.us/) : A list of rejections
 - [usesthis](https://usesthis.com/) : The inspiration for [ahilapaatietyadi](https://ahilapaati.com/)
-- [retro css](https://github.com/matt-auckland/retro-css)
-- [cool backgrounds](https://coolbackgrounds.io/)
 - [otherside](https://github.com/0x263b/Otherside): Create a Twitter List of the accounts someone follows, and see Twitter from their perspective
+- [Game with a projector](https://www.reddit.com/r/Damnthatsinteresting/comments/cvr4cp/my_brother_made_a_game_which_can_project_on_this/ey6102k/)
 
 ## My Ideas
 

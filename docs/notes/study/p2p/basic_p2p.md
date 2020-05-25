@@ -47,6 +47,10 @@ Some techniques for search and discovery can be:
 - **Network splits** can be resolved by node address announcement (GNUtella way), Random walkers can also be used.
 - **Flooding Overload** can be resolved by round robin algorithm, throttling and randomized algorithms.
 
+### Routers and NAT
+
+Router keeps a mapping of the session data (i.e. `src (ip, port)` -> `dst (ip, port)`, the source port really doesn't matter), When there's a request outward, the router rewrites the private src ip and/or port with its own (public) ip and possibly remaps the ports in each packet and creates a mapping. But no standardization on how ports are allocated and how these mappings are done within the router.
+
 ### Distributed Hash Tables
 
 DHTs can be used to route messages to a node having a specific logical address, whose IP address is not known in advance. Nodes are organized in address order in a list/ring/hypercube.
