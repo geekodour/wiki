@@ -64,3 +64,5 @@ Read links will be removed and added somewhere else where they fit better.
 - [Peercasting](https://en.wikipedia.org/wiki/Peercasting)
 - [Bufferbloat](https://en.wikipedia.org/wiki/Bufferbloat)
 - [Blackhaul](<https://en.wikipedia.org/wiki/Backhaul_(telecommunications)>)
+- [Bastion host](https://en.wikipedia.org/wiki/Bastion_host)
+- [DMZ (computing)](<https://en.wikipedia.org/wiki/DMZ_(computing)>)

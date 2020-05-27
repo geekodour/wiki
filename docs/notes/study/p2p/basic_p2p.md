@@ -79,3 +79,4 @@ If we were to classify peer to peer file sharing in “epochs”, 4 could be a g
 
 - [Video on P2P networks](https://www.youtube.com/watch?v=LXAW4HwFt58)
 - [History of P2P networks](https://medium.com/paratii/a-brief-history-of-p2p-content-distribution-in-10-major-steps-6d6733d25122)
+- [Good P2P System Analysis Slides](/pdf/p2panalysisslides.pdf)

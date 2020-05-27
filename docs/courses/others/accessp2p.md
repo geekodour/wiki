@@ -8,7 +8,7 @@ sidebar_label: AccessP2P
 
 ## Summary
 
-Super informative but some of these lectures probably were not meant to be watched online, as they involved offline activities etc. and the audio was pretty bad. But overall super nice content. I really liked the lecture on NAT. 🥊
+Super informative but some of these lectures probably were not meant to be watched online, as they involved offline activities, other people eating etc. and the audio was pretty bad. But overall super nice content. I really liked the lecture on NAT. 🥊 I only summarized the lectures that seemed important to me.
 
 ## Intro to P2P
 
@@ -109,3 +109,13 @@ There are a lot of problems establishing this connection even before you start s
 ## Social P2P
 
 🎥 [Link to Video](https://www.youtube.com/watch?v=ZY_cnpmBYkc)
+
+The thing i disliked about this talk was that a lot of complicated diagrams were shown but very little was explained.
+
+- **Social Networks**: Every social network is coersing human connections into these quantifiable metrics and data structures. But do these represent out connections accurately? How does the existence of these metrics change our connection in the real world?
+- [Small world Network](https://en.wikipedia.org/wiki/Small-world_network): On an average the length of a path between two nodes will be shorter based on the number of nodes. Highly connected components leading to shorter paths between them.
+- [Scale Free Network](https://en.wikipedia.org/wiki/Scale-free_network): A scale-free network is a network whose degree distribution follows a power law, at least asymptotically.
+
+### Links
+
+- [Friend Networks](https://en.wikipedia.org/wiki/Friend-to-friend): It's a P2P network where people only make connections with people they already know. Some kind of authentication is used.

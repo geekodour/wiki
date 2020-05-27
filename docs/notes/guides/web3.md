@@ -36,3 +36,5 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 - https://www.w3.org/standards/semanticweb/data
 - https://www.gkbrk.com/2018/06/fetching-activitypub-feeds/
 - https://news.ycombinator.com/item?id=17288727
+- https://ricochet.im/
+- https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
