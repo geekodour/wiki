@@ -16,7 +16,7 @@ Super informative but some of these lectures probably were not meant to be watch
 
 This talk was actually pretty boring and repetitive, could have been a twitter thread. It talks about the social prospects of P2P, It might be interesting for someone who's totally new to P2P but there were few nice things Stacco points out:
 
-> _The ideal state of the web would be peer to peer. This would eliminate use of large data centers, censorships, algorithmic timelines and manipulation of the minds of people and many other evils caused by corporate control of the internet. In the ideal case, all data would be content addressable, replicated and seeded (a la bittorrent, ipfs, tahoe-lafs). Each peer would make their own decisions about what data to share and who it wants to share it to._
+> _The ideal state of the web would be peer to peer. This would eliminate use of large data centers, censorship, algorithmic timelines and manipulation of the minds of people and many other evils caused by corporate control of the internet. In the ideal case, all data would be content addressable, replicated and seeded (a la bittorrent, ipfs, tahoe-lafs). Each peer would make their own decisions about what data to share and who it wants to share it to._
 
 - Considering facts like _"84% of English Wikipedia editors were male in 2013"_, are we really decentralizing if we're not examining who's creating the technology or the content? Who's value systems are we putting into these technologies?
 - Internet by itself is P2P and centralized systems are built on top of it.
@@ -37,7 +37,7 @@ An Introduction to auction and mechanism design as well as a survey of the most 
 
 ## Network Address Translation
 
-🎥 [Link to Video](https://www.youtube.com/watch?v=JhNSC_McKJo)
+🎥 [Link to Video](https://www.youtube.com/watch?v=JhNSC_McKJo) | [Slides](/pdf/accessp2pNAT.pdf)
 
 In case of GoogleCloud or DropBox, they can probably look into your files since they are encrypted when they are stored. This creates a need of encrypted storage, Tahoe-LAFS is one of the many projects which support client side encryption.
 
@@ -45,7 +45,7 @@ In case of GoogleCloud or DropBox, they can probably look into your files since 
 
 - **Centralized internet**, The idea of the internet for many young people is completely around centralized services like gmail, google, facebook etc. They live inside a walled garden.
 - **Decentralized internet**, this is still at use but mostly by technical people because the UX is not very convenient, but there are new improvements which is enabling more and more people to use it. There are really nice ideas that can be implemented in the decentralized internet but the UX is really lacking at this point. Examples are IRC, Usenet, email etc. Email is inherently decentralized, but gmail centralized it because you see, gmail/centralized services give a better UX for the general public. _Not all users need to be in one centralized service._ **The original Internet was decentralized.**
-- **Distributed internet**, Individual nodes talk to eachother and anybody can talk to each other. Eg. Bitcoin, Bittorrent. One could say Bitcoin and Bittorrent networks are decentralized aswell but the line is very thin and sometimes does cross.
+- **Distributed internet**, Individual nodes talk to each other and anybody can talk to each other. Eg. Bitcoin, Bittorrent. One could say Bitcoin and Bittorrent networks are decentralized as-well but the line is very thin and sometimes does cross.
 
 ### IPv4 Exhaustion
 
@@ -56,14 +56,14 @@ In case of GoogleCloud or DropBox, they can probably look into your files since 
 
 ![](/img/nat-arch.png)
 
-_Fig1: Your ISP gives you another private IP to your router, and your router again gives you a private IP to your phone and so on. The more layers in this, the more problamatic because each of these layers can behave differently. So getting closer to the public IP is always(?) nice_
+_Fig1: Your ISP gives you another private IP to your router, and your router again gives you a private IP to your phone and so on. The more layers in this, the more problematic because each of these layers can behave differently. So getting closer to the public IP is always(?) nice_
 
 - **Edge Computing**: Whenever we're talking about edge computing we're simply talking about processing at the edges of the network, like your laptop/phone is an edge.
 
 #### Inward and Outward
 
 - **Outward Connection**: When a connection just goes to some public ip on the internet. Eg. visiting google.com.
-- **Inward Connection**: When a connection goes to some private ip, and needs to go through NATs again in the inward direction this time. Eg. P2P connections. Inward connections are simply not allowed/possible accross NATs, routers will simply drop packets with private destination IP addresses **unless the NAT identifies them as being a part of a session initiated from the private network**, for this we need an external(outward) relay server.
+- **Inward Connection**: When a connection goes to some private ip, and needs to go through NATs again in the inward direction this time. Eg. P2P connections. Inward connections are simply not allowed/possible across NATs, routers will simply drop packets with private destination IP addresses **unless the NAT identifies them as being a part of a session initiated from the private network**, for this we need an external(outward) relay server.
 
 When using P2P protocols, we want to minimize the involvement of the external relay server. P2P protocols don't have to do anything with NAT, but NAT creates problems for P2P protocols to work because _how would a peer establish an inward connection to another peer in another NAT otherwise?_
 
@@ -84,19 +84,19 @@ The wikipedia [page for NAT has nice diagrams](https://en.wikipedia.org/wiki/Net
 
 NATs in the wild use combination of these!
 
-### NAT Traversal techniques for P2P
+### NAT Traversal techniques
 
-These techniques assumes that both of the peers are behind different NATs. Otherwise we don't need any kind of specialized NAT traversal techniques.
+These techniques are required for P2P and VoIP connections and assumes that both of the peers are behind different NATs. Otherwise we don't need any kind of specialized NAT traversal techniques.
 
-- **Hole Punching**: This relies on a rendezvous server (or an introducer) that knows both the parties and has a session with each of them and hence know their public and private (ip, port) pairs. Simple Hole Punching **does not work** with Symmetric NATs because a random port number gets assigned for each session in it. The rendezvous server/introducer is called the [STUN](https://en.wikipedia.org/wiki/STUN)
+- **Hole Punching**: This relies on a rendezvous server (or an introducer) that knows both the parties and has a session with each of them and hence know their public and private (ip, port) pairs. Simple Hole Punching **does not work** with Symmetric NATs because a random port number gets assigned for each session in it, since random port numbers are not always predictable. There are few studies about predicting port numbers, but they are not very practical. The rendezvous server/introducer is called the [STUN](https://en.wikipedia.org/wiki/STUN)
 - [**TURN(Traversal Using Relays around NAT)**](https://en.wikipedia.org/wiki/Traversal_Using_Relays_around_NAT): This is just a standardization of the messages sent across the peers for P2P for discovery of other peers. This is used to do P2P in Symmetric NATs.
-- When [WebRTC](https://en.wikipedia.org/wiki/WebRTC) came out, the big browser companies wanted to bake these standardizations into the browser so that one browser can talk to another brower. They standardized how TURN(Relay) server should talk to STUN server etc and named it [Interactive Connectivity Establishment (ICE)](https://en.wikipedia.org/wiki/Interactive_Connectivity_Establishment), ICE sort of enhances the STUN and TURN protocols with some additional messages.
+- When [WebRTC](https://en.wikipedia.org/wiki/WebRTC) came out, the big browser companies wanted to bake these standardizations into the browser so that one browser can talk to another browser. They standardized how TURN(Relay) server should talk to STUN server etc and named it [Interactive Connectivity Establishment (ICE)](https://en.wikipedia.org/wiki/Interactive_Connectivity_Establishment), ICE sort of enhances the STUN and TURN protocols with some additional messages.
 - [UPnP](https://en.wikipedia.org/wiki/Universal_Plug_and_Play) : Not a lot of routers support this has some security issues but is useful.
 - [NAT Port Mapping Protocol(PMP)](https://en.wikipedia.org/wiki/NAT_Port_Mapping_Protocol) : Proprietary, made by Apple.
 - [Port Control Protocol](https://en.wikipedia.org/wiki/Port_Control_Protocol): Successor to NAT PMP.
-- There are more!
+- There [are more!](https://en.wikipedia.org/wiki/NAT_traversal)
 
-There are a lot of problems establinshing this connection even before you start sending data. One could try one or more of these traveral techniques in parallel and use the socket which is achieved first and do rest of the networking on that socket.
+There are a lot of problems establishing this connection even before you start sending data. Industrial standard NAT traversal solution should be able to apply all possible methods mentioned in above texts. It should inspect network environment of both peers and decide which method of NAT traversal should be applied. If neither methods of direct tunnel creation succeed, the relay will be the last solution that we know for sure that must work.
 
 ### Links
 
@@ -105,3 +105,7 @@ There are a lot of problems establinshing this connection even before you start 
 - [Object-capability model](https://en.wikipedia.org/wiki/Object-capability_model) : For example the `ls` command is used to list things, but it has the capability to access the network, the camera and whatnot. We can use the Object-capability model to scope this down.
 - [magic-wormhole](https://www.youtube.com/watch?v=YhoYq6wQEto) / [github](https://github.com/warner/magic-wormhole) : It gets things from one computer to another, safely. Warner, the creator of magic-wormhole was also one of the developers of Tahoe-LAFS. It uses [PAKE](https://blog.cryptographyengineering.com/2018/10/19/lets-talk-about-pake/) for [establishing](https://lwn.net/Articles/692061/) a secure [connection](https://github.com/warner/magic-wormhole/issues/348).
 - [Usenet](https://en.wikipedia.org/wiki/Usenet)
+
+## Social P2P
+
+🎥 [Link to Video](https://www.youtube.com/watch?v=ZY_cnpmBYkc)

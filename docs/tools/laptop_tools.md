@@ -133,3 +133,9 @@ $ grep -rl assets|xargs sed -i 's/assets/\/img\//g'
 - [thoughts](https://lobste.rs/s/yabibk/thoughts_portable_posixy_pal_for_putting)
 - [nethogs](https://linux.die.net/man/8/nethogs)
 - [bc](#)
+- ngrep
+- vnstat
+- https://en.wikipedia.org/wiki/Ethtool
+- https://dougvitale.wordpress.com/2011/12/21/deprecated-linux-networking-commands-and-their-replacements/
+- https://wiki.archlinux.org/index.php/Network_configuration#net-tools
+- https://wiki.gentoo.org/wiki/Iproute2

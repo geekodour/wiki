@@ -49,6 +49,12 @@ Reading this list will probably take an entire week lol.
 - [Linux bridge: Provider networks](https://docs.openstack.org/neutron/pike/admin/deploy-lb-provider.html#architecture)
 - [Linux bridge: Self-service networks](https://docs.openstack.org/neutron/pike/admin/deploy-lb-selfservice.html#architecture)
 - Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what? - the popular ugly ui site article
+- https://en.wikipedia.org/wiki/IP_Virtual_Server
+- https://www.projectcalico.org/comparing-kube-proxy-modes-iptables-or-ipvs/
+- https://kubernetes.io/blog/2018/07/09/ipvs-based-in-cluster-load-balancing-deep-dive/
+- https://kubernetes.io/blog/2019/04/19/introducing-kube-iptables-tailer/
+- https://docs.oracle.com/en/operating-systems/oracle-linux/kubernetes/kube_admin_config_iptables.html
+- https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
 
 ## CNI
 

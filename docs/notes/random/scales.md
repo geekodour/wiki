@@ -48,8 +48,10 @@ It'll take a lot of time for your friend to download `200TiB` of data with the I
 
 ## Bytes
 
-- 1e+9 bytes = 1e9 = 10^9B = 2^30B = 1GB (1 Billion bytes in 1GB)
-- 1e+6 bytes = 1e6 = 10^6B = 2^20B = 1MB (1 Million bytes in 1MB)
+- 1e+9 bytes = 1e9 = $10^9$B = 2^30B = 1GB (1 Billion bytes in 1GB)
+- 1e+6 bytes = 1e6 = $10^6$B = 2^20B = 1MB (1 Million bytes in 1MB)
+- 8bits = 1byte $\implies$ 500KB = 4000Kb = 4Mb
+- 12Mbps connection = 1.5MBps (network uses bps)
 
 ---
 
@@ -93,6 +95,7 @@ Some measurements vary by a little at the small scale, or a lot at the large sca
 >
 > - [OEIS Wiki Page on Growth Sequences](https://oeis.org/wiki/Growth_of_sequences)
 > - [Reddit post explaining the OEIS wiki page](http://archive.is/O5s8R)
+> - https://www.youtube.com/watch?v=9Bu0Hkxw88g
 
 Growth refers to how fast a sequence of numbers increase. Sometimes decay is used to mean the opposite. Before we get more into growth, Let's see the concept of **bound**. We say B bounds A (above) if B grows faster than A, that is, at some point B becomes bigger than A and stays bigger forever (the same apply for bounded below). **To look at growth, we look at the derivatives.**
 

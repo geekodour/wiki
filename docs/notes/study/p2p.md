@@ -10,6 +10,7 @@ sidebar_label: peer-to-peer
 
 - [Basic Ideas about P2P Networks](/docs/notes/study/p2p/basic_p2p)
 - [About Bittorrent](/docs/notes/study/p2p/bittorrent)
+- [About NAT](/docs/notes/study/p2p/nat)
 
 ## Jargons/Rabbit Holes (Unread)
 
