@@ -4,6 +4,8 @@ title: Storage
 sidebar_label: Storage[WIP]
 ---
 
+- [Don't Be Afraid of RAID](https://louwrentius.com/dont-be-afraid-of-raid.html)
+
 ### Meta
 
 - What is `/proc`?

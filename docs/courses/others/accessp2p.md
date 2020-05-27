@@ -8,7 +8,7 @@ sidebar_label: AccessP2P
 
 ## Summary
 
-Most of these lectures probably were not meant to be watched online, as they involved offline activities etc, also the audio was pretty bad. But overall nice content.
+Super informative but some of these lectures probably were not meant to be watched online, as they involved offline activities etc. and the audio was pretty bad. But overall super nice content. I really liked the lecture on NAT. 🥊
 
 ## Intro to P2P
 
@@ -37,6 +37,8 @@ An Introduction to auction and mechanism design as well as a survey of the most 
 
 ## Network Address Translation
 
+🎥 [Link to Video](https://www.youtube.com/watch?v=JhNSC_McKJo)
+
 In case of GoogleCloud or DropBox, they can probably look into your files since they are encrypted when they are stored. This creates a need of encrypted storage, Tahoe-LAFS is one of the many projects which support client side encryption.
 
 ### Topology
@@ -54,7 +56,7 @@ In case of GoogleCloud or DropBox, they can probably look into your files since 
 
 ![](/img/nat-arch.png)
 
-_Fig1: Your ISP gives you another private to your router, and your router again gives you a private IP to your phone and so on. The more layers in this, the more problamatic because each of these layers can behave differently. So getting closer to the public IP is always(?) nice_
+_Fig1: Your ISP gives you another private IP to your router, and your router again gives you a private IP to your phone and so on. The more layers in this, the more problamatic because each of these layers can behave differently. So getting closer to the public IP is always(?) nice_
 
 - **Edge Computing**: Whenever we're talking about edge computing we're simply talking about processing at the edges of the network, like your laptop/phone is an edge.
 
@@ -73,7 +75,28 @@ Router keeps a mapping of the session data (i.e. `src (ip, port)` -> `dst (ip, p
 
 Due to the fact that there is no standardization of NAT, there are a couple of variants:
 
-#### Full Cone / one-to-one / Basic NAT
+The wikipedia [page for NAT has nice diagrams](https://en.wikipedia.org/wiki/Network_address_translation#Methods_of_translation) the video portion starts at [1:03:13](https://youtu.be/JhNSC_McKJo?t=3793)
+
+- **Full Cone**
+- **Address Restricted Cone**
+- **Port Restricted Cone** (Most Home routers use this)
+- **Symmetric NAT** This is the most complicated one, mostly used in corporate networks and punching a hole through these networks is very hard. Number 1 enemy of P2P applications! 😆
+
+NATs in the wild use combination of these!
+
+### NAT Traversal techniques for P2P
+
+These techniques assumes that both of the peers are behind different NATs. Otherwise we don't need any kind of specialized NAT traversal techniques.
+
+- **Hole Punching**: This relies on a rendezvous server (or an introducer) that knows both the parties and has a session with each of them and hence know their public and private (ip, port) pairs. Simple Hole Punching **does not work** with Symmetric NATs because a random port number gets assigned for each session in it. The rendezvous server/introducer is called the [STUN](https://en.wikipedia.org/wiki/STUN)
+- [**TURN(Traversal Using Relays around NAT)**](https://en.wikipedia.org/wiki/Traversal_Using_Relays_around_NAT): This is just a standardization of the messages sent across the peers for P2P for discovery of other peers. This is used to do P2P in Symmetric NATs.
+- When [WebRTC](https://en.wikipedia.org/wiki/WebRTC) came out, the big browser companies wanted to bake these standardizations into the browser so that one browser can talk to another brower. They standardized how TURN(Relay) server should talk to STUN server etc and named it [Interactive Connectivity Establishment (ICE)](https://en.wikipedia.org/wiki/Interactive_Connectivity_Establishment), ICE sort of enhances the STUN and TURN protocols with some additional messages.
+- [UPnP](https://en.wikipedia.org/wiki/Universal_Plug_and_Play) : Not a lot of routers support this has some security issues but is useful.
+- [NAT Port Mapping Protocol(PMP)](https://en.wikipedia.org/wiki/NAT_Port_Mapping_Protocol) : Proprietary, made by Apple.
+- [Port Control Protocol](https://en.wikipedia.org/wiki/Port_Control_Protocol): Successor to NAT PMP.
+- There are more!
+
+There are a lot of problems establinshing this connection even before you start sending data. One could try one or more of these traveral techniques in parallel and use the socket which is achieved first and do rest of the networking on that socket.
 
 ### Links
 

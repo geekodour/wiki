@@ -140,6 +140,8 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - 🖨[The Zettabyte File System](https://www.cs.hmc.edu/~rhodes/courses/cs134/sp19/readings/zfs.pdf)
 - 🖨[QEMU, a Fast and Portable Dynamic Translator](http://archives.cse.iitd.ernet.in/~sbansal/csl862-virt/2010/readings/bellard.pdf)
 - [The Unix Time Sharing System](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)
+- [Ironies of Automation](https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
+- [5 Min Rule for Trading Memory](https://www.hpl.hp.com/techreports/tandem/TR-86.1.pdf)
 
 ## PLT
 

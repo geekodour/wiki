@@ -47,6 +47,7 @@ $ ps -p 322453 -u
 
 ## htop
 
+- [Output reference](https://www.deonsworld.co.za/2012/12/20/understanding-and-using-htop-monitor-system-resources/)
 - `VSZ` in `ps` = `VIRT` in `top`.
 - `RSS` in `ps` = `RES` in `top`.
 

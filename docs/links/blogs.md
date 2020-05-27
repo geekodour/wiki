@@ -63,6 +63,7 @@ sidebar_label: Blogs
 - [Introduction to systems thinking](https://thesystemsthinker.com/introduction-to-systems-thinking/)
 - [Death Note: L, Anonymity & Eluding Entropy - Information Theory](https://www.gwern.net/Death-Note-Anonymity)
 - [Akkha Gyan Edharich Hai](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
+- [How to draw block diagrams](https://johnwickerson.wordpress.com/2019/08/08/block-diagrams/)
 
 ## Writing
 

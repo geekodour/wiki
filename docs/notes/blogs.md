@@ -62,3 +62,17 @@ sidebar_label: Blogposts
 - This article is interesting, but it makes the fundamental error of assuming that the primary product of an R1 research university is education for undergraduates, which it is not. The primary product of an R1 research university is research, largely performed by Graduate Students, Postdoctoral Researchers and Professional Researchers.
 
 🔍 [Link to post](http://archive.is/sB5CM)
+
+### Reading Research: A Guide for Software Engineers
+
+- The author is known for reading research papers among his peers, blogpost is a summary of his approach. His paper reading mental models: Solution Finding, Discovery and Curosity
+- **Solution Finding**: Immediate solutions for problems at hand, similar to reading SO/reference books.
+- **Discovery**: This is basically going down the rabbithole idea but which a aim to improve/optimize find better alternatives to your original idea.
+- **Curosity**: This is my favorite, just reading things out of curosity! It can surprise you how useful these random ideas can be :)
+- Sometimes learning a new field from primary research can be very difficult. Author is often surprised when he revisits something after a couple years and finds that he understand it now.
+- The post has some nice tips for finding papers to read. One approach is to avoid reading new papers at all. Focus on the classics, and let time filter out papers that are worth reading.
+- Paper writers are mostly one of these three: Academics, Engineers, Industrial Labs(Bell Labs etc.)
+- Results that haven’t been peer reviewed, or rejected from peer review aren’t necessarily wrong. Be a little wary of results when reading papers. The primary metric when analyzing results is the **methods** used, eg. For distributed systems this could be **scaling**.
+- Long term learning is a good way to get time for reading research papers.
+
+🔍 [Link to post](https://brooker.co.za/blog/2020/05/25/reading.html)

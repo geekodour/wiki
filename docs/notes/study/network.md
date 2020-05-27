@@ -18,10 +18,11 @@ Read links will be removed and added somewhere else where they fit better.
 
 - [Multiplexing](https://en.wikipedia.org/wiki/Multiplexing)
 - [Leaky Feeder](https://en.wikipedia.org/wiki/Leaky_feeder)
-- [WiFi over Coax](https://en.wikipedia.org/wiki/Wi-Fi_over_Coax)
+- [WiFi over Coax](https://en.wikipedia.org/wiki/Wi-Fi_over_Coax)| [p2](https://wifiovercoax.mcleodnet.com/)
 - [Tunneling Protocol](https://en.wikipedia.org/wiki/Tunneling_protocol)
 - [Optical mesh network](https://en.wikipedia.org/wiki/Optical_mesh_network)
 - [Ethernet and Wireless](https://networkengineering.stackexchange.com/questions/35618/relation-between-ethernet-and-802-11-headers)
+- [What developers should know about TCP](https://news.ycombinator.com/item?id=23177607)
 
 ### IPv6
 

@@ -18,3 +18,4 @@ sidebar_label: Tweets
 - [Infosec People on twitter](http://archive.is/QJSyS)
 - [Routine and Habits](http://archive.is/wip/pjtln)
 - [What the decentralized web can learn from Wikipedia](http://archive.is/koKQB)
+- [Privilege in India](http://archive.is/wIj1g)

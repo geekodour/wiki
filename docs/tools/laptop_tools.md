@@ -107,11 +107,13 @@ $ lscpu
 $ docker run --rm -it --entrypoint="sh" <image>:master
 ```
 
-## systemctl
+## systemd
 
 ```shell
 # show systemd service file
 $ systemctl cat dhcpcd.service
+# systemd-analyze plot : units that take a long time to start
+$ systemd-analyze plot > plot.svg
 ```
 
 ## Random snippets

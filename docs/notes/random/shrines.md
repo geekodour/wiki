@@ -14,6 +14,12 @@ sidebar_label: Shrines
 
 ## John Carmack
 
+## Rusty Russell
+
+## Linus
+
+## Ken T
+
 I'll have to update this list soon!
 
 ---
