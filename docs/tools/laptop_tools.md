@@ -139,3 +139,4 @@ $ grep -rl assets|xargs sed -i 's/assets/\/img\//g'
 - https://dougvitale.wordpress.com/2011/12/21/deprecated-linux-networking-commands-and-their-replacements/
 - https://wiki.archlinux.org/index.php/Network_configuration#net-tools
 - https://wiki.gentoo.org/wiki/Iproute2
+- nm, readelf, objdump

@@ -22,6 +22,8 @@ Computer architecture is the combination of microarchitecture and instruction se
 
 Read links will be removed and added somewhere else where they fit better.
 
+- https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusCPUStats
+
 ## Links
 
 - [Coputer Processor History](https://www.computerhope.com/history/processor.htm)

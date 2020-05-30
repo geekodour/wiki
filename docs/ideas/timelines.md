@@ -9,6 +9,7 @@ sidebar_label: Timelines
 - [Logarithmic timeline](https://en.wikipedia.org/wiki/Logarithmic_timeline)
 - [Geologic time scale](https://en.wikipedia.org/wiki/Geologic_time_scale)
 - [Webgraph](https://en.wikipedia.org/wiki/Webgraph)
+- [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future)
 
 ## Projects
 

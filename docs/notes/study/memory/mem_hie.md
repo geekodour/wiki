@@ -104,6 +104,7 @@ But modern disks give us a more useful/simpler abstraction to the `(cylinder/sur
 - SSDs have something called the `flash translation layer` which serves the same purpose as the `disk controller` in HDDs.
 - Instead of `(surface/track/sector)`, SSDs use `blocks/pages`(`pages` live inside `blocks`); these are different from the virtual memory pages and the `logical blocks` abstraction idea mentioned above.
 - Interestingly `pages` can only be written once its `block` has been erased; This makes `writes` in SSDs pretty complicated.
+- We can do small writes on ssds but small writes on SSDs can kill them aswell. So it's good idea to batch things in memory before writing to ssd.
 
 > - `Seq. access` faster than `random access`.
 > - Random `writes` are slower due to the reason mentioned above. Earlier the `r/w` access gaps were much larger, today we don't need to really worry about it that much. They are almost the same due to optimizations.

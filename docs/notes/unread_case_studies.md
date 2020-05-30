@@ -140,6 +140,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Learn redis the hard way trivago](http://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/)
 - [Text Processing VS Hadoop](https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 - [Debugging MySQL replication lag by diving into the internals](https://making.pusher.com/debugging-mysql-replication-lag/)
+- [SQL Murder Mystery](https://mystery.knightlab.com/)
 
 ## P2P
 

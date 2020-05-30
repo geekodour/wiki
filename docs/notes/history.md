@@ -1100,3 +1100,4 @@ A lot of events in history are important, but some events are more important to 
 - [Awesome Computer History](https://github.com/watson/awesome-computer-history)
 - [Parsing Timeline](https://jeffreykegler.github.io/personal/timeline_v3)
 - [A Net Before the Web, Part 1: The Establishment Man and the Magnificent Rogue](https://www.filfre.net/2017/10/a-net-before-the-web-part-1-the-establishment-man-and-the-magnificent-rogue/)
+- [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future)

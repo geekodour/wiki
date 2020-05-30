@@ -55,8 +55,6 @@ A process is represented by its vitual address space which is a contagious addre
 
 The virtual addresses(block addresses) consists of two parts, `table index` and the `offset`. The **physical address** is constructed from the `offset` of the virtual address and the page frame.
 
-- [Why do x86-64 systems have only a 48 bit virtual address space?](https://stackoverflow.com/questions/6716946/why-do-x86-64-systems-have-only-a-48-bit-virtual-address-space)
-
 ## MMU Mapping
 
 The operating system maintains **per process page table** which are stored in the RAM when a process starts to execute.

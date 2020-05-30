@@ -125,7 +125,15 @@ A polynomial function does not grow exponentially. An exponential function does 
 
 > $f$ grows logarithmically if eventually, $f(t) = log(t)$.
 
-Logarithmic growth is the inverse of exponential growth and is very slow.
+Logarithmic growth is the inverse of exponential growth and is very slow. Basically think of it like this:
+
+- Growing from 0-10 is fastest
+- Growing from 10-100 is faster
+- Growing from 100-1000 is fast
+- Growing from 1000-10,000 is can be slow
+- Growing from 10000-100000 is can be slower
+- Growing from 100000-1mn is can be slowest
+- and so on.
 
 ### Other Growths
 

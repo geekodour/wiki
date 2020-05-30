@@ -14,10 +14,6 @@ $ vmstat <interval> <count>
 $ vmstat -w (better formatting!)
 ```
 
-## nm
-
-list symbols from object files
-
 ## pmap
 
 pmap - report memory map of a process
