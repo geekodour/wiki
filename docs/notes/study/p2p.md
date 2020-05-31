@@ -31,3 +31,4 @@ Read links will be removed and added somewhere else where they fit better.
 - [Dist pubsub](https://forum.vac.dev/t/notes-on-distributed-pub-sub/44)
 - [Hyperdrive discussions](https://news.ycombinator.com/item?id=23180572)
 - power law in p2p networks?
+- [Named Data Networking](https://named-data.net/)

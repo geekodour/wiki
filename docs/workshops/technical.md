@@ -78,6 +78,10 @@ I'll be adding/removing links to and from this page time to time.
 ## Distributed Web
 
 - [ipfs/camp](https://github.com/ipfs/camp) : IPFS Camp is a 3 day hacker retreat designed for the builders of the Distributed Web.
+- [webtorrent workshop](https://webtorrent.github.io/workshop/)
+- [P2P Workshop](https://mafintosh.github.io/p2p-workshop/build/01.html)
+- [P2P File Sharing Workshop](https://mafintosh.github.io/p2p-file-sharing-workshop/build/01.html)
+- [accessp2p](https://accessp2p.xyz/) ✅ (See [notes](/docs/courses/others/accessp2p))
 
 ## LOL
 
