@@ -75,6 +75,7 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 - https://special.fish/
 - http://tilde.club/
 - https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf
+- https://github.com/DIYgod/RSSHub
 
 ## Some wikis
 

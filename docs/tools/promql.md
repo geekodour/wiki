@@ -50,7 +50,7 @@ Takes argument of any promql type, gives output in any promql type.
 - It should be always used with `counter` variables as it calculates the per second increase of your `counter` in the specified time range. It makes no sense of taking `rate` of a `gauge` variable. It's a good rule not never compare raw counters and always use `rate()`, `rate` makes use of all the datapoints returned by the range vector unlike `delta` because it returns the per-second average rate [of increase of the time series in the range vector.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusRateVsIrate)
 - Use `rate` for alerts and slow-moving counters, a small dip in the rate can reset the `FOR` clause when alerting if using `irate` so prefer using `rate`.
 - `irate`/instant rate is basically taking `rate` of the last two samples; i.e looks back at the last two samples under a sliding window.
-- `irate` should only be used when graphing volatile, fast-moving counters. See [comparision here.](https://www.robustperception.io/irate-graphs-are-better-graphs)
+- `irate` should only be used when graphing volatile, fast-moving counters. See [comparison here.](https://www.robustperception.io/irate-graphs-are-better-graphs)
 
 > When taking `rate` it's advisable to take the range time-frame be `4x` the scraping interval. Prometheus default `scrape_interval` is 15s so it should be minimum `1m` because `rate` needs at least two data points to calculate the rate of increase.
 
@@ -124,14 +124,32 @@ Sometimes query step/query resolution/resolution step/evaluation step/`interval`
 
 ### Prometheus UI and Grafana
 
-Grafana adds a few new parameters/options to access the prometheus api endpoints in a few different ways, it's best to consult the official grafana prometheus datasource doc:
+Grafana has a few parameters/options to access the prometheus api endpoints in a few different ways, it's best to consult the [official grafana prometheus datasource doc](https://grafana.com/docs/grafana/latest/features/datasources/prometheus/).
 
-- In grafana you can make your `rate()` range intervals auto-adjust to fit the `query steps`. One could use `$__interval` to choose an appropriate value such as `rate(a_metric_total[$__interval])` for the range vector.
-- In Grafana, the minimum step is (or can be) limited in various ways, both for the entire query (in the data source 'Options') and in the individual metrics queries ('Min step')
+Since Grafana has to deal with graphs and not just the metrics, it has to take extra care when plotting things so that there is never more data points than the the number of has pixels the graph has etc. It has few options which can be **easily confused** with what parameters prometheus api takes in.
+
+Tweaking these grafanap options really depends on what one wants to see in the graph, but there are some variables and options which are not well stated in the official documentation.
+
+- `$__interval` (seconds) : It is a global variable that is dinamically calculated based on the time range and the width of the graph(the number of pixels). There are the `$__from` and `$__to` variables to specify timerange, . The formula is `$__interval = ( $__from - $__to)/resolution`, resolution here means the display resolution(the width of the panel). For example, If the panel is `1099px` wide and time range is `24h = 86400s`, `$__interval = 86400/1099 = 78s`, `78s` is then **rounded up** to `2m` which is then set to the `$__interval` variable.
+- When using the **prometheus data source**, the value of the `$__interval` variable is used as the `step` parameter for the prometheus range queries(`/query_range`)
+- In the prometheus query editor we get another option called `Resolution` which is a ratio(`1/1`,`1/2`,...). `Resolution` here basically means **how many pixels per datapoint**, (`1/1` > `1/10`) This basically modifies the `$__interval` variable ergo the `step`.
+
+> Example,
+>
+> - If `$__interval` was `2m` and `Resolution` was set to `1/1`, `step` would be `2m`.
+> - If `$__interval` was `2m` and `Resolution` was set to `1/2`, `step` would be `2m`x2=`4m`.
+
+- **The minimum value of `step`** is (or can be) limited in various ways, both for the entire panel of queries (`Min interval`) and in the individual metrics queries (`Min step`)
+- In grafana you can make your `rate()` range intervals auto-adjust to fit the `steps`. One could use `$__interval` to choose an appropriate value such as `rate(a_metric_name[$__interval])` for the range vector.
 - The range interval you likely want to use for `rate()` depends partly on your query step:
+
   - Might want the `rate()` range interval of the `query step`
   - Might want the `rate()` range somewhat more than the `query step`
   - If we try to do something like `rate(metric_name[3s])` where the `step` greater than the range of the vector, we'll undersample and skip over some data! because now range durations only include one metric point and none of `rate` or `irate` can operate on one data point.
+
+- There is also the `$__range`,`$__range_s` and `$__range_ms` variables which is basically `to - from` **(CONFUSION!!!)**
+
+- Takeaway, when working with prometheus and Grafana there are **3 different meanings of the same word** resolution. The actual prometheus resolution/`step`(seconds), The panel width resolution and the `Resolution` ratio option of the prometheus datasource.
 
 #### Issues
 

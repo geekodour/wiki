@@ -41,6 +41,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [Matrix Protocol](<https://en.wikipedia.org/wiki/Matrix_(protocol)>)
 - [IP Info by Countries - Understand what this is](https://ipinfo.io/countries/in)
 - [UPnP](https://en.wikipedia.org/wiki/Universal_Plug_and_Play) | [UPnP Doc](https://openconnectivity.org/upnp-specs/UPnP-arch-DeviceArchitecture-v2.0-20200417.pdf)
+- [Public Suffix List](https://publicsuffix.org/)
 
 ## Links
 

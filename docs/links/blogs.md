@@ -64,6 +64,7 @@ sidebar_label: Blogs
 - [Death Note: L, Anonymity & Eluding Entropy - Information Theory](https://www.gwern.net/Death-Note-Anonymity)
 - [Akkha Gyan Edharich Hai](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 - [How to draw block diagrams](https://johnwickerson.wordpress.com/2019/08/08/block-diagrams/)
+- [AwesomeClub](https://awesomeblog.club/)
 
 ## Writing
 
