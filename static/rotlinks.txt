@@ -1,12 +1,28 @@
-https://wiki.geekodour.xyz/docs/tools/laptop_tools/
-	404	https://github.com/geekodour/dotfiles
-https://wiki.geekodour.xyz/docs/ideas/pantry/
-	404	https://twitter.com/i/lists/1222259380139069440
 https://wiki.geekodour.xyz/docs/links/others/dump/
 	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
-https://wiki.geekodour.xyz/docs/links/tweets/
-	404	https://twitter.com/NirantK/status/1234077539020050432
-	dialing to the given TCP address timed out	https://twitter.com/i/status/1093552400453885958
+https://wiki.geekodour.xyz/docs/tools/laptop_tools/
+	404	https://github.com/geekodour/dotfiles
+https://wiki.geekodour.xyz/docs/notes/questions/
+	id #classification not found	https://wiki.geekodour.xyz/docs/notes/study/comp_arch#classification
+	id #virtual-memory not found	https://wiki.geekodour.xyz/docs/notes/study/memory#virtual-memory
+https://wiki.geekodour.xyz/docs/tools/performance_tools/
+	502	https://www.deonsworld.co.za/2012/12/20/understanding-and-using-htop-monitor-system-resources/
+https://wiki.geekodour.xyz/docs/notes/study/security/
+	503	https://news.ycombinator.com/item?id=23187662
+https://wiki.geekodour.xyz/docs/notes/history/
+	503	https://www.reddit.com/r/askscience/comments/3b6lkz/why_is_it_that_the_de_facto_standard_for_the/
+	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
+	id #eeprom not found	https://wiki.geekodour.xyz/docs/notes/study/memory#eeprom
+	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
+https://wiki.geekodour.xyz/docs/links/oneshot/
+	403	https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/signals.html
+	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
+	lookup aos.sh on 168.63.129.16:53: no such host	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
+https://wiki.geekodour.xyz/docs/links/blogs/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 07 Jun 2020 00:16:09 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 4843\r\nConnection: close\r\nX-Dns-Prefetch-Control: off\r\nX-Frame-Options: SAMEORIGIN\r\nStrict-"..."ttps://api.segment.io https://checkout.stripe.com https://cdn.contentful.com https://preview.contentful.com https://images.ctfassets.net https://api.unsplash.com; font-src 'self' data: https://cdnjs.c"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
+https://wiki.geekodour.xyz/docs/notes/study/digital_rights/
+	503	https://www.reddit.com/r/COPYRIGHT/comments/fj1vhi/how_are_the_movie_streaming_sites_like_fmovies/
+	503	https://www.reddit.com/r/explainlikeimfive/comments/8gt520/eli5_how_do_copyrights_work_exactly/
 https://wiki.geekodour.xyz/docs/links/papers/
 	403	https://www.jstor.org/stable/2642267?seq=1
 	404	https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
@@ -16,44 +32,63 @@ https://wiki.geekodour.xyz/docs/links/papers/
 	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41342.pdf
 	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44860.pdf
 	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45409.pdf
+	404	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
 	x509: certificate signed by unknown authority	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
 	x509: certificate signed by unknown authority	https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf
+https://wiki.geekodour.xyz/docs/ideas/running_bsns/
+	504	https://www.reddit.com/r/startups/comments/6s6r4a/heres_the_exact_process_seth_godin_uses_to_launch/
+https://wiki.geekodour.xyz/docs/ideas/pantry/
+	504	https://www.reddit.com/r/Damnthatsinteresting/comments/cvr4cp/my_brother_made_a_game_which_can_project_on_this/ey6102k/
+	504	https://www.reddit.com/r/InternetIsBeautiful/
+	lookup waitwho.is on 168.63.129.16:53: read udp 10.1.0.4:46098->168.63.129.16:53: i/o timeout	https://waitwho.is/
 https://wiki.geekodour.xyz/docs/workshops/projects/
 	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
-https://wiki.geekodour.xyz/docs/tools/performance_tools/
-	502	https://www.deonsworld.co.za/2012/12/20/understanding-and-using-htop-monitor-system-resources/
-https://wiki.geekodour.xyz/docs/notes/questions/
-	id #classification not found	https://wiki.geekodour.xyz/docs/notes/study/comp_arch#classification
-	id #virtual-memory not found	https://wiki.geekodour.xyz/docs/notes/study/memory#virtual-memory
-https://wiki.geekodour.xyz/docs/notes/guides/web3/
-	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
-https://wiki.geekodour.xyz/docs/notes/history/
-	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
-	id #eeprom not found	https://wiki.geekodour.xyz/docs/notes/study/memory#eeprom
-	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
-https://wiki.geekodour.xyz/docs/notes/study/p2p/
-	503	https://news.ycombinator.com/item?id=23180572
-https://wiki.geekodour.xyz/docs/notes/guides/communities/
-	lookup cstheory.stackexchange.co on 168.63.129.16:53: no such host	https://cstheory.stackexchange.co
-https://wiki.geekodour.xyz/docs/notes/case_studies/
-	id #end-to-end-principle not found	https://wiki.geekodour.xyz/docs/notes/study/internet#end-to-end-principle
-	x509: certificate signed by unknown authority	http://man7.org/linux/man-pages/man2/madvise.2.html
-https://wiki.geekodour.xyz/docs/notes/study/memory/gc/
-	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
+https://wiki.geekodour.xyz/docs/tools/k8s/
+	504	https://www.reddit.com/r/kubernetes/comments/9ytvme/need_an_explanation_in_networking_in_kubernetes/
 https://wiki.geekodour.xyz/docs/notes/study/go_lang/pprof/
 	id #basic-usage not found	https://github.com/google/pprof#basic-usage
 	id #interpreting-the-callgraph not found	https://github.com/google/pprof/tree/master/doc#interpreting-the-callgraph
 	id #options not found	https://github.com/google/pprof/tree/master/doc#options
 	id #using-pprof-with-linux-perf not found	https://github.com/google/pprof#using-pprof-with-linux-perf
-https://wiki.geekodour.xyz/docs/notes/study/p2p/nat/
-	id #selection-15.0-20.0 not found	https://archive.is/u7His#selection-15.0-20.0
+https://wiki.geekodour.xyz/docs/notes/study/memory/gc/
+	429	https://github.com/golang/go/blob/master/src/runtime/malloc.go
+	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
 https://wiki.geekodour.xyz/docs/notes/unread_case_studies/
-	503	https://blog.ipfire.org/post/why-not-wireguard
 	id #slide=id.g35f391192_00 not found	https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/mobilepresent#slide=id.g35f391192_00
 	lookup imoverclocked.blogspot.in on 168.63.129.16:53: no such host	http://imoverclocked.blogspot.in/2015/12/for-love-of-bits-stop-using-gzip.html
-https://wiki.geekodour.xyz/docs/links/blogs/
-	522	https://en.arguman.org/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 31 May 2020 00:15:33 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 4843\r\nConnection: close\r\nX-Dns-Prefetch-Control: off\r\nX-Frame-Options: SAMEORIGIN\r\nStrict-"..."ttps://api.segment.io https://checkout.stripe.com https://cdn.contentful.com https://preview.contentful.com https://images.ctfassets.net https://api.unsplash.com; font-src 'self' data: https://cdnjs.c"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
-https://wiki.geekodour.xyz/docs/links/oneshot/
-	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
-	lookup aos.sh on 168.63.129.16:53: no such host	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
+https://wiki.geekodour.xyz/docs/notes/study/math/matrix/
+	429	https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0
+https://wiki.geekodour.xyz/docs/notes/case_studies/
+	504	https://www.reddit.com/r/linuxadmin/comments/bnwcan/iptables_vs_nftables/
+	id #end-to-end-principle not found	https://wiki.geekodour.xyz/docs/notes/study/internet#end-to-end-principle
+https://wiki.geekodour.xyz/docs/notes/guides/web3/
+	503	https://news.ycombinator.com/item?id=22864029
+	503	https://www.reddit.com/r/darknetplan/comments/9o9nxg/p2p_internet_options/
+	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
+https://wiki.geekodour.xyz/docs/notes/study/math/exponents/
+	504	https://www.reddit.com/r/learnmath/comments/6sa837/ive_never_really_questioned_exponents_until_now/
+	504	https://www.reddit.com/r/math/comments/3xa7g1/when_people_say_the_growth_was_exponential_do/cy2v713/
+https://wiki.geekodour.xyz/docs/notes/guides/communities/
+	503	https://www.reddit.com/r/compsci/
+	503	https://www.reddit.com/r/dataisbeautiful/
+	503	https://www.reddit.com/r/datasets/
+	503	https://www.reddit.com/r/homelab/
+	503	https://www.reddit.com/r/learnprogramming/
+	503	https://www.reddit.com/r/netsec/
+	503	https://www.reddit.com/r/sysadmin/
+	503	https://www.reddit.com/r/unixporn/
+	504	https://www.reddit.com/r/InternetIsBeautiful/
+	504	https://www.reddit.com/r/askscience/
+	504	https://www.reddit.com/r/isometric/
+	504	https://www.reddit.com/r/learnmath/
+	504	https://www.reddit.com/r/linuxquestions/
+	504	https://www.reddit.com/r/osdev/
+	lookup cstheory.stackexchange.co on 168.63.129.16:53: no such host	https://cstheory.stackexchange.co
+https://wiki.geekodour.xyz/docs/notes/study/p2p/nat/
+	504	https://www.reddit.com/r/HomeNetworking/comments/8e5zcc/upnproxy_the_final_nail_in_the_coffin_for_upnp/
+	504	https://www.reddit.com/r/HomeNetworking/comments/cwmz71/is_upnp_actually_required_for_gaming_p2p_etc/
+	id #selection-15.0-20.0 not found	https://archive.is/u7His#selection-15.0-20.0
+https://wiki.geekodour.xyz/docs/notes/study/math/numbers/
+	503	https://www.reddit.com/r/askscience/comments/2lw34c/what_are_you_doing_when_you_take_the_natural_log/
+https://wiki.geekodour.xyz/docs/notes/study/math/log/
+	504	https://www.reddit.com/r/learnmath/comments/l948f/why_cant_logs_have_negative_bases/
