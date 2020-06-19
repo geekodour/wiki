@@ -57,6 +57,7 @@ module.exports = {
     Others: [
       "courses/others/accessp2p",
       "courses/others/distributedsystemscourse",
+      "courses/others/memory_alloc_udemy",
     ],
   },
   notes: {

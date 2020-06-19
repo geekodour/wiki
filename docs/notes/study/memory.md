@@ -9,6 +9,7 @@ sidebar_label: Memory
 ## Notes
 
 - [Notes on Garbage Collection](/docs/notes/study/memory/gc)
+- [Notes on Memory Allocation](/docs/notes/study/memory/alloc)
 - [Notes on Memory Hierarchy](/docs/notes/study/memory/mem_hie)
 - [Notes on Virtual Memory](/docs/notes/study/memory/vm)
 - [Notes on Cache](/docs/notes/study/memory/cache)

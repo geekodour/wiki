@@ -49,9 +49,11 @@ sidebar_label: Blogs
 - [The TTY demystified](http://www.linusakesson.net/programming/tty/)
 - [In Depth: The Game Boy Printer](https://shonumi.github.io/articles/art2.html)
 - [The Great ISAs](https://www.cs.cornell.edu/courses/cs7491/2020sp/)
+- [Interesting programming articles](https://esoteric.codes/)
 
 ## Thinking
 
+- https://untools.co/
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) : Falsehoods Programmers Believe in.
 - [vmbrasseur/Public_Speaking](https://github.com/vmbrasseur/Public_Speaking) : A repository of resources about public speaking, specifically in the context of software development and IT conferences.
 - [notion/visa](https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73): The best of @visakanv's twitter threads

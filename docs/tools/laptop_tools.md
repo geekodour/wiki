@@ -4,6 +4,13 @@ title: Laptop Tools
 sidebar_label: Laptop Tools
 ---
 
+## shell tricks
+
+```shell
+$ !$ # the last argument
+
+```
+
 ## yadm
 
 [yadm](https://yadm.io/docs/getting_started#) - [dotfiles](https://github.com/geekodour/dotfiles) manager.
@@ -22,14 +29,14 @@ $ yadm push
 $ git show --format=email HEAD | ./scripts/checkpatch.pl --strict --codespell
 # delete remote branch
 $ git push origin --delete a1
-```
-
-## xrandr
-
-```shell
-# projector
-$ xrandr --output HDMI-1 --mode 1366x768
-$ xrandr --output HDMI-1 --off
+# open all files changed in a PR in vim
+$ vim $(git diff master --name-only)
+# Stash a singe file
+$ git stash -- filename.ext
+# Remove from added/staged
+$ git reset filename.txt
+# delete all untracked files
+$ git clean -fdx
 ```
 
 ## kitty
@@ -63,6 +70,11 @@ $ xmodmap -pke
 $ xev
 # Window class
 $ xprop
+# Disable trackpad
+sudo xinput set-prop 12 "Device Enabled" 0 # after xinput
+# projector
+$ xrandr --output HDMI-1 --mode 1366x768
+$ xrandr --output HDMI-1 --off
 ```
 
 ## Spelling
@@ -107,6 +119,15 @@ $ lscpu
 $ docker run --rm -it --entrypoint="sh" <image>:master
 ```
 
+## hexdump
+
+```shell
+# some pretty printing
+$ hexdump -e '16/1 "%02x " "\n"' -v main.o
+# show first n bytes
+$ hexdump -e '16/1 "%02x " "\n"' -v -n 64 main.o
+```
+
 ## systemd
 
 ```shell
@@ -114,6 +135,66 @@ $ docker run --rm -it --entrypoint="sh" <image>:master
 $ systemctl cat dhcpcd.service
 # systemd-analyze plot : units that take a long time to start
 $ systemd-analyze plot > plot.svg
+```
+
+## gcc
+
+The executable named `gcc` is just a compiler driver/compiler system that selects the "real" compiler and invokes the other components of `gcc` when needed. It does many things like [preprocessing(cpp)](https://linux.die.net/man/1/cpp), [compiling(`cc1`/`cc1plus`/`cc1obj`)](https://gcc.gnu.org/legacy-ml/gcc/2003-05/msg00484.html), [assembling(`as`)](https://linux.die.net/man/1/as) and [linking(`ld`)](https://linux.die.net/man/1/ld)
+
+> Quick note about gcc frontends and backends
+>
+> - You can write your own frontend/backend for gcc
+> - **frontend** is machine independent but language specific
+> - **backend** is language independent but machine specific
+> - [For example](https://superuser.com/questions/1198786/what-is-a-front-end-for-the-gcc-compiler), if you have a C++ front end and a Java front end, you can accept input in C++ and Java. If you have an x86 back end and a MIPS back end, you can produce executables for both x86 and MIPS CPUs.
+> - The compilers such as `cc1`/`cc1plus` are both the frontend and the backends, they are linked into one executable.
+
+```shell
+# output
+$ gcc main.c -o main
+# optimization
+# Defaults to -O0 if not specified.
+# Sets to -O1 if flag is -O1 or simply -O
+# Other optimizations include -O2, -O3, -Os, -Ofast
+$ gcc -O main.c -o main
+# Define macro in the fly for the preprocessor
+$ gcc -D DEBUG main.c -o main
+# Generate debug info for GDB, Levels: -g0(negates debug info),-g1,-g, -g3
+# The ELF object file is added with the .debug and .line section if -g flag is used.
+$ gcc -g main.c -o main
+# Generate preprocessed file
+$ cpp main.c main.i
+# Compile but do not Link. Just generate the object file.
+# All three will generate the same main.o file.
+$ gcc -c main.c
+$ gcc -c main.c -o main.o
+$ gcc -c main.i -o main.o
+# The --help flags takes in several classes (see man gcc)
+$ gcc --help=warnings # Shows warning descriptions
+$ gcc -Q --help=warnings # Shows whether the option is set
+# All warnings (Actually not all! see --help=warnings)
+$ gcc -Wall main.c -o main
+# -Wextra prints additional warnings, -Wextra was previously -W
+$ gcc -Wall -Wextra main.c -o main
+# Passing options to the linker, Wl looks like a Warning flag but is not!
+$ gcc -Wl,-Map main.c # passes -Map to the linker(ld).
+# Specify directory for Include files/Header files
+$ gcc -Iproj/src main.c -o main # eg. proj/src/myheader.h
+```
+
+> The gcc compiler driver takes flags that it can then pass to the corresponding components, eg. `-D` flag is passed to the preprocessor(`cpp`) which also has the `-D` flag, but there are few incompatibilities wrt flags aswell.
+
+### Links
+
+- [What Are Your GCC Flags ?](http://blog.httrack.com/blog/2014/03/09/what-are-your-gcc-flags/)
+- [The -l and -L flags](https://www.rapidtables.com/code/linux/gcc/gcc-l.html)
+- [GCC optimization](https://wiki.gentoo.org/wiki/GCC_optimization)
+
+## objdump
+
+```shell
+$ objdump -d main #disassemble
+$ objdump -t main #symbol table
 ```
 
 ## Random snippets
@@ -139,4 +220,10 @@ $ grep -rl assets|xargs sed -i 's/assets/\/img\//g'
 - https://dougvitale.wordpress.com/2011/12/21/deprecated-linux-networking-commands-and-their-replacements/
 - https://wiki.archlinux.org/index.php/Network_configuration#net-tools
 - https://wiki.gentoo.org/wiki/Iproute2
-- nm, readelf, objdump
+- ar, nm, readelf, objdump
+- systemd-nspawn
+- dropwatch
+- cgasm
+- https://github.com/neutrinolabs/xrdp
+- https://en.wikipedia.org/wiki/TightVNC
+- https://rr-project.org/

@@ -84,3 +84,5 @@ https://en.wikipedia.org/wiki/Asymmetric_multiprocessing
 * instruction-level parallelism (ILP)
 * thread-level parallelism (TLP) method
 * read more on clock rates
+
+https://news.ycombinator.com/item?id=23446543

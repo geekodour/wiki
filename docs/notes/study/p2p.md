@@ -32,3 +32,4 @@ Read links will be removed and added somewhere else where they fit better.
 - [Hyperdrive discussions](https://news.ycombinator.com/item?id=23180572)
 - power law in p2p networks?
 - [Named Data Networking](https://named-data.net/)
+- [AwesomeP2P](https://github.com/kgryte/awesome-peer-to-peer)

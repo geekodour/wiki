@@ -55,6 +55,7 @@ Reading this list will probably take an entire week lol.
 - https://kubernetes.io/blog/2019/04/19/introducing-kube-iptables-tailer/
 - https://docs.oracle.com/en/operating-systems/oracle-linux/kubernetes/kube_admin_config_iptables.html
 - https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
+- https://medium.com/thermokline/how-to-choose-a-k8s-cni-plugin-771edf4842c0
 
 ## CNI
 

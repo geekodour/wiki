@@ -89,6 +89,8 @@ Some measurements vary by a little at the small scale, or a lot at the large sca
 - Often exponential growth curves are displayed on a log scale.
 - lin/linear scale is additive, while the log scale is multiplicative by a fixed number.
 
+---
+
 ## Growth
 
 > This section probably has a lot of mistakes!
@@ -149,9 +151,13 @@ Logarithmic growth is the inverse of exponential growth and is very slow. Basica
 - [A Comparison of Linear, Parabolic, and Exponential Growth](https://asiakas.kotisivukone.com/files/clarity.kotisivukone.com/comparison_of_growth.pdf)
 - [How to read a log scale and geometric mean](https://www.youtube.com/watch?v=8jR-_Om4myk)
 
+---
+
 ## Order of Magnitude
 
 An **order of magnitude** is an approximate [position on a **logarithmic scale.**](https://psychology.wikia.org/wiki/Order_of_magnitude). Eg. $4\times10^6$ has a common logarithm of `~6.602`; Its order of magnitude is `6`.
+
+---
 
 ## Inclusive and Exclusive
 
@@ -161,3 +167,5 @@ An **order of magnitude** is an approximate [position on a **logarithmic scale.*
 [0, 5) = 0, 1, 2, 3, 4
 [0, 5] = 0, 1, 2, 3, 4, 5
 ```
+
+---

@@ -26,4 +26,7 @@ cat /proc/interrupts
 
 IRQs need a Interrupt controller, previously [PIC](https://en.wikipedia.org/wiki/Programmable_interrupt_controller) and now [APIC](https://en.wikipedia.org/wiki/Advanced_Programmable_Interrupt_Controller) they kind of maintain the index of IRQs.
 
+## Links
+
 - [PnP](https://en.wikipedia.org/wiki/Plug_and_play)
+- [Kernel Timer Systems](https://elinux.org/Kernel_Timer_Systems)

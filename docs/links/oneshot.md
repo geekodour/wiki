@@ -136,6 +136,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 ## Networks
 
 - [Different network topologies](https://github.com/Raynos/topology)
+- [How to XDP (with Snabb)](https://mr.gy/blog/snabb-xdp.html)
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
 - [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org/index.html)
 - [Software-Defined Networks: A Systems Approach](https://sdn.systemsapproach.org/index.html)
@@ -193,6 +194,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [Educational Heap Exploitation](https://github.com/shellphish/how2heap)
 - [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
 - [ELF P1](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html) | [ELF P2](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/) | [ELF P3](https://medium.com/@MrJamesFisher/understanding-the-elf-4bd60daac571)
+- [How To Learn Cryptography as a Programmer](https://soatok.blog/2020/06/10/how-to-learn-cryptography-as-a-programmer/)
 
 ## Web Engineering
 

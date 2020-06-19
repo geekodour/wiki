@@ -20,6 +20,8 @@ Ideas should come from necessity but sometimes looking at new things help birth 
 
 - [retro css](https://github.com/matt-auckland/retro-css)
 - [cool backgrounds](https://coolbackgrounds.io/)
+- https://github.com/pshihn/rough-notation
+- [Text to Diagram Tools](https://smusamashah.github.io/text-to-diagram)
 
 ### Projects
 

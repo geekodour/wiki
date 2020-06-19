@@ -10,6 +10,8 @@ Inspired by the [Jargon File](https://en.wikipedia.org/wiki/Jargon_File), here i
 - **HugOps**: It is a way to celebrate the human, empathetic side of building, shipping, and running software.
 - [Dead man's switch](https://en.wikipedia.org/wiki/Dead_man%27s_switch)
 - [Watchdog timer](https://en.wikipedia.org/wiki/Watchdog_timer) : Used in Mars Exploration Rover (MER) 🚀
+- **Unsolicited daemon**: A daemon process that sleeping for a long time, legends say it can sometime have 0 RES memory.
+- **opcode**: abbreviated from operation code, it is basically the portion of a machine language instruction that specifies the operation to be performed. Apart from ISAs, [bytecode specifications](/docs/notes/study/os/elf) also use opcodes.
 
 ## Stubs
 

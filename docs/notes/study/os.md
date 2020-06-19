@@ -14,6 +14,8 @@ It's basically a special layer of software that provides application software ac
 - [Notes on Threads](/docs/notes/study/os/threads)
 - [Notes on IPC](/docs/notes/study/os/ipc)
 - [Notes on Interrupts](/docs/notes/study/os/interrupts)
+- [Notes on Linkers, Loaders, Shared and Static Libraries](/docs/notes/study/os/libs)
+- [Notes on ELF](/docs/notes/study/os/elf)
 
 ## Jargons/Rabbit Holes (Unread)
 

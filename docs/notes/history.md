@@ -166,6 +166,7 @@ A lot of events in history are important, but some events are more important to 
 - **DragonFly BSD** was released.
 - **Linux Security Modules(LSM)** was merged into Linux.
 - **SELinux** originally developed by [NSA](#1952) was merged into Linux Kernel.
+- **Athlon64** the **first 64bit processor** was released by [AMD](#1969)
 
 # 2002
 
@@ -185,6 +186,7 @@ A lot of events in history are important, but some events are more important to 
 - **CreativeCommons** was founded.
 - **ext3** was introduced with journaling to the Linux Kernel.
 - **Advanced Encryption Standard (AES)** spec(published in 1998) was established by [**NIST**](#1901). It superseeded [DES](#1977) and is a symmetric-key algorithm. It later became an [ISO](#1947) and [IEC](#1905) standard and was approved by the [NSA](#1952) publicly.
+- **LSB(Linux Standard Base)** was formed to preserve ABI between diffeerent Linux distributions.
 
 ## 2000
 
@@ -264,6 +266,7 @@ A lot of events in history are important, but some events are more important to 
 - **3DES** was released as [DES](#1977) is no longer considered adequate, 3DES inturn later was considered inadequate in 2016 when [OpenSSL](#1998) stopped including it because it was a "weak cipher".
 - **SSL 2.0** and **HTTPS** released by Netscape. [Taher Elgamal](#1985) is considered the father of SSL.
 - 🇫🇮 **SSH-1** was released as a freeware.
+- Linux added ELF support, The Linux ELF format was chosen at 86open as the standard for x86 arch in 1999.
 
 ## 1994
 
@@ -383,7 +386,7 @@ A lot of events in history are important, but some events are more important to 
 - [mitre](#1958).org was the first .org domain name registered.
 - Xilinx put out the first commercially available **FPGA**
 - First **NUMA** based system was the XPS-100 by Dan Gielan. AMD added NUMA support in 2003 and Intel in 2007.
-- [Intel](#1968) released the 80386, **the first x86 microprocessor** with a 32-bit instruction set and a memory management unit with paging.
+- [Intel](#1968) released the 80386 / i386, **the first x86 microprocessor** with a 32-bit instruction set and a memory management unit with paging.
 - **ElGamal encryption system**(asymmetric key encryption algorithm) was defined by Taher Elgamal. It is based on the [Diffie–Hellman](#1976) key exchange.
 - **ElGamal signature scheme** (a digital signature scheme) was also released during this time by Taher Elgamal.
 

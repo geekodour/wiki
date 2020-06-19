@@ -32,12 +32,14 @@ I'll be adding/removing links to and from this page time to time.
 - [fuzzing workshop](https://fuzzing-project.org/background.html)
 - [basic ipc](http://beej.us/guide/bgipc/html/multi/index.html) : by Beej
 - [miekg/exdns](https://github.com/miekg/exdns): Examples made with Go DNS
+- [A guide to writing a DNS Server from scratch in Rust](https://github.com/EmilHernvall/dnsguide)
 
 ## Kernel
 
 - [Kernelnewbies](https://kernelnewbies.org/): Kernelnewbies is a community of aspiring Linux kernel developers who work to improve their Kernels and more experienced developers willing to share their knowledge.
 - [Linux Kernel Teaching Labs](https://linux-kernel-labs.github.io/refs/heads/master/): This is a collection of lectures and labs Linux kernel topics. The lectures focus on theoretical and Linux kernel exploration.
 - [Writing Your First PAM Module](https://rkeene.org/projects/info/wiki/222)
+- [C internals](http://www.avabodh.com/cin/cin.html)
 
 ## Systems Admin
 

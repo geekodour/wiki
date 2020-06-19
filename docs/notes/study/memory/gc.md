@@ -4,14 +4,6 @@ title: Garbage Collection
 sidebar_label: Garbage Collection
 ---
 
-## writing malloc
-
-- https://danluu.com/malloc-tutorial/
-- https://sites.cs.ucsb.edu/~rich/class/cs170/labs/lab1.malloc/
-- https://arjunsreedharan.org/post/148675821737/memory-allocators-101-write-a-simple-memory
-- http://www.cs.cmu.edu/afs/cs/academic/class/15213-f10/www/lectures/17-allocation-basic.pdf
-- dmitrysoshnikov.com/compilers/writing-a-memory-allocator/
-
 ## others
 
 - Compilers use a technique called escape analysis to determine if something can be allocated on the stack or must be placed on the heap.
@@ -48,6 +40,7 @@ There's some layering here:
 - Like most modern allocators, tcmalloc is page-oriented, meaning that the internal unit of measure is usually pages rather than bytes.
 - The Go GC uses a pacer to determine when to trigger the next GC cycle.
 - Go’s default pacer will try to trigger a GC cycle every time the heap size doubles., The 2x value comes from a variable GOGC the runtime uses to set the trigger ratio.
+- `src/runtime/malloc.go` : This was originally based on tcmalloc, but has diverged quite a bit now.
 
 https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
 
@@ -56,3 +49,11 @@ https://github.com/golang/go/blob/master/src/runtime/malloc.go
 https://utcc.utoronto.ca/~cks/space/blog/programming/GoProgramMemoryUse (some practical ideas on arena etc.)
 
 - https://news.ycombinator.com/item?id=23214535 MMU gang wars
+
+### memory man
+
+Turns out that Go organizes memory in spans, which are contiguous regions of memory of 8K or larger. There are 3 types of Spans:
+
+- 1. idle – span, that has no objects and can be released back to the OS, or reused for heap allocation, or reused for stack memory.
+- 2. in use – span, that has atleast one heap object and may have space for more.
+- 3. stack – span, which is used for goroutine stack. This span can live either in stack or in heap, but not in both.

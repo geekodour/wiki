@@ -53,3 +53,7 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 ## Security
 
 - [Create your own MD5 collisions](https://natmchugh.blogspot.com/2015/02/create-your-own-md5-collisions.html)
+
+## Hardware
+
+- [Build yourself a weather station. Part I](https://blog.kdubovikov.ml/articles/hardware/build-yourself-a-weather-station)

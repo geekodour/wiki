@@ -133,6 +133,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 
 - 🖨[Readings in Database Systems](http://www.redbook.io/)
 - 🖨[Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
+- [Looking Back at Postgres](https://arxiv.org/pdf/1901.01973.pdf)
 
 ## Systems
 

@@ -20,6 +20,21 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 
 # How do I put my wiki on ipfs
 
+## Tor
+
+- https://lobste.rs/s/is2li1/operating_tor_relay
+
+## cool
+
+- https://medium.com/fluence-network/decentralized-web-developer-report-2020-5b41a8d86789
+- https://toobnix.org/videos/watch/8ee54700-971c-4da3-a8b4-7a78ed9ac42e
+- https://mxb.dev/blog/the-return-of-the-90s-web/
+
+## archival
+
+- https://webrecorder.net/
+- https://conifer.rhizome.org/
+
 ## Fraidyc
 
 - https://fraidyc.at/
@@ -61,6 +76,7 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 - https://hotlinewebring.club/
 - https://omglord.com/
 - https://neonaut.neocities.org/directory/
+- https://news.ycombinator.com/item?id=23549471
 - https://www.kickscondor.com/foundations-of-a-tiny-directory/
 - https://www.kickscondor.com/linkto/
 - https://href.cool/about/
@@ -81,3 +97,4 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 
 - https://www.edwinwenink.xyz/etc/etc/
 - https://fingers.today/
+- https://simplifier.neocities.org/
