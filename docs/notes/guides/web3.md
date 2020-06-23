@@ -16,9 +16,20 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 
 # Dat
 
+# local
+
+- https://github.com/DIYgod/RSSHub-Radar
+
+- https://localwiki.org/
+- https://www.openstreetmap.org/user/jesolem/diary/393358
+
 # amartak GUN
 
 # How do I put my wiki on ipfs
+
+- http://textfiles.com/
+- https://cheapskatesguide.org/articles/beauty-of-text.html
+- https://news.ycombinator.com/item?id=23573852
 
 ## Tor
 

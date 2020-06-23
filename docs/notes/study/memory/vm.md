@@ -73,3 +73,4 @@ The **translation lookaside buffer (TLB)** is a memory cache in the `MMU`, It st
 ## Links
 
 - [libc manual memory concepts](https://www.gnu.org/software/libc/manual/html_node/Memory-Concepts.html#Memory-Concepts)
+- [Kerverl Virtual Memory vs User Vertual Memory](https://stackoverflow.com/questions/8708463/difference-between-kernel-virtual-address-and-kernel-logical-address)

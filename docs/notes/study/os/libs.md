@@ -41,8 +41,6 @@ In the linking phase, we have two [compilation flavours/envs](https://wiki.osdev
 
 > 🔌 For embedded environment, since there is no loader available the `crt0` has more work to do, such as exception vector setup, initilizing the stack and frame pointers etc. It's also useful to supply your own `_start` when you want to write really tiny programs or programs that do unconventional things.
 
-- `PLT[1]` calls `libc_start_main`
-
 ```shell
 # Linker combines other obj, shared obj and generates the exec obj.
 # Following commands won't work because how the C standard library is linked.
@@ -107,9 +105,9 @@ Loader has many things to do such as:
 
 Once it does all this, just call into the entrypoint which is generally `_start`
 
-Linux loads the .text section into memory only once, no matter how many times an application is loaded. This reduces memory usage and launch time and is safe because the code doesn't change. For that reason, the .rodata section, which contains read-only initialized data, is packed into the same segment that contains the .text section. The .data section contains information that could be changed during application execution, so this section must be copied for every instance.
+Linux loads the `.text` section into memory only once, no matter how many times an application is loaded(`forked`(?)). This reduces memory usage and launch time and is safe because the code doesn't change. For that reason, the `.rodata` section, which contains read-only initialized data, is packed into the same segment that contains the `.text` section. The `.data` section contains information that could be changed during application execution, so this section must be copied for every instance.
 
-> you should load the segments, not the sections. Load the segment if it is of type `PT_LOAD`, `LOAD`.
+> Loader loads the segments, [not the sections](/docs/notes/study/os/elf#section-and-segments). Load the segment if it is of type `PT_LOAD`/`LOAD`.
 
 ## Symbols
 
@@ -120,25 +118,27 @@ In the C compilation process:
 - **The compiler(cc1)** generates assembly file(`.s`) which contains the symbols in text format, the compiler may do any sort of name mangling here(_eg. sometimes it optimizes unused variables/extern vars so they never make to the symbol table!_)
 - Now **the Assembler** takes the `.s` file and creates the obj file. While doing so, it creates the symbol table in the `.symtab` section of the ELF object. In ELF64, `.symtab` contains an array entries of struct `Elf64_Sym`.
 - Now **the linker/static linker/link editor** will look into `.symtab`, `.rel.text`, `.rel.data` to perform symbol resolution and relocation, for dynamic executables it'll leave some of the linking to the loader/dynamic linker.
-- **The loader** makes use of the program header table to determine what things to put in memory for creating process images etc.
-- If **lazy loading**(which is the common case), the shared library is not loaded until a function in it’s library is loaded by **the dynamic loader**. (GOT and PLT stuff.)
-- Lazy binding requires use of the PLT; with -fno-plt all external symbols are resolved at load time.
+- **The loader** makes use of the `program header table` to determine what things to put in memory for creating process images etc. Later(in the case of dynamic executables) the [dynamic linker](https://man7.org/linux/man-pages/man8/ld-linux.8.html) uses **lazy loading**(which is the common case) to resolve the symbols using `GOT` and `PLT`, we could also use `-fno-plt` to resolve all external symbols at load time.
 
 > **Dynamic Symbol Table**
 >
-> `.dynsym` is a smaller version of `.symtab` that only contains global symbols. The information found in the `.dynsym` is therefore also found in the `.symtab`, while the reverse is not necessarily true. For storing null-terminated strings, `.dynstr` is used with `.dynsym`. The symbols in `.dynsym` are called **dynamic linker symbols.**
+> `.dynsym` is a smaller version of `.symtab` that only contains global dynamic symbols. They are kept separate to ease the operation of relocation. The information found in the `.dynsym` is therefore also found in the `.symtab`, while the reverse is not necessarily true. For storing null-terminated strings, `.dynstr` is used with `.dynsym`. The symbols in `.dynsym` are called **dynamic linker symbols**, well because the dynamic linker makes use of these.
 >
-> also found in shared objs
+> `.dynsym` is found in shared objects and dynamic executables but not found in regular relocatable object files. The relocation operation with dynamic symbols also relies on two extra tables which are namely:
 >
-> got and plt seem to be there no matter if you compile with --no-pic/-no-pie
->
-> This does not exist in the reloc. obj file.
->
+> - `.rela.dyn` : Relocation for dynamically linked objects (data or procedures), if PLT is not used.
+> - `.rela.plt` : List of elements in the PLT, which are liable to the relocation during the dynamic linking.
+
+```shell
+# some observations
+$ gcc main.c # .dynsym .dynstr .rela.dyn .rela.plt
+$ gcc -fno-plt main.c # .dynsym .dynstr .rela.dyn
+$ gcc -static main.c # .rela.plt (?)
+$ gcc -static -fno-plt main.c # .rela.plt (?)
+# bonus: see md5 sums, or use the size command
+```
+
 > some [good historical context](https://blogs.oracle.com/solaris/inside-elf-symbol-tables-v2)
->
-> .symtab is for the linking step of the shared lib itself. Once linking is finished, the .symtab section is not needed anymore. The .dynsym section contains important symbols that are supposed to be searched by the dynamic linker at run time.
->
-> TODO: Are these table/section dynamic linking specific? How does static linking work then if processes do not use `.symtab`, program header?? `.dynsym`, on the otherhand, is needed at runtime, so it is kept in the process image. any relation to the PTL or whatever.
 
 ### Symbol Sections
 
@@ -190,9 +190,7 @@ The purpose of symbol resolution is to associate each symbol reference with exac
 
 ### Compile Time Symbol Resolution
 
-The compiler just looks at the ascii intermediate code and generates symbols in the assembly file. It does not not create the symbol table yet.
-
-> Sometimes compile-time is referenced for Link-time aswell.
+The compiler just looks at the ascii intermediate code and generates symbols in the assembly file. It does not not create the symbol table yet. _Sometimes compile-time is referenced for Link-time aswell._
 
 ### Link Time Symbol Resolution
 
@@ -206,104 +204,106 @@ swap();           /* reference symbol swap */
 int *xp = &x;     /* define symbol xp, reference x */
 ```
 
-- [How to Write Shared Libraries by Ulrich Drepper](https://software.intel.com/sites/default/files/m/a/1/e/dsohowto.pdf)
-
 ### Load Time Symbol Resolution
 
-The Static Linker(ld) creates the executable but does not link the shared libraries but does make a note of which shared lbraries to load so that the loader/runtime can load them as required. This is partially linking. The loader(execve syscall) inturn calls the dynamic linker (ld-linux.so)
+The Static Linker(ld) creates the executable but does not link the shared libraries but does make a note of which shared lbraries to load so that the loader/runtime can load them as required. This is partially linking. The loader(execve syscall) inturn calls the **dynamic linker (`ld-linux.so`)**, now the dynamic linker can lazyload the symbols for functions from shared libraries which makes use of both `GOT` and `PLT`.
 
 ### Run Time Symbol Resolution
 
-Also when running the program, the dynamic linker is used to figure out the symbols of shared libs along with GOT and PLT. Once could resolve symbols while the program is running aswell with functions such as `dlopen`.
+One could resolve symbols while the program is running aswell with functions such as `dlopen`.
 
-## PIC,PIE,GOT and PLT
+## PIC, ASLR, PIE, GOT and PLT
+
+These things are related, it's interesting to know how and it is related [how addressing works](https://stackoverflow.com/questions/18026333/what-does-compiling-with-pic-dwith-pic-with-pic-actually-do).
 
 ### PIC
 
-The idea behind PIC is simple - **add an additional level of indirection to all global data and function references in the code**. It's an old concept that we needed when we needed to load multiple programs into the same physical address space but became less useful as we moved to virtual address spaces, but with **shared libraries** we have the need to use PIC again since we don't want shared libraries to be overlapping and we do not know which virtual address that shared library will run at.
+The idea [behind PIC](https://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/) is simple - **add an additional level of indirection to all global data and function references in the code**. It's an old concept that we needed when we needed to load multiple programs into the same physical address space but became less useful as we moved to virtual address spaces, but with **shared libraries** we have the need to use PIC again since we don't want shared libraries to be overlapping and we do not know which virtual address that shared library will run at.
 
 Before PIC we're using [load time relocation for shared libraries](#shared-libraries) which made the dynamic linker do a lot of relocation during runtime. PIC practicaly eliminates all absolute addressing, replacing it with either relative addressing or a small jump table that can be forked for each process and for different processes, the same shared library will run at different address, depending on the decisions made by the dynamic linker.
 
-#### Static Libraries and PIC
+It is related to how the assembler/gcc assembles the symbols and not related to the linker. One could generate PIC code by using the `-fpic` or `-fPIC` flags. There is a [difference between both of those flags](https://stackoverflow.com/questions/3544035/what-is-the-difference-between-fpic-and-fpic-gcc-parameters?rq=1).
 
-> - DOUBT: Apparently there is a difference between -fpic and -fPIC and the same for pie!
-> - Objects can be PIE?
+#### Library Intent Table
 
-- Traditionally, static libraries are compiled without -fPIC on Linux because it usually doesn't have much use(as resolution is already done by link-editor) and on some architectures there is a small performance penalty for using it.
+| ELF Type  | Intent                          | Note                                                                                                                                                                                                                                                                 |
+| --------- | ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `ET_REL`  | Relocatable Object Files (`.o`) | These are generated based on code generation options available. `-fPIC`,`-fPIE`,`-fno-pie`                                                                                                                                                                           |
+| Not ELF   | Static Library (`.a`)           | Static libraries are just archives(`.a`) which can contain any or mix of PIE/PIC/non-PIC relocatable object files, but mixing is usually not the best thing to do.                                                                                                   |
+| `ET_DYN`  | Shared Library (`.so`)          | Code used for shared libraries **must be** generated using `-fPIC`, if the shared library is supposed to link against another static library the object files in the static library should be compiled using `-fPIC` aswell.                                         |
+| `ET_DYN`  | Static PIE Exec                 | May only be created from PIC/PIE objects (`.o`) and PIC/PIE static libraries (`.a`), this was not possible until the `-static-pie` flag was added. But this is something one would not use often. `ldd` shows statically linked but the ELF type is `ET_DYN`! weird. |
+| `ET_EXEC` | Static non-PIE Exec             | This is the traditional way how static libraries are used as they already have the symbols resolved. The objects here can be non-PIC/PIC/PIE. One simply needs to use the `-static` flag for this.                                                                   |
+| `ET_DYN`  | Dynamic PIE Exec                | This is the most common thing one would encounter. May only be created from PIC/PIE objects (.o) and PIC/PIE static libraries (.a) It uses `-pie` which is added by default in GCC these days.                                                                       |
+| `ET_EXEC` | Dynamic non-PIE Exec            | One needs to use `-no-pie` flag, the object files can be PIC/non-PIC/PIE. `ldd` will show the dynamically linked libraries.                                                                                                                                          |
 
-Super confusing:
+Some take-aways:
 
-- diff btwn -fpic and -fPIC https://stackoverflow.com/questions/3544035/what-is-the-difference-between-fpic-and-fpic-gcc-parameters?rq=1
-- , if you intend to link shared libraries against it(static), you need PIC code in your static library.
-
-- Position Independent executables may be created from PIC or PIE objects (.o) and PIC or PIE static libraries (.a)
-- PIC shared libraries can only be created from PIC objects or static libraries
-- Non-PIE executables1 can be created from any objects or static libraries
-- If the object is to be linked as a shared library, or a static library that will in turn be linked in a shared library, use -fPIC
-- If the object is to be linked as a position indenpendent executable, or astatic library that will in turn be linked in position independent executable, use -fPIE
+- Code compiled with `-fPIC` can be used in anything, from shared libraries to executables (PIE or not)
+- non-PIE executables can be created from any objects or static libraries.
+- If both static and shared libraries are found, the linker gives preference to linking with the shared library unless the `-static` option is used.
+- When creating **PIE executables** its better to use `-fPIE` for code generation for some small optimizations over `-fPIC`.
+- When creating **non-PIE executables** using PIC/PIE object file is possible but makes less sense and adds some bloat.
+- Mixing of non-PIC and PIC objects is for sure a [very weird usecase](https://stackoverflow.com/questions/36460420/is-it-valid-to-link-non-pic-objects-into-an-executable-with-pic-objects?rq=1)
 
 ### ASLR
 
-- out of many things, having aslr makes it hard for the attacker to guess the address space of a program.
-- Idea is that appications run in a randomized address space.
-- When debugging with gdb, it kind of disables aslr so if you run, if you want gdb to use asle address better used the pid
+The primary idea is that appications run in a randomized address space. Out of many things, [having ASLR](https://en.wikipedia.org/wiki/Address_space_layout_randomization) makes it hard for the attacker to guess the address space of a program. It solves additional secutity problems such as [NX bit](https://en.wikipedia.org/wiki/NX_bit) cannot prevent [return to libc attacks](https://en.wikipedia.org/wiki/Return-to-libc_attack), but ASLR can make it very difficult to perform.
+
+> When debugging with gdb, it kind of disables ASLR so if you run, if you want gdb to use ASLR address better used the pid
 
 ```shell
 λ sudo sysctl -a | grep 'randomize_va_space'
 146:kernel.randomize_va_space = 2
+λ ldd a.out
+        linux-vdso.so.1 (0x00007ffc37974000)
+        libc.so.6 => /usr/lib/libc.so.6 (0x00007fe87a9df000)
+        /lib64/ld-linux-x86-64.so.2 => /usr/lib64/ld-linux-x86-64.so.2 (0x00007fe87abe1000)
+λ ldd a.out
+        linux-vdso.so.1 (0x00007ffe6e1f9000) # notice the address change.
+        libc.so.6 => /usr/lib/libc.so.6 (0x00007f1e91303000)
+        /lib64/ld-linux-x86-64.so.2 => /usr/lib64/ld-linux-x86-64.so.2 (0x00007f1e91505000)
 ```
+
+To enable ASLR for executables, the OGs decided to extend PIC to executables and call it PIE. Infact when compile a program without PIE (`-no-pie` linker option) you get an ELF object of type `ET_EXEC` and when you comple with PIE (`-pie`, default nowadays) you get the executable with type `ET_DYN`, which is the same type as of shared objects.
+
+It appears that the main effect of `ET_EXEC` vs `ET_DYN` in the Linux kernel / dynamic loader is to inform if the executable can be placed in random memory locations or not with ASLR.
 
 ### PIE
 
-- PIE executables are sort of a hack using a shared object with an entry-point.
-- The only real difference between PIE and PIC is that you are allowed to interpose symbols in PIC, but not in PIE. Except for that, they are pretty much equivalent.
-- https://www.drdobbs.com/building-library-interposers-for-fun-and/184404926
-- no diff between shared lib and pie exec. both dyn see with -no-pie -no-pic etc.
-  Before the early 2000s, PIC was limited to shared libaries. Then PIE came to solve some security concerns.
-- PIE executables will be using relative addressing, but On the other hand, a non-PIE executable is always loaded at its linked-at address. On Linux, the default address for x86_64 binaries is 0x400000, and so the .text ends up not far from there.
+Before the early 2000s, PIC was limited to shared libaries. Then PIE came to solve some security concerns(allowing ASLR). PIE executables are sort of a hack using a shared object with an entry-point which do be using relative addressing instead of absolute addressing. Interesting thing is PIE can be done in both the code generation phase(`-fPIE`) and in the linking phase(`-pie`). Other than security usage, PIE can also have other uses like making binaries more appropriate for MMU-less systems.
 
-* PIE in statically linked binaries is also done.
-* Nowadays, position independent executables (PIE) are the default on distros such as Ubuntu 18.04.
-* To address what -pie does, it produces an executable that can be loaded at an arbitrary base address, rather than "normal" executables whose load addresses are fixed at ld-time. These use the same type of position-independent code and load headers used in shared libraries, which are also loadable at arbitrary addresses. PIE is generally considered a hardening mechanism (allowing address randomization to affect the address of code and data in the main program) but it can also have other uses like making binaries more appropriate for MMU-less systems.
-* https://en.wikipedia.org/wiki/Address_space_layout_randomization
-* https://en.wikipedia.org/wiki/Return-to-libc_attack (nx bit cannot prevent this, aslr can)
-* The presence of the PHDR and INTERP headers indicates that -pie silently overrides -static in the arm compiler.
-* PIE is to support address space layout randomization (ASLR) in executable files.
-* PIE is just PIC but for executables and addition to some optimizations in pie, It works very much like what PIC does for dynamic libraries, the difference is that a Procedure Linkage Table (PLT) is not created, instead PC-relative relocation is used.
-* When using PIE, A dynamic linker does full relocation processing on the program module, just like dynamic libraries. Any usage of global data is converted to access via the Global Offsets Table (GOT) and GOT relocations are added.
-* When GCC compiles executable by defaults it makes them PIE which changes the output flag on the ELF Header to ET_DYN. gcc -no-pie to disable. It appears that the main effect of ET_EXEC vs ET_DYN in the Linux kernel / dynamic loader is to inform if the executable can be placed in random memory locations or not with ASLR.
-* [Scrt1.o is used](/txt/crt.txt) in place of crt1.o when generating PIEs. PIE is normally linked with Scrt1.o, but a shared library is normally not. But there is nothing to prevent a shared library to be linked with Scrt1.o as well,
-* The distinction between "executable" and "shared object" is largely artificial. What the file command is showing you is whether the ELF e_type header is ET_EXEC or ET_DYN. This is a rather technical distinction and has to do with how the loader treats them. file (via its magic file) should probably be taught to distinguish between "shared object" in the sense of "shared library" and "PIE executable" by looking for other characteristics like the presence of a PT_INTERP program header (which libraries generally won't have) or perhaps an entry point address (although some libraries seem to have a meaningless one).
+The only real difference between PIE and PIC is that you are [allowed to interpose symbols in PIC](https://www.drdobbs.com/building-library-interposers-for-fun-and/184404926), but not in PIE. They are pretty much equivalent except some optimizations that are sort of negligible, but the produced code has [certain places that it can be used as mentioned in this table](#library-intent-table).
+
+The presence of the `PHDR` and `INTERP` program headers(`readelf -l`) indicates that the executable is PIE, this is probably what `file` uses. Additionally, [`Scrt1.o` is used](/txt/crt.txt) in place of `crt1.o` when generating PIEs but a shared library is normally not. But there is nothing to prevent a shared library to be linked with Scrt1.o as well,
 
 ### PLT
 
-For calls made from PIC code, you are correct that the PLT is not really needed. The compiler could just was well generate a GOT lookup and indirect call to the address obtained from the GOT. Using a PLT tends to make the code slightly more efficient though
+PLT stands for Procedure Linkage Table which is, put simply, used to call **external procedures/functions** whose address isn't known in the time of linking, and is left to be resolved by the dynamic linker. (PLT does not deal with variables, only procedures)
 
-- Position independent code will call non-static functions via the Procedure Linkage Table or PLT.
+PLT and PIC are not as tightly coupled as some sources say. For calls made from PIC code, the PLT is not really needed. The compiler could just was well generate a GOT lookup and indirect call to the address obtained from the GOT. Using a PLT tends to make the code slightly more efficient though.
 
-- Where the PLT is absolutely needed, however, is in non-PIC code that's dynamic linked.
-- shared libs must be using pic
+In the common senario, the dynamic linker checks the address of shared libraries, and hacks up the GOT and PLT so that it will point correctly to the required shared library symbol that the running program is asking for.
 
-PLT stands for Procedure Linkage Table which is, put simply, used to call external procedures/functions whose address isn't known in the time of linking, and is left to be resolved by the dynamic linker at run time. (TODO: runtime or loadtime or both?)
+The Procedure Linkage Table resides in `.plt` section and is mapped to a read-only segment in memory. So during program running this tables’ entry do not need to change.
 
-the dynamic linker checks the address of shared libraries, and hacks up the GOT and PLT so that it will point correctly to the required shared library symbols
+Links:
 
-- For functions you need PLT+GOT, Procedure calls inside a shared library are typically made through small procedure linkage table stubs, which then call the definitive function.
+- [PLT and GOT](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)
+- [Confusion about PIC and virtual address space](https://stackoverflow.com/questions/62530865/confusion-about-virtual-address-space-and-position-indepedent-code-pic)
+- [What does @plt mean](https://stackoverflow.com/questions/5469274/what-does-plt-mean-here/5469334#5469334)
+- [glibc at runtime](http://dustin.schultz.io/how-is-glibc-loaded-at-runtime.html)
+
+> Doubt: How is PLT used for non-PIC code
 
 ### GOT
 
-- Global Offset Table or GOT. This is used for global and static variables.
-- For vars only GOT can work
-- For every reference to a global variable from position independent code, the compiler will generate a load from the GOT to get the address of the variable, followed by a second load to get the actual value of the variable.
-- The program linker will create the dynamic relocations which the dynamic linker will use to initialize the GOT at runtime.
-- Unlike the PLT, the dynamic linker always fully initializes the GOT when the program starts.
-- Data references from position-independent code are usually made indirectly, through Global Offset Tables (GOTs), which store the addresses of all accessed global variables.
-- There is one GOT per compilation unit or object module, and it is located at a fixed offset from the code (although this offset is not known until the library is linked). When a linker links modules to create a shared library, it merges the GOTs and sets the final offsets in code. just like the linker merges the text sections into one.
-- each process has its own GOT and PLT that other lib trying to access the location uses.
+Modern operating systems has two GOT (Global Offset Tables)s for each process. One is named `.got` and the other `.got.plt`. We have `.got.plt` section in a writable segment. There is one GOT per compilation unit or object module, and it is located at a fixed offset from the code (although this offset is not known until the library is linked). When a linker links modules to create a shared library, it merges the GOTs and sets the final offsets in code. Just like the linker merges the `.text` sections into one.
 
-GOT stands for Global Offsets Table and is similarly used to resolve addresses. Both PLT and GOT and other relocation information is explained in greater length in this article.
+Global Offset Table is used **for global and static variables**. For every reference to a global variable from PIC, the compiler will generate a load from the GOT to get the address of the variable, followed by a second load to get the actual value of the variable.
 
-> Are GOT and PLT only used with PIC and PIE? : PIC is implemented by GOT and PLT. But GOT and PLT tables can be seen even when compiled with --no-pic and -no-pie. (TODO) even when passed the --static flag! When passing the --static flag there is no [.dynamic section](https://docs.oracle.com/cd/E19683-01/817-3677/chapter6-42444/index.html) doe.
+The link editor will create the dynamic relocations(`.dynsym`) which the dynamic linker will use to initialize the GOT at runtime. Unlike the PLT, the dynamic linker always fully initializes the GOT when the program starts, it's mostly lazy loading for PLT these days.
+
+> Doubt: Interestingly, GOT and PLT sections can be seen even when `-no-pie` and `-fno-pic` are used. Need to clear my confusion about GOT and PLT with non-PIC code.
 
 ## Libraries
 
@@ -312,8 +312,6 @@ When writing programs we need some way to package commonly used functions, for t
 > **About the C standard library**
 >
 > The files that we include using the `#include` directives are just header files that consists of defines and types, these are added to the ascii intermendiate file in the preprocessing phase itself. For eg. `#include<stdio.h>` The functions mentioned in this header file need to be implemented by the C standard library, which is later linked by the dynamic linker. There can be multiple implementation of the [C standard library.](https://wiki.osdev.org/C_Library)
->
-> Be aware that statically linking glibc is strongly advised against by the glibc maintainers, and some features of glibc will not work when statically linked.
 
 ### Library Naming Convention
 
@@ -321,7 +319,8 @@ Some observations:
 
 - The convention of these library names is that you need to prefix with `lib<name>.a` same for `lib<name>.so`. Eg. `libc.so`,`libm.a`etc. This prefix-suffix is not actually mandated, it's a convention and based on how the `-l` flag does lookup for libraries.
 - Some `.so` and `.a` flags are ld scripts! Eg. `/usr/lib/libm.so` the real library filename in this case is `/usr/lib/libm.so.6`
-- Need to read more on SONAME and versioning.(TODO) Allows incremental updates just by recompiling and rearchiving.
+
+> Need to read more on SONAME and versioning.`(TODO)` Allows incremental updates just by recompiling and rearchiving.
 
 ### Static Libraries
 
@@ -329,22 +328,15 @@ These are the `.a`(archive) files or a collection of `.o` files. Basically conca
 
 #### Linking static libraries
 
-When linking a static library to a file, if symbol is found to be in one of the reloc files from the index, it'll link the entire objectfile to the executable. Ordering of `-l` flag matters, most compilers expect it to be after the filesnames(eg. main.c).
+Linking against a static library is roughly the same as just adding more .o files to the linker line. If symbol is found to be in one of the reloc files from the index, it'll link the entire objectfile to the executable(?). Ordering of `-l` flag matters, best practice is to place `-l` flags towards the end based on how `ld` does symbol lookup.
 
-- linking against a static library is roughly the same as just adding more .o files to the linker line.
-- You can also link a static library into a shared library - the code in the static library is then just copied into the shared library (but the code then must be compiled with -fPIC, as with all other code that is used in shared libraries).
-- since .o files can be generated with -fpic and -fpie, It's therefore in possible to generate a static library with code that was compiled with either -fPIC or -fPIE.
+#### Static Libraries vs Static Executables
 
-#### Static Libraries vs Static Binaries
+In Unix, the default compilation mode for programs is to use the systems shared library, instead of [pre-linking](https://en.wikipedia.org/wiki/Prelink) everything necessary in the executable. When compiling a program with `gcc`, for instance, you pass the `-static` flag if you wish it to be a fully linked static executable, instead of having unresolved symbolic references.
 
-`-static` tells the compiler driver that the linker should build a fully linked executable obj file that can be loaded into memory and run without any further linking at load time. but -static by itself does not pickup the static library instead of the shared one when linking (investigate)
+This means [we could be using static libraries and be creating a dynamic executable](https://gist.github.com/geekodour/9ec2eee223b4704aed5f69fee22561b8)! to create a static executable we need to use the `-static` flag. When compiling generally without any flags, if both static and shared libraries are found, the linker gives preference to linking with the shared library unless the `-static` option is used.
 
-- If both static and shared libraries are found, the linker gives preference to linking with the shared library unless the -static option is used.
-
-- In Unix, the default compilation mode for programs is to use the systems shared library, instead of pre-linking everything necessary in the executable. When compiling a program with gcc, for instance, you pass the -static flag if you wish it to be statically compiled, instead of having unresolved symbolic references.
-  {TODO}
-
-- the idea that -static does not tell gcc to include libc.a is olop doubtful now.
+Be aware that statically linking glibc is strongly advised against by the glibc maintainers, and some features of glibc will not work when statically linked.
 
 ### Shared Libraries
 
@@ -353,179 +345,129 @@ Shared libraries have many names - shared libraries, shared objects, dynamic sha
 - [Load-time relocation](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/#id14) : x86-64 no longer supports load time relocation for shared objects, it'll still work on i386. This will cause the program linker to generate a lot of relocation information, and cause the dynamic linker to do a lot of processing at runtime.
 - [Position Independent Code (PIC)](https://eli.thegreenplace.net/2011/11/03/position-independent-code-pic-in-shared-libraries/)
 
-### PIC,PIE,Shared, Static Matrix
+Links:
 
-Some notes about the flags:
+- [How to Write Shared Libraries by Ulrich Drepper](https://software.intel.com/sites/default/files/m/a/1/e/dsohowto.pdf)
+
+### Usage of PIC, PIE, `-shared`, `-static`
+
+This confused me to hell and back when I first looked all these flags at the same time. nothing made sense, tbh the naming could have been better. So if you're at my place and you see this section by luck, you'll be saving up on 3 smokes total.
+
+The following options are described in more details in `gcc` man page.
 
 #### Code Generation Options
 
-- -fpic
-- -fPIC
-- -fpie
-- -fPIE
+- `-fpic`, `-fPIC`: Generate pic code for object files.
+- `-fpie`, `-fPIE`: Generate pie code for object files.
+- `-fno-pic` : No PIC, no PIE code. Not listed in `gcc`'s man page as such though. One could use `md5sum`/`size`/`objdump` to see the differences in these three options.
+- `--no-pic` : There is no such option, idk where I came across this.
 
 #### Options for linking
 
-(these are not linkeroption, i.e cannot pass to ld, gcc options only)
+- `-pie` : Generate PIE executable, `ET_DYN`
+- `-no-pie` : Generate non-PIE executable, `ET_EXEC`
+- `-static-pie` : Generate static PIE executable, this has many quirks, just look them up. `ET_DYN`
+- `-static` : Generate static non-PIE executable and overrides `-pie`, has nothing to do with generating static libraries, we also see a missing [`.dynamic` section](https://docs.oracle.com/cd/E19683-01/817-3677/chapter6-42444/index.html) when using this option. `ET_EXEC`
+- `-shared` : Used when generating shared libraries.
+- `-rdynamic` : TODO
 
-- most distos use -fPIE and -pie by default.
-- --enable-default-pie / gcc configured with this option
-- if we just use -pie and it should fail because then the generated code will be using absolute addressing which is not compitable with -pie. so both -fPIE and -pie
+#### Some Takeaways
 
-So basically, gcc builds with -fPIE, we can use -fPIC when using shared and futher to not use postion independet anything we can do -fno-pic , -no-pic is different because it's not related to code generation.
-
-- -pie
-- -no-pie
-- -static-pie
-- -static
-- -shared
-- -rdynamic
-
-* -static and -pie are incompatible for x86?
-* -no-pie does not mean static
-* --shared does not mean -fpic
-* --no-pic does not mean idk what lol
-* rdynamic flag?
+- Most distos nowadays have gcc configured with `--enable-default-pie` which makes gcc use `-fPIE` and `-pie` by default.
+- We need both `-fPIE` and `-pie` because you see, they do different things. If we just use `-pie` and it should fail because then the generated code will be using absolute addressing which is not compitable with PIE executables. So the following fails:
 
 ```shell
-clang++ -o random.o -c random.cpp
-clang++ -shared -o librandom.so random.o
-clang++ -o main.o -c main.cpp
-clang++ -o main main.o -lrandom -L. #if -l and -L not provided will fail
-```
-
-```shell
-# create
-$ gcc -shared -o libvector.so addvec.c multvec.c
+$ gcc -fno-pic -pie main.c
+/usr/bin/ld: /tmp/ccTOkUR5.o: relocation R_X86_64_32 against `.rodata' can not be used when making a PIE object; recompile with -fPIE
+collect2: error: ld returned 1 exit status
 ```
 
 ```shell
 # Tell linker which libraries to load
 # -L tells Linker which directory to look for library first
-# -l is just a shorthand, we could use -libmath or -lmath
+# -l does the lookup based on the convention i mentioned above.
 # ordering matters with static libraries
-```
-
-```shell
-# creating shared lib
-$ g++ -shared -fPIC -c test.cpp -o test.out && ld -o libtest.so test.out
-ld: warning: cannot find entry symbol _start; defaulting to 0000000000400078
-```
-
-```shell
-# creating statcic lib
-$ g++ -fPIC -c test.cpp -o test.out && ar rcs libtest.a test.out
-```
-
-```shell
-# create
-λ ar rcs libmylib.a file2.o
-# location: /usr/lib
-λ ar -t libc.a|sort|head -n 2
-a64l.o
-abort.o
 ```
 
 ### Env & Setting up of Libraries
 
-- LD_LIBRARY_PATH
-- we can replace functions on the fly by playing with the LD_PRELOAD variable
-- LD_DEBUG
-- dlopen
-- ld.so.preload
-- `ldconfig` reads the content of /etc/ld.so.conf, creates the appropriate symbolic links in the dynamic link directories, and then writes a cache to /etc/ld.so.cache which is then easily used by other programs.
-- According to ldconfig(8), /etc/ld.so.conf is there for creating a cache (/etc/ld.so.cache) with paths to dynamic libraries. The dynamic linker (ld.so) then uses that cache to determine which libraries to link in when executing an a.out or ELF file.
-- According to ld.so(8), /etc/ld.so.preload serves the same purpose as setting the LD_PRELOAD variable, i.e. as a means to temporarily linking in a different library than usual.
-- once we update the ldconfig file, we still need to update the cache.
+- `LDFLAGS`, `CFLAGS` : These are a convention that comes from the [predefined rules for Makefiles](http://web.mit.edu/gnu/doc/html/make_toc.html#SEC88)
+- `LD_LIBRARY_PATH`: A colon-separated set of directories where libraries should be searched for first, before the standard set of directories. Handy for development and testing, but shouldn't be modified by an installation process for [normal use by normal users](http://www.visi.com/~barr/ldpath.html)
+- `LD_PRELOAD`: It lists shared libraries with functions [that override the standard set](http://www.goldsborough.me/c/low-level/kernel/2016/08/29/16-48-53-the*-ld_preload-_trick/), just like `/etc/ld.so.preload`.
+- `LD_DEBUG` : Triggers the `dl*` functions so that they give verbose information, can [have different values](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html).
+- `ldconfig` : It reads the content of `/etc/ld.so.conf`, creates the appropriate symbolic links in the dynamic link directories, and then writes a cache to `/etc/ld.so.cache` which is then easily used by other programs. We [need to run this everytime we update `ld.so.conf`](https://www.youtube.com/watch?v=RmdvkUWQ78g)
+- `/etc/ld.so.preload` : Serves the [same purpose](https://superuser.com/questions/1183037/what-is-does-ld-so-preload-do) as setting the `LD_PRELOAD` variable, i.e. as a means to temporarily linking in a different library than usual.
+- When using shared libraries, we need to use the shared library both when **compiling** and when **running** our program. When compiling we use the combination of the `-L` and `-l` flag to specify the shared library so that the linker is able to find the symbols. For running we need to update `ld.so.conf` and run `ldconfig` so that when running our program, the dynamic linker is able to find the shared libraries and hence the symbols we're using.
+- `rpath` : TODO
 
 ## Linker's Work
 
-The GNU Binutils linker uses a linker script that determines how sections are placed inside segments in, and many other properties of the executable output.
+First thing to know is that, there is the [link editor](https://linux.die.net/man/1/ld) and the [dynamic linker](https://linux.die.net/man/8/ld-linux.so).
 
-http://sourceware.org/binutils/docs/ld/Scripts.html
+The linker merges together all sections of the same type included in the input object files into a single section and assigns an initial address to it. For instance, the `.text` sections of all object files are merged together into a single `.text` section, which by default contains all of the code in the program. The GNU Binutils linker always uses a [linker script](http://sourceware.org/binutils/docs/ld/Scripts.html). If you do not supply one yourself, the linker will use a default script that is compiled into the linker executable.
 
-The linker merges together all sections of the same type included in the input object files into a single section and assigns an initial address to it. For instance, the .text sections of all object files are merged together into a single .text section, which by default contains all of the code in the program. The linker always uses a linker script. If you do not supply one yourself, the linker will use a default script that is compiled into the linker executable. The main purpose of the linker script is to describe how the sections in the input files should be mapped into the output file, and to control the memory layout of the output file.
+It primarily does two thing symbol resolution(which [was discussed previously](#symbol-resolution)) and relocation.
 
-### How memory is laid out
+### Relocation
 
-The starting point address is part of a set of conventions which describe how memory is laid out. The linker, when it produces an executable binary, must know these conventions as it dectates how the executable is formed.
+Relocations are entries in binaries that are left to be filled in later. The link editor relocates the symbols by associating a mem location with each symbol definition, and then modifying all of the references to those symbols so that they point to this mem loc.
 
-The memory layout conventions can be changed, we're talking the memory layout of executables in linux.
+When an assembler generates an obj module, it does not know where the code and data will ultimately be stored in memory. Nor does it know the location of any externally defined funcs or global vars that are referenced by the module. So it calculates creates reminders to the linker called the relocation entries which are stored in .rel.data and .rel.text that the linker can later use.
 
-> Why .text segment be loaded at 0x400000;
->
-> Set where the text segment will be loaded into memory by Linux. Linux segfaults us if the .text is too low. If this were not present, it would be 0, and that is too low and segfaults.
-> https://stackoverflow.com/questions/39689516/why-is-address-0x400000-chosen-as-a-start-of-text-segment-in-x86-64-abi/39692117
-
-ld -verbose | grep -i text-segment chooses 0x400000 for 32bit it is 0x08048000
-
-### Symbol resolution step
-
-something
-
-### Relocation step
-
-elocations are entries in binaries that are left to be filled in later
-
-- Dynamic relocation vs object file relodation, dyn relec is done my ld.so, Not only shared objects but also dynamic (non-static) executables may have dynamic relocations.
-- The linker relocates these sections by associating a mem location with each symbol definition, and then modifying all of the references to those symbols so that they point to this mem loc.
-
-When an assembler generates an obj module, it does not know where the code and data will ultimately be stored in memory.(?) Nor does it know the locs of any externally defined funcs or global vars that are referenced by the module.
-
-When code is compiled, the compiler does not know which address the linker is going to pick. So it calculates creates reminders to the linker called the relocation entries which are stored in `.rel.data` and `.rel.text` that the linker can later use.
-
-Relocates symbols from their relative location in the `.o` files to their final absolute memory location in the executable where it merges all the modules together. Also updates all the references to the new location/position.
-
-Executable does have segments mapped to .rela.dyn .rela.plt doe.
-
-So linker add valid absolute addresses to the executable.
-
-There are also load time relocation and link time relocatoion (eli post)
-https://linux.die.net/man/1/ld but it has the --dynamic-linker flag aswell
-https://linux.die.net/man/8/ld-linux.so
-
-- More fuckedup shit: The dynamic linker (ld.so) then uses that cache to determine which libraries to link in when executing an a.out or ELF file.
+Dynamic relocation is done my `ld.so`(the dynamic linker), Not only shared objects but also dynamic (non-static) executables may have dynamic relocations. All the `.dynsym` discussion done previously is relevant here.
 
 ## Misc
 
 ### Making small executables
 
-> The section table(`.symtab`) can be [stripped](https://sourceware.org/binutils/docs/binutils/strip.html) for executables or shared objects because it is nither used by the **dynamic linker**(`ld.so`) not by the os loader. It's only used by the **static linker/link-editor**(`ld`).
+The section table(`.symtab`) can be [stripped](https://sourceware.org/binutils/docs/binutils/strip.html) for executables or shared objects because it is nither used by the **dynamic linker**(`ld.so`) not by the os loader. It's only used by the **static linker/link-editor**(`ld`).
+
+Relocation info(`.rel_text`,`.rel_data`) already stripped by the linker after relocating. One could also use "-n" (also known as "-nmagic") linker option. This basically tells ld to not worry about aligning program sections on page boundaries. Further to strip, one could also use `sstrip`.
+
+You you're creating an dynamic excutable, you can't get rid of dynamic tables and related tables such as `.rela.plt` and `.rela.dyn` unless you want the dynamic linking to be done differently.
+
+### How memory is laid out
+
+The starting point address is part of a set of conventions which describe how memory is laid out. The linker, when it produces an executable binary, must know these conventions as it dectates how the executable is formed. This memory layout conventions can be changed if needed. On Linux, the default address for `x86_64` binaries is `0x400000`, and so the `.text` ends up not far from there.
+
+> Why .text segment be loaded at 0x400000;
 >
-> Relocation info(`.rel_text`,`.rel_data`) already stripped by the linker after relocating.
->
-> One could also use "-n" (also known as "-nmagic") linker option. This basically tells ld to not worry about aligning program sections on page boundaries. Further to strip, one could also use `sstrip`.
->
-> Some dynamic relocation section such as `.rela.dyn` can still be found in the the exec binary(both for `ET_DYN` and `ET_EXEC`)
+> Linux segfaults us if the `.text` is too low. If this were not present, it would be 0, and that is [too low and segfaults.](https://stackoverflow.com/questions/39689516/why-is-address-0x400000-chosen-as-a-start-of-text-segment-in-x86-64-abi/39692117)
+
+```shell
+# x86_64 chooses 0x400000
+# 32bit chooses 0x08048000
+λ ld -verbose | grep -i text-segment
+25:  PROVIDE (__executable_start = SEGMENT_START("text-segment", 0x400000)); . = SEGMENT_START("text-segment", 0x400000) + SIZEOF_HEADERS;
+```
 
 ### vdso(vDSO)
 
-linux-vdso.so.1 is a virtual library that is automatically mapped in the address space of a process by the kernel, it does not have a filename but has and address when we do ldd.
+`linux-vdso.so.1` is a virtual library that is automatically mapped in the address space of a process by the kernel, it does not have a filename but has and address when we do ldd.
 
-it's an way to export kernel space routines to userspace. The main reason is to reduce the system call overhead. Typically when a system call happens it requires some expensive operations like switching mode from user to kernel, copying data from userspace to kernelspace etc. To reduce these sorts of overhead VDSO is used, just by reading that vdso memory space result could be extracted i.e it's possible to `gettimeofday()` without doing a real system call!
+```shell
+λ ldd /bin/ls
+        linux-vdso.so.1 (0x00007ffc40f03000) # no filename!
+        libcap.so.2 => /usr/lib/libcap.so.2 (0x00007fcf9616a000)
+        libc.so.6 => /usr/lib/libc.so.6 (0x00007fcf95fa4000)
+        /lib64/ld-linux-x86-64.so.2 => /usr/lib64/ld-linux-x86-64.so.2 (0x00007fcf961cf000)
+```
 
-Note, not all system calls have VDSO support, only system calls like getcpu(), gettimeofday(), time() etc. which is an extremely fast way to get these thing done. Also the memory address linux-vdso.so.1 points is randomized, on different ldd invocation you'll see linux-vdso.so.1 points to different memory location. This has been done as if no one can predict the address up front.
+It's an way to export kernel space routines to userspace. The main reason is to reduce the system call overhead. Typically when a system call happens it requires some expensive operations like switching mode from user to kernel, copying data from userspace to kernelspace etc. To reduce these sorts of overhead VDSO is used, just by reading that vdso memory space result could be extracted i.e it's possible to `gettimeofday()` without doing a real system call!
 
-vsyscall came first, vdso, overcomes its limitations. vsyscall is still used why?
+> DOUBT: `vsyscall` came first, vdso overcomes its limitations. vsyscall is still used why?
 
 ## Links
 
-- https://people.cs.pitt.edu/~xianeizhang/notes/Linking.html
-- http://michalmalik.github.io/elf-dynamic-segment-struggles
-- https://www.cs.swarthmore.edu/~newhall/unixhelp/compilecycle.html#cpp
+- [Linking](https://people.cs.pitt.edu/~xianeizhang/notes/Linking.html)
+- [ELF: dynamic struggles](http://michalmalik.github.io/elf-dynamic-segment-struggles)
+- [Tools for examining different phases of compiling and running a C program](https://www.cs.swarthmore.edu/~newhall/unixhelp/compilecycle.html)
 - [Hosted vs Freestanding Environments](https://stackoverflow.com/questions/30825151/is-there-a-meaningful-distinction-between-freestanding-and-hosted-implementation)
 - [20 Part Seies on Linkers and Loaders](https://www.airs.com/blog/archives/41)
-- linkers and loaders book.
+- [Linkers and loaders book.](https://www.goodreads.com/book/show/1103509.Linkers_and_Loaders)
+- [About ELF – PIE, PIC and else](https://codywu2010.wordpress.com/2014/11/29/about-elf-pie-pic-and-else/)
+- [X86 psABI](https://github.com/hjl-tools/x86-psABI/wiki/X86-psABI)
 
 ## Tools
 
-- `nm`: We can see the symbols in a object file using `nm`
-- `size`
-- `file`
-- `execstack`
-- `readelf`
-- `ldd`
-- `hexdump`
-- `objdump` : look at symbol table entries , readelf can also be used.
-- objdump -r -d -t main.o
-- readelf -s main.o
+`nm`,`size`,`file`,`execstack`,`readelf`,`ldd`,`hexdump`,`objdump`

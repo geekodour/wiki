@@ -22,6 +22,7 @@ Ideas should come from necessity but sometimes looking at new things help birth 
 - [cool backgrounds](https://coolbackgrounds.io/)
 - https://github.com/pshihn/rough-notation
 - [Text to Diagram Tools](https://smusamashah.github.io/text-to-diagram)
+- [Math Interactions](https://cindyjs.org/)
 
 ### Projects
 
