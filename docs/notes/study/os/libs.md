@@ -467,6 +467,8 @@ It's an way to export kernel space routines to userspace. The main reason is to 
 - [Linkers and loaders book.](https://www.goodreads.com/book/show/1103509.Linkers_and_Loaders)
 - [About ELF – PIE, PIC and else](https://codywu2010.wordpress.com/2014/11/29/about-elf-pie-pic-and-else/)
 - [X86 psABI](https://github.com/hjl-tools/x86-psABI/wiki/X86-psABI)
+- [Building And Using Static And Shared "C" Libraries](http://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html#libraries)
+- [various mechanisms to protect against buffer overflow exploits.](https://www.win.tue.nl/~aeb/linux/hh/protection.html)
 
 ## Tools
 

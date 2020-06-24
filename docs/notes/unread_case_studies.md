@@ -103,6 +103,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [The beauty of Unix pipelines](https://prithu.xyz/posts/unix-pipeline/)
 - [Sol — a sunny little virtual machine](https://rsms.me/sol-a-sunny-little-virtual-machine)
 - [elf quine](https://medium.com/@MrJamesFisher/understanding-the-elf-4bd60daac571)
+- [How to get a core dump for a segfault on Linux](https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/)
 
 ## Misc
 
