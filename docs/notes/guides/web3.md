@@ -37,6 +37,7 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 
 ## cool
 
+- https://news.ycombinator.com/item?id=23639411
 - https://medium.com/fluence-network/decentralized-web-developer-report-2020-5b41a8d86789
 - https://toobnix.org/videos/watch/8ee54700-971c-4da3-a8b4-7a78ed9ac42e
 - https://mxb.dev/blog/the-return-of-the-90s-web/

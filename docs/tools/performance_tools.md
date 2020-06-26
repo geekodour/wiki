@@ -45,27 +45,7 @@ $ ps -p 322453 -u
 
 - [Output reference](http://archive.is/PUHrs)
 - Show user threads: <kbd>Shift + H</kbd>
-
-### Memory Metrics
-
 - Memory is shown in kilobytes.
-- **Virtual Memory Size**:
-
-  - `VSZ` in `ps` = `VIRT` in `top`
-  - Represents how much memory the program is able to access at the present moment, including memory mapped files and swapped out pages, shared libraries, memory that's allocated but not used.
-
-- **Resident Set Size**:
-
-  - `RSS` in `ps` = `RES` in `top`
-  - An representation of how much actual physical memory a process is consuming.
-  - Number of memory pages the process has in real memory multiplied by `pagesize`.
-  - It excludes any swapped out memory pages.
-  - Does RES include shared libraries??? Think yes. [QUESTION]
-
-- **Shared Memory**
-  - `SHR` column in Htop
-  - Indicates how much of the `VIRT` size is actually sharable memory or libraries.
-  - Whole library is mapped and counted in `VIRT` and `SHR`, but only parts of the **shared library** used are counted in `RES`
 
 ## Random snippets
 

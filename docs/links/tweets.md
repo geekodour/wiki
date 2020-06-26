@@ -19,3 +19,5 @@ sidebar_label: Tweets
 - [Routine and Habits](http://archive.is/wip/pjtln)
 - [What the decentralized web can learn from Wikipedia](http://archive.is/koKQB)
 - [Privilege in India](http://archive.is/wIj1g)
+- [Michael Nielsen's Lists](https://twitter.com/michael_nielsen/status/1081070044648398848)
+- [Copy Paste Coders](http://archive.is/riX5l)

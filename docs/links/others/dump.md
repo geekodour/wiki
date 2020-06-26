@@ -23,3 +23,6 @@ sidebar_label: Dump
 - [Aerialod @ ephtracy (Win v0.0.1)](https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss)
 - https://twitter.com/rajbhagatt/status/1260588325846560774
 - https://www.clarityfinder.com/3
+- http://www.ee.nmt.edu/~erives/308L_05/The_stack.pdf
+- https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+- https://makezine.com/2013/07/06/the-rockwell-integrated-space-plan-vector-redux-version/

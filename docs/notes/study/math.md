@@ -39,5 +39,6 @@ Read links will be removed and added somewhere else where they fit better.
 - [Trichotomy (mathematics)](https://en.wikipedia.org/wiki/Trichotomy_%28mathematics%29)
 - [Power Law](https://en.wikipedia.org/wiki/Power_law)
 - [oeis wiki](https://oeis.org/wiki/Main_Page)
+- [Multimodal Distribution](https://en.wikipedia.org/wiki/Multimodal_distribution)
 - [fencepost](https://betterexplained.com/articles/learning-how-to-count-avoiding-the-fencepost-problem/)
 - [glossary](https://mathvault.ca/math-glossary/)

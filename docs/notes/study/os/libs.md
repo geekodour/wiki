@@ -340,6 +340,8 @@ Be aware that statically linking glibc is strongly advised against by the glibc 
 
 ### Shared Libraries
 
+![](/img/64bitaddressspace.png)
+
 Shared libraries have many names - shared libraries, shared objects, dynamic shared objects (DSOs), dynamically linked libraries(DLLs). With shared libraries we face a problem, each program can use any number of shared libraries, and there's simply no way to know in advance where any given shared library will be loaded in the process's virtual memory. There are two well known ways to resolve this:
 
 - [Load-time relocation](https://eli.thegreenplace.net/2011/08/25/load-time-relocation-of-shared-libraries/#id14) : x86-64 no longer supports load time relocation for shared objects, it'll still work on i386. This will cause the program linker to generate a lot of relocation information, and cause the dynamic linker to do a lot of processing at runtime.

@@ -39,6 +39,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [WireGuard on K8s (road-warrior-style VPN server)](https://blog.levine.sh/14058/wireguard-on-k8s-road-warrior-style-vpn-server)
 - [MITM’ing TLS/SSL for debugging purposes](https://blog.benjojo.co.uk/post/debug-ssl-tls-with-ssldump-https)
 - [Best Practices for ACME Client Operations](https://docs.https.dev/acme-ops)
+- [How CDNs Generate Certificates](https://fly.io/blog/how-cdns-generate-certificates/)
 
 ## SSH
 
@@ -151,6 +152,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Text Processing VS Hadoop](https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 - [Debugging MySQL replication lag by diving into the internals](https://making.pusher.com/debugging-mysql-replication-lag/)
 - [SQL Murder Mystery](https://mystery.knightlab.com/)
+- [Monzo Cassandra](https://monzo.com/blog/2019/09/08/why-monzo-wasnt-working-on-july-29th)
 
 ## P2P
 
@@ -160,6 +162,10 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Building a legacy search engine for a legacy protocol](https://blog.benjojo.co.uk/post/building-a-search-engine-for-gopher)
 - [Announcing GitTorrent: A Decentralized GitHub](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 - [Decentralized proofs](https://metacode.biz/openpgp/proofs)
+
+## Programming
+
+- [Faster Integer Parsing](https://kholdstare.github.io/technical/2020/05/26/faster-integer-parsing.html)
 
 ## Golang
 

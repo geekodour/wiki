@@ -13,6 +13,7 @@ sidebar_label: Memory
 - [Notes on Memory Hierarchy](/docs/notes/study/memory/mem_hie)
 - [Notes on Virtual Memory](/docs/notes/study/memory/vm)
 - [Notes on Cache](/docs/notes/study/memory/cache)
+- [Notes on Memory Metrics](/docs/notes/study/memory/mem_metrics)
 
 ## Jargons/Rabbit Holes (Unread)
 

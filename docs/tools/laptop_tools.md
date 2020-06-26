@@ -227,3 +227,11 @@ $ grep -rl assets|xargs sed -i 's/assets/\/img\//g'
 - https://github.com/neutrinolabs/xrdp
 - https://en.wikipedia.org/wiki/TightVNC
 - https://rr-project.org/
+- https://gchq.github.io/CyberChef/
+
+### short tools blogposts
+
+- https://blog.selectel.com/kernel-tracing-ftrace/
+- https://blog.selectel.com/synchronizing-servers-ntp/
+- https://blog.selectel.com/introduction-dpdk-architecture-principles/
+- https://blog.selectel.com/systemd-containers-introduction-systemd-nspawn/

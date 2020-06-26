@@ -41,6 +41,7 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 
 - [Writing a game emulator](http://emulator101.com/)
 - [Concurrent Servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
+- [Writing a VM](https://justinmeiners.github.io/lc3-vm/)
 
 ## Protocols
 
@@ -53,6 +54,7 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 ## Security
 
 - [Create your own MD5 collisions](https://natmchugh.blogspot.com/2015/02/create-your-own-md5-collisions.html)
+- [Writing an SNI Proxy in 115 Lines of Go](https://www.agwa.name/blog/post/writing_an_sni_proxy_in_go)
 
 ## Hardware
 
