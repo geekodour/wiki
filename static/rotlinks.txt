@@ -1,26 +1,15 @@
 https://wiki.geekodour.xyz/docs/tools/laptop_tools/
 	404	https://github.com/geekodour/dotfiles
-https://wiki.geekodour.xyz/docs/notes/questions/
-	id #classification not found	https://wiki.geekodour.xyz/docs/notes/study/comp_arch#classification
-	id #virtual-memory not found	https://wiki.geekodour.xyz/docs/notes/study/memory#virtual-memory
-https://wiki.geekodour.xyz/docs/notes/case_studies/
-	id #end-to-end-principle not found	https://wiki.geekodour.xyz/docs/notes/study/internet#end-to-end-principle
-https://wiki.geekodour.xyz/docs/notes/guides/web3/
-	503	https://news.ycombinator.com/item?id=22864029
-	503	https://news.ycombinator.com/item?id=23161922
-	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
-https://wiki.geekodour.xyz/docs/notes/guides/communities/
-	lookup cstheory.stackexchange.co: no such host	https://cstheory.stackexchange.co
-https://wiki.geekodour.xyz/docs/workshops/projects/
-	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
 https://wiki.geekodour.xyz/docs/links/others/dump/
 	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
-https://wiki.geekodour.xyz/docs/notes/history/
-	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
-	id #eeprom not found	https://wiki.geekodour.xyz/docs/notes/study/memory#eeprom
-	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
 https://wiki.geekodour.xyz/docs/links/blogs/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 21 Jun 2020 00:17:13 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=d5eacc3b72b38a618ddc6269700069f4615926"..."//api.amplitude.com https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.io https://logs-01.loggly.com https://api.segment.io https://checkout.s"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 28 Jun 2020 00:17:21 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=d081e9c0dcbd190d89855d9b4cb33305215933"..."//api.amplitude.com https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.io https://logs-01.loggly.com https://api.segment.io https://checkout.s"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
+https://wiki.geekodour.xyz/docs/links/oneshot/
+	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
+	502	https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know
+	lookup aos.sh: No address associated with hostname	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
+https://wiki.geekodour.xyz/docs/workshops/projects/
+	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
 https://wiki.geekodour.xyz/docs/links/papers/
 	403	https://www.jstor.org/stable/2642267?seq=1
 	404	https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
@@ -33,35 +22,50 @@ https://wiki.geekodour.xyz/docs/links/papers/
 	404	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
 	x509: certificate signed by unknown authority	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
 	x509: certificate signed by unknown authority	https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf
-https://wiki.geekodour.xyz/docs/links/oneshot/
-	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
-	dial tcp4 3.217.83.153:443: connect: connection refused	https://cscie28.dce.harvard.edu/~lib215/reference/programming/pikestyle.html
-	lookup aos.sh: No address associated with hostname	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
-https://wiki.geekodour.xyz/docs/notes/study/os/elf/
-	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
-https://wiki.geekodour.xyz/docs/notes/study/p2p/nat/
-	id #selection-15.0-20.0 not found	https://archive.is/u7His#selection-15.0-20.0
+https://wiki.geekodour.xyz/docs/courses/others/gc_essentials_udemy/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 28 Jun 2020 00:17:28 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=dab8059a12036c6f244c25ad62ba9513615933"..."Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_device=None; expires=Mon, 29 Jun 2020 00:17:28 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: evi=SlFYNkxYDm4DRhx5TFgObkdREXBCQAMtE0kddF1SCGATQRl5WkBPN"	https://www.udemy.com/course/essentials-of-garbage-collectors/
+https://wiki.geekodour.xyz/docs/notes/questions/
+	id #classification not found	https://wiki.geekodour.xyz/docs/notes/study/comp_arch#classification
+	id #virtual-memory not found	https://wiki.geekodour.xyz/docs/notes/study/memory#virtual-memory
+https://wiki.geekodour.xyz/docs/notes/case_studies/
+	id #end-to-end-principle not found	https://wiki.geekodour.xyz/docs/notes/study/internet#end-to-end-principle
+https://wiki.geekodour.xyz/docs/notes/guides/communities/
+	lookup cstheory.stackexchange.co: no such host	https://cstheory.stackexchange.co
+https://wiki.geekodour.xyz/docs/notes/study/go_lang/pprof/
+	id #basic-usage not found	https://github.com/google/pprof#basic-usage
+	id #interpreting-the-callgraph not found	https://github.com/google/pprof/tree/master/doc#interpreting-the-callgraph
+	id #options not found	https://github.com/google/pprof/tree/master/doc#options
+	id #using-pprof-with-linux-perf not found	https://github.com/google/pprof#using-pprof-with-linux-perf
 https://wiki.geekodour.xyz/docs/notes/study/math/matrix/
 	429	https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0
 https://wiki.geekodour.xyz/docs/notes/study/memory/gc/
 	429	https://github.com/golang/go/blob/master/src/runtime/malloc.go
 	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
-https://wiki.geekodour.xyz/docs/notes/study/go_lang/pprof/
-	429	https://github.com/golang/go/wiki/Performance
-	429	https://github.com/golang/proposal/blob/master/design/17280-profile-labels.md
-	429	https://github.com/google/pprof
-	429	https://github.com/google/pprof#basic-usage
-	429	https://github.com/google/pprof#using-pprof-with-linux-perf
-	429	https://github.com/google/pprof/blob/master/proto/profile.proto
-	429	https://github.com/google/pprof/tree/master/doc
-	429	https://github.com/google/pprof/tree/master/doc#interpreting-the-callgraph
-	429	https://github.com/google/pprof/tree/master/doc#options
-	429	https://github.com/google/pprof/tree/master/third_party
-	429	https://github.com/pkg/profile
-	429	https://github.com/profefe/profefe
+https://wiki.geekodour.xyz/docs/notes/guides/web3/
+	503	https://news.ycombinator.com/item?id=17288727
+	503	https://news.ycombinator.com/item?id=22864029
+	503	https://news.ycombinator.com/item?id=23161922
+	503	https://news.ycombinator.com/item?id=23549471
+	503	https://news.ycombinator.com/item?id=23573852
+	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
+https://wiki.geekodour.xyz/docs/notes/history/
+	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
+	id #eeprom not found	https://wiki.geekodour.xyz/docs/notes/study/memory#eeprom
+	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
 https://wiki.geekodour.xyz/docs/notes/unread_case_studies/
+	dialing to the given TCP address timed out	https://drewdevault.com/2020/04/22/How-to-store-data-forever.html
 	id #slide=id.g35f391192_00 not found	https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/mobilepresent#slide=id.g35f391192_00
 	lookup imoverclocked.blogspot.in: no such host	http://imoverclocked.blogspot.in/2015/12/for-love-of-bits-stop-using-gzip.html
+https://wiki.geekodour.xyz/docs/notes/study/p2p/nat/
+	id #selection-15.0-20.0 not found	https://archive.is/u7His#selection-15.0-20.0
+https://wiki.geekodour.xyz/docs/notes/study/os/elf/
+	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
 https://wiki.geekodour.xyz/docs/notes/study/os/libs/
-	id #cpp not found	https://www.cs.swarthmore.edu/~newhall/unixhelp/compilecycle.html#cpp
+	404	http://www.goldsborough.me/c/low-level/kernel/2016/08/29/16-48-53-the*-ld_preload-_trick/
+	404	http://www.visi.com/~barr/ldpath.html
+	429	https://gist.github.com/geekodour/9ec2eee223b4704aed5f69fee22561b8
+	429	https://github.com/hjl-tools/x86-psABI/wiki/X86-psABI
+	id #5469334 not found	https://stackoverflow.com/questions/5469274/what-does-plt-mean-here/5469334#5469334
+	id #SEC88 not found	http://web.mit.edu/gnu/doc/html/make_toc.html#SEC88
+	id #libraries not found	http://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html#libraries
 	timeout	https://blogs.oracle.com/solaris/inside-elf-symbol-tables-v2
