@@ -36,6 +36,7 @@ $ strace -e trace=%memory ./main
 
 ```shell
 # `ps` with Major Pagefault, Minor Pagefault, `RSS` and `VSZ`
+$ ps -eo min_flt,maj_flt,cmd
 $ ps -eo pmem,comm,pid,maj_flt,min_flt,rss,vsz --sort -rss | numfmt --header --to=iec --field 4-5 | numfmt --header --from-unit=1024 --to=iec --field 6-7 | column -t | egrep "[t]est|[P]ID"
 # for a specific pid
 $ ps -p 322453 -u

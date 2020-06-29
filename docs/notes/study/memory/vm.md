@@ -48,25 +48,40 @@ When this memory location access happens for `block 3`, the memory management un
 > printf("%p", &i);
 > ```
 >
-> This will show the virtual address of `i`, not the physical address.
+> This will show the virtual address of `i`, not the physical address. Virtual addresses are the size of a CPU register.
 
 A process is represented by its vitual address space which is a contagious address space from `addr0` to `MAX_SIZE`. When compiling with `gcc`, the `a.out`(the executable) file contains information about how to create the virtual address space.
 
 The virtual addresses(block addresses) consists of two parts, `table index` and the `offset`. The **physical address** is constructed from the `offset` of the virtual address and the page frame.
 
-> DOUBT: Even when we have 512 physical memory on a 32bit processor, the process will believe that it has 4GB of memory. Thanks to memory mapping. So the MAX_SIZE is 4GB? for 32bit?
+> Even [when we have 512 physical](https://landley.net/writing/memory-faq.txt) memory on a 32bit processor, the process will believe that it has 4GB of memory. Thanks to memory mapping.
 
 ### Locking Pages
 
 When a page fault occurs and kernel needs to do I/O for paging in, the execution time of an instruction that would normally be a few nanoseconds is suddenly much, much, longer. We can Lock pages for programs that are sensitive to that.
 
+### Page Types
+
+This is not really documented but these are actually usage of pages that I just thought can also be termed "types"
+
+- Pages that are responsible for holding the code for each process being run on your computer.
+- Pages responsible for caching data and metadata related to files accessed by those programs in order to speed up future access.
+- Pages which are responsible for the memory allocations made inside that code, for example, when new memory that has been allocated with `malloc` is written to, or when using mmap's `MAP_ANONYMOUS` flag. These are "anonymous" pages.
+
+---
+
+- shared memory, slab memory, kernel stack memory, buffers,
+- Memory is devided into multiple types: anon, (cache, buffers: two sides of the same coin : unified page cache), sockets etc.
+
 ## MMU Mapping
 
-In order to implement Paged Virtual Memory, there is a chip called Memory Management Unit (MMU). MMU sits between CPU and memory but in practice, it's right there in the CPU chip itself. The operating system maintains **per process page table** which are stored in the RAM when a process starts to execute. Each `Page` for a process has a **Page Table Entry(PTE)** in its page table.
+In order to implement Paged Virtual Memory, there is a chip called Memory Management Unit (MMU). MMU sits between CPU and memory but in practice, it's right there in the CPU chip itself. The MMU maps memory through a [series of tables](https://wiki.osdev.org/Paging), two to be exact. They are the paging directory (PD), and the paging table (PT).
 
-The `PTPR`(Page Table Pointer Register) holds the address to the base address of the **page table** which is stored in the primary memory.
+The operating system maintains **per process page table** which are **stored in the RAM** when a process starts to execute. The page table is where the operating system stores its mappings of virtual addresses to physical addresses, with each mapping also known as a **page table entry (PTE)** (So each page table entry us a page????).
 
-> `CR3` register on x86 processors hold the physical base address of page directory (PTPR)
+The `PTBR`(Page Table Base Register) holds the address to the base address of the **page table**.
+
+> `CR3` register on x86 processors hold the physical base address of page directory (PTBR)
 
 The **translation lookaside buffer (TLB)** is a memory cache in the `MMU`, It stores the recent translations of virtual memory to physical memory and can be called an address-translation cache. The majority of desktop, laptop, and server processors include one or more TLBs in the memory-management hardware.
 

@@ -36,6 +36,7 @@ I'll be adding/removing links to and from this page time to time.
 
 ## Kernel
 
+- [Prepare the environment for developing Linux kernel with qemu.](https://medium.com/@daeseok.youn/prepare-the-environment-for-developing-linux-kernel-with-qemu-c55e37ba8ade)
 - [Kernelnewbies](https://kernelnewbies.org/): Kernelnewbies is a community of aspiring Linux kernel developers who work to improve their Kernels and more experienced developers willing to share their knowledge.
 - [Linux Kernel Teaching Labs](https://linux-kernel-labs.github.io/refs/heads/master/): This is a collection of lectures and labs Linux kernel topics. The lectures focus on theoretical and Linux kernel exploration.
 - [Teachlab resources](https://lkcamp.gitlab.io/lkcamp_docs/unicamp_group/group_introduction/)

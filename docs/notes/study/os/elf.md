@@ -136,3 +136,4 @@ The operating system copies the segment (if it is loadable, i.e., if `p_type` is
 
 - [The dissection of a simple "hello world" ELF file format used by Linux](https://www.reddit.com/r/linux/comments/3ulwok/the_dissection_of_a_simple_hello_world_elf_file/)
 - [A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
+- [ELF: better symbol lookup via DT_GNU_HASH](https://flapenguin.me/elf-dt-gnu-hash)

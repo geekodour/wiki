@@ -349,7 +349,7 @@ Shared libraries have many names - shared libraries, shared objects, dynamic sha
 
 Links:
 
-- [How to Write Shared Libraries by Ulrich Drepper](https://software.intel.com/sites/default/files/m/a/1/e/dsohowto.pdf)
+- [How to Write Shared Libraries](https://software.intel.com/sites/default/files/m/a/1/e/dsohowto.pdf) by [Ulrich Drepper](https://de.wikipedia.org/wiki/Ulrich_Drepper)(ex glibc maintainer)
 
 ### Usage of PIC, PIE, `-shared`, `-static`
 
@@ -471,6 +471,7 @@ It's an way to export kernel space routines to userspace. The main reason is to 
 - [X86 psABI](https://github.com/hjl-tools/x86-psABI/wiki/X86-psABI)
 - [Building And Using Static And Shared "C" Libraries](http://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html#libraries)
 - [various mechanisms to protect against buffer overflow exploits.](https://www.win.tue.nl/~aeb/linux/hh/protection.html)
+- [Drew on Dynamic Linking](https://drewdevault.com/dynlib.html)
 
 ## Tools
 

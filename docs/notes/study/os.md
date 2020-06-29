@@ -16,6 +16,7 @@ It's basically a special layer of software that provides application software ac
 - [Notes on Interrupts](/docs/notes/study/os/interrupts)
 - [Notes on Linkers, Loaders, Shared and Static Libraries](/docs/notes/study/os/libs)
 - [Notes on ELF](/docs/notes/study/os/elf)
+- [Notes on Resource Management](/docs/notes/study/os/resource_mgmt)
 
 ## Jargons/Rabbit Holes (Unread)
 

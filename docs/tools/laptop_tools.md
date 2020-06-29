@@ -204,6 +204,15 @@ $ objdump -t main #symbol table
 $ grep -rl assets|xargs sed -i 's/assets/\/img\//g'
 ```
 
+## time
+
+```shell
+$ disable -r time
+$ export TIME="\n%e real\n%U user\n%S sys"
+# get the major and minor pagefaults with time for a program
+$ time -v <exec>
+```
+
 ## Future Tools
 
 > Tools that I want to try out.

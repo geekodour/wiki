@@ -16,8 +16,13 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 
 # Dat
 
+# original internet
+
+- https://news.ycombinator.com/item?id=23670246
+
 # local
 
+- https://perkeep.org/
 - https://github.com/DIYgod/RSSHub-Radar
 
 - https://localwiki.org/
@@ -34,6 +39,8 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 ## Tor
 
 - https://lobste.rs/s/is2li1/operating_tor_relay
+- https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia
+- https://news.ycombinator.com/item?id=23653291
 
 ## cool
 
@@ -41,11 +48,18 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 - https://medium.com/fluence-network/decentralized-web-developer-report-2020-5b41a8d86789
 - https://toobnix.org/videos/watch/8ee54700-971c-4da3-a8b4-7a78ed9ac42e
 - https://mxb.dev/blog/the-return-of-the-90s-web/
+- https://news.ycombinator.com/item?id=23666364 web transport
 
 ## archival
 
 - https://webrecorder.net/
 - https://conifer.rhizome.org/
+- https://news.ycombinator.com/item?id=23668507
+- https://github.com/dosyago
+- https://github.com/pirate/ArchiveBox
+- https://github.com/dosyago/22120
+- https://beepb00p.xyz/promnesia.html
+- https://news.ycombinator.com/item?id=23668507
 
 ## Fraidyc
 
@@ -97,6 +111,7 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 - https://wiby.me/
 - https://millionshort.com/about
 - https://forum.indieseek.xyz/
+- https://github.com/jskjott/webring
 
 ## Social Network
 
