@@ -71,6 +71,9 @@ module.exports = {
         },
       ],
     },
+    prism: {
+      additionalLanguages: [ 'ruby' ] // Or any language
+    },
   },
   stylesheets: [
     {

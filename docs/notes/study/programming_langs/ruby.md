@@ -58,8 +58,8 @@ user.keys.map(&:object_id)
 - https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/
 
 ```ruby
-Running via Spring preloader in process 78235
-Loading development environment (Rails 6.0.3.2)
+# Running via Spring preloader in process 78235
+# Loading development environment (Rails 6.0.3.2)
 2.6.5 :001 > Symbol.all_symbols.size
  => 25894
 2.6.5 :002 > a=2
