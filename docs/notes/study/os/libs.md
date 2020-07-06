@@ -459,6 +459,11 @@ It's an way to export kernel space routines to userspace. The main reason is to 
 
 > DOUBT: `vsyscall` came first, vdso overcomes its limitations. vsyscall is still used why?
 
+### Different Libraries
+
+- [glibc/libc, gnulib, and glib/Glib are different things!](https://stackoverflow.com/questions/2240120/glibc-glib-and-gnulib)
+- [GObject](https://en.wikipedia.org/wiki/GObject)
+
 ## Links
 
 - [Linking](https://people.cs.pitt.edu/~xianeizhang/notes/Linking.html)

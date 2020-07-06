@@ -89,6 +89,8 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Consistent Hashing google](https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html)
 - [Fixing the internet for real time applications](https://technology.riotgames.com/news/fixing-internet-real-time-applications-part-i)
 - [Why your software should use UUIDs in 2020s](https://devforth.io/blog/why-your-software-should-use-uuids-in-2020s)
+- [Running Postgres in Kubernetes](https://news.ycombinator.com/item?id=23682450)
+- [HEY in K8s](https://info.acloud.guru/resources/kubernetes-aws-cloud-scaling-hey)
 
 ## OS
 
@@ -121,6 +123,8 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [A Survey of CPU Caches](https://meribold.org/2017/10/20/survey-of-cpu-caches/)
 - [Taming Floating Point Error](http://www.johnbcoughlin.com/posts/floating-point-axiom/)
 - [How fast do I talk](https://www.hillelwayne.com/post/talk-fast/)
+- [HTTP Headers](https://www.fastly.com/blog/improve-http-structured-headers)
+- [How do you configure DNS resolvers?](https://blog.apnic.net/2020/06/22/how-do-you-configure-dns-resolvers/)
 
 ## Nix
 
@@ -132,6 +136,8 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Why nix](https://yakking.branchable.com/posts/what-and-why-nix/)
 - [Adventures in /usr/bin](https://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html)
 - [Understanding the bin, sbin, usr/bin , usr/sbin split](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
+- [Btrfs at Facebook](https://lwn.net/SubscriberLink/824855/30c689f442d0033c/)
+- [Optimizing web servers for high throughput and low latency](https://dropbox.tech/infrastructure/optimizing-web-servers-for-high-throughput-and-low-latency)
 
 ## History and Politics in Tech
 

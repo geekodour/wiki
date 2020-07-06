@@ -37,6 +37,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [NSA Suite B (old)](https://en.wikipedia.org/wiki/NSA_Suite_B_Cryptography)
 - [Forward Secrecy](https://en.wikipedia.org/wiki/Forward_secrecy)
 - [Port Knocking Stupid](https://news.ycombinator.com/item?id=23187662)
+- [ECDSA vs RSA](https://www.ssl.com/article/comparing-ecdsa-vs-rsa/)
 
 ### Theory/Ideas/Protocols
 

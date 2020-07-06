@@ -23,6 +23,7 @@ Ideas should come from necessity but sometimes looking at new things help birth 
 - https://github.com/pshihn/rough-notation
 - [Text to Diagram Tools](https://smusamashah.github.io/text-to-diagram)
 - [Math Interactions](https://cindyjs.org/)
+- [ATK](https://en.wikipedia.org/wiki/Accessibility_Toolkit)
 
 ### Projects
 
@@ -32,6 +33,7 @@ Ideas should come from necessity but sometimes looking at new things help birth 
 - [waitwho](https://waitwho.is/) similar to my old idea of [reachout](https://github.com/geekodour/reachout)
 - [otherside](https://github.com/0x263b/Otherside): Create a Twitter List of the accounts someone follows, and see Twitter from their perspective
 - [Game with a projector](https://www.reddit.com/r/Damnthatsinteresting/comments/cvr4cp/my_brother_made_a_game_which_can_project_on_this/ey6102k/)
+- https://shouldibake.com/
 
 ## My Ideas
 

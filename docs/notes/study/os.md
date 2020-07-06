@@ -30,6 +30,8 @@ Read links will be removed and added somewhere else where they fit better.
 - [Hard link](https://en.wikipedia.org/wiki/Hard_link)
 - [Setuid](https://en.wikipedia.org/wiki/Setuid)
 - [Symlink](https://en.wikipedia.org/wiki/Symbolic_link)
+- [Timestamp Counter(TSC)](https://en.wikipedia.org/wiki/Time_Stamp_Counter) vs NTP
+- Logical Clocks: combination of internal and external clocks.
 
 ## Links
 

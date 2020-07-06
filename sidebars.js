@@ -115,6 +115,7 @@ module.exports = {
         label: "Programming",
         items: [
           "notes/study/go_lang",
+          "notes/study/programming_langs/ruby",
           "notes/study/design_patterns",
           "notes/study/computation",
         ],
@@ -136,7 +137,11 @@ module.exports = {
     ],
   },
   tools: {
-    Software: ["tools/laptop_tools", "tools/performance_tools"],
+    Software: [
+      "tools/laptop_tools",
+      "tools/performance_tools",
+      "tools/forgetful",
+    ],
     Databases: ["tools/postgres", "tools/promql"],
     "Server Tech": ["tools/k8s", "tools/zookeeper", "tools/apache_drill"],
     Hardware: ["tools/calculator"],

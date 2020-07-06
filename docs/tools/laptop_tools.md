@@ -197,6 +197,16 @@ $ objdump -d main #disassemble
 $ objdump -t main #symbol table
 ```
 
+## strace
+
+```shell
+# show syscalls related memory
+$ strace -e trace=%memory ./main
+# put strace output to file (straces outputs in stderr)
+$ strace ./myprog 2> outfilename
+# https://blog.packagecloud.io/eng/2015/11/15/strace-cheat-sheet/
+```
+
 ## Random snippets
 
 ```shell
@@ -237,6 +247,7 @@ $ time -v <exec>
 - https://en.wikipedia.org/wiki/TightVNC
 - https://rr-project.org/
 - https://gchq.github.io/CyberChef/
+- gtk-doc
 
 ### short tools blogposts
 

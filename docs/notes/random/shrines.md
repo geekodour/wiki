@@ -29,3 +29,7 @@ I'll have to update this list soon!
 - https://en.wikipedia.org/wiki/Charles_Stark_Draper_Prize
 - https://en.wikipedia.org/wiki/FSF_Free_Software_Awards
 - https://en.wikipedia.org/wiki/SIGCOMM_Award
+
+## Confs
+
+- https://www.sigmobile.org/mobicom/2021/cfp.html

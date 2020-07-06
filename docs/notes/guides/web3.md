@@ -16,13 +16,20 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 
 # Dat
 
+- https://en.wikipedia.org/wiki/ZeroTier
+- https://twitter.com/OpenObservatory
+- https://twitter.com/NEARProtocol
+- https://twitter.com/openwebfounders
+
 # original internet
 
+- https://news.ycombinator.com/item?id=23678687
 - https://news.ycombinator.com/item?id=23670246
 
 # local
 
 - https://perkeep.org/
+- https://news.ycombinator.com/item?id=23676350
 - https://github.com/DIYgod/RSSHub-Radar
 
 - https://localwiki.org/
@@ -69,6 +76,11 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 ## mesh networks
 
 - https://www.reddit.com/r/darknetplan/comments/9o9nxg/p2p_internet_options/
+
+## chat
+
+- https://nova.chat/
+- https://texts.com/
 
 ## askdj
 

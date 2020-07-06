@@ -37,3 +37,7 @@ SELECT * from <schema_name>.<table_name>;
 - **Initializing a postgres directory:** After logging into the `postgres` user, you can create a directory with necessary postgres files with the `initdb` command. It creates a directory in the file system and then you can start a postgres server directing it to that directory.
 - **Tablespaces:** All tables are by default created in `pg_default` tablespace, creating in a tablespace does not affect the logical SQL schema.
 - **public schema:** All databases will have a public schema created by the `postgres` user. By default `\d` will be showing relations from the public schema.
+
+## Links
+
+- [Types of Indexes in PostgreSQL](https://www.highgo.ca/2020/06/22/types-of-indexes-in-postgresql/)

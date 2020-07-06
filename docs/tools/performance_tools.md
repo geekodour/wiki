@@ -22,13 +22,6 @@ pmap - report memory map of a process
 $ sudo pmap -x <PID>
 ```
 
-## strace
-
-```shell
-# show syscalls related memory
-$ strace -e trace=%memory ./main
-```
-
 ## ps
 
 - memory is in kilobytes (seem manpage)

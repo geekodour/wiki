@@ -72,6 +72,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [Enabling Dynamic Querying over Distributed Hash Tables](https://www.sciencedirect.com/science/article/abs/pii/S0743731510001735)
 - [Bittorrent DHT Protocol](http://www.bittorrent.org/beps/bep_0005.html)
 - [Peer-to-Peer Communication Across Network Address Translators](https://www.usenix.org/legacy/event/usenix05/tech/general/full_papers/ford/ford.pdf)
+- [A Survey and Comparison ofPeer-to-Peer Overlay Network Schemes](https://snap.stanford.edu/class/cs224w-readings/lua04p2p.pdf)
 
 ## Security
 
