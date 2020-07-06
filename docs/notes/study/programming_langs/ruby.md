@@ -4,6 +4,17 @@ title: Ruby
 sidebar_label: Ruby
 ---
 
+## Debugging Methods
+
+```ruby
+# respond_to
+"hello".respond_to(:length)
+# printing
+puts
+print
+p
+```
+
 ## Symbols
 
 ```ruby
