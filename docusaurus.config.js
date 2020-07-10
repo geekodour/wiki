@@ -6,10 +6,25 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "geekodour", // Usually your GitHub org/user name.
   projectName: "wiki", // Usually your repo name.
-  plugins: ['@docusaurus/plugin-google-analytics'],
+  plugins: [
+    "@docusaurus/plugin-google-analytics",
+    "@docusaurus/plugin-google-gtag",
+    [
+      "@docusaurus/plugin-sitemap",
+      {
+        cacheTime: 600 * 1000, // 600 sec - cache purge period
+        changefreq: "weekly",
+        priority: 0.5,
+      },
+    ],
+  ],
   themeConfig: {
     googleAnalytics: {
-      trackingID: 'UA-50861730-3',
+      trackingID: "UA-50861730-3",
+      anonymizeIP: true,
+    },
+    gtag: {
+      trackingID: "UA-50861730-3",
       anonymizeIP: true,
     },
     navbar: {
@@ -77,7 +92,7 @@ module.exports = {
       ],
     },
     prism: {
-      additionalLanguages: [ 'ruby' ] // Or any language
+      additionalLanguages: ["ruby"], // Or any language
     },
   },
   stylesheets: [
