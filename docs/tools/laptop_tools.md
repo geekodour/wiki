@@ -248,6 +248,7 @@ $ time -v <exec>
 - https://rr-project.org/
 - https://gchq.github.io/CyberChef/
 - gtk-doc
+- http://shadowsocks.org/en/index.html
 
 ### short tools blogposts
 

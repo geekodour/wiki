@@ -6,7 +6,12 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "geekodour", // Usually your GitHub org/user name.
   projectName: "wiki", // Usually your repo name.
+  plugins: ['@docusaurus/plugin-google-analytics'],
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'UA-50861730-3',
+      anonymizeIP: true,
+    },
     navbar: {
       title: "geekodour's wiki",
       logo: {
