@@ -8,9 +8,10 @@ Traditionally we had `ulimit` but problems with all that is that it's hard to ve
 
 ps uses `/proc`, how is `/proc` populated? kernel populates it from the address space of the process!
 
-The ulmit shell command is built around `setrlimit`
+The `ulmit` shell command is built around `setrlimit`
 
-a program can change its own soft limit at any time by calling setrlimit
+- a program can change its own soft limit at any time by calling setrlimit
+- need to read more on soft and hard limit
 
 https://pubs.opengroup.org/onlinepubs/009695399/functions/setrlimit.html
 

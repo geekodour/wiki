@@ -6,6 +6,8 @@ sidebar_label: Storage[WIP]
 
 - [Don't Be Afraid of RAID](https://louwrentius.com/dont-be-afraid-of-raid.html)
 
+![](/img/2020-07/ssd-interface-types-comparison.png)
+
 ### Meta
 
 - What is `/proc`?

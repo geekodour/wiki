@@ -91,6 +91,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Why your software should use UUIDs in 2020s](https://devforth.io/blog/why-your-software-should-use-uuids-in-2020s)
 - [Running Postgres in Kubernetes](https://news.ycombinator.com/item?id=23682450)
 - [HEY in K8s](https://info.acloud.guru/resources/kubernetes-aws-cloud-scaling-hey)
+- [Making Netflix Cost effictive](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
 
 ## OS
 
@@ -125,6 +126,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [How fast do I talk](https://www.hillelwayne.com/post/talk-fast/)
 - [HTTP Headers](https://www.fastly.com/blog/improve-http-structured-headers)
 - [How do you configure DNS resolvers?](https://blog.apnic.net/2020/06/22/how-do-you-configure-dns-resolvers/)
+- [Hashing in Python](https://akshayr.me/blog/articles/python-dictionaries)
 
 ## Nix
 

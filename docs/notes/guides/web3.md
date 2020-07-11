@@ -6,20 +6,27 @@ sidebar_label: Web 3.0
 
 What's all the fuss is about decentralized web? I don't know it so this page is about figuring that out. I'll keep adding more info in this page and organizing it in a way that I like.
 
-# Indieweb webmentions
+## Things that are out there:
 
-# Gopher
+- Indieweb webmentions
+- Gopher
+- IPFS
+- SSB
+- Dat
 
-# IPFS
+## Links
 
-# SSB
+- [Blogging Anon](https://news.ycombinator.com/item?id=23789621)
 
-# Dat
+### hardware
 
-- https://en.wikipedia.org/wiki/ZeroTier
-- https://twitter.com/OpenObservatory
-- https://twitter.com/NEARProtocol
-- https://twitter.com/openwebfounders
+- https://news.ycombinator.com/item?id=23796692
+- https://www.jvt.me/posts/2020/06/28/personal-micropub-client/
+
+* https://en.wikipedia.org/wiki/ZeroTier
+* https://twitter.com/OpenObservatory
+* https://twitter.com/NEARProtocol
+* https://twitter.com/openwebfounders
 
 # original internet
 

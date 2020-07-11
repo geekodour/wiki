@@ -45,3 +45,5 @@ plus i have a bad taste in quotes. Also I decided to dump random snippets in thi
 - Little cringe: don't do your best, do whatever it takes. varun tweeted this lel.
 - The world might criticize your ideas. Let that feedback sharpen your insights. You need to be devoid of emotions when it comes to seeking knowledge. The moment you judge yourself for your curiosity, for your desire to connect the dots, you will not grow. -KS
 - We thought the Internet was going to be a global library but then it turned out to be a global bookstore instead. Nice coffee tho. - earthboundkid
+- I read about bootfs at a book from our libraries university from 2019. I contacted the lector of it and he contactet the authors and it turned out, that they had their informations from the internet, including stackoverflow. Unfortunately I had to rethink my trust in books. - some SO post
+- If you try 'cat /boot/vmlinuz > /dev/dsp' (on a properly configured system) you should hear some sound on the speaker. That's the sound of your kernel!

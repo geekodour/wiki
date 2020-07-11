@@ -18,6 +18,8 @@ It's basically a special layer of software that provides application software ac
 - [Notes on ELF](/docs/notes/study/os/elf)
 - [Notes on Resource Management](/docs/notes/study/os/resource_mgmt)
 
+![](/img/2020-07/SCI_Linux.png)
+
 ## Jargons/Rabbit Holes (Unread)
 
 Read links will be removed and added somewhere else where they fit better.
@@ -32,6 +34,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [Symlink](https://en.wikipedia.org/wiki/Symbolic_link)
 - [Timestamp Counter(TSC)](https://en.wikipedia.org/wiki/Time_Stamp_Counter) vs NTP
 - Logical Clocks: combination of internal and external clocks.
+- https://www.cs.swarthmore.edu/~newhall/unixhelp/gdb_pthreads.php
 
 ## Links
 

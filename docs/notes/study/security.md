@@ -6,6 +6,10 @@ sidebar_label: Security
 
 > Index page for everything related to computer security. Most of the things on these subpages are my understanding of computer security. I plan to add some code examples/simulations when I get time.
 
+## Notes
+
+- [Linux security constraints](/docs/notes/study/security/linux_security)
+
 ## Jargons/Rabbit Holes (Unread)
 
 Read links will be removed and added somewhere else where they fit better.
