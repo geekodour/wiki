@@ -172,6 +172,7 @@ The `/dev` tree contains device nodes, which gives user space access to the devi
 - https://www.usenix.org/legacy/publications/library/proceedings/usenix01/full_papers/kroeger/kroeger_html/node8.html
 - https://kernelnewbies.org/RootFileSystem
   > [Rules on accessing `sysfs`](https://www.kernel.org/doc/html/latest/admin-guide/sysfs-rules.html)
+- https://www.one-tab.com/page/UU3KiBdnRZujYl3cnNY_ZQ
 
 ## Things people say
 

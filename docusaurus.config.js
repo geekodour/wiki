@@ -19,6 +19,10 @@ module.exports = {
     ],
   ],
   themeConfig: {
+    algolia: {
+      apiKey: '7601efe49d7d00c8af296c63be137e7a',
+      indexName: 'geekodour',
+    },
     googleAnalytics: {
       trackingID: "UA-50861730-3",
       anonymizeIP: true,

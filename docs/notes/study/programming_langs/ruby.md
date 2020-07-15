@@ -323,3 +323,15 @@ but includes chooses eager_loading when querying on the loaded relationship.
 # rails help commands
 # Running via Spring preloader in process 259763
 ```
+
+## Snippets
+
+```ruby
+# printing in rspec
+STDOUT.puts
+#
+```
+
+## Links
+
+- https://www.zenspider.com/ruby/quickref.html#types
