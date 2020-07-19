@@ -99,6 +99,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [As we may think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 - [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 - [Eye Computer: Turning Vision into a Programmable Computer](https://lobste.rs/s/snksxy/eye_computer_turning_vision_into)
+- [Ten Lessons I Wish I HadBeen Taught](https://www.ams.org/notices/199701/comm-rota.pdf)
 
 ## Education
 

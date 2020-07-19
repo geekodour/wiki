@@ -7,6 +7,7 @@ sidebar_label: Communities
 Online communities
 
 StackExchange
+
 - https://serverfault.com
 - https://dba.stackexchange.com
 - https://crypto.stackexchange.com
@@ -21,7 +22,8 @@ StackExchange
 - https://physics.stackexchange.com
 - https://security.stackexchange.com
 
-IRC networks
+IRC networks (freenode)
+
 - ##electronics
 - #archlinux
 - #ibmthinkpad
@@ -30,8 +32,11 @@ IRC networks
 - #git
 - #github
 - #go-nuts
+- #ruby-lang
+- #RubyOnRails
 
 Reddit Subreddits
+
 - https://www.reddit.com/r/InternetIsBeautiful/
 - https://www.reddit.com/r/learnprogramming/
 - https://www.reddit.com/r/netsec/

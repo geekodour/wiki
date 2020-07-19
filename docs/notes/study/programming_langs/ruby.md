@@ -215,7 +215,7 @@ user = {"name" => "Hrihsikesh","age" => 23}
 user.keys.map{|key| key.object_id}
 # same as above
 user.keys.map do |key|
-  p key.object_id
+  key.object_id
 end
 # the & converts a symbol to a proc object which can be passed to methods (??)
 user.keys.map(&:object_id)
@@ -229,6 +229,17 @@ Read More:
 - https://stackoverflow.com/questions/9468564/what-does-post-all-mapid-mean
 - https://stackoverflow.com/questions/27329256/what-is-the-difference-between-a-method-and-a-proc-object
 - https://www.rubyguides.com/2016/02/ruby-procs-and-lambdas/
+
+## Blocks, Procs, Lambdas and Closures
+
+- **Blocks** are essentially nameless functions. `yield` is used to call a block inside functions. We use `&arg_name_here` when we want to convert a `block` to a `proc`.
+- **Procs** essentially an block which is an object and can be passed around and used as a block. In ruby you can only pass a **single block** but you can pass **multiple procs** around in functions. (`Proc.new` can be used and `<ProcObj>.call` method can be used to call it explitcitly).
+  > `Proc.new` and `proc` are alias syntax
+- **lamdas** These are like proc objects only, but has more things to offer.
+  - One thing is picky about the arguments, you must pass the arguments to `.call`.
+  - `procs` return from the context where they are defined.
+  - `lambdas` return inside the function where `.call` was called from.
+- **closures**: What's interesting about closures in ruby is that the value is not stored in the closure but the reference, so if we mutate the reference to a thing that is inside the closure, we can see updated value upon subsequent access to the closure.
 
 ## Misc
 
@@ -293,6 +304,12 @@ but includes chooses eager_loading when querying on the loaded relationship.
 
 - https://codequizzes.wordpress.com/2014/04/22/rubys-kernel-module/
 - https://stackoverflow.com/questions/38289634/why-does-the-ruby-module-kernel-exist
+
+### The ||= thing
+
+```ruby
+a ||= b # this behaves like a || a = b and NOT like a = a||b
+```
 
 ## Doubts
 

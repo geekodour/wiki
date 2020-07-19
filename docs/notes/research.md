@@ -10,6 +10,7 @@ sidebar_label: Research
 
 - [Bryan Ford](https://bford.info/)
 - [Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo)
+- [Nadim Kobeissi](https://nadim.computer/)
 
 ## Interesting Projects
 

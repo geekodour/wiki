@@ -20,6 +20,7 @@ module.exports = {
       "links/papers",
       "links/videos",
       "links/books",
+      "links/people",
     ],
     Educational: ["links/oneshot"],
     Others: ["links/others/dump"],

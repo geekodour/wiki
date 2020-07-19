@@ -249,6 +249,7 @@ $ time -v <exec>
 - https://gchq.github.io/CyberChef/
 - gtk-doc
 - http://shadowsocks.org/en/index.html
+- WirePlumber: https://www.collabora.com/news-and-blog/news-and-events/wireplumber-03-released-now-ready-for-the-desktop.html
 
 ### short tools blogposts
 

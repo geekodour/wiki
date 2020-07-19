@@ -21,6 +21,7 @@ sidebar_label: Golang
 - Go features first class support for concurrency with channels, and the select and go statements.
 - Channels orchestrate; mutexes serialize.
 - Always close channels from sending side.
+- Go maps are sort of live in the heap or something ([Full details here](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics)), so if you want to keep the pointer to the slice or other stuff you gotta do what you gotta do.
 
 ## Conversations
 

@@ -16,7 +16,13 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 
 ## Links
 
+- https://lobste.rs/s/qzogsg/monitoring_torrents_on_your_server
 - [Blogging Anon](https://news.ycombinator.com/item?id=23789621)
+- https://github.com/cinnamon-bun/earthstar
+- https://gitlab.com/gateway-browser/gateway/
+- https://github.com/Wapikoni-Technique/Natakanu/
+- https://hackmd.io/i0hXmjdlRneHaC_A2lWu8A?view
+- https://webrecorder.net/
 
 ### hardware
 
@@ -144,3 +150,7 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 - https://www.edwinwenink.xyz/etc/etc/
 - https://fingers.today/
 - https://simplifier.neocities.org/
+
+## crypto
+
+- https://learnmeabitcoin.com/

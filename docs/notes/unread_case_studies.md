@@ -127,6 +127,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [HTTP Headers](https://www.fastly.com/blog/improve-http-structured-headers)
 - [How do you configure DNS resolvers?](https://blog.apnic.net/2020/06/22/how-do-you-configure-dns-resolvers/)
 - [Hashing in Python](https://akshayr.me/blog/articles/python-dictionaries)
+- [Cool URIs dont change](https://www.w3.org/Provider/Style/URI)
 
 ## Nix
 

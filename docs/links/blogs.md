@@ -75,6 +75,7 @@ sidebar_label: Blogs
 - [Writing and Reading the Essay](https://ocw.mit.edu/courses/comparative-media-studies-writing/21w-735-writing-and-reading-the-essay-fall-2005/index.htm)
 - [Bonus Episode: Live-writing an article](https://www.youtube.com/watch?v=VNh13i1bHe0)
 - [How the Language Really Works](http://criticalreading.com/)
+- [Technical Writing](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
 
 ## Music related to technology
 

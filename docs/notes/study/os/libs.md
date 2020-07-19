@@ -477,6 +477,7 @@ It's an way to export kernel space routines to userspace. The main reason is to 
 - [Building And Using Static And Shared "C" Libraries](http://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html#libraries)
 - [various mechanisms to protect against buffer overflow exploits.](https://www.win.tue.nl/~aeb/linux/hh/protection.html)
 - [Drew on Dynamic Linking](https://drewdevault.com/dynlib.html)
+- [Traditional Unix Toolchain](https://bsdimp.blogspot.com/2020/07/traditional-unix-toolchains.html?m=1)
 
 ## Tools
 

@@ -41,3 +41,4 @@ SELECT * from <schema_name>.<table_name>;
 ## Links
 
 - [Types of Indexes in PostgreSQL](https://www.highgo.ca/2020/06/22/types-of-indexes-in-postgresql/)
+- [Explain Guide](https://www.pgmustard.com/docs/explain)

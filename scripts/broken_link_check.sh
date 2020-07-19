@@ -9,6 +9,7 @@ checklinks() {
   ./scripts/bin/muffet -c 32\
   -e '#!$'\
   -e '.*github.com/geekodour/wiki/edit.*'\
+  -e '.*googletagmanager.com'\
   --timeout 45 \
   https://wiki.geekodour.xyz > $ROOT_DIR/static/rotlinks.txt
 }

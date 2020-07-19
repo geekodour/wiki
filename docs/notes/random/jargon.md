@@ -22,3 +22,4 @@ Inspired by the [Jargon File](https://en.wikipedia.org/wiki/Jargon_File), here i
 - [Mathematical humor](https://en.wikipedia.org/wiki/Category:Mathematical_humor)
 - [List of mathematical jargon](https://en.wikipedia.org/wiki/List_of_mathematical_jargon)
 - [Glossary of computer hardware terms](https://en.wikipedia.org/wiki/Glossary_of_computer_hardware_terms)
+- [metasyntactic variable](http://www.catb.org/jargon/html/M/metasyntactic-variable.html)
