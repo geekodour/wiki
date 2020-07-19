@@ -1,8 +1,8 @@
 https://wiki.geekodour.xyz/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/books/zero_to_one/
-	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/ideas/drawing_ducks/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/books/zero_to_one/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/links/weekly/links0/
 	400	https://www.googletagmanager.com
@@ -12,85 +12,35 @@ https://wiki.geekodour.xyz/docs/courses/soeycscs1/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/guides/notetaking/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/tools/laptop_tools/
+https://wiki.geekodour.xyz/docs/ideas/quotes/
 	400	https://www.googletagmanager.com
-	404	https://github.com/geekodour/dotfiles
-https://wiki.geekodour.xyz/docs/workshops/tech-guides/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/books/tcpdump_little_book/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/tools/calculator/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/books/linux_networking/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/books/tools_sys_research/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/workshops/projects/
-	400	https://www.googletagmanager.com
-	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
-https://wiki.geekodour.xyz/docs/tools/apache_drill/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/tools/forgetful/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/others/accessp2p/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/tools/postgres/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/tools/zookeeper/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/books/perf_little_book/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/tools/performance_tools/
-	400	https://www.googletagmanager.com
-	503	http://archive.is/PUHrs
 https://wiki.geekodour.xyz/docs/ideas/subjects/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/ideas/humor/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/ideas/quotes/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/blog/v2/
+https://wiki.geekodour.xyz/docs/workshops/tech-guides/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/ideas/timelines/
 	400	https://www.googletagmanager.com
 	503	http://archive.is/nq0H4
 	503	http://archive.is/rYiI3
-https://wiki.geekodour.xyz/docs/tools/k8s/
+https://wiki.geekodour.xyz/docs/links/videos/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/books/tcpdump_little_book/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/ideas/running_bsns/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/blog/tags/docusaurus/
+https://wiki.geekodour.xyz/docs/tools/laptop_tools/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/tools/promql/
+	404	https://github.com/geekodour/dotfiles
+https://wiki.geekodour.xyz/docs/books/tools_sys_research/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/links/videos/
+https://wiki.geekodour.xyz/docs/books/linux_networking/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/cs138_distsys/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/khan/compsci/
+https://wiki.geekodour.xyz/docs/books/perf_little_book/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/links/books/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/math-books/interm-alg/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/khan/hs-stat/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/cmu15213/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/others/distributedsystemscourse/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/ideas/problems_in_edu/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/links/blogs/
-	400	https://www.googletagmanager.com
-	404	https://awesomeblog.club/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Sun, 12 Jul 2020 00:22:16 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=d1a2c16389bdb0679625378e94e2837"..."https://s3-us-west-2.amazonaws.com https://s3.us-west-2.amazonaws.com https://notion-production-snapshots-2.s3.us-west-2.amazonaws.com https: http: https://api.amplitude.com https://api.embed.ly https"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
-https://wiki.geekodour.xyz/docs/links/others/dump/
-	400	https://www.googletagmanager.com
-	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
-https://wiki.geekodour.xyz/docs/ideas/pantry/
-	400	https://www.googletagmanager.com
-	id #/ not found	https://mermaid-js.github.io/mermaid/#/
 https://wiki.geekodour.xyz/docs/links/tweets/
 	400	https://www.googletagmanager.com
 	503	http://archive.is/HuXXW
@@ -99,43 +49,15 @@ https://wiki.geekodour.xyz/docs/links/tweets/
 	503	http://archive.is/riX5l
 	503	http://archive.is/wIj1g
 	503	http://archive.is/wip/pjtln
-	dialing to the given TCP address timed out	https://twitter.com/michael_nielsen/status/1081070044648398848
-https://wiki.geekodour.xyz/docs/courses/khan/sandp/
+	dialing to the given TCP address timed out	https://twitter.com/patio11/status/936615043126370306
+	dialing to the given TCP address timed out	https://twitter.com/visakanv/status/1088354634429677570
+https://wiki.geekodour.xyz/docs/links/blogs/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/math-books/grimaldi/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Sun, 19 Jul 2020 00:23:12 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=d1a535810b4a2cf6c89d610be97aaac"..."https://s3-us-west-2.amazonaws.com https://s3.us-west-2.amazonaws.com https://notion-production-snapshots-2.s3.us-west-2.amazonaws.com https: http: https://api.amplitude.com https://api.embed.ly https"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
+	remote error: tls: handshake failure	https://awesomeblog.club/
+https://wiki.geekodour.xyz/docs/ideas/pantry/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/khan/apstat/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/cmu15445/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/math-books/stats_without_tears/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/cmu15721/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/courses/khan/alg2/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/papers/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/network_prog/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/guides/askingq/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/random/jargon/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/design_patterns/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/finance/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/network/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/go_lang/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/links/oneshot/
-	400	https://www.googletagmanager.com
-	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
-	dialing to the given TCP address timed out	https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/signals.html
-	lookup aos.sh: No address associated with hostname	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
-	the server closed connection before returning the first response byte. Make sure the server returns 'Connection: close' response header before closing the connection	https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know
+	id #/ not found	https://mermaid-js.github.io/mermaid/#/
 https://wiki.geekodour.xyz/docs/links/papers/
 	400	https://www.googletagmanager.com
 	403	https://www.jstor.org/stable/2642267?seq=1
@@ -149,130 +71,241 @@ https://wiki.geekodour.xyz/docs/links/papers/
 	404	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
 	x509: certificate signed by unknown authority	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
 	x509: certificate signed by unknown authority	https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf
-https://wiki.geekodour.xyz/docs/notes/study/wireless/
+https://wiki.geekodour.xyz/blog/v2/
 	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/blog/tags/docusaurus/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/khan/sandp/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/cs138_distsys/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/khan/hs-stat/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/cmu15213/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/cmu15445/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/cmu15721/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/math-books/stats_without_tears/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/others/distributedsystemscourse/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/math-books/grimaldi/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/khan/compsci/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/workshops/projects/
+	400	https://www.googletagmanager.com
+	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
+https://wiki.geekodour.xyz/docs/courses/math-books/interm-alg/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/others/accessp2p/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/khan/apstat/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/ideas/problems_in_edu/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/network_prog/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/links/oneshot/
+	400	https://www.googletagmanager.com
+	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
+	dial tcp4 46.183.250.77:443: connect: connection refused	https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+	lookup aos.sh: No address associated with hostname	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
+	the server closed connection before returning the first response byte. Make sure the server returns 'Connection: close' response header before closing the connection	https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know
 https://wiki.geekodour.xyz/docs/courses/others/gc_essentials_udemy/
 	400	https://www.googletagmanager.com
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 12 Jul 2020 00:22:25 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=d50371b32102715259f482b5c27914ec315945"..."=/\r\nSet-Cookie: ud_cache_marketplace_country=US; expires=Mon, 13 Jul 2020 00:22:25 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_version=1; expires=Mon, 13 Jul 2020 00:22:25 GMT; Max-Age=86"	https://www.udemy.com/course/essentials-of-garbage-collectors/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 19 Jul 2020 00:23:20 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=d4eca1b8c4781705eedd89ae5b87e75ec15951"..."0 Jul 2020 00:23:20 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: inaff=\"\"; expires=Thu, 01 Jan 1970 00:00:00 GMT; Max-Age=0; Path=/\r\nSet-Cookie: exaff=\"\"; expires=Thu, 01 Jan 1970 00:00:00 GMT; Max"	https://www.udemy.com/course/essentials-of-garbage-collectors/
+https://wiki.geekodour.xyz/docs/courses/khan/alg2/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/comp_arch/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/finance/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/guides/communities/
+	400	https://www.googletagmanager.com
+	lookup cstheory.stackexchange.co: no such host	https://cstheory.stackexchange.co
+https://wiki.geekodour.xyz/docs/notes/study/wireless/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/computation/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/math/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/os/
+	400	https://www.googletagmanager.com
+	503	https://news.ycombinator.com/item?id=22953730
+https://wiki.geekodour.xyz/docs/links/others/dump/
+	400	https://www.googletagmanager.com
+	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
+https://wiki.geekodour.xyz/docs/notes/study/filesystems/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/guides/web3/
+	400	https://www.googletagmanager.com
+	503	https://news.ycombinator.com/item?id=17288727
+	503	https://news.ycombinator.com/item?id=22864029
+	503	https://news.ycombinator.com/item?id=23573852
+	503	https://news.ycombinator.com/item?id=23639411
+	503	https://news.ycombinator.com/item?id=23653291
+	503	https://news.ycombinator.com/item?id=23668507
+	503	https://news.ycombinator.com/item?id=23676350
+	503	https://news.ycombinator.com/item?id=23789621
+	503	https://news.ycombinator.com/item?id=23796692
+	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
+https://wiki.geekodour.xyz/docs/notes/case_studies/
+	400	https://www.googletagmanager.com
+	id #end-to-end-principle not found	https://wiki.geekodour.xyz/docs/notes/study/internet#end-to-end-principle
 https://wiki.geekodour.xyz/docs/notes/people/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/design_patterns/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/questions/
+	400	https://www.googletagmanager.com
+	id #classification not found	https://wiki.geekodour.xyz/docs/notes/study/comp_arch#classification
+	id #virtual-memory not found	https://wiki.geekodour.xyz/docs/notes/study/memory#virtual-memory
+https://wiki.geekodour.xyz/docs/notes/podcasts/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/email/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/guides/quantify/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/guides/askingq/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/random/jargon/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/random/shrines/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/rfc/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/papers/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/network/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/research/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/internet/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/storage/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/guides/shitposting/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/random/names/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/memory/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/logging/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/blogs/
+	400	https://www.googletagmanager.com
+	503	http://archive.is/sB5CM
+https://wiki.geekodour.xyz/docs/notes/study/virt/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/random/scales/
+	400	https://www.googletagmanager.com
+	503	http://archive.is/O5s8R
+https://wiki.geekodour.xyz/docs/notes/study/digital_rights/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/p2p/
+	400	https://www.googletagmanager.com
+	503	https://news.ycombinator.com/item?id=23180572
+https://wiki.geekodour.xyz/docs/tools/calculator/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/tools/zookeeper/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/go_lang/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/videos/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/history/
 	400	https://www.googletagmanager.com
 	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
 	id #eeprom not found	https://wiki.geekodour.xyz/docs/notes/study/memory#eeprom
 	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
-https://wiki.geekodour.xyz/docs/courses/math-books/libarts-math/
+https://wiki.geekodour.xyz/docs/tools/forgetful/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/math/
+https://wiki.geekodour.xyz/docs/tools/apache_drill/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/filesystems/
+https://wiki.geekodour.xyz/docs/notes/study/security/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/email/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/logging/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/guides/shitposting/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/videos/
+https://wiki.geekodour.xyz/docs/tools/postgres/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/study/programming_langs/ruby/
 	400	https://www.googletagmanager.com
 	id #no-character-literals not found	https://github.com/rubocop-hq/ruby-style-guide#no-character-literals
-https://wiki.geekodour.xyz/docs/notes/research/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/questions/
-	400	https://www.googletagmanager.com
-	id #classification not found	https://wiki.geekodour.xyz/docs/notes/study/comp_arch#classification
-	id #virtual-memory not found	https://wiki.geekodour.xyz/docs/notes/study/memory#virtual-memory
-https://wiki.geekodour.xyz/docs/notes/study/digital_rights/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/blogs/
-	400	https://www.googletagmanager.com
-	503	http://archive.is/sB5CM
-https://wiki.geekodour.xyz/docs/notes/guides/web3/
-	400	https://www.googletagmanager.com
-	503	https://news.ycombinator.com/item?id=22864029
-	503	https://news.ycombinator.com/item?id=23161922
-	503	https://news.ycombinator.com/item?id=23549471
-	503	https://news.ycombinator.com/item?id=23573852
-	503	https://news.ycombinator.com/item?id=23639411
-	503	https://news.ycombinator.com/item?id=23668507
-	503	https://news.ycombinator.com/item?id=23676350
-	503	https://news.ycombinator.com/item?id=23678687
-	503	https://news.ycombinator.com/item?id=23789621
-	503	https://news.ycombinator.com/item?id=23796692
-	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
-https://wiki.geekodour.xyz/docs/notes/rfc/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/random/names/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/virt/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/guides/quantify/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/comp_arch/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/random/scales/
-	400	https://www.googletagmanager.com
-	503	http://archive.is/O5s8R
-https://wiki.geekodour.xyz/docs/notes/study/computation/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/storage/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/random/shrines/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/case_studies/
-	400	https://www.googletagmanager.com
-	id #end-to-end-principle not found	https://wiki.geekodour.xyz/docs/notes/study/internet#end-to-end-principle
-https://wiki.geekodour.xyz/docs/notes/guides/communities/
-	400	https://www.googletagmanager.com
-	lookup cstheory.stackexchange.co: no such host	https://cstheory.stackexchange.co
-https://wiki.geekodour.xyz/docs/notes/study/memory/
+https://wiki.geekodour.xyz/docs/notes/study/network/data_traversal/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/blog/tags/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/network/data_traversal/
+https://wiki.geekodour.xyz/docs/notes/study/comp_arch/isa/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/study/memory/cache/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/finance/calculations/
+https://wiki.geekodour.xyz/docs/tools/promql/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/comp_arch/bus/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/math/fp/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/tools/performance_tools/
+	400	https://www.googletagmanager.com
+	503	http://archive.is/PUHrs
+https://wiki.geekodour.xyz/docs/notes/study/math/meta_math/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/study/math/mod/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/podcasts/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/math/fp/
+https://wiki.geekodour.xyz/docs/notes/study/finance/calculations/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/study/math/matrix/
 	400	https://www.googletagmanager.com
 	429	https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0
-https://wiki.geekodour.xyz/docs/notes/study/p2p/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/math/meta_math/
-	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/twitter/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/math/functions/
+	dialing to the given TCP address timed out	https://twitter.com/fortelabs/status/1251976256540696576
+https://wiki.geekodour.xyz/docs/notes/study/comp_arch/micro-arch/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/os/threads/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/comp_arch/memory_design/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/os/ipc/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/os/processes/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/tools/k8s/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/math/exponents/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/study/math/numbers/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/os/ipc/
+https://wiki.geekodour.xyz/docs/notes/study/comp_arch/multiprocessing/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/comp_arch/bios_efi/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/computation/analyt_eng/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/os/interrupts/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/computation/actor/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/p2p/basic_p2p/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/memory/mem_hie/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/math/log/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/study/os/elf/
 	400	https://www.googletagmanager.com
 	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
-https://wiki.geekodour.xyz/docs/notes/study/math/exponents/
+https://wiki.geekodour.xyz/docs/notes/study/p2p/bittorrent/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/study/math/calculus/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/internet/
+https://wiki.geekodour.xyz/docs/notes/study/os/resource_mgmt/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/os/threads/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/os/processes/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/security/
-	400	https://www.googletagmanager.com
+	id #:~:text=The soft limit is the,decreased, but its not recommended not found	https://www.nics.tennessee.edu/faq/general-how-do-i-change-my-default-limits-stack-size-core-file-size-etc#:~:text=The%20soft%20limit%20is%20the,decreased,%20but%20its%20not%20recommended
+	id #:~:text=There are two types of,user once it is set.&text=A soft limit, however, can,equal to 'hard limit' not found	https://serverfault.com/questions/265155/soft-limit-vs-hard-limit#:~:text=There%20are%20two%20types%20of,user%20once%20it%20is%20set.&text=A%20soft%20limit,%20however,%20can,equal%20to%20%27hard%20limit%27
 https://wiki.geekodour.xyz/docs/notes/study/go_lang/pprof/
 	400	https://www.googletagmanager.com
 	429	https://github.com/golang/go/wiki/Performance
@@ -288,70 +321,39 @@ https://wiki.geekodour.xyz/docs/notes/study/go_lang/pprof/
 	429	https://github.com/pkg/profile
 	429	https://github.com/profefe/profefe
 	503	http://archive.is/jh1nv
-https://wiki.geekodour.xyz/docs/notes/study/comp_arch/micro-arch/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/comp_arch/bus/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/comp_arch/isa/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/computation/analyt_eng/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/memory/mem_hie/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/os/interrupts/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/math/log/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/comp_arch/memory_design/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/comp_arch/multiprocessing/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/comp_arch/bios_efi/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/computation/actor/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/p2p/bittorrent/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/memory/gc/
-	400	https://www.googletagmanager.com
-	429	https://github.com/golang/go/blob/master/src/runtime/malloc.go
-	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
-https://wiki.geekodour.xyz/docs/notes/study/security/linux_security/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/memory/mem_metrics/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/os/resource_mgmt/
-	400	https://www.googletagmanager.com
-	id #:~:text=The soft limit is the,decreased, but its not recommended not found	https://www.nics.tennessee.edu/faq/general-how-do-i-change-my-default-limits-stack-size-core-file-size-etc#:~:text=The%20soft%20limit%20is%20the,decreased,%20but%20its%20not%20recommended
-	id #:~:text=There are two types of,user once it is set.&text=A soft limit, however, can,equal to 'hard limit' not found	https://serverfault.com/questions/265155/soft-limit-vs-hard-limit#:~:text=There%20are%20two%20types%20of,user%20once%20it%20is%20set.&text=A%20soft%20limit,%20however,%20can,equal%20to%20%27hard%20limit%27
-https://wiki.geekodour.xyz/docs/notes/study/p2p/basic_p2p/
+https://wiki.geekodour.xyz/docs/notes/study/internet/mtcp/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/study/internet/quic/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/internet/mtcp/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/memory/alloc/
-	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/memory/vm/
-	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/study/internet/bgp/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/memory/mem_metrics/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/study/internet/traceroute/
 	400	https://www.googletagmanager.com
-https://wiki.geekodour.xyz/docs/notes/study/internet/meta_ideas/
+https://wiki.geekodour.xyz/docs/notes/study/memory/alloc/
 	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/study/p2p/nat/
 	400	https://www.googletagmanager.com
 	503	https://archive.is/jt4c2
 	503	https://archive.is/u7His#selection-15.0-20.0
+https://wiki.geekodour.xyz/docs/notes/study/internet/meta_ideas/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/security/linux_security/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/memory/vm/
+	400	https://www.googletagmanager.com
+https://wiki.geekodour.xyz/docs/notes/study/memory/gc/
+	400	https://www.googletagmanager.com
+	429	https://github.com/golang/go/blob/master/src/runtime/malloc.go
+	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
+https://wiki.geekodour.xyz/docs/notes/study/math/functions/
+	400	https://www.googletagmanager.com
 https://wiki.geekodour.xyz/docs/notes/unread_case_studies/
 	400	https://www.googletagmanager.com
-	404	https://cyral.com/blog/lessons-using-ebpf-accelerating-cloud-native
+	404	https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/
 	id #slide=id.g35f391192_00 not found	https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/mobilepresent#slide=id.g35f391192_00
 	lookup imoverclocked.blogspot.in: no such host	http://imoverclocked.blogspot.in/2015/12/for-love-of-bits-stop-using-gzip.html
-https://wiki.geekodour.xyz/docs/notes/study/os/
-	400	https://www.googletagmanager.com
-	timeout	https://kernelnewbies.org/LinuxVersions
 https://wiki.geekodour.xyz/docs/notes/study/os/libs/
 	400	https://www.googletagmanager.com
 	404	http://www.goldsborough.me/c/low-level/kernel/2016/08/29/16-48-53-the*-ld_preload-_trick/
