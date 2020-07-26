@@ -59,3 +59,4 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 ## Hardware
 
 - [Build yourself a weather station. Part I](https://blog.kdubovikov.ml/articles/hardware/build-yourself-a-weather-station)
+- [How Students Built a 16th-Century Engineer’s Book-Reading Machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)

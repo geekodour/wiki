@@ -35,7 +35,7 @@ module.exports = {
       "ideas/pantry",
     ],
     Stakes: ["ideas/timelines"],
-    Education: ["ideas/problems_in_edu"],
+    Education: ["ideas/problems_in_edu", "ideas/ideas_in_ed"],
   },
   courses: {
     CMU: ["courses/cmu15445", "courses/cmu15721", "courses/cmu15213"],
@@ -143,7 +143,7 @@ module.exports = {
       "tools/performance_tools",
       "tools/forgetful",
     ],
-    Databases: ["tools/postgres", "tools/promql"],
+    Databases: ["tools/db/postgres", "tools/db/promql", "tools/db/others"],
     "Server Tech": ["tools/k8s", "tools/zookeeper", "tools/apache_drill"],
     Hardware: ["tools/calculator"],
   },

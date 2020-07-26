@@ -40,6 +40,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [MITM’ing TLS/SSL for debugging purposes](https://blog.benjojo.co.uk/post/debug-ssl-tls-with-ssldump-https)
 - [Best Practices for ACME Client Operations](https://docs.https.dev/acme-ops)
 - [How CDNs Generate Certificates](https://fly.io/blog/how-cdns-generate-certificates/)
+- [Dissecting an SSL Certificate (2017)](https://news.ycombinator.com/item?id=23096166)
 
 ## SSH
 
@@ -57,6 +58,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [The network nightmare that ate my week](https://blog.bimajority.org/2014/09/05/the-network-nightmare-that-ate-my-week/)
 - [How 1500 bytes became the MTU of the internet](https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500)
 - [Path MTU discovery in practice](https://blog.cloudflare.com/path-mtu-discovery-in-practice/)
+- [Bad times in corporate wireless networks](https://rachelbythebay.com/w/2020/05/01/owned/)
 - [Just how long do DNS resolvers cache last?](https://blog.benjojo.co.uk/post/dns-resolvers-ttl-lasts-over-one-week)
 - [Detecting anycast addresses and more](https://blog.benjojo.co.uk/post/path-detection-for-anycast)
 - [Traceroute Lies!](http://movingpackets.net/2017/10/06/misinterpreting-traceroute/)
@@ -68,6 +70,11 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Making HTTP Requests with Telnet](https://doesnotscale.com/making-http-requests-with-telnet/)
 - [SDN Internet Router – Part 1](https://labs.spotify.com/2016/01/26/sdn-internet-router-part-1/)
 - [Why turning on HTTTP/2 was a mistake](https://www.lucidchart.com/techblog/2019/04/10/why-turning-on-http2-was-a-mistake/)
+- [Handling multidomain HTTP requests with simple host switch](https://rafallorenz.com/go/go-multidomain-host-switch/)
+- [What happens when you update your DNS?](https://jvns.ca/blog/how-updating-dns-works/)
+- [Thoughts on going down the network stack](https://fasterthanli.me/articles/thoughts-on-going-down-the-network-stack)
+- [Simple ipfw NAT for bhyve virtual machines and vnet jails](https://adventurist.me/posts/00304)
+- [Beyond DNS over HTTPS: Trustless DNS Privacy](https://alyssa.is/proposing-dns-over-tcp-over-tor/)
 
 ## Dist Sys
 
@@ -92,6 +99,9 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Running Postgres in Kubernetes](https://news.ycombinator.com/item?id=23682450)
 - [HEY in K8s](https://info.acloud.guru/resources/kubernetes-aws-cloud-scaling-hey)
 - [Making Netflix Cost effictive](https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032)
+- [Minimum Viable Kubernetes](https://eevans.co/blog/minimum-viable-kubernetes/)
+- [A Terrible, Horrible, No-Good, Very Bad Day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
+- [In praise of ZFS On Linux's ZED 'ZFS Event Daemon'](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSZEDPraise)
 
 ## OS
 
@@ -108,6 +118,9 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Sol — a sunny little virtual machine](https://rsms.me/sol-a-sunny-little-virtual-machine)
 - [elf quine](https://medium.com/@MrJamesFisher/understanding-the-elf-4bd60daac571)
 - [How to get a core dump for a segfault on Linux](https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/)
+- [Why is there a "V" in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
+- [C's main() is one of the places where Unix's user and kernel APIs differ](https://utcc.utoronto.ca/~cks/space/blog/unix/MainKernelAndUserAPI)
+- [Introducing the BARE message encoding](https://drewdevault.com/2020/06/21/BARE-message-encoding.html)
 
 ## Misc
 
@@ -128,9 +141,12 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [How do you configure DNS resolvers?](https://blog.apnic.net/2020/06/22/how-do-you-configure-dns-resolvers/)
 - [Hashing in Python](https://akshayr.me/blog/articles/python-dictionaries)
 - [Cool URIs dont change](https://www.w3.org/Provider/Style/URI)
+- [Not everything is UTF8](https://octobus.net/blog/2020-06-05-not-everything-is-utf8.html)
+- [Open IP over VHF/UHF](http://www.rowetel.com/?p=7207)
 
 ## Nix
 
+- [How does Linux's display work?](https://unix.stackexchange.com/questions/596894/how-does-linuxs-display-work)
 - [Becoming a Git pro. Part 1: internal Git architecture](https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/)
 - [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 - [The Effect of Pipe Capacity on Unix Pipeline Performance](http://dongyuxuan.me/posts/pipeline.html)
@@ -162,6 +178,8 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Debugging MySQL replication lag by diving into the internals](https://making.pusher.com/debugging-mysql-replication-lag/)
 - [SQL Murder Mystery](https://mystery.knightlab.com/)
 - [Monzo Cassandra](https://monzo.com/blog/2019/09/08/why-monzo-wasnt-working-on-july-29th)
+- [Reddit’s database has two tables](https://kevin.burke.dev/kevin/reddits-database-has-two-tables/)
+- sled simulation: https://sled.rs/simulation
 
 ## P2P
 
@@ -171,6 +189,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Building a legacy search engine for a legacy protocol](https://blog.benjojo.co.uk/post/building-a-search-engine-for-gopher)
 - [Announcing GitTorrent: A Decentralized GitHub](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 - [Decentralized proofs](https://metacode.biz/openpgp/proofs)
+- [A Trust and Moderation System for the Decentralized Web](https://adecentralizedworld.com/2020/06/a-trust-and-moderation-system-for-the-decentralized-web/)
 
 ## Programming
 

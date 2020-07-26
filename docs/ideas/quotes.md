@@ -48,3 +48,5 @@ plus i have a bad taste in quotes. Also I decided to dump random snippets in thi
 - I read about bootfs at a book from our libraries university from 2019. I contacted the lector of it and he contactet the authors and it turned out, that they had their informations from the internet, including stackoverflow. Unfortunately I had to rethink my trust in books. - some SO post
 - If you try 'cat /boot/vmlinuz > /dev/dsp' (on a properly configured system) you should hear some sound on the speaker. That's the sound of your kernel!
 - This thing we call “money” is just a (slow, lossy & unsecure) database for labor allocation. Investing is meaningless without people, at least until AGI happens, which will obviate need for labor & necessitate UBI. - elon
+- In writing, the fastest way to build credibility is to state the other side’s argument better than they can - DP
+- “India is not, as people keep calling it, an underdeveloped country, but rather, in the context of its history and cultural heritage, a highly developed one in an advanced state of decay.” ― Shashi Tharoor (Quick reaction team 2019 independence day video)

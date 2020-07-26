@@ -6,6 +6,8 @@ sidebar_label: Web 3.0
 
 What's all the fuss is about decentralized web? I don't know it so this page is about figuring that out. I'll keep adding more info in this page and organizing it in a way that I like.
 
+Think i need to have p2p vs web3
+
 ## Things that are out there:
 
 - Indieweb webmentions
@@ -14,8 +16,72 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 - SSB
 - Dat
 
+## Education
+
+- https://babylon.house/
+- https://www.spinellis.gr/blog/20200406/
+
+## In practice
+
+- https://news.ycombinator.com/item?id=23435929
+- 5G https://news.ycombinator.com/item?id=23426752
+- P2P Matrix https://news.ycombinator.com/item?id=23393935
+
+## People
+
+- https://en.wikipedia.org/wiki/Larry_Tesler
+- Ted Nelson (https://en.wikipedia.org/wiki/Ted_Nelson)
+
+## Mentions and Quotebacks
+
+- https://webmention.net/
+- https://sometimesright.com/2020/04/25/blogging-vs-twitter/
+- http://microformats.org/wiki/what-are-microformats
+- https://micro.blog/
+- https://techcrunch.com/2019/04/17/twitter-highly/
+- https://github.com/WICG/scroll-to-text-fragment
+- https://www.iantay.dev/post/open-transclude/
+- https://en.wikipedia.org/wiki/Linkback
+- https://qz.com/778747/an-early-internet-pioneer-says-the-construction-of-the-web-is-crippling-our-thinking/
+- http://subpixel.space/entries/open-transclude/
+- https://en.wikipedia.org/wiki/Transclusion
+- https://musicbrainz.org/doc/WikiDocs
+- https://tomcritchlow.com/2020/06/09/quotebacks/
+
+## design
+
+- https://littlebigdetails.com/
+- https://theuselessweb.com/
+
+## old
+
+- https://hannahblair.co.uk/
+- https://simonsarris.com/
+- https://whimsical.club/
+- https://mxb.dev/blog/the-return-of-the-90s-web/
+
+## Privacy
+
+- https://blogs.microsoft.com/on-the-issues/2020/06/24/differential-privacy-harvard-opendp/
+- https://github.com/opendifferentialprivacy/whitenoise-core
+- https://github.com/frankmcsherry/blog/blob/master/posts/2017-09-28.md
+
+- https://pavellaptev.github.io/web-dark-ages/
+
 ## Links
 
+- https://lobste.rs/s/hkcezl/how_create_indieweb_profile
+- https://lobste.rs/s/3bktxr/making_rss_more_visible_again_with_feeds
+- https://lobste.rs/s/dp4rox/partying_over_internet_technological
+- https://hacks.mozilla.org/2019/09/exploring-collaboration-and-communication-with-mozilla-hubs/
+- https://news.ycombinator.com/item?id=23938462
+- https://news.ycombinator.com/item?id=23931183
+- https://iknowwhatyoudownload.com/en/peer/
+- https://feross.org/libtorrent-webtorrent/
+- https://toffelblog.xyz/blog/gemini-overview/
+- https://lobste.rs/s/ff5u6s/scuttlebutt_social_network#c_ndngof
+- https://lobste.rs/s/1lv132/making_rss_prominent_again
+- https://berty.tech/blog/bluetooth-low-energy/
 - https://lobste.rs/s/qzogsg/monitoring_torrents_on_your_server
 - [Blogging Anon](https://news.ycombinator.com/item?id=23789621)
 - https://github.com/cinnamon-bun/earthstar
@@ -62,6 +128,15 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 - https://blog.torproject.org/the-value-of-anonymous-contributions-wikipedia
 - https://news.ycombinator.com/item?id=23653291
 
+- https://github.com/Wapikoni-Technique/Natakanu/
+- https://crates.io/crates/actyxos_sdk
+
+## old
+
+- zakim https://www.w3.org/2001/12/zakim-irc-bot.html
+- https://github.com/RangerMauve/agregore-browser
+- https://berty.tech/blog/bluetooth-low-energy/
+
 ## cool
 
 - https://news.ycombinator.com/item?id=23639411
@@ -80,6 +155,7 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 - https://github.com/dosyago/22120
 - https://beepb00p.xyz/promnesia.html
 - https://news.ycombinator.com/item?id=23668507
+- https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/
 
 ## Fraidyc
 
@@ -150,6 +226,7 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 - https://www.edwinwenink.xyz/etc/etc/
 - https://fingers.today/
 - https://simplifier.neocities.org/
+- https://quotebacks.net/
 
 ## crypto
 

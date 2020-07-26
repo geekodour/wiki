@@ -186,6 +186,7 @@ Tweaking these grafanap options really depends on what one wants to see in the g
 - [Understanding the Prometheus rate() function](https://www.metricfire.com/blog/understanding-the-prometheus-rate-function)
 - [Rate then sum, never sum then rate](https://www.robustperception.io/rate-then-sum-never-sum-then-rate)
 - [How does a Prometheus Counter work?](https://www.robustperception.io/how-does-a-prometheus-counter-work)
+- [Drew Devalult Prometheus](https://sourcehut.org/blog/2020-07-03-how-we-monitor-our-services/)
 
 ### Alerting
 
@@ -195,6 +196,10 @@ Tweaking these grafanap options really depends on what one wants to see in the g
 ### Read
 
 - [PrometheusQuerySteps](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusQuerySteps)
+
+### Others
+
+- https://monitoring.mixins.dev/
 
 ## Doubts
 

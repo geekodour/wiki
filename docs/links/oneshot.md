@@ -86,6 +86,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [Introduction to strace](https://jorge.fbarr.net/2014/01/19/introduction-to-strace/)
 - [The Definitive Guide to Linux System Calls](https://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/)
 - [Tutorial - Write a System Call](https://brennan.io/2016/11/14/kernel-dev-ep3/)
+- [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 
 ## Programming in C and CPP
 
@@ -112,6 +113,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [HFT guy on loadbalancing](https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/)
 - [C10k](http://www.kegel.com/c10k.html)
 - [fast-servers](http://geocar.sdf1.org/fast-servers.html)
+- [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 
 ## Memory Management
 
@@ -163,6 +165,9 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - 🎥[Number representation](https://www.youtube.com/watch?v=HhtecBhM_oA&index=1&list=PLD71F13843965439D)
 - 🎥[Floating point numbers 8-bit](https://www.youtube.com/watch?v=ji3SfClm8TU) (See video description)
 - 🎥[Floating point numbers 32-bit](https://www.youtube.com/watch?v=50ZYcZebIec)
+- [You can use floating-point numbers for money](https://www.evanjones.ca/floating-point-money.html)
+- [No real numbers](http://beza1e1.tuxen.de/no_real_numbers.html)
+- [General Decimal Arithmetic](http://speleotrove.com/decimal/)
 
 ## Unicode
 

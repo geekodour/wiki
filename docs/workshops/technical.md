@@ -60,6 +60,7 @@ I'll be adding/removing links to and from this page time to time.
 
 - [Tiny intro to DBMS](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 - [zytrax/ldap](https://www.zytrax.com/books/ldap/) : LDAP for Rocket Scientists
+- [An introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro/)
 
 ## Tracing
 

@@ -57,6 +57,16 @@ Reading this list will probably take an entire week lol.
 - https://www.stackrox.com/post/2020/01/kubernetes-networking-demystified/
 - https://medium.com/thermokline/how-to-choose-a-k8s-cni-plugin-771edf4842c0
 
+### Telemetry and the hashfyre meet
+
+- [Getting started with OpenTelemetry on Kubernetes](https://signoz.io/blog/opentelemetry-kubernetes/)
+- https://cloud.google.com/solutions/exposing-grpc-services-on-gke-using-envoy-proxy
+- https://medium.com/google-cloud/loadbalancing-grpc-for-kubernetes-cluster-services-3ba9a8d8fc03
+- https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/
+- https://scoutapm.com/blog/tutorial-distributed-tracing-in-ruby-with-opentracing
+- https://medium.com/wantedly-engineering/distributed-tracing-for-ruby-on-rails-microservices-with-opencensus-opentelemetry-part-2-5be4bc1a5c2b
+- https://medium.com/velotio-perspectives/a-comprehensive-tutorial-to-implementing-opentracing-with-jaeger-a01752e1a8ce
+
 ## CNI
 
 ![](/img/k8s_cni.png)

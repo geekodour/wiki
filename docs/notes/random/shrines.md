@@ -20,6 +20,10 @@ sidebar_label: Shrines
 
 ## Ken T
 
+## David Patterson
+
+## Moore
+
 I'll have to update this list soon!
 
 ---

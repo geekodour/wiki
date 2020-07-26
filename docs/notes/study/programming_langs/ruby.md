@@ -108,6 +108,8 @@ Defined as a collection of methods and constants. The superclass of `Class` is `
 
 Instead of using `include` we could also `extend` which does different stuff. If we use `extend`, ruby puts the methods from the module to the singleton class of that extending Class, i.e they get added as class methods. We can use `extend` on objects aswell, then they'll be added to the singleton class of the object.
 
+If multiple classes include that module, they'll all point to the same thing.
+
 ```ruby
 module MyModule
   def self.some_method # a module method
@@ -241,6 +243,11 @@ Read More:
   - `lambdas` return inside the function where `.call` was called from.
 - **closures**: What's interesting about closures in ruby is that the value is not stored in the closure but the reference, so if we mutate the reference to a thing that is inside the closure, we can see updated value upon subsequent access to the closure.
 
+## Exception and errors
+
+- All Ruby exceptions and errors are an extension of the `Exception` class
+- In a nutshell, every custom Ruby exception should extend `StandardError`, rather than the `Exception` class(ctrl+c).
+
 ## Misc
 
 ### Boolean Methods
@@ -261,6 +268,10 @@ Idk what this is, the `<<` is the append operator
 ### hash rockets
 
 `=>`
+
+### spaceship operator
+
+`a <=> b`
 
 ### Ruby’s % Notation
 

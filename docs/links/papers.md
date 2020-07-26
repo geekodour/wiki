@@ -73,6 +73,8 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [Bittorrent DHT Protocol](http://www.bittorrent.org/beps/bep_0005.html)
 - [Peer-to-Peer Communication Across Network Address Translators](https://www.usenix.org/legacy/event/usenix05/tech/general/full_papers/ford/ford.pdf)
 - [A Survey and Comparison ofPeer-to-Peer Overlay Network Schemes](https://snap.stanford.edu/class/cs224w-readings/lua04p2p.pdf)
+- [EigenSpeed: Secure Peer-to-peer Bandwidth Evaluatio](https://nikita.ca/papers/eigenspeed-iptps09.pdf)
+- [TrustNet](https://cblgh.org/articles/trustnet.html)
 
 ## Security
 
@@ -137,6 +139,9 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - 🖨[Readings in Database Systems](http://www.redbook.io/)
 - 🖨[Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
 - [Looking Back at Postgres](https://arxiv.org/pdf/1901.01973.pdf)
+- [Understanding Replicationin Databasesand DistributedSystems](https://www.ic.unicamp.br/~buzato/teaching/2018/mo441/wiesmann00a.pdf)
+- [Queues Are Databases(1995)](https://news.ycombinator.com/item?id=23727877)
+- [Who Needs an Architect](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 
 ## Systems
 
@@ -146,6 +151,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [The Unix Time Sharing System](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)
 - [Ironies of Automation](https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
 - [5 Min Rule for Trading Memory](https://www.hpl.hp.com/techreports/tandem/TR-86.1.pdf)
+- [Implementing atomic actions on decentralized data(1983)](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2003/Papers/p3-reed.pdf)
 
 ## PLT
 

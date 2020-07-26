@@ -76,3 +76,4 @@ Try saving links to Pocket when you see shiny link on social media to avoid goin
 ## Inspiration
 
 - [shichao/notes](https://notes.shichao.io/roadmap/)
+- https://news.ycombinator.com/item?id=23445742

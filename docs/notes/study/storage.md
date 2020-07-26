@@ -158,3 +158,7 @@ sidebar_label: Storage[WIP]
 
 - with raid you store in a way that if a drive fails, you lose no data. (in perticular types of raids)
 - raid no substiutes for data.
+
+## Links
+
+- https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html

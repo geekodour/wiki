@@ -21,3 +21,7 @@ sidebar_label: Tweets
 - [Privilege in India](http://archive.is/wIj1g)
 - [Michael Nielsen's Lists](https://twitter.com/michael_nielsen/status/1081070044648398848)
 - [Copy Paste Coders](http://archive.is/riX5l)
+- [Meaning of Life](http://archive.is/drXhc)
+- [The End of Anxiety, a thread.](http://archive.is/QG4dU)
+- [Best of Naval](https://twitter.com/elamje/status/1280714011990913024)
+- [Learning to Think](http://archive.is/q7ZAh)

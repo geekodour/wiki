@@ -19,6 +19,7 @@ Thing to understand about these tools that these are per process and not systemw
 
 ## Link
 
+- https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development
 - chrome-extension://klbibkeccnjlkjkiokjodocebajanakg/suspended.html#ttl=cgroups%20-%20Wikipedia&pos=0&uri=https://en.wikipedia.org/wiki/Cgroups | cgroups - Wikipedia
 - https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt | https://www.kernel.org/doc/Documentation/cgroup-v1/cgroups.txt
 - https://wiki.archlinux.org/index.php/cgroups | cgroups - ArchWiki

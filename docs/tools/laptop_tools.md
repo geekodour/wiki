@@ -250,10 +250,18 @@ $ time -v <exec>
 - gtk-doc
 - http://shadowsocks.org/en/index.html
 - WirePlumber: https://www.collabora.com/news-and-blog/news-and-events/wireplumber-03-released-now-ready-for-the-desktop.html
+- https://jsonnet.org/
 
 ### short tools blogposts
 
 - https://blog.selectel.com/kernel-tracing-ftrace/
 - https://blog.selectel.com/synchronizing-servers-ntp/
 - https://blog.selectel.com/introduction-dpdk-architecture-principles/
+- https://mtlynch.io/tinypilot/
+- https://www.troyhunt.com/building-the-ultimate-home-office-again/
 - https://blog.selectel.com/systemd-containers-introduction-systemd-nspawn/
+- https://tyler.io/diy-video-hosting/
+- https://linux.die.net/man/1/dstat
+- https://valgrind.org/docs/manual/dh-manual.html
+- https://valgrind.org/docs/manual/ms-manual.html
+- https://github.com/BurntSushi/quickcheck

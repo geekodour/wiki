@@ -23,6 +23,10 @@ sidebar_label: RFCs
 - [RFC#2663: IP Network Address Translator (NAT) Terminology and Considerations](https://tools.ietf.org/html/rfc2663)
 - [RFC#1918: Address Allocation for Private Internets](https://tools.ietf.org/html/rfc1918)
 
+## Security
+
+- [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
+
 ## Others
 
 - [RFC#968: Twas the Night Before Start-up](https://tools.ietf.org/html/rfc968)

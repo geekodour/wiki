@@ -19,3 +19,8 @@ And ofcourse, `IMAP/POP/SMTP` are application layer protocols.
 ## TODO
 
 - DKIM
+
+## Links
+
+- https://ideas.liw.fi/rethinking-email.html
+- https://craphound.com/spamsolutions.txt

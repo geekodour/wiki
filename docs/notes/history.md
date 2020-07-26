@@ -168,7 +168,7 @@ A lot of events in history are important, but some events are more important to 
 - **SELinux** originally developed by [NSA](#1952) was merged into Linux Kernel.
 - **Athlon64** the **first 64bit processor** was released by [AMD](#1969)
 
-# 2002
+## 2002
 
 - **Tor** was released.
 - **Winny** was released.
@@ -519,6 +519,7 @@ A lot of events in history are important, but some events are more important to 
 - **Xerox** was founded.
 - ALOHAnet, the **first packet radio network** was announced.
 - **ISBN** was standardized by [ISO](#1947)
+- **B-trees** was invented.
 
 ## 1969
 

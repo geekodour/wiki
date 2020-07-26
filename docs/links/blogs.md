@@ -67,6 +67,9 @@ sidebar_label: Blogs
 - [Akkha Gyan Edharich Hai](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 - [How to draw block diagrams](https://johnwickerson.wordpress.com/2019/08/08/block-diagrams/)
 - [AwesomeClub](https://awesomeblog.club/)
+- [HN: the good parts](https://danluu.com/hn-comments/)
+- [Control Theory](https://fauna.com/blog/control-theory-for-fun-and-profit)
+- [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 
 ## Writing
 
@@ -76,6 +79,7 @@ sidebar_label: Blogs
 - [Bonus Episode: Live-writing an article](https://www.youtube.com/watch?v=VNh13i1bHe0)
 - [How the Language Really Works](http://criticalreading.com/)
 - [Technical Writing](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
+- [Making Cheatsheets](https://www.hillelwayne.com/post/cheatsheets/)
 
 ## Music related to technology
 
