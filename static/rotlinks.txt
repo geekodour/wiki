@@ -1,24 +1,10 @@
 https://wiki.geekodour.xyz/blog/
 	x509: certificate has expired or is not yet valid	https://www.kickscondor.com/static-the-gathering/
-https://wiki.geekodour.xyz/docs/tools/laptop_tools/
-	404	https://github.com/geekodour/dotfiles
-https://wiki.geekodour.xyz/docs/courses/others/gc_essentials_udemy/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 09 Aug 2020 00:26:04 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=de7ed2200b2de3d40fdc73777fabba7f115969"..."n, 10 Aug 2020 00:26:04 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: inaff=\"\"; expires=Thu, 01 Jan 1970 00:00:00 GMT; Max-Age=0; Path=/\r\nSet-Cookie: ud_rule_vars=eJx9j90KgzAMRl9FerspMdaqfZaCZDXdyn7"	https://www.udemy.com/course/essentials-of-garbage-collectors/
+https://wiki.geekodour.xyz/docs/links/others/dump/
+	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
 https://wiki.geekodour.xyz/docs/links/blogs/
 	404	https://awesomeblog.club/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Sun, 09 Aug 2020 00:26:02 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=d2c235ac969430919040e13d4c15566"..."://cdn.syndication.twimg.com; connect-src 'self' https://msgstore.www.notion.so wss://msgstore.www.notion.so https://notion-emojis.s3-us-west-2.amazonaws.com https://s3-us-west-2.amazonaws.com https:/"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
-https://wiki.geekodour.xyz/docs/links/tweets/
-	503	http://archive.is/HuXXW
-	503	http://archive.is/QG4dU
-	503	http://archive.is/QJSyS
-	503	http://archive.is/drXhc
-	503	http://archive.is/koKQB
-	503	http://archive.is/q7ZAh
-	503	http://archive.is/riX5l
-	503	http://archive.is/wIj1g
-	503	http://archive.is/wip/pjtln
-	dialing to the given TCP address timed out	https://twitter.com/michael_nielsen/status/1081070044648398848
-	dialing to the given TCP address timed out	https://twitter.com/patio11/status/936615043126370306
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Sun, 16 Aug 2020 00:26:58 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=d69fe02dfb5aa925ee2b85909d64cbe"...".com https://admin.typeform.com https://platform.twitter.com https://cdn.syndication.twimg.com; connect-src 'self' https://msgstore.www.notion.so wss://msgstore.www.notion.so https://notion-emojis.s3-"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
 https://wiki.geekodour.xyz/docs/links/papers/
 	403	https://www.jstor.org/stable/2642267?seq=1
 	404	https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
@@ -31,73 +17,69 @@ https://wiki.geekodour.xyz/docs/links/papers/
 	404	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
 	x509: certificate signed by unknown authority	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
 	x509: certificate signed by unknown authority	https://www.ssrc.ucsc.edu/Papers/weil-osdi06.pdf
-https://wiki.geekodour.xyz/docs/notes/case_studies/
-	id #end-to-end-principle not found	https://wiki.geekodour.xyz/docs/notes/study/internet#end-to-end-principle
-https://wiki.geekodour.xyz/docs/notes/random/scales/
-	503	http://archive.is/O5s8R
-https://wiki.geekodour.xyz/docs/links/oneshot/
-	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
-	404	http://intronetworks.cs.luc.edu/current/html/newtcps.html
-	dialing to the given TCP address timed out	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
-https://wiki.geekodour.xyz/docs/notes/study/network/
-	503	https://news.ycombinator.com/item?id=23177607
-https://wiki.geekodour.xyz/docs/notes/blogs/
-	503	http://archive.is/sB5CM
-https://wiki.geekodour.xyz/docs/notes/questions/
-	id #classification not found	https://wiki.geekodour.xyz/docs/notes/study/comp_arch#classification
-	id #virtual-memory not found	https://wiki.geekodour.xyz/docs/notes/study/memory#virtual-memory
-https://wiki.geekodour.xyz/docs/notes/study/programming_langs/ruby/
-	id #no-character-literals not found	https://github.com/rubocop-hq/ruby-style-guide#no-character-literals
+https://wiki.geekodour.xyz/docs/courses/others/gc_essentials_udemy/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 16 Aug 2020 00:27:00 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: __cfduid=d8d8466b29ca801ffb739f313708786e715975"..."0:27:00 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_user=\"\"; expires=Mon, 17 Aug 2020 00:27:00 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_price_country=US; expires=Mon, 17 A"	https://www.udemy.com/course/essentials-of-garbage-collectors/
+https://wiki.geekodour.xyz/docs/links/tweets/
+	503	http://archive.is/HuXXW
+	503	http://archive.is/QG4dU
+	503	http://archive.is/QJSyS
+	503	http://archive.is/drXhc
+	503	http://archive.is/koKQB
+	503	http://archive.is/q7ZAh
+	503	http://archive.is/riX5l
+	503	http://archive.is/wIj1g
+	503	http://archive.is/wip/pjtln
+	dialing to the given TCP address timed out	https://twitter.com/ShriramKMurthi/status/1223053225705852929
 https://wiki.geekodour.xyz/blog/v2/
 	x509: certificate has expired or is not yet valid	https://www.kickscondor.com/static-the-gathering/
 https://wiki.geekodour.xyz/blog/tags/docusaurus/
 	x509: certificate has expired or is not yet valid	https://www.kickscondor.com/static-the-gathering/
-https://wiki.geekodour.xyz/docs/notes/guides/web3/
-	404	https://crates.io/crates/actyxos_sdk
-	503	https://news.ycombinator.com/item?id=17288727
-	503	https://news.ycombinator.com/item?id=23161922
-	503	https://news.ycombinator.com/item?id=23426752
-	503	https://news.ycombinator.com/item?id=23435929
-	503	https://news.ycombinator.com/item?id=23549471
-	503	https://news.ycombinator.com/item?id=23573852
-	503	https://news.ycombinator.com/item?id=23639411
-	503	https://news.ycombinator.com/item?id=23653291
-	503	https://news.ycombinator.com/item?id=23670246
-	503	https://news.ycombinator.com/item?id=23676350
-	503	https://news.ycombinator.com/item?id=23678687
-	503	https://news.ycombinator.com/item?id=23789621
-	503	https://news.ycombinator.com/item?id=23796692
-	503	https://news.ycombinator.com/item?id=23931183
-	503	https://news.ycombinator.com/item?id=23938462
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 09 Aug 2020 00:26:14 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 148448\r\nConnection: close\r\nX-Powered-By: Express\r\nStrict-Transport-Security: max-age=31536"..."FAwFfRs9ZxesA+4xg0QDSrdI=' 'sha256-8HvL1KRq6jEwDkuVgxMDK7Gag1vnT70L0Lfoa1E3YsY=' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM='; img-src * data:; style-src 'self' 'unsafe-inline' https://assets"	https://hackmd.io/i0hXmjdlRneHaC_A2lWu8A?view
-	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
-	x509: certificate has expired or is not yet valid	https://www.kickscondor.com/
-	x509: certificate has expired or is not yet valid	https://www.kickscondor.com/foundations-of-a-tiny-directory/
-	x509: certificate has expired or is not yet valid	https://www.kickscondor.com/linkto/
-	x509: certificate has expired or is not yet valid	https://www.kickscondor.com/things-we-left-in-the-old-web/
-https://wiki.geekodour.xyz/docs/notes/study/p2p/
-	503	https://news.ycombinator.com/item?id=23023675
-https://wiki.geekodour.xyz/docs/notes/research/
-	dialing to the given TCP address timed out	https://computingthehumanexperience.com/
-https://wiki.geekodour.xyz/docs/ideas/timelines/
-	503	http://archive.is/nq0H4
-	503	http://archive.is/rYiI3
-https://wiki.geekodour.xyz/docs/tools/performance_tools/
-	503	http://archive.is/PUHrs
+https://wiki.geekodour.xyz/docs/workshops/projects/
+	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
+https://wiki.geekodour.xyz/docs/tools/laptop_tools/
+	404	https://github.com/geekodour/dotfiles
+https://wiki.geekodour.xyz/docs/links/oneshot/
+	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
+	404	http://intronetworks.cs.luc.edu/current/html/newtcps.html
+	dialing to the given TCP address timed out	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
+https://wiki.geekodour.xyz/docs/notes/study/programming_langs/ruby/
+	id #no-character-literals not found	https://github.com/rubocop-hq/ruby-style-guide#no-character-literals
+https://wiki.geekodour.xyz/docs/notes/study/os/
+	503	https://news.ycombinator.com/item?id=22953730
+https://wiki.geekodour.xyz/docs/notes/case_studies/
+	id #end-to-end-principle not found	https://wiki.geekodour.xyz/docs/notes/study/internet#end-to-end-principle
+https://wiki.geekodour.xyz/docs/notes/blogs/
+	503	http://archive.is/sB5CM
 https://wiki.geekodour.xyz/docs/notes/history/
 	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
 	id #eeprom not found	https://wiki.geekodour.xyz/docs/notes/study/memory#eeprom
 	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
-https://wiki.geekodour.xyz/docs/workshops/projects/
-	429	https://github.com/jamesroutley/write-a-hash-table
-	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
+https://wiki.geekodour.xyz/docs/notes/questions/
+	id #classification not found	https://wiki.geekodour.xyz/docs/notes/study/comp_arch#classification
+	id #virtual-memory not found	https://wiki.geekodour.xyz/docs/notes/study/memory#virtual-memory
+https://wiki.geekodour.xyz/docs/ideas/ideas_in_ed/
+	503	https://news.ycombinator.com/item?id=23710551
+https://wiki.geekodour.xyz/docs/notes/random/scales/
+	503	http://archive.is/O5s8R
+https://wiki.geekodour.xyz/docs/notes/study/p2p/
+	503	https://news.ycombinator.com/item?id=23180572
+https://wiki.geekodour.xyz/docs/ideas/timelines/
+	503	http://archive.is/nq0H4
+	503	http://archive.is/rYiI3
+https://wiki.geekodour.xyz/docs/tools/db/others/
+	404	https://lyft.github.io/amundsen/
 https://wiki.geekodour.xyz/docs/ideas/problems_in_edu/
 	503	http://archive.is/19ZNG
 	503	http://archive.is/zzhaP
-https://wiki.geekodour.xyz/docs/ideas/pantry/
-	id #/ not found	https://mermaid-js.github.io/mermaid/#/
-https://wiki.geekodour.xyz/docs/links/others/dump/
-	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
+https://wiki.geekodour.xyz/docs/tools/performance_tools/
+	503	http://archive.is/PUHrs
+https://wiki.geekodour.xyz/docs/notes/study/math/matrix/
+	429	https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0
+https://wiki.geekodour.xyz/docs/notes/study/os/elf/
+	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
+https://wiki.geekodour.xyz/docs/notes/study/os/resource_mgmt/
+	id #:~:text=The soft limit is the,decreased, but its not recommended not found	https://www.nics.tennessee.edu/faq/general-how-do-i-change-my-default-limits-stack-size-core-file-size-etc#:~:text=The%20soft%20limit%20is%20the,decreased,%20but%20its%20not%20recommended
+	id #:~:text=There are two types of,user once it is set.&text=A soft limit, however, can,equal to 'hard limit' not found	https://serverfault.com/questions/265155/soft-limit-vs-hard-limit#:~:text=There%20are%20two%20types%20of,user%20once%20it%20is%20set.&text=A%20soft%20limit,%20however,%20can,equal%20to%20%27hard%20limit%27
 https://wiki.geekodour.xyz/docs/notes/study/go_lang/pprof/
 	429	https://github.com/golang/go/wiki/Performance
 	429	https://github.com/golang/proposal/blob/master/design/17280-profile-labels.md
@@ -112,29 +94,45 @@ https://wiki.geekodour.xyz/docs/notes/study/go_lang/pprof/
 	429	https://github.com/pkg/profile
 	429	https://github.com/profefe/profefe
 	503	http://archive.is/jh1nv
+https://wiki.geekodour.xyz/docs/ideas/pantry/
+	id #/ not found	https://mermaid-js.github.io/mermaid/#/
 https://wiki.geekodour.xyz/docs/notes/study/memory/gc/
 	429	https://github.com/golang/go/blob/master/src/runtime/malloc.go
 	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
 https://wiki.geekodour.xyz/docs/notes/guides/communities/
 	lookup cstheory.stackexchange.co: no such host	https://cstheory.stackexchange.co
-https://wiki.geekodour.xyz/docs/notes/study/math/matrix/
-	429	https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0
-https://wiki.geekodour.xyz/docs/notes/study/os/resource_mgmt/
-	id #:~:text=The soft limit is the,decreased, but its not recommended not found	https://www.nics.tennessee.edu/faq/general-how-do-i-change-my-default-limits-stack-size-core-file-size-etc#:~:text=The%20soft%20limit%20is%20the,decreased,%20but%20its%20not%20recommended
-	id #:~:text=There are two types of,user once it is set.&text=A soft limit, however, can,equal to 'hard limit' not found	https://serverfault.com/questions/265155/soft-limit-vs-hard-limit#:~:text=There%20are%20two%20types%20of,user%20once%20it%20is%20set.&text=A%20soft%20limit,%20however,%20can,equal%20to%20%27hard%20limit%27
-https://wiki.geekodour.xyz/docs/notes/study/os/elf/
-	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
 https://wiki.geekodour.xyz/docs/notes/study/p2p/nat/
 	503	https://archive.is/jt4c2
 	503	https://archive.is/u7His#selection-15.0-20.0
-https://wiki.geekodour.xyz/docs/workshops/tech-guides/
-	timeout	https://kernelnewbies.org/
 https://wiki.geekodour.xyz/docs/notes/unread_case_studies/
-	502	https://devforth.io/blog/why-your-software-should-use-uuids-in-2020s
+	404	https://info.acloud.guru/resources/kubernetes-aws-cloud-scaling-hey
 	502	https://labs.spotify.com/2016/01/26/sdn-internet-router-part-1/
 	id #slide=id.g35f391192_00 not found	https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/mobilepresent#slide=id.g35f391192_00
 	lookup imoverclocked.blogspot.in: no such host	http://imoverclocked.blogspot.in/2015/12/for-love-of-bits-stop-using-gzip.html
-	timeout	https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe
+https://wiki.geekodour.xyz/docs/workshops/tech-guides/
+	timeout	https://kernelnewbies.org/
+https://wiki.geekodour.xyz/docs/notes/guides/web3/
+	404	https://crates.io/crates/actyxos_sdk
+	503	https://news.ycombinator.com/item?id=17288727
+	503	https://news.ycombinator.com/item?id=22864029
+	503	https://news.ycombinator.com/item?id=23161922
+	503	https://news.ycombinator.com/item?id=23426752
+	503	https://news.ycombinator.com/item?id=23435929
+	503	https://news.ycombinator.com/item?id=23549471
+	503	https://news.ycombinator.com/item?id=23573852
+	503	https://news.ycombinator.com/item?id=23653291
+	503	https://news.ycombinator.com/item?id=23666364
+	503	https://news.ycombinator.com/item?id=23668507
+	503	https://news.ycombinator.com/item?id=23676350
+	503	https://news.ycombinator.com/item?id=23796692
+	503	https://news.ycombinator.com/item?id=23938462
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sun, 16 Aug 2020 00:27:09 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 148458\r\nConnection: close\r\nX-Powered-By: Express\r\nStrict-Transport-Security: max-age=31536"..."FAwFfRs9ZxesA+4xg0QDSrdI=' 'sha256-8HvL1KRq6jEwDkuVgxMDK7Gag1vnT70L0Lfoa1E3YsY=' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM='; img-src * data:; style-src 'self' 'unsafe-inline' https://assets"	https://hackmd.io/i0hXmjdlRneHaC_A2lWu8A?view
+	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
+	timeout	https://iknowwhatyoudownload.com/en/peer/
+	x509: certificate has expired or is not yet valid	https://www.kickscondor.com/
+	x509: certificate has expired or is not yet valid	https://www.kickscondor.com/foundations-of-a-tiny-directory/
+	x509: certificate has expired or is not yet valid	https://www.kickscondor.com/linkto/
+	x509: certificate has expired or is not yet valid	https://www.kickscondor.com/things-we-left-in-the-old-web/
 https://wiki.geekodour.xyz/docs/notes/study/os/libs/
 	404	http://www.goldsborough.me/c/low-level/kernel/2016/08/29/16-48-53-the*-ld_preload-_trick/
 	404	http://www.visi.com/~barr/ldpath.html
