@@ -38,3 +38,5 @@ sidebar_label: Software Design Patterns
 ## Software Architecture
 
 - C4 : https://c4model.com/
+- [Active record pattern](https://en.wikipedia.org/wiki/Active_record_pattern) : The RoR ActiveRecords are implementation of this pattern! Martin Flower coined this.
+- https://en.wikipedia.org/wiki/Design_by_contract

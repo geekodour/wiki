@@ -37,6 +37,7 @@ Ideas should come from necessity but sometimes looking at new things help birth 
 
 - https://mermaid-js.github.io/mermaid/#/
 - https://github.com/ColCarroll/ridge_map map plots the way i like it
+- https://news.ycombinator.com/item?id=24240680
 
 ### Projects
 

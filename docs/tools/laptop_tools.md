@@ -37,6 +37,8 @@ $ git stash -- filename.ext
 $ git reset filename.txt
 # delete all untracked files
 $ git clean -fdx
+# show all untracked files
+git ls-files --others --exclude-standard
 ```
 
 ## kitty
@@ -132,9 +134,11 @@ $ hexdump -e '16/1 "%02x " "\n"' -v -n 64 main.o
 
 ```shell
 # show systemd service file
-$ systemctl cat dhcpcd.service
+systemctl cat dhcpcd.service
 # systemd-analyze plot : units that take a long time to start
-$ systemd-analyze plot > plot.svg
+systemd-analyze plot > plot.svg
+# get logs for a service, -b for current boot
+sudo journalctl -u zookeeper.service -b
 ```
 
 ## gcc
@@ -212,6 +216,16 @@ $ strace ./myprog 2> outfilename
 ```shell
 # grep and replace
 $ grep -rl assets|xargs sed -i 's/assets/\/img\//g'
+# git grep with file globs
+$ git grep pattern_here -- '*.js'
+$ grep -ri --include="*.js" pattern_here
+```
+
+## jq
+
+```shell
+# list duplicates
+cat myson.json | jq '[.data[].url]| group_by(.) | map(select(length>1))'
 ```
 
 ## time
@@ -221,6 +235,12 @@ $ disable -r time
 $ export TIME="\n%e real\n%U user\n%S sys"
 # get the major and minor pagefaults with time for a program
 $ time -v <exec>
+```
+
+## vim
+
+```vim
+:1?<term> t'search from bottom
 ```
 
 ## Future Tools
@@ -251,6 +271,11 @@ $ time -v <exec>
 - http://shadowsocks.org/en/index.html
 - WirePlumber: https://www.collabora.com/news-and-blog/news-and-events/wireplumber-03-released-now-ready-for-the-desktop.html
 - https://jsonnet.org/
+- https://github.com/NerdyPepper/dijo
+- https://sourceforge.net/projects/tceetree/
+- https://news.ycombinator.com/item?id=24241485 (ventoy USB)
+- Wireguard on Micriotik https://news.ycombinator.com/item?id=24240376
+- https://sta.li/ : stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project
 
 ### short tools blogposts
 
@@ -265,3 +290,4 @@ $ time -v <exec>
 - https://valgrind.org/docs/manual/dh-manual.html
 - https://valgrind.org/docs/manual/ms-manual.html
 - https://github.com/BurntSushi/quickcheck
+- https://news.ycombinator.com/item?id=24243521 (https://vtm.netxs.online/)

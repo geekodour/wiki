@@ -70,6 +70,7 @@ sidebar_label: Blogs
 - [HN: the good parts](https://danluu.com/hn-comments/)
 - [Control Theory](https://fauna.com/blog/control-theory-for-fun-and-profit)
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+- [roam/visa/braindump](https://roamresearch.com/#/app/visakanv-public/page/aHYzCZnry)
 
 ## Writing
 

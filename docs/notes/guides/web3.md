@@ -8,6 +8,34 @@ What's all the fuss is about decentralized web? I don't know it so this page is 
 
 Think i need to have p2p vs web3
 
+## Conf Notes
+
+- https://github.com/RangerMauve/dat-workshop
+- https://compost.digital/
+- https://distributed.press/
+- https://blog.mauve.moe/slides/agregore-presentation/#1
+- https://join.misskey.page/en/
+- https://github.com/p2pcommons/sdk-js
+- https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/
+- https://stackoverflow.com/questions/7087728/custom-protocol-handler-in-chrome
+- https://www.researchobject.org/
+- https://hackmd.io/ZRTimHheSU-mH3B6sg3Z0g
+- https://opencollective.com/cabal-club
+- https://substack.net/#cv
+- https://www.youtube.com/watch?v=faxfLmChjVQ
+- https://www.digital-democracy.org/blog/osm-p2p/
+- https://www.digital-democracy.org/ourwork/
+- https://substack.net/zine/cabal.html
+- https://github.com/p2pcommons/specs
+- https://figshare.com/articles/presentation/Inclusive_indexing_of_research_outputs_through_decentralized_web/12745346
+- https://ec.europa.eu/research/horizon2020/index.cfm?pg=country-profiles#associated
+- https://solidproject.org/
+- https://lists.sr.ht/~rschulman/idili
+- https://observablehq.com/@jimpick/hypercore-data-tree-in-ipld?collection=jimpick/hypercore-ipld
+- https://observablehq.com/collection/@jimpick/hypercore-ipld
+- https://observablehq.com/
+- https://github.com/mikeal/dagdb
+
 ## Things that are out there:
 
 - Indieweb webmentions
@@ -231,3 +259,13 @@ Think i need to have p2p vs web3
 ## crypto
 
 - https://learnmeabitcoin.com/
+
+## file sharing
+
+- https://piratebox.cc/goals
+- http://jasongriffey.net/librarybox/
+- http://archive.is/2ZOLj
+
+
+## Others
+- https://news.ycombinator.com/item?id=24225724

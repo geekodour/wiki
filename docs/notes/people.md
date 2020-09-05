@@ -5,7 +5,7 @@ sidebar_label: People
 ---
 I've walked the earth and after I die, people will still be able to access this page. These are the people(*unordered*) who made the most direct positive impact in my silly little worthless life. This list is surely not exhaustive. I'll always be thankful to all of them.
 
-I wanted to write about each of them here briefly, but due to my security trust model, I won't do that. I am planning to send handwritten thankyou notes the next year on NYE. I know it'll be super awkward, but it's better than regretting later.
+I wanted to write about each of them here briefly but due to privacy reasons, I won't do that. I am planning to send handwritten thankyou notes the next year on NYE. I know it'll be super awkward, but it's better than regretting later.
 
 - Baba dada
 - Babuli dada
@@ -39,6 +39,7 @@ I wanted to write about each of them here briefly, but due to my security trust 
 - Mriyam Da
 - Shyamal
 - Amartya
+- Ganesh
 - Srijan
 - Udipta
 - Monsoon

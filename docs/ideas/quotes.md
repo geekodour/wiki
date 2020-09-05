@@ -50,3 +50,4 @@ plus i have a bad taste in quotes. Also I decided to dump random snippets in thi
 - This thing we call “money” is just a (slow, lossy & unsecure) database for labor allocation. Investing is meaningless without people, at least until AGI happens, which will obviate need for labor & necessitate UBI. - elon
 - In writing, the fastest way to build credibility is to state the other side’s argument better than they can - DP
 - “India is not, as people keep calling it, an underdeveloped country, but rather, in the context of its history and cultural heritage, a highly developed one in an advanced state of decay.” ― Shashi Tharoor (Quick reaction team 2019 independence day video)
+- “An expert is a man who has made all the mistakes, which can be made, in a very narrow field.” - Niels Bohr

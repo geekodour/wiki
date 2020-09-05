@@ -4,6 +4,10 @@ title: PromQL Notes Dump
 sidebar_label: PromQL
 ---
 
+## Community Meeting
+
+https://docs.google.com/document/d/13ikSkpVTmZFj0j2QicKuHwVfJsLWB_Zau_DpABcEUUs/edit
+
 ## Data Model
 
 ![](/img/tsdb_prob.png)
@@ -13,7 +17,7 @@ sidebar_label: PromQL
 <identifier> -> [(t0,v0), (t1,v1), ...]
 t0 = int64, miliseconds unix timestamps
 v0 = float64
-## each of the following are totally different time series
+# each of the following are totally different time series
 prometheus_http_requests_total{code="200", handler="/api/v1/query", instance="localhost:9090", job="prometheus"}
 prometheus_http_requests_total{code="200", handler="/graph", instance="localhost:9090", job="prometheus"}
 ```
@@ -187,6 +191,9 @@ Tweaking these grafanap options really depends on what one wants to see in the g
 - [Rate then sum, never sum then rate](https://www.robustperception.io/rate-then-sum-never-sum-then-rate)
 - [How does a Prometheus Counter work?](https://www.robustperception.io/how-does-a-prometheus-counter-work)
 - [Drew Devalult Prometheus](https://sourcehut.org/blog/2020-07-03-how-we-monitor-our-services/)
+- https://promtools.dev/#errors
+- https://monitoring.mixins.dev/
+- prometheus operator
 
 ### Alerting
 
@@ -214,3 +221,7 @@ sum (rate(http_requests_total{job="node"}[5m]))  by (job)
 ```
 
 - what are modifiers (offset, bool)
+
+## Other Notes
+
+- One word of warning when using timestamps on exported metrics, you can easily run into staleness problems which will create gaps in Prometheus. Or if the timestamp is too far off, Prometheus will drop the data entirely. - **the great superQ**

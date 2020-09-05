@@ -14,6 +14,9 @@ sidebar_label: Timelines
 - [Project: Roman roads diagrams](https://sashamaps.net/docs/maps/roman-roads-index/)
 - [Flash Games](http://www.flashgamehistory.com/)
 - [Abstract Wikipedia Project](https://meta.wikimedia.org/wiki/Abstract_Wikipedia/July_2020_announcement)
+- https://arxiv.org/abs/2004.04733
+- https://en.wikipedia.org/wiki/Semantic_MediaWiki
+- https://www.grammaticalframework.org/
 
 ## Projects
 

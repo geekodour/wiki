@@ -25,3 +25,4 @@ sidebar_label: Tweets
 - [The End of Anxiety, a thread.](http://archive.is/QG4dU)
 - [Best of Naval](https://twitter.com/elamje/status/1280714011990913024)
 - [Learning to Think](http://archive.is/q7ZAh)
+- [Beautiful Libraries](https://archive.is/o4K7c)

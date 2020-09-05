@@ -71,6 +71,10 @@ Scope refers to what variables are available at any given point in time.
 
 ## OOP
 
+> class names tend to be nouns, whereas module names are often adjectives (Stack versus Stacklike). 
+>
+> https://stackoverflow.com/questions/1282864/ruby-inheritance-vs-mixins
+
 It seems like in ruby objects(**internally**) can't have methods, only classes can. But in practice objects can have methods thaat are implemented by the **singelton** (`*`) superclass (sometimes called object's `metaclass` or `eigenclass`). `RObject`, `RClass` are the internal representation in the [MRI](https://en.wikipedia.org/wiki/Ruby_%28programming_language%29#Implementations)/[YARV](https://en.wikipedia.org/wiki/YARV) but not all objects(eg. `String`) fall into these two classes, they can have their own separate internal representation of [what the class looks like](https://www.youtube.com/watch?v=by5fFOBhtPQ).
 
 ```ruby
@@ -275,6 +279,8 @@ Idk what this is, the `<<` is the append operator
 
 ### Ruby’s % Notation
 
+The parenthesis can be almost any other character such as square brackets `%w[...]`, curly braces `%w{...}` or even something like exclamation marks `%w!...!`. All of these have the same behavior (returning an array).
+
 ```ruby
 %q[ ] # Non-interpolated String (except for \\ \[ and \])
 %Q[ ] # Interpolated String (default)
@@ -322,6 +328,18 @@ but includes chooses eager_loading when querying on the loaded relationship.
 a ||= b # this behaves like a || a = b and NOT like a = a||b
 ```
 
+### Musings
+
+-  In ruby you can have an Array as the Key of a Hash object.
+- I think nice way [to think about modules and interfaces in Ruby](https://stackoverflow.com/questions/19379145/ruby-yard-documenting-abstract-methods-implementations)
+- programmatically check if an object will respond to a method call (or any message for that matter) from whatever calls the method, using `#respond_to?(:some_method)`
+- This is possible because Rails implements an autoload system. It uses Module.const_missing to detect when you try to reference a constant that hasn't been loaded. It then loads the files it believes should contain the constant. This works most of the time, but there's a catch.
+- The creator of ruby worked for Heroku, hence so many things ruby is related to Heroku. And DHH we all know.
+- Plain Old Ruby Objects (POROs) LOLOL.
+- [Rails autoloading — how it works, and when it doesn't](https://www.urbanautomaton.com/blog/2013/08/27/rails-autoloading-hell/#fn1)
+- Note: Zeitwerk relies on the convention that each file will define the constant that is named after the name of the file (meaning that /comment.rb should define theComment constant). Luckily, this is not surprising for a normal Rails app. So `Constants` not only mean the constants we're familiar with.
+- [**Reopening a class**](http://juixe.com/techknow/index.php/2007/01/17/reopening-ruby-classes-2/)
+
 ## Doubts
 
 ```ruby
@@ -352,6 +370,14 @@ a ||= b # this behaves like a || a = b and NOT like a = a||b
 # Running via Spring preloader in process 259763
 ```
 
+```ruby
+# what the hell is this behaviour with strings?
+2.6.5 :006 > a="asjhdjasdh"
+ => "asjhdjasdh" 
+2.6.5 :007 > a["asj"]
+ => "asj" 
+```
+
 ## Snippets
 
 ```ruby
@@ -359,6 +385,8 @@ a ||= b # this behaves like a || a = b and NOT like a = a||b
 STDOUT.puts
 #
 ```
+
+![](/img/2020-08/ruby-sys.png)
 
 ## Links
 

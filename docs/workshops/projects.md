@@ -56,6 +56,9 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - [Create your own MD5 collisions](https://natmchugh.blogspot.com/2015/02/create-your-own-md5-collisions.html)
 - [Writing an SNI Proxy in 115 Lines of Go](https://www.agwa.name/blog/post/writing_an_sni_proxy_in_go)
 
+## Fun
+- [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+
 ## Hardware
 
 - [Build yourself a weather station. Part I](https://blog.kdubovikov.ml/articles/hardware/build-yourself-a-weather-station)

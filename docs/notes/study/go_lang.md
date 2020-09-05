@@ -31,3 +31,6 @@ sidebar_label: Golang
 ## Source
 
 - [DC- Gophercon19](https://dave.cheney.net/practical-go/presentations/gophercon-singapore-2019.html)
+
+## Unread posts
+- [Go: Should I Use a Pointer instead of a Copy of my Struct?](https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963)

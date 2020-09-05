@@ -10,3 +10,7 @@ sidebar_label: Ideas in Education
 - [ACM CS ed SIG](https://sigcse.org/sigcse/)
 - https://lobste.rs/s/b6zf13/coding_with_kids
 - https://news.ycombinator.com/item?id=23710551
+
+## Random BS
+
+- If not with all subjects, know the jargons and the words used to describe some abstraction in some subject can reveal a lot about the subject and that way I am able to see patterns in things.

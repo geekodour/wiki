@@ -13,6 +13,7 @@ sidebar_label: Research
 - [Nadim Kobeissi](https://nadim.computer/)
 - [Grady Booch](https://computingthehumanexperience.com/)
 - [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial)
+- https://github.com/petar
 
 ## Interesting Projects
 

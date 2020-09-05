@@ -775,6 +775,10 @@ A lot of events in history are important, but some events are more important to 
 - **Bohr Model** of an Atom was proposed by Bohr(student of [Rutherford](#1909)).
 - Ramanujan wrote to G.H Hardy.
 
+## 1912
+
+- Idea of **continental drift** was proposed by Alfred Wegener. (Pangea)
+
 ## 1911
 
 - **IBM**(International Business Machines) was founded.

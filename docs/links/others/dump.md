@@ -27,3 +27,4 @@ sidebar_label: Dump
 - https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 - https://makezine.com/2013/07/06/the-rockwell-integrated-space-plan-vector-redux-version/
 - https://snapl.org/2015/policy.html
+- https://news.ycombinator.com/item?id=24233820
