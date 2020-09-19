@@ -53,3 +53,6 @@ With it, you can implement more complex conditions under which threads execute. 
 Semaphores and condition variable can be used together, condition variables has no counter or memory unlike semaphores. Each condition variable should be accompanied by a mutex, `pthread_cond_t`.
 
 Unblocking can be done with`pthread_cond_signal(pthread_cond_t)`, blocking a thread can be done with `pthread_cond_wait(pthread_cond_t, pthread_mutex_t)`: signals blocking of a thread
+
+## Links
+- https://nullprogram.com/blog/2015/05/15/

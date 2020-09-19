@@ -207,6 +207,8 @@ Tweaking these grafanap options really depends on what one wants to see in the g
 ### Others
 
 - https://monitoring.mixins.dev/
+- https://promtools.dev/
+- promlens
 
 ## Doubts
 

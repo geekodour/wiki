@@ -28,3 +28,6 @@ sidebar_label: Dump
 - https://makezine.com/2013/07/06/the-rockwell-integrated-space-plan-vector-redux-version/
 - https://snapl.org/2015/policy.html
 - https://news.ycombinator.com/item?id=24233820
+- https://dexie.org/
+- https://netbox.readthedocs.io/en/stable/
+- http://www.opensecrets.org/

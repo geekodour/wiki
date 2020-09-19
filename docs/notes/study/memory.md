@@ -22,3 +22,13 @@ Read links will be removed and added somewhere else where they fit better.
 - [Memory Access Patterns](https://en.wikipedia.org/wiki/Memory_access_pattern): It is usual for modern processors to have more load execution units, than store units. And next Intel architecture, named Haswell, supports only GATHER instruction, while SCATTER is not yet in their plans. All this is also in favor of "writes stride one" pattern.
 - [Data structure alignment](https://en.wikipedia.org/wiki/Data_structure_alignment)
 - [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
+
+### ManybutInfinite Links
+- https://manybutfinite.com/post/anatomy-of-a-program-in-memory/
+- https://manybutfinite.com/post/how-the-kernel-manages-your-memory/
+- https://manybutfinite.com/post/page-cache-the-affair-between-memory-and-files/
+- https://manybutfinite.com/post/getting-physical-with-memory/
+- https://manybutfinite.com/post/intel-cpu-caches/
+- https://manybutfinite.com/post/what-your-computer-does-while-you-wait/
+- https://manybutfinite.com/post/memory-translation-and-segmentation/
+

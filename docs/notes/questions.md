@@ -20,3 +20,5 @@ Random questions that I am too lazy to google an answer for now.
 - Why do we need both multicast L2 address reservation and L3 address reservation. something related to this: https://en.wikipedia.org/wiki/IP_multicast#Layer_2_delivery
 - afaiu, heap and stack both are in the memory. stack are probably stored closer to cpu in some caches if possible. but i want to see it for real.
 - My sister told me that the plants that we see in top of buildings are bird poops pooping seeds. Or dust just bringing in the seeds. It's Amazing how discributed plants and seeds are. They can just grow anywhere provided the environment. That's true for everything but just think how simple a seed is, how flexible it is to just travel and be placed somewhere and grow into a plant few weeks later. is this true? the poop thing.
+- Sometimes when you're working on a problem, that problem has been researched before, it even has a name. How do you figure that out without having a lot of domain specific knowledge?
+

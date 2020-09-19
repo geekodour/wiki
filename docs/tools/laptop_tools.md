@@ -249,6 +249,7 @@ $ time -v <exec>
 
 - [soveran/map](https://github.com/soveran/map)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
+    - https://learnbyexample.github.io/substitution-with-ripgrep/
 - [oragono](https://github.com/oragono/oragono)
 - [thoughts](https://lobste.rs/s/yabibk/thoughts_portable_posixy_pal_for_putting)
 - [nethogs](https://linux.die.net/man/8/nethogs)
@@ -276,6 +277,7 @@ $ time -v <exec>
 - https://news.ycombinator.com/item?id=24241485 (ventoy USB)
 - Wireguard on Micriotik https://news.ycombinator.com/item?id=24240376
 - https://sta.li/ : stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project
+- Graphtage
 
 ### short tools blogposts
 

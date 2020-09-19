@@ -13,6 +13,7 @@ Inspired by the [Jargon File](https://en.wikipedia.org/wiki/Jargon_File), here i
 - **Unsolicited daemon**: A daemon process that sleeping for a long time, legends say it can sometime have 0 RES memory.
 - **opcode**: abbreviated from operation code, it is basically the portion of a machine language instruction that specifies the operation to be performed. Apart from ISAs, [bytecode specifications](/docs/notes/study/os/elf) also use opcodes.
 - **exploratory programming**: programming that is not actually solving a problem but primarily aims at finding how things are working, btw the name is self explanatory ;)
+- **tarpits**: a network service that intentionally inserts delays in its protocol, slowing down clients by forcing them to wait.
 
 ## Stubs
 
