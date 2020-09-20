@@ -35,6 +35,7 @@ Think i need to have p2p vs web3
 - https://observablehq.com/collection/@jimpick/hypercore-ipld
 - https://observablehq.com/
 - https://github.com/mikeal/dagdb
+- https://prtksxna.github.io/knowledgepie-experiments/
 
 ## Things that are out there:
 
@@ -54,6 +55,9 @@ Think i need to have p2p vs web3
 - https://news.ycombinator.com/item?id=23435929
 - 5G https://news.ycombinator.com/item?id=23426752
 - P2P Matrix https://news.ycombinator.com/item?id=23393935
+- https://github.com/miguelmota/ipdr
+- https://github.com/brutella/dnssd
+- https://github.com/lithdew/flatend
 
 ## People
 
@@ -100,6 +104,9 @@ Think i need to have p2p vs web3
 
 - https://lobste.rs/s/hkcezl/how_create_indieweb_profile
 - https://lobste.rs/s/3bktxr/making_rss_more_visible_again_with_feeds
+- https://github.com/DIYgod/RSSHub
+- https://github.com/internetarchive/heritrix3
+- https://github.com/gocolly/colly good
 - https://lobste.rs/s/dp4rox/partying_over_internet_technological
 - https://hacks.mozilla.org/2019/09/exploring-collaboration-and-communication-with-mozilla-hubs/
 - https://news.ycombinator.com/item?id=23938462
@@ -122,6 +129,8 @@ Think i need to have p2p vs web3
 
 - https://news.ycombinator.com/item?id=23796692
 - https://www.jvt.me/posts/2020/06/28/personal-micropub-client/
+- https://github.com/LilyGO/TTGO-T-Beam
+- https://github.com/stapelberg/airscan
 
 * https://en.wikipedia.org/wiki/ZeroTier
 * https://twitter.com/OpenObservatory
@@ -164,6 +173,7 @@ Think i need to have p2p vs web3
 - zakim https://www.w3.org/2001/12/zakim-irc-bot.html
 - https://github.com/RangerMauve/agregore-browser
 - https://berty.tech/blog/bluetooth-low-energy/
+- https://www.paritybit.ca/blog/why-irc-is-still-good
 
 ## cool
 
@@ -172,6 +182,7 @@ Think i need to have p2p vs web3
 - https://toobnix.org/videos/watch/8ee54700-971c-4da3-a8b4-7a78ed9ac42e
 - https://mxb.dev/blog/the-return-of-the-90s-web/
 - https://news.ycombinator.com/item?id=23666364 web transport
+- https://macwright.com/2020/08/22/clean-starts-for-the-web.html
 
 ## archival
 
@@ -197,6 +208,7 @@ Think i need to have p2p vs web3
 ## chat
 
 - https://nova.chat/
+- https://pleroma.social/
 - https://texts.com/
 
 ## askdj
@@ -265,7 +277,58 @@ Think i need to have p2p vs web3
 - https://piratebox.cc/goals
 - http://jasongriffey.net/librarybox/
 - http://archive.is/2ZOLj
+- https://github.com/schollz/croc
 
+## db
+- https://github.com/andrewosh/hyperbeedown
+- https://github.com/earthstar-project/earthstar
 
 ## Others
 - https://news.ycombinator.com/item?id=24225724
+- https://www.inkandswitch.com/local-first.html
+- https://github.com/tradle/why-hypercore
+- https://github.com/tomeshnet/meshstream
+- https://github.com/kr1sp1n/awesome-gemini
+
+## search engine
+- https://searx.github.io/searx/
+
+## webrtc
+- https://github.com/pion/rtcp
+- https://github.com/pion/rtp
+- https://github.com/pion/sdp
+- https://github.com/pion/sctp
+- https://github.com/Sean-Der/rtmp-to-webrtc
+- https://github.com/WICG/raw-sockets
+- https://webrtcforthecurious.com/
+- https://github.com/pion/ice
+- https://github.com/pion/dtls
+- https://github.com/fippo/tcp-mitm
+- https://github.com/jsmouret/grpc-over-webrtc
+
+## websockets
+- https://github.com/ricea/websocketstream-explainer
+- https://github.com/WICG/native-file-system
+
+## Interesting
+- https://github.com/openstenoproject/plover
+- https://www.artofchording.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=books
+- https://github.com/liquidata-inc/dolt
+- https://github.com/HerbCaudill/taco
+- https://github.com/w2g/w2g
+- Website Obesity: https://idlewords.com/talks/website_obesity.htm
+- https://en.wikipedia.org/wiki/Google_Groups Dejanews
+- https://www.mnot.net/blog/2020/08/28/for_the_users
+- https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/
+- https://lobste.rs/s/psgswm/bittorrent_v2
+- https://terminusdb.com/blog/2020/09/08/terminushub-distributed-revision-control-for-structured-data/
+- https://blog.ipfs.io/2020-09-08-nix-ipfs-milestone-1/
+- https://icyphox.sh/blog/mastodon-to-pleroma/
+- https://battlepenguin.com/tech/moving-from-youtube-to-peertube/
+- https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/
+- https://gitlab.com/dacav/crossbow/
+
+## Crazy
+- https://github.com/plant99/felicette
+- https://dnsflagday.net/2020/
+- How NAT traversal works: https://lobste.rs/s/4unriw/how_nat_traversal_works

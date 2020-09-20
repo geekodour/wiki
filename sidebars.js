@@ -31,6 +31,7 @@ module.exports = {
       "ideas/quotes",
       "ideas/running_bsns",
       "ideas/humor",
+      "ideas/interesting_pictures",
       "ideas/subjects",
       "ideas/pantry",
     ],
@@ -117,6 +118,7 @@ module.exports = {
         items: [
           "notes/study/go_lang",
           "notes/study/programming_langs/ruby",
+          "notes/study/programming_langs/rust",
           "notes/study/design_patterns",
           "notes/study/computation",
         ],
@@ -145,7 +147,10 @@ module.exports = {
     ],
     Databases: ["tools/db/postgres", "tools/db/promql", "tools/db/others"],
     "Server Tech": ["tools/k8s", "tools/zookeeper", "tools/apache_drill"],
-    Hardware: ["tools/calculator"],
+    Hardware: [
+      "tools/calculator",
+      "tools/workstation"
+    ],
   },
   workshops: {
     Others: ["workshops/tech-guides", "workshops/projects"],

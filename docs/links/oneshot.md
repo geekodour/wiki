@@ -35,6 +35,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [Where do Type Systems Come From?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/)
 - [Want to Write a Compiler? Just Read These Two Papers.](https://prog21.dadgum.com/30.html)
 - [My first fifteen compilers](http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/)
+- [dominictarr/stack-expression](https://github.com/dominictarr/stack-expression)
 
 ## PLT
 
@@ -114,6 +115,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [C10k](http://www.kegel.com/c10k.html)
 - [fast-servers](http://geocar.sdf1.org/fast-servers.html)
 - [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
+- [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
 
 ## Memory Management
 
@@ -126,6 +128,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [The Ultimate Question of Programming, Refactoring, and Everything](https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything)
 - 📘[AOSA book: The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 - 📘[Delft Students on Software Architecture](https://legacy.gitbook.com/@delftswa)
+- https://www.jelmer.uk/janitor-update-2.html
 
 ## Containers
 
@@ -171,6 +174,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 
 ## Unicode
 
+- [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/)
 - [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
 - [UTF-8 vs UTF-16 - P1](https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011) | [UTF-8 vs UTF-16 - P2](http://web.archive.org/web/20110520060518/https://stackoverflow.com/questions/1049947/should-utf-16-be-considered-harmful) | [UTF-8 vs UTF-16 - P3](http://utf8everywhere.org/)
 - 🎥[Character Representation](https://www.youtube.com/watch?v=-oYfv794R9s&index=2&list=PLhQN_EIoIKBRA0yVTsWDoJzEKZwJY0p3l)
@@ -192,6 +196,12 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [How not to measure Latency](https://www.infoq.com/presentations/latency-pitfalls/)
 - [An Introduction to Lock-Free Programming](https://preshing.com/20120612/an-introduction-to-lock-free-programming/)
 - 🎥 [A Unifying Abstraction for Async in C++ : Palash's reco. vid to think against the rob pike mental model of conc.](https://www.youtube.com/watch?v=tF-Nz4aRWAM&feature=youtu.be&t=498)
+
+## Databases
+- [Paper notes: Key-Value Storage Engines](https://vishnubharathi.codes/blog/paper-notes-key-value-storage-engines/)
+- [How do you reason about a probabilistic distributed system?](https://ahelwer.ca/post/2020-04-15-probabilistic-distsys/)
+- [Lessons from MapDB development](http://www.mapdb.org/blog/mapdb_lessons/)
+- [Making QuestDB](https://questdb.io/blog/2020/08/06/my-journey-writing-questdb/)
 
 ## Security
 

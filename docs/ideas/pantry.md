@@ -32,12 +32,19 @@ Ideas should come from necessity but sometimes looking at new things help birth 
 - https://tosdr.org/
 - https://akshayr.me/snoop/
 - https://libraryofbabel.info/ lol
+- https://wtfhappenedin1971.com/
+- https://annoying.technology/
+- https://masterwiki.how/ (wiki how clone + masterclass )
+- http://medievalcookery.com/recipes/
 
 ### Interesting libs
 
 - https://mermaid-js.github.io/mermaid/#/
 - https://github.com/ColCarroll/ridge_map map plots the way i like it
 - https://news.ycombinator.com/item?id=24240680
+- https://instant.page/
+- https://github.com/go-spatial/tegola
+- http://geojson.io
 
 ### Projects
 
@@ -48,6 +55,7 @@ Ideas should come from necessity but sometimes looking at new things help birth 
 - [otherside](https://github.com/0x263b/Otherside): Create a Twitter List of the accounts someone follows, and see Twitter from their perspective
 - [Game with a projector](https://www.reddit.com/r/Damnthatsinteresting/comments/cvr4cp/my_brother_made_a_game_which_can_project_on_this/ey6102k/)
 - https://shouldibake.com/
+- https://personhood.online/
 
 ### Products
 

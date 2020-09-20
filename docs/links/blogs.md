@@ -7,6 +7,7 @@ sidebar_label: Blogs
 ## Distributed Systems
 
 - [copyconstruct/library](https://github.com/copyconstruct/library) : A collection of the papers, conference talks, articles, blog posts, interesting Twitter threads, HN/reddit comments on systems engineering
+- [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) : Very nice
 - [heidi-ann/distributed-consensus-reading-list](https://github.com/heidi-ann/distributed-consensus-reading-list) : List of academic papers on distributed consensus
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) : Site Reliability Engineer Interview Preparation Guide
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/) : Curated list of resources on testing distributed systems
@@ -37,6 +38,7 @@ sidebar_label: Blogs
 
 - [A Data-Driven Guide to Effective Personal Climate Action](https://erikareinhardt.com/personal-climate-action) : What you as an individual can do today to help address climate change.
 - [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) : The planet doesn't need to be simultaneously on fire and underwater. We can fix things. Lots of resources and ideas on protecting mother earth.
+- [Bret on CC](http://worrydream.com/ClimateChange/)
 
 ## History
 
@@ -55,6 +57,7 @@ sidebar_label: Blogs
 
 - https://untools.co/
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) : Falsehoods Programmers Believe in.
+- [How to Make Yourself Into a Learning Machine](https://superorganizers.substack.com/p/how-to-build-a-learning-machine)
 - [vmbrasseur/Public_Speaking](https://github.com/vmbrasseur/Public_Speaking) : A repository of resources about public speaking, specifically in the context of software development and IT conferences.
 - [notion/visa](https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73): The best of @visakanv's twitter threads
 - [Mindware: Critical Thinking for the Information Age](https://www.coursera.org/learn/mindware)
@@ -71,6 +74,17 @@ sidebar_label: Blogs
 - [Control Theory](https://fauna.com/blog/control-theory-for-fun-and-profit)
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - [roam/visa/braindump](https://roamresearch.com/#/app/visakanv-public/page/aHYzCZnry)
+- [Be sceptical of your own work](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/)
+- [How To Understand Things](https://nabeelqu.co/understanding)
+- [Wikipedia:Wikipedia is an MMORPG](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_an_MMORPG)
+
+## Biz
+- [Laws of Tech: Commoditize Your Complement](https://www.gwern.net/Complement)
+- [Strategy Letter V](https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/)
+- [Shopify and the Power of Platforms](https://stratechery.com/2019/shopify-and-the-power-of-platforms/)
+- [Making Uncommon Knowledge Common](https://kwokchain.com/2019/04/09/making-uncommon-knowledge-common/)
+- [Letter to a friend](https://grahamduncan.blog/letter-to-a-friend-who-may-start-a-new-investment-platform/)
+
 
 ## Writing
 

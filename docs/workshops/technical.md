@@ -80,6 +80,7 @@ I'll be adding/removing links to and from this page time to time.
 - [xairy/easy-linux-pwn](https://github.com/xairy/easy-linux-pwn) : A set of Linux binary exploitation tasks for beginners on various architectures
 - [aeden/pc4d-go](https://github.com/aeden/pc4d-go) : Practical Cryptography for Developers (Go)
 - [kong/mashape-oauth](https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md): The OAuth Bible
+- [comics: howhttpsworks](https://howhttps.works/)
 
 ## Distributed Web
 

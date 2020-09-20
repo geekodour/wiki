@@ -36,6 +36,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [Euler's number](https://artofproblemsolving.com/wiki/index.php/Euler%27s_number#Euler.27s_Number_and_Calculus)
 - [Transcendental number](https://en.wikipedia.org/wiki/Transcendental_number)
 - [Concave Function](https://en.wikipedia.org/wiki/Concave_function)
+- [How knowing math helps you write better software](https://buttondown.email/hillelwayne/archive/how-knowing-math-helps-you-write-better-software/)
 - [Trichotomy (mathematics)](https://en.wikipedia.org/wiki/Trichotomy_%28mathematics%29)
 - [Power Law](https://en.wikipedia.org/wiki/Power_law)
 - [oeis wiki](https://oeis.org/wiki/Main_Page)

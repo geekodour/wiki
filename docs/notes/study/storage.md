@@ -4,6 +4,8 @@ title: Storage
 sidebar_label: Storage[WIP]
 ---
 
+- [Data Storage on Unix](https://venam.nixers.net/blog/unix/2017/11/05/unix-filesystem.html)
+- [A brief introduction to SCSI](https://www.devever.net/~hl/scsi)
 - [Don't Be Afraid of RAID](https://louwrentius.com/dont-be-afraid-of-raid.html)
 
 ![](/img/2020-07/ssd-interface-types-comparison.png)
@@ -162,3 +164,4 @@ sidebar_label: Storage[WIP]
 ## Links
 
 - https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html
+- https://www.devever.net/~hl/usbuas

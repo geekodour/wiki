@@ -263,8 +263,16 @@ $ time -v <exec>
 - ar, nm, readelf, objdump
 - systemd-nspawn
 - dropwatch
+- https://github.com/containers/oci-seccomp-bpf-hook
 - cgasm
+- https://github.com/Ciphey/Ciphey
 - https://github.com/neutrinolabs/xrdp
+- https://github.com/gokrazy/gokrazy
+- https://github.com/dictation-toolbox/Caster
+- https://github.com/gotoz/runq
+- https://github.com/FiloSottile/age : alternative to GPG?
+- https://github.com/kinvolk/traceloop
+- https://github.com/reorx/httpstat CURL stats visualized , nice.
 - https://en.wikipedia.org/wiki/TightVNC
 - https://rr-project.org/
 - https://gchq.github.io/CyberChef/
@@ -274,6 +282,7 @@ $ time -v <exec>
 - https://jsonnet.org/
 - https://github.com/NerdyPepper/dijo
 - https://sourceforge.net/projects/tceetree/
+- https://github.com/nixcloud/ip2unix
 - https://news.ycombinator.com/item?id=24241485 (ventoy USB)
 - Wireguard on Micriotik https://news.ycombinator.com/item?id=24240376
 - https://sta.li/ : stali is a static linux distribution based on the original pre-2010 plans of the suckless.org project
@@ -286,10 +295,16 @@ $ time -v <exec>
 - https://blog.selectel.com/introduction-dpdk-architecture-principles/
 - https://mtlynch.io/tinypilot/
 - https://www.troyhunt.com/building-the-ultimate-home-office-again/
+- https://polyglot.korny.info/
 - https://blog.selectel.com/systemd-containers-introduction-systemd-nspawn/
 - https://tyler.io/diy-video-hosting/
 - https://linux.die.net/man/1/dstat
+- https://www.dublin-traceroute.net/README.md
 - https://valgrind.org/docs/manual/dh-manual.html
 - https://valgrind.org/docs/manual/ms-manual.html
 - https://github.com/BurntSushi/quickcheck
 - https://news.ycombinator.com/item?id=24243521 (https://vtm.netxs.online/)
+
+#### vpn
+- https://github.com/trailofbits/algo
+- https://github.com/tailscale/tailscale

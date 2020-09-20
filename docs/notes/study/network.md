@@ -23,6 +23,8 @@ Read links will be removed and added somewhere else where they fit better.
 - [Optical mesh network](https://en.wikipedia.org/wiki/Optical_mesh_network)
 - [Ethernet and Wireless](https://networkengineering.stackexchange.com/questions/35618/relation-between-ethernet-and-802-11-headers)
 - [What developers should know about TCP](https://news.ycombinator.com/item?id=23177607)
+- [How do Routers Work, Really?](https://kamila.is//teaching/how-routers-work/)
+
 
 ### IPv6
 
@@ -66,3 +68,4 @@ Read links will be removed and added somewhere else where they fit better.
 - [Blackhaul](<https://en.wikipedia.org/wiki/Backhaul_(telecommunications)>)
 - [Bastion host](https://en.wikipedia.org/wiki/Bastion_host)
 - [DMZ (computing)](<https://en.wikipedia.org/wiki/DMZ_(computing)>)
+

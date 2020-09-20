@@ -51,3 +51,7 @@ plus i have a bad taste in quotes. Also I decided to dump random snippets in thi
 - In writing, the fastest way to build credibility is to state the other side’s argument better than they can - DP
 - “India is not, as people keep calling it, an underdeveloped country, but rather, in the context of its history and cultural heritage, a highly developed one in an advanced state of decay.” ― Shashi Tharoor (Quick reaction team 2019 independence day video)
 - “An expert is a man who has made all the mistakes, which can be made, in a very narrow field.” - Niels Bohr
+- hey baby unclench ur jaw blink a few times drink some water
+- Everybody wants to win, but the winners are the rare ones who obsessively practice their craft.
+- You may not be the smartest person in your field, but you should know the most about it.
+- "So the universe is not quite as you thought it was. You'd better rearrange your beliefs, then. Because you certainly can't rearrange the universe."

@@ -17,6 +17,7 @@ Read links will be removed and added somewhere else where they fit better.
 ### general
 
 - [Keyrings](https://askubuntu.com/questions/32164/what-does-a-keyring-do)
+- [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
 
 ### Attacks
 

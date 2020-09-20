@@ -209,6 +209,7 @@ Tweaking these grafanap options really depends on what one wants to see in the g
 - https://monitoring.mixins.dev/
 - https://promtools.dev/
 - promlens
+- https://the-zen-of-prometheus.netlify.app/
 
 ## Doubts
 

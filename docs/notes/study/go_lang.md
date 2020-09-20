@@ -27,6 +27,8 @@ sidebar_label: Golang
 
 - `./…`: An import path is a pattern if it includes one or more "..." wildcards, each of which can match any string. Example: `x/...` matches `x` as well as `x`'s subdirectories.
 - About `Context.context`: I had a [conversation on slack about `Contexts`](https://gophers.slack.com/archives/C02A8LZKT/p1588549175026200). It's not possible for a function that takes a `context.Context` and cancel it. All it could do is `newCtx, cancel := context.WithCancel(origCtx)`. In that case, when `cancel()` is called `newCtx` will be canceled, but `origCtx` will not. Additionally, when you're passing context to a some function; the original context can be used to cancel the request early. The provided context can't be cancelled by the HTTP client. `newCtx` will be canceled either when `cancel()` is called or `origCtx` is canceled, so in a manner of speaking it inherits from it. It will also have access to the same values as `origCtx` does.
+- More on context: https://rodaine.com/2020/07/break-context-cancellation-chain/
+- Even more: https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake
 
 ## Source
 
@@ -34,3 +36,4 @@ sidebar_label: Golang
 
 ## Unread posts
 - [Go: Should I Use a Pointer instead of a Copy of my Struct?](https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963)
+- https://christine.website/blog/within-go-repo-layout-2020-09-07

@@ -150,3 +150,4 @@ Anycasts removes the idea of strict unique IPs on the internet and assigns same 
 >
 > - Wikipedia: [Anycast](https://en.wikipedia.org/wiki/Anycast)
 > - RFCs: [1546](https://tools.ietf.org/html/rfc1546), [4786](https://tools.ietf.org/html/rfc4786)
+> - [Internal anycast](https://phabricator.wikimedia.org/phame/post/view/190/internal_anycast/)

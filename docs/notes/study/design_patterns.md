@@ -9,6 +9,10 @@ sidebar_label: Software Design Patterns
 ## Unread
 
 - [Dynamic Scoping](https://wiki.c2.com/?DynamicScoping)
+- [Rusty's API Design Manifesto](http://sweng.the-davies.net/Home/rustys-api-design-manifesto)
+- https://wiki.c2.com/?LongFunctionsDiscussion
+- [John Carmack on Inlined Code](http://number-none.com/blow/blog/programming/2014/09/26/carmack-on-inlined-code.html)
+- [Some Property Testing Tricks](https://throughascreendarkly.com/2020/09/01/some-property-testing-tricks/)
 
 ## Databases
 

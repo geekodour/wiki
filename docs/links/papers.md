@@ -9,6 +9,9 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - 🖨 means it's printed and is somewhere on my desk.
 - Some papers might not be properly categorized, remember to categorize them as you read.
 
+## Meta
+- [hashicorp/research-resources](https://github.com/hashicorp/research-resources) :  A collection of sites, papers and other resources that we hope will be of use if you are beginning to look at academic research (very nice)
+
 ## Distributed Systems
 
 - [Dynamo: Amazon’s Highly Available Key-value Store](https://s3.amazonaws.com/systemsandpapers/papers/amazon-dynamo-sosp2007.pdf)
@@ -58,6 +61,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - 🖨[The Hadoop Distributed File System](https://storageconference.us/2010/Papers/MSST/Shvachko.pdf)
 - 🖨[Making Reliable Distributed Systems In The Presence Of Software Errors](http://highscalability.com/blog/2013/4/25/paper-making-reliable-distributed-systems-in-the-presence-of.html)
 - 🖨[Keeping CALM: When Distributed Consistency is Easy](https://arxiv.org/abs/1901.01930)
+    - [The blogpost](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 - 🖨[The DOOM III Network Architecture](http://mrelusive.com/publications/papers/The-DOOM-III-Network-Architecture.pdf)
 
 ## Peer to Peer
@@ -75,6 +79,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [A Survey and Comparison ofPeer-to-Peer Overlay Network Schemes](https://snap.stanford.edu/class/cs224w-readings/lua04p2p.pdf)
 - [EigenSpeed: Secure Peer-to-peer Bandwidth Evaluatio](https://nikita.ca/papers/eigenspeed-iptps09.pdf)
 - [TrustNet](https://cblgh.org/articles/trustnet.html)
+- [Simple And Efficient Set Reconciliation](https://github.com/AljoschaMeyer/set-reconciliation)
 
 ## Security
 
@@ -102,6 +107,8 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 - [Eye Computer: Turning Vision into a Programmable Computer](https://lobste.rs/s/snksxy/eye_computer_turning_vision_into)
 - [Ten Lessons I Wish I HadBeen Taught](https://www.ams.org/notices/199701/comm-rota.pdf)
+- [Bullshitters. Who Are They and What Do We Know about Their Lives](http://ftp.iza.org/dp12282.pdf)
+- [The Origins of the Underline as VisualRepresentation of the Hyperlink on theWeb: A Case Study in Skeuomorphism](https://dash.harvard.edu/bitstream/handle/1/33797379/ROMANO-DOCUMENT-2016.pdf)
 
 ## Education
 
@@ -167,6 +174,9 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [On Holy Wars and a Plea For Peace](https://wiki.c2.com/?OnHolyWarsAndaPleaForPeace)
 - [Netflix OpenConnect](https://openconnect.netflix.com/en/)
 - [Multicasting over Emerging 5G Networks: Challenges and Perspectives](https://ieeexplore.ieee.org/document/7853753)
+
+## Web
+- [Bad Character : Who Do We Want Out Hypertexts To Be?](https://www.markbernstein.org/HT20/index.pdf)
 
 ## Electronics
 

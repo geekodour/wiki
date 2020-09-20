@@ -510,6 +510,7 @@ A lot of events in history are important, but some events are more important to 
 - **Creeper the first virus**, met the internet.
 - **Project Gutenberg** is started by Michael Hart with the purpose of making copyright-free works electronically available.
 - **Unix** was born, witten in assembly with three parts assembler, [editor](#1969), and shell.
+- **CYCLADES** project was launched.
 
 ## 1970
 
@@ -1109,3 +1110,5 @@ A lot of events in history are important, but some events are more important to 
 - [Parsing Timeline](https://jeffreykegler.github.io/personal/timeline_v3)
 - [A Net Before the Web, Part 1: The Establishment Man and the Magnificent Rogue](https://www.filfre.net/2017/10/a-net-before-the-web-part-1-the-establishment-man-and-the-magnificent-rogue/)
 - [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future)
+- [Historical Computers in Japan](http://museum.ipsj.or.jp/en/computer/index.html)
+- [Parsing Timeline](http://blogs.perl.org/users/jeffrey_kegler/2014/09/parsing-a-timeline.html)

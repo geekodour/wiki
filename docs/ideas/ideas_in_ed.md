@@ -11,6 +11,11 @@ sidebar_label: Ideas in Education
 - https://lobste.rs/s/b6zf13/coding_with_kids
 - https://news.ycombinator.com/item?id=23710551
 
+![](/img/2020-09/EgxA6-kXcAIMiUP.jpg)
+
 ## Random BS
 
 - If not with all subjects, know the jargons and the words used to describe some abstraction in some subject can reveal a lot about the subject and that way I am able to see patterns in things.
+
+## link dump
+- https://www.reddit.com/r/InternetIsBeautiful/comments/i6z2iu/make_hundreds_of_toys_and_science_projects_from/

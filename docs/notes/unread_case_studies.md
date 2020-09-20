@@ -26,6 +26,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [fork() can fail: this is important](http://rachelbythebay.com/w/2014/08/19/fork/)
 - [How to get a core dump for a segfault on Linux](https://jvns.ca/blog/2018/04/28/debugging-a-segfault-on-linux/)
 - [The problem with thread event loops](https://blog.cloudflare.com/the-problem-with-event-loops/)
+- [The Seccomp Notifier – New Frontiers in Unprivileged Container Development](https://people.kernel.org/brauner/the-seccomp-notifier-new-frontiers-in-unprivileged-container-development) 
 
 ## Security
 
@@ -41,6 +42,8 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Best Practices for ACME Client Operations](https://docs.https.dev/acme-ops)
 - [How CDNs Generate Certificates](https://fly.io/blog/how-cdns-generate-certificates/)
 - [Dissecting an SSL Certificate (2017)](https://news.ycombinator.com/item?id=23096166)
+- [Small Mailserver Best Current Practices](https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/)
+- [Telling the Truth About Security](https://www.craigstuntz.com/posts/2020-08-03-telling-the-truth-about-security.html)
 
 ## SSH
 
@@ -51,6 +54,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 ## Networks
 
 - [Taking Back What Is Already Yours: Router Wars Episode I](https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/)
+- [Cloud traffic](https://www.tbray.org/ongoing/When/202x/2020/08/09/Service-Fabric-News)
 - [A Raspberry Pi as a decent residential proxy](https://wiringbits.net/wiringbits/2020/06/07/a-raspberry-pi-as-a-decent-residential-proxy.html)
 - [Can QUIC match TCP’s computational efficiency?](https://www.fastly.com/blog/measuring-quic-vs-tcp-computational-efficiency)
 - [Why we use the Linux kernel's TCP stack](https://blog.cloudflare.com/why-we-use-the-linux-kernels-tcp-stack/)
@@ -75,6 +79,12 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Thoughts on going down the network stack](https://fasterthanli.me/articles/thoughts-on-going-down-the-network-stack)
 - [Simple ipfw NAT for bhyve virtual machines and vnet jails](https://adventurist.me/posts/00304)
 - [Beyond DNS over HTTPS: Trustless DNS Privacy](https://alyssa.is/proposing-dns-over-tcp-over-tor/)
+- [Thoughts on going down the network stack](https://fasterthanli.me/articles/thoughts-on-going-down-the-network-stack)
+
+## Observability
+- https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f
+- https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/
+- https://www.philipotoole.com/logs-and-time-series-are-not-the-same/
 
 ## Dist Sys
 
@@ -94,6 +104,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Dumbsmash Scalling with 3 engg](https://stackshare.io/dubsmash/dubsmash-scaling-to-200-million-users-with-3-engineers)
 - [Dropbox Optimize for web](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 - [Consistent Hashing google](https://research.googleblog.com/2017/04/consistent-hashing-with-bounded-loads.html)
+- [Are CRDTs suitable for shared editing?](https://blog.kevinjahns.de/are-crdts-suitable-for-shared-editing/)
 - [Fixing the internet for real time applications](https://technology.riotgames.com/news/fixing-internet-real-time-applications-part-i)
 - [Why your software should use UUIDs in 2020s](https://devforth.io/blog/why-your-software-should-use-uuids-in-2020s)
 - [Running Postgres in Kubernetes](https://news.ycombinator.com/item?id=23682450)
@@ -102,12 +113,15 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Minimum Viable Kubernetes](https://eevans.co/blog/minimum-viable-kubernetes/)
 - [A Terrible, Horrible, No-Good, Very Bad Day at Slack](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82)
 - [In praise of ZFS On Linux's ZED 'ZFS Event Daemon'](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSZEDPraise)
+- [Reinventing virtualization with the AWS Nitro System](https://www.allthingsdistributed.com/2020/09/reinventing-virtualization-with-aws-nitro.html)
+- [When should I choose full database backups over incremental backups?](https://tech.davis-hansson.com/p/incremental-backup/)
 
 ## OS
 
 - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
 - [Intel Virtualisation: How VT-x, KVM and QEMU Work Together](https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together/)
 - [Setting the Record Straight: containers vs. Zones vs. Jails vs. VMs](https://blog.jessfraz.com/post/containers-zones-jails-vms/)
+- [Sandboxing and Workload Isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 - [Packaging LXD for Arch Linux](https://linderud.dev/blog/packaging-lxd-for-arch-linux/)
 - [How are docker images built? A look into the Linux overlay file-systems and the OCI specification](https://dev.to/napicella/how-are-docker-images-built-a-look-into-the-linux-overlay-file-systems-and-the-oci-specification-175n)
 - [Why strace doesn't work in Docker](https://jvns.ca/blog/2020/04/29/why-strace-doesnt-work-in-docker/)
@@ -121,6 +135,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Why is there a "V" in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
 - [C's main() is one of the places where Unix's user and kernel APIs differ](https://utcc.utoronto.ca/~cks/space/blog/unix/MainKernelAndUserAPI)
 - [Introducing the BARE message encoding](https://drewdevault.com/2020/06/21/BARE-message-encoding.html)
+- [File handling in Unix: tips, traps and outright badness](https://rachelbythebay.com/w/2020/08/11/files/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 
 ## Misc
 
@@ -166,6 +181,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Escape from System D](https://davmac.wordpress.com/2017/06/14/escape-from-system-d/)
 - [Why I dislike systemd](http://www.steven-mcdonald.id.au/articles/systemd.shtml)
 - [CRDs Killed the Free Kubernetes Control Plane](https://caleblloyd.com/software/crds-killed-free-kubernetes-control-plane/)
+- [Configuration files and .d directories](https://jmmv.dev/2020/08/config-files-vs-directories.html)
 
 ## Database
 
@@ -180,6 +196,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Monzo Cassandra](https://monzo.com/blog/2019/09/08/why-monzo-wasnt-working-on-july-29th)
 - [Reddit’s database has two tables](https://kevin.burke.dev/kevin/reddits-database-has-two-tables/)
 - sled simulation: https://sled.rs/simulation
+- [How we upgraded PostgreSQL at GitLab.com](https://about.gitlab.com/blog/2020/09/11/gitlab-pg-upgrade/)
 
 ## P2P
 

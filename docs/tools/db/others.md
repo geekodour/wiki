@@ -11,3 +11,5 @@ sidebar_label: Others
 - https://www.gnu.org/software/recutils/
 - https://irmin.org/
 - https://myrocks.io/ - mysql rockdb version lel
+- https://github.com/buraksezer/olric
+- https://dbdb.io/

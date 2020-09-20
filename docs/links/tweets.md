@@ -26,3 +26,4 @@ sidebar_label: Tweets
 - [Best of Naval](https://twitter.com/elamje/status/1280714011990913024)
 - [Learning to Think](http://archive.is/q7ZAh)
 - [Beautiful Libraries](https://archive.is/o4K7c)
+- [Visa onto something](https://twitter.com/visakanv/status/1296877467940995073)
