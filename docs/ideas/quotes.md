@@ -55,3 +55,4 @@ plus i have a bad taste in quotes. Also I decided to dump random snippets in thi
 - Everybody wants to win, but the winners are the rare ones who obsessively practice their craft.
 - You may not be the smartest person in your field, but you should know the most about it.
 - "So the universe is not quite as you thought it was. You'd better rearrange your beliefs, then. Because you certainly can't rearrange the universe."
+- There are so many interesting topics I want to learn, but "I don't have time". The sad reality is: we do have time. We just waste so much of it. Sometimes I look at my screen time and see the hours I could've spent productively. But time management is harder than it sounds.

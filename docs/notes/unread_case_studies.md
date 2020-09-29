@@ -115,6 +115,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [In praise of ZFS On Linux's ZED 'ZFS Event Daemon'](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSZEDPraise)
 - [Reinventing virtualization with the AWS Nitro System](https://www.allthingsdistributed.com/2020/09/reinventing-virtualization-with-aws-nitro.html)
 - [When should I choose full database backups over incremental backups?](https://tech.davis-hansson.com/p/incremental-backup/)
+- [A Pipeline Made of Airbags](https://ferd.ca/a-pipeline-made-of-airbags.html)
 
 ## OS
 
@@ -136,6 +137,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [C's main() is one of the places where Unix's user and kernel APIs differ](https://utcc.utoronto.ca/~cks/space/blog/unix/MainKernelAndUserAPI)
 - [Introducing the BARE message encoding](https://drewdevault.com/2020/06/21/BARE-message-encoding.html)
 - [File handling in Unix: tips, traps and outright badness](https://rachelbythebay.com/w/2020/08/11/files/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+- [Rethinking PID 1](http://0pointer.net/blog/projects/systemd.html)
 
 ## Misc
 

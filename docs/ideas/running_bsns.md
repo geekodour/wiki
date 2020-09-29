@@ -11,3 +11,4 @@ sidebar_label: Running a Business
 ## Links
 
 - [Seth Godin Steps](https://www.reddit.com/r/startups/comments/6s6r4a/heres_the_exact_process_seth_godin_uses_to_launch/)
+- http://slap.pm/

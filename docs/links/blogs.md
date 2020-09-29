@@ -77,6 +77,9 @@ sidebar_label: Blogs
 - [Be sceptical of your own work](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/)
 - [How To Understand Things](https://nabeelqu.co/understanding)
 - [Wikipedia:Wikipedia is an MMORPG](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_an_MMORPG)
+- [Mentat Wiki](http://www.ludism.org/mentat/)
+- [100 Little Ideas](https://www.collaborativefund.com/blog/100-little-ideas/)
+- [A Few Rules](https://www.collaborativefund.com/blog/a-few-rules/)
 
 ## Biz
 - [Laws of Tech: Commoditize Your Complement](https://www.gwern.net/Complement)
