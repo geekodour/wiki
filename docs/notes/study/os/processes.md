@@ -14,7 +14,7 @@ Windows API provides the `spawn` family, Linux does not provide in one step.
 Instead it gives `fork()` and the `exec()` family of functions. PIDs in linux are 16-bit numbers.
 
 - `fork()` returns twice, once in the parent and once in the child. It basically clones p1 to p2, p2 runs the program.
-- `exec()` [exec functions](https://geekodour.xyz/post/exec-family/) replace the program running in a process with another program.
+- `exec()` [exec functions](https://itdobelikethat.org/post/exec-family/) replace the program running in a process with another program.
 
 ## Context switch
 

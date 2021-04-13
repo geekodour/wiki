@@ -1,7 +1,7 @@
 set -eux
 
 ROOT_DIR=$(pwd)
-git config --global user.email "muffet@geekodour.xyz"
+git config --global user.email "muffet@itdobelikethat.org"
 git config --global user.name "Muffet"
 
 checklinks() {
@@ -11,7 +11,7 @@ checklinks() {
   -e '.*github.com/geekodour/wiki/edit.*'\
   -e '.*googletagmanager.com'\
   --timeout 45 \
-  https://wiki.geekodour.xyz > $ROOT_DIR/static/rotlinks.txt
+  https://wiki.itdobelikethat.org > $ROOT_DIR/static/rotlinks.txt
 }
 
 pushchanges() {

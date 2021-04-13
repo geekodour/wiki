@@ -94,7 +94,7 @@ Binary files are just sequence of bytes in a file instead of text files. They ca
 
 ### Loader
 
-Loader is a program in the operating system that takes a **program** from disk and loads it into memory. In linux world we can use [execve() system call](https://geekodour.xyz/post/exec-family/) to invoke the program loader.
+Loader is a program in the operating system that takes a **program** from disk and loads it into memory. In linux world we can use [execve() system call](https://itdobelikethat.org/post/exec-family/) to invoke the program loader.
 
 Loader has many things to do such as:
 
