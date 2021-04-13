@@ -1112,3 +1112,17 @@ A lot of events in history are important, but some events are more important to 
 - [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future)
 - [Historical Computers in Japan](http://museum.ipsj.or.jp/en/computer/index.html)
 - [Parsing Timeline](http://blogs.perl.org/users/jeffrey_kegler/2014/09/parsing-a-timeline.html)
+- https://computer.rip/https://buttondown.email/hillelwayne/archive/oracle-testing/
+- https://lobste.rs/s/ovjvzl/babbage_was_true_genius
+- http://exple.tive.org/blarg/2020/11/26/punching-holes/
+- https://obsoletemedia.org/
+- https://samthursfield.wordpress.com/2020/10/27/tracker-3-0-how-did-we-get-here/
+- https://wiki.archiveteam.org/index.php?title=Main_Page
+- https://worldwideweb.cern.ch/worldwideweb/
+- https://www.hanselman.com/blog/i-miss-microsoft-encarta
+- https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/
+- http://www.zonicweb.net/badalbmcvrs/index.htm
+- https://archive.org/details/consolelivingroom
+- http://www.dansmc.com/MC_repaircourse.htm
+- https://www.msgroup.org/
+- https://archive.org/details/softside-magazine-59/page/n9/mode/2up

@@ -14,6 +14,7 @@ Interesting people/personal blogs I find on the internet.
 - [Gokberk Yaltirakli](https://www.gkbrk.com/)
 - [DamageBoy](https://bits.houmus.org/)
 - [Bret Victor](http://worrydream.com/)
+  - http://worrydream.com/Links2013/
 - [Bob Poekert](https://www.hella.cheap)
 - [Jeff Lonsdale](https://unpleasantfacts.com/)
 - [Jason Crawford](https://rootsofprogress.org/)
@@ -28,3 +29,4 @@ Interesting people/personal blogs I find on the internet.
 ## Homepages
 
 - https://rojer.me/
+- https://simonsarris.com/goals2020

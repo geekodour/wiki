@@ -142,6 +142,8 @@ module.exports = {
   tools: {
     Software: [
       "tools/laptop_tools",
+      "tools/self_hosting",
+      "tools/open_source_projects",
       "tools/performance_tools",
       "tools/forgetful",
     ],

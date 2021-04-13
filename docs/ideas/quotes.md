@@ -56,3 +56,15 @@ plus i have a bad taste in quotes. Also I decided to dump random snippets in thi
 - You may not be the smartest person in your field, but you should know the most about it.
 - "So the universe is not quite as you thought it was. You'd better rearrange your beliefs, then. Because you certainly can't rearrange the universe."
 - There are so many interesting topics I want to learn, but "I don't have time". The sad reality is: we do have time. We just waste so much of it. Sometimes I look at my screen time and see the hours I could've spent productively. But time management is harder than it sounds.
+- While they were saying among themselves it cannot be done, it was done.
+- If you don't ask for anything, don't be surprised when you get nothing
+- Never accept a no from someone who doesn't have the power to say yes
+- In Theory, Theory and Practice are the same. In Practice they're not.
+- The greatest enemy of a good plan, is the dream of a perfect plan
+- The odds increase, the harder you try.
+- Consistency is the exponent.
+- Simple things should be simple it's ok if complicated things are complicated.
+- As a PhD student, your post reads like a beautiful research paper. Motivation, prior work, contributions, technical details, example use cases, self-references, future work, even a system design chart. You've certainly sold me on the extension, great work!
+- ActivityPub isn't the future. Useful things that are built, brought to market, and meet user needs that may happen to use ActivityPub under the hood are the future. Knowing what is useful for whom and how to bring it to market in a sustainable manner for the people it's intended for is a super critical element. One that's often overlooked. Specs are like plumbing pipes. People care about sinks, showers, and stuff like that. The pipe fittings, materials, and sizes enable a lot. But, it's not what the end users tend to care about. 
+- anti productivity can be a new productivity, anti-brand can be new form of brand
+- Most people forget that the goal isn’t money. The goal is to spend days as you wish.

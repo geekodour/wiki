@@ -27,3 +27,8 @@ sidebar_label: Tweets
 - [Learning to Think](http://archive.is/q7ZAh)
 - [Beautiful Libraries](https://archive.is/o4K7c)
 - [Visa onto something](https://twitter.com/visakanv/status/1296877467940995073)
+- [How 💸 money works.](https://twitter.com/paraschopra/status/1346688696599252993)
+- [negotiation seminar at MIT summary](https://twitter.com/crystaljjlee/status/1358171293456035840)
+- [Popular threads by Shreyas](https://twitter.com/shreyas/status/1303150374124048386)
+- https://twitter.com/james_d_baird/status/1372936895668322309
+- [Everyone wants to decouple time from money.](https://archive.is/wip/pQEIm)

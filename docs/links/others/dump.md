@@ -12,6 +12,7 @@ sidebar_label: Dump
 - https://bits.coop/#
 - https://www.meshtastic.org/
 - https://www.lulu.com/
+- https://zenx.medium.com/so-you-want-to-buy-a-farm-c56af5d85a7e
 - https://documentation.divio.com/
 - https://tangible.media.mit.edu/projects/
 - Mills is an amateur radio operator, callsign W3HCF
@@ -31,7 +32,23 @@ sidebar_label: Dump
 - https://dexie.org/
 - https://netbox.readthedocs.io/en/stable/
 - http://www.opensecrets.org/
+- https://darkpatterns.org/types-of-dark-pattern.html
+- https://justine.lol/redbean/index.html
+- https://drawingmachines.org/
+- https://github.com/domargan/awesome-dynamic-graphs
+- https://littlebigdetails.com/
 
 ## Education related
 - https://vanmeterlibraryvoice.blogspot.com/2020/07/our-virtual-makerspace-is-open.html
 - https://lobste.rs/s/3bbj56/edutech_spyware_is_still_spyware
+
+## workstation dump
+- https://github.com/haimgel/display-switch
+- https://github.com/stapelberg/costream
+- https://github.com/neutrinolabs/xrdp
+  - https://en.wikipedia.org/wiki/TightVNC
+  - https://github.com/kbumsik/VirtScreen
+- https://kaitai.io/
+
+## Image Dump
+- [Directory Listing(go offsite)](/img/image_dump)

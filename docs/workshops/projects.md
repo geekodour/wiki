@@ -18,6 +18,8 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - [The Computer Language Benchmarks Game](https://en.wikipedia.org/wiki/The_Computer_Language_Benchmarks_Game)
 - [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code)
 - [Esolang](https://esolangs.org/wiki/Main_Page)
+- https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html
+- http://jimbly.github.io/regex-crossword
 
 ## Web Engineering
 
@@ -26,11 +28,13 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 ## Data Structures and Algorithms
 
 - [Learn how to write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
+- [osevalim/nested-data-structure-traversal](https://github.com/josevalim/nested-data-structure-traversal)
 - [Implementing A\*](https://www.redblobgames.com/pathfinding/a-star/implementation.html)
 
 ## Dist Sys
 - [Hashring](https://github.com/serialx/hashring)
 - [Distributed cache with gossip peer membership enrollment.](https://github.com/pomerium/autocache)
+- https://github.com/antirez/rax
 
 ## Database
 
@@ -53,6 +57,7 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 
 - [A Tiny NTP client](http://seriot.ch/ntp.php)
 - [Async Raft](https://github.com/async-raft/async-raft)
+- [DNS Server](https://github.com/EmilHernvall/dnsguide)
 
 ## Interesting things from History
 
@@ -67,8 +72,10 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 
 ## Fun
 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+- [How to get better at recursion](https://notes.eatonphil.com/practicing-recursion.html)
 
 ## Hardware
 
 - [Build yourself a weather station. Part I](https://blog.kdubovikov.ml/articles/hardware/build-yourself-a-weather-station)
 - [How Students Built a 16th-Century Engineer’s Book-Reading Machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)
+- [My brother made a game which can project on this room](https://www.reddit.com/r/Damnthatsinteresting/comments/cvr4cp/my_brother_made_a_game_which_can_project_on_this/ey6102k/)

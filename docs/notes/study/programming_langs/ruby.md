@@ -391,4 +391,4 @@ STDOUT.puts
 ## Links
 
 - https://www.zenspider.com/ruby/quickref.html#types
--
+- https://www.johnnunemaker.com/rails-following-and-notifications/

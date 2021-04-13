@@ -12,10 +12,13 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 ## Meta
 - [hashicorp/research-resources](https://github.com/hashicorp/research-resources) :  A collection of sites, papers and other resources that we hope will be of use if you are beginning to look at academic research (very nice)
 
+
 ## Distributed Systems
 
 - [Dynamo: Amazon’s Highly Available Key-value Store](https://s3.amazonaws.com/systemsandpapers/papers/amazon-dynamo-sosp2007.pdf)
 - [Big Ball of Mud](https://s3.amazonaws.com/systemsandpapers/papers/bigballofmud.pdf)
+- [Diff Data flow](https://github.com/timelydataflow/differential-dataflow/blob/master/differentialdataflow.pdf)
+- Calvin sigmod12
 - 🖨[The Google File System](https://s3.amazonaws.com/systemsandpapers/papers/gfs.pdf)
 - [On Designing and Deploying Internet-Scale Services](https://s3.amazonaws.com/systemsandpapers/papers/hamilton.pdf)
 - [CAP Twelve Years Later: How the "Rules" Have Changed](https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/)
@@ -66,9 +69,15 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 
 ## Peer to Peer
 
+- [hellacheap papers](https://archive.is/2ZOLj#selection-113.133-113.150)
 - [IPFS - Content Addressed, Versioned, P2P File System](https://arxiv.org/abs/1407.3561)
+- [ECoSystem Preview2021](/pdf/p2pecosystemreview2021.pdf)
+- [IPFS and Friends: A Qualitative Comparison of Next Generation Peer-to-Peer Data Networks](https://arxiv.org/abs/2102.12737)
+- [2016 Open Connect Everywhere: A Glimpse at the Internet Ecosystem through the Lens of the Netflix CDN](https://arxiv.org/abs/1606.05519i
+- [P2P Offloading in Mobile Networks using SDN](https://dl.acm.org/doi/10.1145/2890955.2890963)
 - [Freenet: A Distributed Anonymous Information Storage and Retrieval System](http://snap.stanford.edu/class/cs224w-readings/clarke00freenet.pdf)
 - [Peer-to-Peer Membership Management for Gossip-Based Protocols](http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf)
+- [Parler](/pdf/parler-2021-01-07.pdf)
 - [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](http://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
 - [S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing](https://web.archive.org/web/20170809130252/http://www.tm.uka.de/doc/SKademlia_2007.pdf)
 - [Democratizing Content Publication with Coral](https://web.archive.org/web/20181117012712/http://www.coralcdn.org/docs/coral-nsdi04.pdf)
@@ -85,11 +94,14 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 
 - [An Analysis of Pre-installed Android Software](https://arxiv.org/pdf/1905.02713.pdf)
 - [Appsquatting](/pdf/AppSquatting20.pdf)
+- [The Secure Messaging App Conundrum: Signal vs. Telegram](https://cqi.inf.usi.ch/publications/telegram_vs_signal.pdf)
 
 ## Intelligence
 
 - [Knowledge Graphs](https://arxiv.org/abs/2003.02320)
 - [The Cognitive-Theoretic Model of the Universe or CTMU](http://ctmucommunity.org/wiki/)
+- [If Materialism Is True, the United States Is Probably Conscious](/pdf/USAconscious-140721.pdf)
+- [Visualisation and Cognition:Drawing Things Together](http://worrydream.com/refs/Latour%20-%20Visualisation%20and%20Cognition.pdf)
 
 ## Computation
 
@@ -99,6 +111,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [What Was the Question? The Origins of the Theory of Computation](http://web.archive.org/web/20200328132050/https://www.princeton.edu/~hos/Mahoney/cra/cra.html)
 - [Finite of Sense and Infinite of Thought: A History of Computation, Logic and Algebra, Part I](https://pron.github.io/posts/computation-logic-algebra-pt1#primary-sources)
 - [rhe general and logical theory of automata](https://www.vordenker.de/ggphilosophy/jvn_the-general-and-logical-theory-of-automata.pdf)
+- [Petri Sport: A Sport for Petri Netters](http://ceur-ws.org/Vol-2138/paper2.pdf)
 
 ## Others
 
@@ -106,17 +119,21 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [As we may think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 - [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 - [Eye Computer: Turning Vision into a Programmable Computer](https://lobste.rs/s/snksxy/eye_computer_turning_vision_into)
+- [Dissolving the Fermi Paradox](https://arxiv.org/abs/1806.02404)
 - [Ten Lessons I Wish I HadBeen Taught](https://www.ams.org/notices/199701/comm-rota.pdf)
 - [Bullshitters. Who Are They and What Do We Know about Their Lives](http://ftp.iza.org/dp12282.pdf)
 - [The Origins of the Underline as VisualRepresentation of the Hyperlink on theWeb: A Case Study in Skeuomorphism](https://dash.harvard.edu/bitstream/handle/1/33797379/ROMANO-DOCUMENT-2016.pdf)
+- https://arxiv.org/abs/2009.06489
 
 ## Education
 
 - [Building complex reasoning skills online through open-ended activities](https://early.khanacademy.org/open-ended/)
 - 🖨[Social Identity, Access to Education, and Employment in India](https://www.orfonline.org/research/social-identity-access-to-education-and-employment-in-india/)
+- [The Effect of Computer-Assisted Learning on Students’ Long-Term Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3309169)
 - 🖨[Affirmative action in higher education : Insights from recent empirical research](https://www.orfonline.org/research/affirmative-action-in-higher-education-insights-from-recent-empirical-reserach/)
 - 🖨[The higher education commission of India bill: A failure of imagination](https://www.orfonline.org/research/43521-the-higher-education-commission-of-india-bill-a-failure-of-imagination/)
 - [Exceptionally Gifted Children: Long-Term Outcomes of Academic Acceleration and Nonacceleration ](https://files.eric.ed.gov/fulltext/EJ746290.pdf)
+- [CS in Higher Ed](/pdf/CS education in higher education.pdf)
 - 🖨[Improving research in India: Introducing undergraduate research in higher education](https://www.orfonline.org/research/improving-research-in-india-introducing-undergraduate-research-in-higher-education-47713/)
 - 🖨[Developing a policy framework for emerging crowdfunding ecosystems](https://www.orfonline.org/research/developing-a-policy-framework-for-emerging-crowdfunding-ecosystems-52971/)
 - 🖨[Problematic internet use and study motivation in higher education](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcal.12414)
@@ -154,6 +171,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 ## Systems
 
 - 🖨[What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+- [Linux Capabilities: making them work](https://www.kernel.org/doc/ols/2008/ols2008v1-pages-163-172.pdf)
 - 🖨[The Zettabyte File System](https://www.cs.hmc.edu/~rhodes/courses/cs134/sp19/readings/zfs.pdf)
 - 🖨[QEMU, a Fast and Portable Dynamic Translator](http://archives.cse.iitd.ernet.in/~sbansal/csl862-virt/2010/readings/bellard.pdf)
 - [The Unix Time Sharing System](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)
@@ -164,6 +182,8 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 ## PLT
 
 - 🖨[Programming paradigms for dummies: what every programmer should know](https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/)
+- http://jmc.stanford.edu/articles/lisp/lisp.pdf
+- [On Understanding  Data  Abstraction,  Revisited](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 
 ## Statistics
 

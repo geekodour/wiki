@@ -10,6 +10,10 @@ I'll be adding/removing links to and from this page time to time.
 
 - [creactiviti/sicp-course](https://github.com/creactiviti/sicp-course) : self-paced course in programming.
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) : Learn regex the easy way.
+- [The Hitchhiker’s Guide to Compression](https://go-compression.github.io/)
+- [Lectures on Software: Distances, Invariants and Recursion](https://bertrandmeyer.com/levenshtein/)
+- [An opinionated history of programming languages](https://artagnon.com/articles/pl)
+- [Linked lists, pointer tricks and good taste](https://github.com/mkirchner/linked-list-good-taste)
 
 ## Go Programming Language
 
@@ -27,6 +31,8 @@ I'll be adding/removing links to and from this page time to time.
 ## Systems
 
 - [fpereiro/backendlore](https://github.com/fpereiro/backendlore) : A lore about how fpereiro writes backends.
+- [Art of CLI](https://github.com/jlevy/the-art-of-command-line)
+- [School of SRE](https://linkedin.github.io/school-of-sre/)
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) : Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
 - [introduction to gthreads](http://c9x.me/articles/gthreads/intro.html)
 - [fuzzing workshop](https://fuzzing-project.org/background.html)
@@ -43,18 +49,26 @@ I'll be adding/removing links to and from this page time to time.
 - [Writing Your First PAM Module](https://rkeene.org/projects/info/wiki/222)
 - [C internals](http://www.avabodh.com/cin/cin.html)
 - [Linux Assembly HOWTO](http://www.tldp.org/HOWTO/Assembly-HOWTO/)
+- [RISC-V - Getting Started Guide](https://risc-v-getting-started-guide.readthedocs.io/en/latest/)
 
 ## Systems Admin
 
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) : Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) : When you don't have time to read ProGit.
 - [zytrax/dns](https://www.zytrax.com/books/dns/) : DNS for Rocket Scientists
+- [Learn more about the Public Suffix List](https://publicsuffix.org/learn/)
+- [DNS Trends](https://www.potaroo.net/ispcol/2020-10/trends.html)
+- [What happens when you update your DNS](https://jvns.ca/blog/how-updating-dns-works/)
+- [What Does It Take To Resolve A Hostname](https://venam.nixers.net/blog/unix/2020/11/01/resolving-a-hostname.html)
 - [anordal/shellharden](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md): Safe ways to do things in bash
 - 🌟[CLI Movements](https://clementc.github.io/blog/2018/01/25/moving_cli/): Moving efficiently in the CLI
 - [htop explained](https://peteris.rocks/blog/htop/): Explanation of everything you can see in htop/top on Linux
 - [The Ultimate PCAP](https://weberblog.net/the-ultimate-pcap/)
 - [what happens when, google version](https://github.com/alex/what-happens-when)
 - [What happens when ... Kubernetes edition!](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
+- [zfs](https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/)
+- https://github.com/fliptheweb/bash-shortcuts-cheat-sheet
+- [Architecture Playbook](https://nocomplexity.com/documents/arplaybook/index.html)
 
 ## Database
 
@@ -69,11 +83,16 @@ I'll be adding/removing links to and from this page time to time.
 - [Little perf book](https://nanxiao.gitbooks.io/perf-little-book/)
 - [Strace little book](https://nanxiao.gitbooks.io/strace-little-book/)
 - [Linux tracing systems & how they fit together](https://jvns.ca/blog/2017/07/05/linux-tracing-systems/)
+- [LowLevelAcademy by Nikita Baksalyar](https://lowlvl.org/) 🌟
+- [io_uring-by-example](https://github.com/shuveb/io_uring-by-example)
+- [Dynamic Tracing with DTrace & SystemTap](https://myaut.github.io/dtrace-stap-book/)
+- [Kernel Tracing with Ftrace](https://blog.selectel.com/kernel-tracing-ftrace/)
+
 
 ## Network
-
 - [Tcpdump little book](https://nanxiao.github.io/tcpdump-little-book/)
 - [Linux networking stack from the ground up, part 1](https://www.privateinternetaccess.com/blog/linux-networking-stack-from-the-ground-up-part-1/)
+- [EME, CDM, AES, CENC, and Keys – The Essential Building Blocks of DRM](https://ottverse.com/eme-cenc-cdm-aes-keys-drm-digital-rights-management/)
 
 ## Security
 
@@ -81,6 +100,10 @@ I'll be adding/removing links to and from this page time to time.
 - [aeden/pc4d-go](https://github.com/aeden/pc4d-go) : Practical Cryptography for Developers (Go)
 - [kong/mashape-oauth](https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md): The OAuth Bible
 - [comics: howhttpsworks](https://howhttps.works/)
+- [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.github.io/thgtoa/guide.html)
+- [Rainbow tables](http://kestas.kuliukas.com/RainbowTables/)
+- [Understanding Binary and Data Representation with CyberChef](https://cybergibbons.com/reverse-engineering-2/understanding-binary-and-data-representation-with-cyberchef/)
+- [Art of Chording](https://www.artofchording.com/)
 
 ## Distributed Web
 
@@ -90,6 +113,18 @@ I'll be adding/removing links to and from this page time to time.
 - [P2P File Sharing Workshop](https://mafintosh.github.io/p2p-file-sharing-workshop/build/01.html)
 - [accessp2p](https://accessp2p.xyz/) ✅ (See [notes](/docs/courses/others/accessp2p))
 
+## Others
+- [The confusing world of USB](https://fabiensanglard.net/nousb/index.html)
+- [Evaluating the Evaluation: A Benchmarking Checklist](http://www.brendangregg.com/blog/2018-06-30/benchmarking-checklist.html)
+- [Linux Applications Performance: Introduction](https://unixism.net/2019/04/linux-applications-performance-introduction/)
+- [How Video works](https://howvideo.works/)
+- [How to draw block diagrams](https://johnwickerson.wordpress.com/2019/08/08/block-diagrams/)
+- [Teach Yourself Demoscene in 14 Days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
+- [Open Source Tools & Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html)
+- https://github.com/apprenticeharper/DeDRM_tools
+
+
 ## LOL
 
 - [A free introduction to quantum computing and quantum mechanics](https://quantum.country/)
+- https://criticalengineering.org/

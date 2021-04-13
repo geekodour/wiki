@@ -20,3 +20,8 @@ A common classification for ISAs is by architectural complexity:
 - **RISC**: Efficiently implementing only the instructions that are frequently used, less common operations are implemented as subroutines, having their resulting additional processor execution time offset by infrequent use.
 - **CISC**: Has many specialized instructions, some of which may only be rarely used in practical programs.
 - There are few other types aswell.
+
+
+# links
+- https://www.realworldtech.com/risc-vs-cisc/
+- https://venam.nixers.net/blog/programming/2020/08/24/computer-architecture.html

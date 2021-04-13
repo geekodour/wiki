@@ -13,3 +13,5 @@ Name of the book and author, goodreads link.
 ## Summary
 
 kjdjadskjd
+
+https://venam.nixers.net/blog/programming/2020/09/10/compiler_notes.html

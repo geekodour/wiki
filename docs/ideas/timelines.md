@@ -17,8 +17,11 @@ sidebar_label: Timelines
 - https://arxiv.org/abs/2004.04733
 - https://en.wikipedia.org/wiki/Semantic_MediaWiki
 - https://www.grammaticalframework.org/
+- https://mathigon.org/timeline
 
 ## Projects
 
 - [time graphics](http://archive.is/nq0H4)
-- [wtf1971](http://archive.is/rYiI3)
+- [Mapping a World of Cities](https://www.leventhalmap.org/projects/mapping-a-world-of-cities/)
+- [Ridge maps](https://github.com/ColCarroll/ridge_map)
+- [wtf1971](http://archive.is/rYiI3) : https://wtfhappenedin1971.com/

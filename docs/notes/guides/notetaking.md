@@ -78,3 +78,4 @@ Try saving links to Pocket when you see shiny link on social media to avoid goin
 - [shichao/notes](https://notes.shichao.io/roadmap/)
 - https://news.ycombinator.com/item?id=23445742
 - https://vegard.wiki/w/Main_Page
+- https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki

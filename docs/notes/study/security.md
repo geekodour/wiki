@@ -31,6 +31,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [POODLE](https://en.wikipedia.org/wiki/POODLE)
 - [TCP Reset Attack](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
 - [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack)
+- [NAT Slipstreaming v2.0](https://samy.pl/slipstream/)
 
 ### Others
 

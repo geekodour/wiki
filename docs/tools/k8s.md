@@ -58,6 +58,7 @@ Reading this list will probably take an entire week lol.
 - https://medium.com/thermokline/how-to-choose-a-k8s-cni-plugin-771edf4842c0
 - https://www.youtube.com/watch?v=xB190-yyJnY
 - https://www.youtube.com/watch?v=kVhSbHoBSH0&feature=youtu.be
+- [Kubernetes and Networks - why is this so dang hard?](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)
 
 ### Telemetry and the hashfyre meet
 

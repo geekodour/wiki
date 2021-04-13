@@ -1,7 +1,7 @@
 module.exports = {
   title: "geekodour's wiki",
   tagline: "everything i know.",
-  url: "https://wiki.geekodour.xyz",
+  url: "https://wiki.itdobelikethat.org",
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "geekodour", // Usually your GitHub org/user name.

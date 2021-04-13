@@ -59,6 +59,7 @@ It'll take a lot of time for your friend to download `200TiB` of data with the I
 
 ## Log scales
 
+
 > ![](/img/logscale.png)
 >
 > _The distance from 1 to 2 is the same as the distance from 2 to 4, or from 4 to 8. Similarly 1 to 3 is the same as 3 to 9 and 10 to 100 is the same distance as 1 to 10. Thus moving a set distance along the scale means the number has been multiplied by 10 (or some other fixed factor) ;_
@@ -88,6 +89,9 @@ Some measurements vary by a little at the small scale, or a lot at the large sca
 - There is no such thing called the exponential scale.
 - Often exponential growth curves are displayed on a log scale.
 - lin/linear scale is additive, while the log scale is multiplicative by a fixed number.
+
+### Other links
+- https://christine.website/blog/ln-the-natural-logger-2020-10-17
 
 ---
 

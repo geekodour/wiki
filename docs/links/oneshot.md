@@ -27,6 +27,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 
 - [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
 - [Hello world program in esoteric languages](https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages)
+- https://github.com/tree-sitter/tree-sitter
 - [A Guide to Parsing: Algorithms and Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)
 - 🎥[Introduction to LLVM](https://www.youtube.com/watch?v=VKIv_Bkp4pk)
 - [Bitcode Demystified](https://lowlevelbits.org/bitcode-demystified/)
@@ -36,6 +37,9 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [Want to Write a Compiler? Just Read These Two Papers.](https://prog21.dadgum.com/30.html)
 - [My first fifteen compilers](http://composition.al/blog/2017/07/31/my-first-fifteen-compilers/)
 - [dominictarr/stack-expression](https://github.com/dominictarr/stack-expression)
+- [Why write your own programming language? (really nice guide)](https://mukulrathi.co.uk/create-your-own-programming-language/intro-to-compiler/)
+- [Handwritten Parser](https://tiarkrompf.github.io/notes/?/just-write-the-parser/)
+- [Three Great Videos About Regex Derivatives](http://www.oilshell.org/blog/2020/12/regex-videos.html)
 
 ## PLT
 
@@ -142,7 +146,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 
 - [Different network topologies](https://github.com/Raynos/topology)
 - [How to XDP (with Snabb)](https://mr.gy/blog/snabb-xdp.html)
-- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html)
+- [Computer Networks: A Systems Approach](https://book.systemsapproach.org/index.html) 🌟
 - [5G Mobile Networks: A Systems Approach](https://5g.systemsapproach.org/index.html)
 - [Software-Defined Networks: A Systems Approach](https://sdn.systemsapproach.org/index.html)
 - [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
@@ -159,6 +163,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 ## Floating Point
 
 - [Number Representation](https://www.ntu.edu.sg/home/ehchua/programming/java/DataRepresentation.html)
+- https://observablehq.com/@rreusser/half-precision-floating-point-visualized
 - [Another Number representation - Math Heavy](http://www.introtcs.org/public/lec_02_representation.html)
 - [Floating point visually explained](http://fabiensanglard.net/floating_point_visually_explained/)
 - [Formatting floating point](http://www.zverovich.net/2019/02/11/formatting-floating-point-numbers.html)
@@ -176,6 +181,9 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 
 - [What every programmer absolutely, positively needs to know about encodings and character sets to work with text](https://kunststube.net/encoding/)
 - [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/)
+- [Unicode support. What does that actually mean?](https://boyter.org/posts/unicode-support-what-does-that-actually-mean/)
+
+
 - [UTF-8 vs UTF-16 - P1](https://lobste.rs/s/9dsl7a/utf_8_good_utf_16_bad_2011) | [UTF-8 vs UTF-16 - P2](http://web.archive.org/web/20110520060518/https://stackoverflow.com/questions/1049947/should-utf-16-be-considered-harmful) | [UTF-8 vs UTF-16 - P3](http://utf8everywhere.org/)
 - 🎥[Character Representation](https://www.youtube.com/watch?v=-oYfv794R9s&index=2&list=PLhQN_EIoIKBRA0yVTsWDoJzEKZwJY0p3l)
 - [The journey of a word: how text ends up on a page](https://www.youtube.com/watch?v=Is4PW6f4Pk4)
@@ -199,6 +207,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 
 ## Databases
 - [Paper notes: Key-Value Storage Engines](https://vishnubharathi.codes/blog/paper-notes-key-value-storage-engines/)
+- https://matklad.github.io//2020/11/01/notes-on-paxos.html
 - [How do you reason about a probabilistic distributed system?](https://ahelwer.ca/post/2020-04-15-probabilistic-distsys/)
 - [Lessons from MapDB development](http://www.mapdb.org/blog/mapdb_lessons/)
 - [Making QuestDB](https://questdb.io/blog/2020/08/06/my-journey-writing-questdb/)

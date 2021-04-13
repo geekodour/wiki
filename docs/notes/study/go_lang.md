@@ -37,3 +37,4 @@ sidebar_label: Golang
 ## Unread posts
 - [Go: Should I Use a Pointer instead of a Copy of my Struct?](https://medium.com/a-journey-with-go/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963)
 - https://christine.website/blog/within-go-repo-layout-2020-09-07
+- https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory

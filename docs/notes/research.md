@@ -14,6 +14,7 @@ sidebar_label: Research
 - [Grady Booch](https://computingthehumanexperience.com/)
 - [Mark Guzdial](https://en.wikipedia.org/wiki/Mark_Guzdial)
 - https://github.com/petar
+- https://ruben.verborgh.org/
 
 ## Interesting Projects
 

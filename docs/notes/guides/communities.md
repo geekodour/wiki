@@ -51,3 +51,7 @@ Reddit Subreddits
 - https://www.reddit.com/r/unixporn/
 - https://www.reddit.com/r/homelab/
 - https://www.reddit.com/r/compsci/
+
+Twitch channels
+
+- https://venam.nixers.net/blog/unix/2017/06/04/newcomers.html

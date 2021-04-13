@@ -12,6 +12,9 @@ sidebar_label: peer-to-peer
 - [About Bittorrent](/docs/notes/study/p2p/bittorrent)
 - [About NAT](/docs/notes/study/p2p/nat)
 
+## Labs
+- [Decentralized Distributed Systems Laboratory](https://www.epfl.ch/labs/dedis/)
+
 ## Jargons/Rabbit Holes (Unread)
 
 Read links will be removed and added somewhere else where they fit better.

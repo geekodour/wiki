@@ -7,6 +7,7 @@ sidebar_label: Blogs
 ## Distributed Systems
 
 - [copyconstruct/library](https://github.com/copyconstruct/library) : A collection of the papers, conference talks, articles, blog posts, interesting Twitter threads, HN/reddit comments on systems engineering
+- [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html?m=1)
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) : Very nice
 - [heidi-ann/distributed-consensus-reading-list](https://github.com/heidi-ann/distributed-consensus-reading-list) : List of academic papers on distributed consensus
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) : Site Reliability Engineer Interview Preparation Guide
@@ -43,6 +44,7 @@ sidebar_label: Blogs
 ## History
 
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) : An Awesome List of computer history videos, documentaries and related folklore
+- https://blog.webb.page/2021-01-15-the-internet-is-broken.txt
 - [History of storage media](https://codewords.recurse.com/issues/seven/a-history-of-storage-media): A history of storage media
 - [10 MOST(LY DEAD) INFLUENTIAL PROGRAMMING LANGUAGES](https://www.hillelwayne.com/post/influential-dead-languages)
 - [History of IRC (Internet Relay Chat) ](https://daniel.haxx.se/irchistory.html)
@@ -56,9 +58,15 @@ sidebar_label: Blogs
 ## Thinking
 
 - https://untools.co/
+- [The Case for Underground Research](http://nawab.me/blog/?p=656)
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) : Falsehoods Programmers Believe in.
 - [How to Make Yourself Into a Learning Machine](https://superorganizers.substack.com/p/how-to-build-a-learning-machine)
+- [Fast](https://patrickcollison.com/fast)
+- [How to think about correlation? It’s the slope of the regression when x and y have been standardized.](https://statmodeling.stat.columbia.edu/2020/12/03/how-to-think-about-correlation-its-the-slope-of-the-regression-when-x-and-y-have-been-standardized/)
+- [Arguments](http://liamrosen.com/arguments.html)
+- [Teaching kids how to think](https://news.ycombinator.com/item?id=24638756)
 - [vmbrasseur/Public_Speaking](https://github.com/vmbrasseur/Public_Speaking) : A repository of resources about public speaking, specifically in the context of software development and IT conferences.
+- [social cooling](https://www.socialcooling.com/)
 - [notion/visa](https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73): The best of @visakanv's twitter threads
 - [Mindware: Critical Thinking for the Information Age](https://www.coursera.org/learn/mindware)
 - [Critical Thinking Skills for University Success](https://www.coursera.org/learn/critical-thinking-skills)
@@ -72,9 +80,11 @@ sidebar_label: Blogs
 - [AwesomeClub](https://awesomeblog.club/)
 - [HN: the good parts](https://danluu.com/hn-comments/)
 - [Control Theory](https://fauna.com/blog/control-theory-for-fun-and-profit)
+- [Proof of X](https://julian.digital/2020/08/06/proof-of-x/)
 - [Design Docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 - [roam/visa/braindump](https://roamresearch.com/#/app/visakanv-public/page/aHYzCZnry)
 - [Be sceptical of your own work](https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/)
+- [The ultimate meta thread on thinking](https://twitter.com/james_d_baird/status/1379113187983908866)
 - [How To Understand Things](https://nabeelqu.co/understanding)
 - [Wikipedia:Wikipedia is an MMORPG](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_is_an_MMORPG)
 - [Mentat Wiki](http://www.ludism.org/mentat/)
@@ -88,6 +98,11 @@ sidebar_label: Blogs
 - [Making Uncommon Knowledge Common](https://kwokchain.com/2019/04/09/making-uncommon-knowledge-common/)
 - [Letter to a friend](https://grahamduncan.blog/letter-to-a-friend-who-may-start-a-new-investment-platform/)
 
+## Things to know
+- https://github.com/jnv/lists
+- https://www.conradakunga.com/blog/what-do-you-actually-agree-to-when-you-accept-all-cookies/
+- https://danluu.com/hn-comments/
+- https://idlewords.com/talks/website_obesity.htm
 
 ## Writing
 
