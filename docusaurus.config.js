@@ -89,7 +89,7 @@ module.exports = {
           position: "right",
         },
         {
-          href: "https://wiki.geekodour.xyz/rotlinks.txt",
+          href: "https://wiki.itdobelikethat.org/rotlinks.txt",
           label: "Link Rots",
           position: "right",
         },
