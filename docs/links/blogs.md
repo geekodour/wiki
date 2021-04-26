@@ -57,6 +57,7 @@ sidebar_label: Blogs
 
 ## Thinking
 
+- [Notation and thought](https://github.com/hypotext/notation)
 - https://untools.co/
 - [The Case for Underground Research](http://nawab.me/blog/?p=656)
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) : Falsehoods Programmers Believe in.

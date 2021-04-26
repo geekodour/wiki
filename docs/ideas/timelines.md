@@ -25,3 +25,20 @@ sidebar_label: Timelines
 - [Mapping a World of Cities](https://www.leventhalmap.org/projects/mapping-a-world-of-cities/)
 - [Ridge maps](https://github.com/ColCarroll/ridge_map)
 - [wtf1971](http://archive.is/rYiI3) : https://wtfhappenedin1971.com/
+
+
+## Maps
+- https://github.com/public-transport/generating-transit-maps
+- https://protomaps.com/blog/new-way-to-make-maps
+- https://www.lightpollutionmap.info/#zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF
+- https://github.com/mapnificent/mapnificent
+- https://github.com/tabatkins/railroad-diagrams
+- https://github.com/CUTR-at-USF/awesome-transit
+- https://github.com/transitland/transitland-processing-animation
+- https://github.com/wwcline/list-of-frequent-transit-maps
+- https://github.com/UDST/vizicities
+- https://github.com/fogleman/PirateMap
+
+## Collections
+- https://govbins.uk/
+- https://www.tema.ru/eng/travel/

@@ -33,3 +33,4 @@ sidebar_label: Ideas in Education
 - https://explorabl.es/
 - https://masterwiki.how/
 - https://libraryofbabel.info/theory.html
+- https://github.com/mathigon/textbooks

@@ -234,6 +234,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [Workstation guide](https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide)
 - [Things that programmers don't know but should](https://gist.github.com/geekodour/c5b6e49b3b2e355c0110b8f0f6fecfac)
 - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/)
+- [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
 - [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
 
 ## Text Processing

@@ -114,6 +114,8 @@ I'll be adding/removing links to and from this page time to time.
 - [accessp2p](https://accessp2p.xyz/) ✅ (See [notes](/docs/courses/others/accessp2p))
 
 ## Others
+- [Internet Search Tips](https://www.gwern.net/Search)
+- [Writing a Technical Book](https://andregarzia.com/2021/04/writing-a-technical-book.html)
 - [The confusing world of USB](https://fabiensanglard.net/nousb/index.html)
 - [Evaluating the Evaluation: A Benchmarking Checklist](http://www.brendangregg.com/blog/2018-06-30/benchmarking-checklist.html)
 - [Linux Applications Performance: Introduction](https://unixism.net/2019/04/linux-applications-performance-introduction/)
@@ -122,6 +124,9 @@ I'll be adding/removing links to and from this page time to time.
 - [Teach Yourself Demoscene in 14 Days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
 - [Open Source Tools & Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html)
 - https://github.com/apprenticeharper/DeDRM_tools
+- UML
+    - https://crashedmind.github.io/PlantUMLHitchhikersGuide/about/AboutPlantUML.html
+    - https://real-world-plantuml.com/
 
 
 ## LOL

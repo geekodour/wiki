@@ -30,6 +30,7 @@ sidebar_label: Web 3.0
 - http://textfiles.com/
 ### Blogposts
 - https://pavellaptev.github.io/web-dark-ages/
+- https://www.nngroup.com/articles/web-pages-must-live-forever/
 - [Why does DARPA work?](https://benjaminreinhardt.com/wddw)
 - [Things We Left in the Old Web](https://www.kickscondor.com/things-we-left-in-the-old-web/)
 - [The Era of Fragmentation, Part 4: The Anarchists](https://technicshistory.com/2020/06/25/the-era-of-fragmentation-part-4-the-anarchists/)
@@ -226,5 +227,7 @@ Webmention is a W3C recommendation that describes a simple protocol to notify an
 ## Random Projects idk where to put
 - https://github.com/brutella/dnssd
 - https://crates.io/crates/actyxos_sdk
+- https://github.com/Antharia/awesome-lowtech
+- https://github.com/upspin/upspin
 - https://github.com/tomeshnet/meshstream
 - [Announcing GitTorrent: A Decentralized GitHub(2015)](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)

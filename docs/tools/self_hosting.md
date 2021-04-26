@@ -35,6 +35,7 @@ sidebar_label: Self Hosting
 ## Communication
 - [oragono](https://github.com/oragono/oragono): A modern IRC server (daemon/ircd) written in Go. 
 - https://github.com/knadh/listmonk
+- https://github.com/ndbeals/keep-exporter
 - [tehlounge](https://github.com/thelounge/thelounge): Modern, responsive, cross-platform, self-hosted web IRC client 
 - https://github.com/mattermost/focalboard
 - [thoughts](https://github.com/thwidge/thoughts) : I want to use something similar to thoughts that i'd probably end up building myself
@@ -74,6 +75,7 @@ sidebar_label: Self Hosting
 - [Backing up data like the adult I supposedly am](https://magnusson.io/post/backups/)
 - [rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files 
 - [BorgBackup](https://www.borgbackup.org/) and [rsync.net](https://www.rsync.net/index.html)
+- https://github.com/andrewchambers/bupstash
 
 ## Information sharing
 - [BookstackApp](https://www.bookstackapp.com/): BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. ( I plan to use to store book reviews of all books)

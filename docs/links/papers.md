@@ -11,6 +11,9 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 
 ## Meta
 - [hashicorp/research-resources](https://github.com/hashicorp/research-resources) :  A collection of sites, papers and other resources that we hope will be of use if you are beginning to look at academic research (very nice)
+- https://fermatslibrary.com/
+- https://scite.ai/
+- https://www.connectedpapers.com
 
 
 ## Distributed Systems
@@ -117,6 +120,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 
 - [Man-Computer Symbiosis](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 - [As we may think](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+- [The Greshm System](https://www.greshm.org/files/greshm.pdf)
 - [A Mathematical Theory of Communication](http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 - [Eye Computer: Turning Vision into a Programmable Computer](https://lobste.rs/s/snksxy/eye_computer_turning_vision_into)
 - [Dissolving the Fermi Paradox](https://arxiv.org/abs/1806.02404)

@@ -13,11 +13,21 @@ sidebar_label: Open Source Projects
 - [CindyJS](https://cindyjs.org/) is a framework to create interactive (mathematical) content for the web.
 - [Automerge](https://github.com/automerge/automerge): Automerge is a library of data structures for building collaborative applications in JavaScript.
 - [grfn](https://github.com/TomerAberbach/grfn): A tiny (~400B) utility that executes a dependency graph of async functions as concurrently as possible. 
+- https://github.com/mitsuhiko/indicatif
+
 
 ## Projects
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/): Mermaid lets you create diagrams using text and code. This simplifies the maintenance of complex diagrams. It is a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically. 
 - [Translate your data with lenses](https://www.inkandswitch.com/cambria.html)
 - [Node.js library for easily creating an ePaper display on a Raspberry PI using HTML and Javascript.](https://github.com/samsonmking/epaper.js)
 - [PI Zero W Audio Book](https://github.com/ahosna/Pi0AudioBook): Audio book player for senior visually impaired.
+- https://cuelang.org/
+
+## Interesting
+- https://github.com/everestpipkin/tools-list
+- https://github.com/kdzwinel/SnappySnippet
+- https://github.com/skydive-project/skydive
+- https://github.com/osquery/osquery
+- https://github.com/tidwall/cities
 
 ## Non Open source tools that are useful

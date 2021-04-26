@@ -13,3 +13,13 @@ Self Quantification
 - how much time i spend on the internet and how much time i spend in life in general.
 - https://github.com/getredash/redash
 - make the year diary digital
+- https://www.youtube.com/watch?v=cf_vX0vDckM
+- https://github.com/nicbou/timeline : This software collects my data (files, articles, comments, geolocation...) from different sources, and displays it on a timeline. It's a mix between a personal diary, a personal history, photo stream and backup tool.
+- https://github.com/metabase/metabase Use metabase to visualize things : https://github.com/mr-karan/swiggy-analytics/tree/master/swiggy_analytics
+- https://github.com/tmcw/running-for-nerds
+- https://github.com/turbomaze/28-hour-day
+- https://github.com/schollz/howmanypeoplearearound
+- https://github.com/AnandChowdhary/life-data (Love the commits)
+- https://github.com/KrauseFx/FxLifeSheet
+- metrics of how long the laptop was on over days etc
+- visualization of linux home directory etc

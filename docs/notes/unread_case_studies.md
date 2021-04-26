@@ -6,6 +6,7 @@ sidebar_label: Unread Case Studies
 See the main [case studies page for summaries.](/docs/notes/case_studies)
 
 ## Uncategorized
+- [Awesome Cold Showers](https://github.com/hwayne/awesome-cold-showers)
 - [Napkin Problem 1: Logging Cost (All the napkin math posts!)](https://sirupsen.com/napkin/problem-1/)
     - https://github.com/sirupsen/napkin-math
 - [Massive Growth of the Data Infrastructure Market](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
@@ -212,6 +213,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 
 ## Filesystems
 - [Modern storage is plenty fast. It is the APIs that are bad.](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a)
+- https://github.com/NieDzejkob/cursedfs
 - [A Ceph war story](https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/)
 
 
@@ -219,6 +221,9 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Making Sense of The Audio Stack On Unix](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html)
 - [Undeleting a file overwritten with mv](https://behind.pretix.eu/2020/11/28/undelete-flv-file/)
 - [Intel Virtualisation: How VT-x, KVM and QEMU Work Together](https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together/) 🌟
+  - https://zserge.com/posts/kvm/
+  - https://www.amazon.com/Hardware-Software-Virtualization-Synthesis-Architecture/dp/1627056939
+  - https://airbus-seclab.github.io/qemu_blog/
 
 
 ## Misc
@@ -226,10 +231,12 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [How to store data forever](https://drewdevault.com/2020/04/22/How-to-store-data-forever.html)
 - [trace art](https://esoteric.codes/blog/stack-trace-art)
 - [Choosing boring tech](https://mcfunley.com/choose-boring-technology)
+- https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/
 - [FOSDEM on matrix](https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix)
 - [How To Write Unmaintainable Code](https://cs.fit.edu/~kgallagher/Schtick/How%20To%20Write%20Unmaintainable%20Code.html)
 - [Comparing Compression](https://etbe.coker.com.au/2020/06/06/comparing-compression/)
 - [Why I Prefer systemd Timers Over Cron](https://trstringer.com/systemd-timer-vs-cronjob/)
+- https://changelog.com/posts/you-might-as-well-timestamp-it
 - [🌟 Time on Unix](https://venam.nixers.net/blog/unix/2020/05/02/time-on-unix.html)
 - [Plain text protocols]()https://blainsmith.com/articles/plain-text-protocols/)
 - [Making the best CLI](https://venam.nixers.net/blog/unix/2017/06/04/making-the-best-cli.html)
@@ -290,6 +297,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [How Buffer Pool Works: An Implementation In Go](https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/)
 - [Deciding on relations](https://www.damirsystems.com/sql-x-to-y/)
 - [Scaling Datastores at Slack with Vitess](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
+- https://minimalmodeling.substack.com/p/many-faces-of-left-join
 - https://blog.nelhage.com/post/some-opinionated-sql-takes/
 - [Staying out of TTL hell](http://calpaterson.com/ttl-hell.html)
 - https://www.highgo.ca/2020/12/08/bulk-loading-into-postgresql-options-and-comparison/
