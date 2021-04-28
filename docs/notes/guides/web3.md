@@ -97,6 +97,7 @@ sidebar_label: Web 3.0
 - [SmalltechOrg](https://small-tech.org/)
 
 ## Technologies
+- https://github.com/redecentralize/alternative-internet
 
 ### Gemini
 - https://github.com/mbrubeck/agate

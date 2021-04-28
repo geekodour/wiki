@@ -20,6 +20,7 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - [Esolang](https://esolangs.org/wiki/Main_Page)
 - https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html
 - http://jimbly.github.io/regex-crossword
+- https://github.com/karan/Projects-Solutions
 
 ## Web Engineering
 

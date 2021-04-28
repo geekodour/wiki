@@ -331,13 +331,34 @@ sudo pacman --needed --noconfirm -S ripgrep
   - https://wayland.app/protocols/
 - https://wayland.emersion.fr/grim/
 - https://github.com/JaCzekanski/Avocado
+- https://github.com/Nukesor/pueue seems like will be useful when downloading shit
+- https://github.com/jhchen/ansize nice this is simlar to imcat?
+- https://github.com/muesli/duf df alternative
+- https://github.com/Sangarshanan/jazzit crypto scripts
+- https://github.com/runrin/tt
 - https://github.com/any1/wayvnc
+- https://github.com/LuRsT/hr : have man page for all your tools
+- https://github.com/mozilla/ssh_scan
+- Need a til page aswell, maybe this can go into the main thoughs app and then can use tags from there. this is somewhat tricky, need to decide what constitutes a tag etc. Maybe following the telegram parser would do good only. 
 - https://github.com/Igglybuff/awesome-piracy
 - https://github.com/skatiyar/pacman
 - https://github.com/jarun/nnn
 - Understand gobject, gtk+, the diagram in this page: https://en.wikipedia.org/wiki/Accessibility_Toolkit
 - fish/oil shell
 - https://github.com/Alexays/Waybar
+- https://github.com/nelhage/reptyr (this will be useful inside tmux sessions too)
+- https://github.com/casey/just
+- https://github.com/lfit/itpol IT  policies
+- https://github.com/nayafia/microgrants
+  -  https://github.com/mezod/awesome-indie
+- https://github.com/cooperhammond/irs need to merge this with the assmese music metadata service
+- https://github.com/mylxsw/redis-tui will be useful when learning redis
+- https://github.com/schollz/find3
+- https://github.com/lptstr/chmap
+- https://github.com/fogleman/nes
+- https://github.com/shazow/ssh-chat
+- https://github.com/FiloSottile/whoami.filippo.io
+- https://shadowsocks.org/en/index.html
 - https://github.com/natpen/awesome-wayland
 - twitter list automation, tweet deletion, other automation, backup etc.
 - might check: https://lineageos.org/engineering/HowTo-SELinux/ (lineseos)
@@ -373,6 +394,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/tmuxinator/tmuxinator (my personal projects can have this file, as well adwyze)
 - https://github.com/client9/misspell (Also get done with spell checker and dict, setup emacs to do that)
 - https://github.com/facebook/watchman
+  - https://github.com/cespare/reflex
 - https://github.com/kickscondor/fraidycat
 - https://github.com/iorate/uBlacklist geek4geek hitlist
 - https://github.com/o2sh/onefetch
@@ -381,7 +403,24 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/ivandokov/phockup
 - https://github.com/jmathai/elodie
 - https://github.com/tfeldmann/organize
+- https://github.com/tycrek/degoogle
+- https://github.com/jacobian/notamazon maintain similar list for indian sites
+  - actually the gift site is not a bad idea ppl post on twitter
+- https://github.com/cloudhead/rx new hobbby pixxel art
+  - https://github.com/asciimoo/drawille also making these animations
+-  https://github.com/2mol/pboy pdf manager
+- https://github.com/Y2Z/monolith
+- https://github.com/veltman/clmystery game
+- https://github.com/Katee/quietnet
+- https://github.com/rgburke/grv nice tool to have an overview of what's going on
 - https://github.com/so-fancy/diff-so-fancy
+- https://github.com/weihanglo/sfz
+- read books faster https://github.com/nemanjan00/uniread
+- https://github.com/kdabir/has very nice tool to check versions for deps
+- https://github.com/ashlinchak/mdanki
+- https://github.com/Canop/broot : this is nice than nn for viewing things quickly
+- https://github.com/jifunks/botany
+- https://github.com/Kharacternyk/pacwall
 - https://unix4lyfe.org/darkhttpd/
 - https://github.com/iamadamdev/bypass-paywalls-chrome
 - [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt): Format /etc/fstab 
@@ -389,6 +428,8 @@ sudo pacman --needed --noconfirm -S ripgrep
 - Video Downloader: https://github.com/iawia002/annie
 - [flameshot](https://github.com/flameshot-org/flameshot)
 - [pet](https://github.com/knqyf263/pet) : CLI Snippet Manager
+  - https://github.com/gleicon/pipecamp : super unstructured
+- https://github.com/teenyicons/teenyicons (sway)
 - https://github.com/federico-terzi/espanso : See how these compare to clipboard managers
 - https://github.com/hluk/CopyQ
 - https://github.com/yory8/clipman
@@ -432,6 +473,8 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli
 - https://github.com/pomber/git-history
 - https://github.com/MontFerret/ferret
+- https://github.com/notwaldorf/tiny-care-terminal I need the tweet thing from here, might have to write my own. Also need some way to export my digital wellbeing from phone. then later can graph is somewhere.
+- https://github.com/simeji/jid / jiq
 - [peek](https://github.com/phw/peek) GIF maker
 - https://github.com/bcicen/ctop
 - https://github.com/wtfutil/wtf : prolly not going to use it but can take inspiration. + https://github.com/charmbracelet/bubbletea + https://github.com/slok/grafterm
@@ -445,6 +488,8 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/nico2sh/semtag (use this in my projects)
 - I need some way to list all the possible tools i can use to look at a problem. might need to build this myself.
 - [rr](https://rr-project.org/) : rr aspires to be your primary C/C++ debugging tool for Linux, replacing — well, enhancing — gdb. You record a failure once, then debug the recording, deterministically, as many times as you want. The same execution is replayed every time.
+- https://github.com/supabase/postgres (check for tutning my postgres instances)
+- https://github.com/nanzhong/workstation
 - Learn https://graphviz.org/ Why: https://twitter.com/thingskatedid/status/1386077306381242371
 - https://www.flycheck.org/en/latest/index.html see supported languages and enable on ones that's needed
 - https://github.com/traefik/yaegi Go interpreter
@@ -463,22 +508,35 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/pnpm/pnpm
 - [rhit](https://github.com/Canop/rhit): A nginx log explorer 
 - [grex](https://github.com/pemistahl/grex): A command-line tool and library for generating regular expressions from user-provided test cases 
+- https://github.com/sshuttle/sshuttle
 - https://insomnia.rest/ and curl
 - https://github.com/wagoodman/dive
 - https://hashcat.net/hashcat/
+- https://github.com/Jguer/yay
 - https://github.com/esimov/caire
+- https://github.com/dai-shi/excalidraw-animate
+- https://github.com/jdan/cleaver
 - https://github.com/koalaman/shellcheck
 - https://www.explainshell.com/
+- https://www.reddit.com/r/linux/comments/mzncxc/linux_networking_tool_with_simpler_understanding/
+- https://github.com/derailed/k9s
+- https://github.com/owenthereal/upterm
 - [lfs](https://github.com/Canop/lfs): A thing to get information on your mounted disks.
 - https://github.com/pyenv/pyenv
 - [z3](https://github.com/presslabs/z3) : Backup your ZFS snapshots to S3. Decide on which filesystem to use.
 ### Random
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat): a tool to output images as RGB ANSI graphics on the terminal 
+  - https://github.com/posva/catimg compare and benchmark which one to use
 - https://github.com/muesli/smartcrop
+- create gist directly from emacs
 - https://github.com/deepfakes/faceswap
 - https://tosdr.org/
+- https://github.com/lyrebird-voice-changer/lyrebird
+- https://github.com/tridactyl/tridactyl
+- https://github.com/dgryski/trifles maintain one such repo
 - https://github.com/CorentinJ/Real-Time-Voice-Cloning
 - webtorrent
+- https://github.com/atxdevops/dodatx-food (can do this for guwahati)
 - https://github.com/rbenv/rbenv
 - https://github.com/deezer/spleeter
 - https://github.com/lengstrom/fast-style-transfer
@@ -512,6 +570,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 ### Security
 - [sbctl](https://github.com/Foxboron/sbctl): Secure Boot key manager 
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck): TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them.
+- https://github.com/jedisct1/minisign
 - [Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler designed for OSINT.
 - [feroxbuster](https://github.com/epi052/feroxbuster): A fast, simple, recursive content discovery tool written in Rust. 
 - https://github.com/martijnvanbrummelen/nwipe
@@ -525,6 +584,10 @@ sudo pacman --needed --noconfirm -S ripgrep
 ### Crypto
 - https://github.com/nayafia/lemonade-stand
 - Metamask
+- curl rate.sx (make own projects like this)
+  - I will host a ton of these apis so need some kind of a framework for these.
+  - https://github.com/dariusk/corpora
+- https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html
 - https://www.wslyvh.com/ethereum-guide/
 - have a crypto setup to do this: https://twitter.com/radicle/status/1364980998530879498 (lbp.radicle.network )
 - https://github.com/AleoHQ/wagyu
@@ -544,6 +607,7 @@ Make some app where i can keep track of online tools that i use.
 - https://tosdr.org/
 - https://github.com/iv-org/invidious
 - https://lofi.cafe/ firefox-ssb
+- https://swimlanes.io seq diagrams 
 - https://github.com/zedeus/nitter
 - https://removebackground.app/
 - https://github.com/soypat/gitaligned

@@ -14,7 +14,11 @@ sidebar_label: Open Source Projects
 - [Automerge](https://github.com/automerge/automerge): Automerge is a library of data structures for building collaborative applications in JavaScript.
 - [grfn](https://github.com/TomerAberbach/grfn): A tiny (~400B) utility that executes a dependency graph of async functions as concurrently as possible. 
 - https://github.com/mitsuhiko/indicatif
-
+- https://github.com/matcornic/hermes
+- https://github.com/slatedocs/slate
+- https://github.com/valeriansaliou/sonic
+- https://github.com/nextapps-de/winbox
+- https://github.com/timqian/chart.xkcd
 
 ## Projects
 - [Mermaid](https://mermaid-js.github.io/mermaid/#/): Mermaid lets you create diagrams using text and code. This simplifies the maintenance of complex diagrams. It is a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically. 
@@ -26,8 +30,12 @@ sidebar_label: Open Source Projects
 ## Interesting
 - https://github.com/everestpipkin/tools-list
 - https://github.com/kdzwinel/SnappySnippet
+- https://github.com/chr15m/slingcode
 - https://github.com/skydive-project/skydive
 - https://github.com/osquery/osquery
 - https://github.com/tidwall/cities
+
+## Fonts
+- https://github.com/oidoid/mem
 
 ## Non Open source tools that are useful

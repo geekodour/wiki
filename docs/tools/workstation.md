@@ -25,10 +25,12 @@ sidebar_label: Workstation
 
 ## Design
 - [Computer science posters](https://github.com/corkami/pics)
+- https://github.com/googlecreativelab/anypixel
 
 ## Hardware
 ### Tools
 - [Nitrokey](https://lists.archlinux.org/pipermail/arch-dev-public/2021-March/030400.html)
+- https://github.com/fulldecent/system-bus-radio
 - RPi Zero and Other models
 - [Mechanical Keyboard and where to find them](https://github.com/help-14/mechanical-keyboard)
 - [TinyPilot](https://tinypilotkvm.com/) : An easy-to-use, low-cost device to manage your servers

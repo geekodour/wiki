@@ -32,6 +32,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - 🎥[Introduction to LLVM](https://www.youtube.com/watch?v=VKIv_Bkp4pk)
 - [Bitcode Demystified](https://lowlevelbits.org/bitcode-demystified/)
 - [LLVM for Grad Students](http://www.cs.cornell.edu/~asampson/blog/llvm.html)
+- https://github.com/jamiebuilds/the-super-tiny-compiler
 - [A Tourist’s Guide to the LLVM Source Code](https://blog.regehr.org/archives/1453)
 - [Where do Type Systems Come From?](http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/)
 - [Want to Write a Compiler? Just Read These Two Papers.](https://prog21.dadgum.com/30.html)

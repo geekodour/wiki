@@ -23,6 +23,7 @@ sidebar_label: Idea Pantry
 - https://ec2.shop/
 - Instagram public API: `https://www.instagram.com/___aryan___/?__a=1`
 - [instant.page](https://instant.page/): Make your site’s pages instant in 1 minute and improve your conversion rate noticeably. , https://github.com/GoogleChromeLabs/quicklink
+- https://github.com/sw-yx/spark-joy
 - https://www.causal.app/saas-metrics
 - https://github.com/imazen/imageflow
 - https://github.com/segmentio/ksuid

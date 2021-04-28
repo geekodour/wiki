@@ -228,3 +228,4 @@ sum (rate(http_requests_total{job="node"}[5m]))  by (job)
 ## Other Notes
 
 - One word of warning when using timestamps on exported metrics, you can easily run into staleness problems which will create gaps in Prometheus. Or if the timestamp is too far off, Prometheus will drop the data entirely. - **the great superQ**
+- https://github.com/cloudflare/pint

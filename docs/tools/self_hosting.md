@@ -11,12 +11,14 @@ sidebar_label: Self Hosting
 
 ## DNS/Ad Blocking
 - https://github.com/AdguardTeam/AdGuardHome
+- https://github.com/honeytrap/honeytrap
 - [dnscrypt](https://dnscrypt.info/)
   - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy)
 - [unbound usage](https://vermaden.wordpress.com/2020/11/18/unbound-dns-blacklist/)
 
 ## Aggregation
 - [huginn](https://github.com/huginn/huginn): hackable version of IFTTT or Zapier on your own server
+  - https://github.com/muesli/beehive there's the other ruby thing aswell
 - [RSSHub](https://github.com/DIYgod/RSSHub): RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.
 - [Tiny Tiny RSS](https://tt-rss.org/) is a free and open source web-based news feed (RSS/Atom) reader and aggregator
     - [Elfeed with Tiny Tiny RSS](https://codingquark.com/emacs/2020/04/19/elfeed-protocol-ttrss.html)
@@ -56,6 +58,7 @@ sidebar_label: Self Hosting
 - mozilla sops
 - https://github.com/ory/keto
 - [Keycloak](https://www.keycloak.org/documentation)
+- https://github.com/yrutschle/sslh
 - https://github.com/skeeto/endlessh ssh tarpit
 - https://www.v2ray.com/en/welcome/workflow.html PROXY
 - [smallstep/certificates](https://github.com/smallstep/certificates) Open-Source Certificate Authority & PKI Toolkit
@@ -91,6 +94,7 @@ sidebar_label: Self Hosting
 
 ## Monitoring
 - Prometheus&Grafana : no brainer
+- https://github.com/monitoringsucks/metrics-catalog
 - [Motion](https://motion-project.github.io/): Motion is a highly configurable program that monitors video signals from many types of cameras. 
 - https://github.com/netdata/netdata
 - https://github.com/milesmcc/shynet

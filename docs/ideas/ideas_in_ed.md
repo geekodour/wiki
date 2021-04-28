@@ -22,6 +22,7 @@ sidebar_label: Ideas in Education
 - https://distill.pub/2020/communicating-with-interactive-articles/
 - https://macwright.com/2020/12/24/the-new-reading-stack.html
 - https://www.loudreader.com/
+- https://github.com/PharkMillups/beautiful-docs
 - https://www.spinellis.gr/blog/20200406/
 - http://jasongriffey.net/librarybox/ (piratebox version of education library)
 - https://textvis.lnu.se/

@@ -37,6 +37,7 @@ sidebar_label: Timelines
 - https://github.com/transitland/transitland-processing-animation
 - https://github.com/wwcline/list-of-frequent-transit-maps
 - https://github.com/UDST/vizicities
+- https://github.com/microsoft/SandDance : more of a data viz tool
 - https://github.com/fogleman/PirateMap
 
 ## Collections

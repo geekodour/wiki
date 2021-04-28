@@ -17,7 +17,10 @@ Self Quantification
 - https://github.com/nicbou/timeline : This software collects my data (files, articles, comments, geolocation...) from different sources, and displays it on a timeline. It's a mix between a personal diary, a personal history, photo stream and backup tool.
 - https://github.com/metabase/metabase Use metabase to visualize things : https://github.com/mr-karan/swiggy-analytics/tree/master/swiggy_analytics
 - https://github.com/tmcw/running-for-nerds
+- https://github.com/sourcegraph/thyme
+- https://github.com/JacobEvelyn/friends :: this is really nice, I need to check how i can sync this with my
 - https://github.com/turbomaze/28-hour-day
+- https://github.com/cheeaun/life this fits very nicely with my baserow idea
 - https://github.com/schollz/howmanypeoplearearound
 - https://github.com/AnandChowdhary/life-data (Love the commits)
 - https://github.com/KrauseFx/FxLifeSheet

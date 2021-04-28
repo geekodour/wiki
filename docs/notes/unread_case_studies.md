@@ -17,6 +17,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - https://brandur.org/fragments/offset-pagination
 - https://github.com/DataDog/gostackparse read the testing methodologies
 - https://github.com/upgundecha/howtheyaws
+- https://github.com/ianpreston/redditfs
 - https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/
 - [Weird Proxies](https://github.com/GrrrDog/weird_proxies)
 - https://github.com/upgundecha/howtheysre
@@ -287,6 +288,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 
 - [Implementing Stripe-like Idempotency Keys in Postgres](https://brandur.org/idempotency-keys)
 - [sled](https://github.com/spacejam/sled)
+- https://github.com/ept/hermitage
 - [An unlikely database migration](https://tailscale.com/blog/an-unlikely-database-migration/)
 - [i want to see how this project is building its connectors](https://github.com/getredash/redash)
 - [study the litestream package](https://github.com/benbjohnson/litestream)
