@@ -1,121 +1,3 @@
-https://wiki.itdobelikethat.org/docs/ideas/drawing_ducks/
-	too many redirections	https://ebird.org/home
-https://wiki.itdobelikethat.org/docs/tools/laptop_tools/
-	404	https://github.com/geekodour/dotfiles
-	429	https://github.com/Canop/lfs
-	429	https://github.com/CorentinJ/Real-Time-Voice-Cloning
-	429	https://github.com/Dr-Noob/cpufetch
-	429	https://github.com/FiloSottile/age
-	429	https://github.com/FiloSottile/whoami.filippo.io
-	429	https://github.com/Foxboron/sbctl
-	429	https://github.com/Genymobile/scrcpy
-	429	https://github.com/Igglybuff/awesome-piracy
-	429	https://github.com/Katee/quietnet
-	429	https://github.com/LuRsT/hr
-	429	https://github.com/Sangarshanan/jazzit
-	429	https://github.com/Swordfish90/cool-retro-term
-	429	https://github.com/WerWolv/ImHex
-	429	https://github.com/adri/memex
-	429	https://github.com/any1/wayvnc
-	429	https://github.com/ashlinchak/mdanki
-	429	https://github.com/bcicen/ctop
-	429	https://github.com/birchb1024/frangipanni
-	429	https://github.com/casey/just
-	429	https://github.com/cespare/reflex
-	429	https://github.com/client9/misspell
-	429	https://github.com/corkami/pics
-	429	https://github.com/dai-shi/excalidraw-animate
-	429	https://github.com/dariusk/corpora
-	429	https://github.com/debauchee/barrier
-	429	https://github.com/deepfakes/faceswap
-	429	https://github.com/deezer/spleeter
-	429	https://github.com/dgryski/trifles
-	429	https://github.com/eloquence/freeyourstuff.cc
-	429	https://github.com/fatedier/frp
-	429	https://github.com/federico-terzi/espanso
-	429	https://github.com/fogleman/nes
-	429	https://github.com/gen2brain/cam2ip
-	429	https://github.com/imsnif/bandwhich
-	429	https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
-	429	https://github.com/iovisor/bcc
-	429	https://github.com/iv-org/invidious
-	429	https://github.com/ivandokov/phockup
-	429	https://github.com/jarun/buku
-	429	https://github.com/jdan/cleaver
-	429	https://github.com/jhchen/ansize
-	429	https://github.com/jhlyeung/rumin-web-clipper
-	429	https://github.com/jhspetersson/fselect
-	429	https://github.com/kamranahmedse/pennywise
-	429	https://github.com/kernc/logkeys
-	429	https://github.com/knqyf263/pet
-	429	https://github.com/koalaman/shellcheck
-	429	https://github.com/linuxserver/Heimdall
-	429	https://github.com/lptstr/chmap
-	429	https://github.com/madler/pigz
-	429	https://github.com/mezod/awesome-indie
-	429	https://github.com/mozilla/ssh_scan
-	429	https://github.com/msoap/shell2http
-	429	https://github.com/muesli/duf
-	429	https://github.com/mvdan/sh
-	429	https://github.com/nanzhong/workstation
-	429	https://github.com/natpen/awesome-wayland
-	429	https://github.com/nayafia/microgrants
-	429	https://github.com/nemanjan00/uniread
-	429	https://github.com/nico2sh/semtag
-	429	https://github.com/nuno-faria/tiler
-	429	https://github.com/owncast/owncast
-	429	https://github.com/oz/tz
-	429	https://github.com/pavlobu/deskreen
-	429	https://github.com/phw/peek
-	429	https://github.com/pnpm/pnpm
-	429	https://github.com/posva/catimg
-	429	https://github.com/presslabs/z3
-	429	https://github.com/pyenv/pyenv
-	429	https://github.com/qarmin/czkawka
-	429	https://github.com/rbenv/rbenv
-	429	https://github.com/reorx/httpstat
-	429	https://github.com/runrin/tt
-	429	https://github.com/schollz/croc
-	429	https://github.com/soveran/map
-	429	https://github.com/soypat/gitaligned
-	429	https://github.com/supabase/postgres
-	429	https://github.com/teenyicons/teenyicons
-	429	https://github.com/tmuxinator/tmuxinator
-	429	https://github.com/traefik/yaegi
-	429	https://github.com/twpayne/chezmoi
-	429	https://github.com/tzutalin/labelImg
-	429	https://github.com/veltman/clmystery
-	429	https://github.com/vvilhonen/nethoscope
-	429	https://github.com/wagoodman/dive
-	429	https://github.com/weihanglo/sfz
-	429	https://github.com/yory8/clipman
-	429	https://github.com/yudai/gotty
-	429	https://github.com/zedeus/nitter
-	id #L156-L179 not found	https://code.p1k3.com/gitea/brennen/bpb-kit/src/branch/main/home/.sh_common#L156-L179
-	id #everyday-git-in-twenty-commands-or-so not found	https://github.com/git-tips/tips#everyday-git-in-twenty-commands-or-so
-	x509: certificate is valid for explainshell.com, not www.explainshell.com	https://www.explainshell.com/
-https://wiki.itdobelikethat.org/docs/workshops/tech-guides/
-	dialing to the given TCP address timed out	http://www.brendangregg.com/blog/2018-06-30/benchmarking-checklist.html
-https://wiki.itdobelikethat.org/docs/ideas/pantry/
-	429	https://github.com/0x263b/Otherside
-	429	https://github.com/GoogleChromeLabs/quicklink
-	429	https://github.com/ProjectDrawdown/solutions
-	429	https://github.com/captn3m0/ideas
-	429	https://github.com/chatwoot/chatwoot
-	429	https://github.com/fogleman/primitive
-	429	https://github.com/foodcoops/foodsoft
-	429	https://github.com/forem/forem
-	429	https://github.com/geekodour/reachout
-	429	https://github.com/imazen/imageflow
-	429	https://github.com/lexiross/fattest-cat
-	429	https://github.com/samsquire/ideas
-	429	https://github.com/samsquire/wants
-	429	https://github.com/segmentio/ksuid
-	429	https://github.com/sw-yx/spark-joy
-	lookup ahilapaati.com: no such host	https://ahilapaati.com/
-https://wiki.itdobelikethat.org/docs/ideas/ideas_in_ed/
-	429	https://github.com/PharkMillups/beautiful-docs
-	429	https://github.com/mathigon/textbooks
 https://wiki.itdobelikethat.org/docs/links/others/dump/
 	404	https://darkpatterns.org/types-of-dark-pattern.html
 	404	https://wiki.itdobelikethat.org/img/image_dump
@@ -127,6 +9,119 @@ https://wiki.itdobelikethat.org/docs/links/others/dump/
 	429	https://github.com/neutrinolabs/xrdp
 	429	https://github.com/stapelberg/costream
 	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
+https://wiki.itdobelikethat.org/docs/tools/laptop_tools/
+	429	https://github.com/2mol/pboy
+	429	https://github.com/AleoHQ/wagyu
+	429	https://github.com/Canop/broot
+	429	https://github.com/FiloSottile/whoami.filippo.io
+	429	https://github.com/GRVYDEV/Project-Lightspeed
+	429	https://github.com/Genymobile/scrcpy
+	429	https://github.com/JaCzekanski/Avocado
+	429	https://github.com/Jguer/yay
+	429	https://github.com/KasperskyLab/TinyCheck
+	429	https://github.com/Kharacternyk/pacwall
+	429	https://github.com/Nukesor/pueue
+	429	https://github.com/Swordfish90/cool-retro-term
+	429	https://github.com/Y2Z/monolith
+	429	https://github.com/akshat46/FlyingFox
+	429	https://github.com/any1/wayvnc
+	429	https://github.com/asciimoo/drawille
+	429	https://github.com/ashlinchak/mdanki
+	429	https://github.com/bcicen/ctop
+	429	https://github.com/birchb1024/frangipanni
+	429	https://github.com/casey/just
+	429	https://github.com/cespare/reflex
+	429	https://github.com/client9/misspell
+	429	https://github.com/contribsys/faktory
+	429	https://github.com/cooperhammond/irs
+	429	https://github.com/dariusk/corpora
+	429	https://github.com/debauchee/barrier
+	429	https://github.com/derailed/k9s
+	429	https://github.com/dgryski/trifles
+	429	https://github.com/dutchcoders/transfer.sh
+	429	https://github.com/flameshot-org/flameshot
+	429	https://github.com/fogleman/nes
+	429	https://github.com/geekodour/dotfiles
+	429	https://github.com/git-tips/tips#everyday-git-in-twenty-commands-or-so
+	429	https://github.com/iamadamdev/bypass-paywalls-chrome
+	429	https://github.com/imsnif/bandwhich
+	429	https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+	429	https://github.com/iv-org/invidious
+	429	https://github.com/jdan/cleaver
+	429	https://github.com/jedisct1/minisign
+	429	https://github.com/jesseduffield/lazydocker
+	429	https://github.com/jhchen/ansize
+	429	https://github.com/jhlyeung/rumin-web-clipper
+	429	https://github.com/jhspetersson/fselect
+	429	https://github.com/kamranahmedse/pennywise
+	429	https://github.com/knadh/tg-archive
+	429	https://github.com/knqyf263/pet
+	429	https://github.com/lengstrom/fast-style-transfer
+	429	https://github.com/lettier/gifcurry
+	429	https://github.com/linuxserver/Heimdall
+	429	https://github.com/lptstr/chmap
+	429	https://github.com/magic-wormhole/magic-wormhole
+	429	https://github.com/mezod/awesome-indie
+	429	https://github.com/mholt/archiver
+	429	https://github.com/msoap/shell2http
+	429	https://github.com/muesli/duf
+	429	https://github.com/muesli/smartcrop
+	429	https://github.com/mvdan/sh
+	429	https://github.com/mylxsw/redis-tui
+	429	https://github.com/nanzhong/workstation
+	429	https://github.com/nayafia/lemonade-stand
+	429	https://github.com/nelhage/reptyr
+	429	https://github.com/ntop/ntopng
+	429	https://github.com/owenthereal/upterm
+	429	https://github.com/owncast/owncast
+	429	https://github.com/oz/tz
+	429	https://github.com/pavlobu/deskreen
+	429	https://github.com/phw/peek
+	429	https://github.com/pomber/git-history
+	429	https://github.com/pyenv/pyenv
+	429	https://github.com/reorx/httpstat
+	429	https://github.com/rgburke/grv
+	429	https://github.com/runrin/tt
+	429	https://github.com/s0md3v/Photon
+	429	https://github.com/schollz/croc
+	429	https://github.com/schollz/find3
+	429	https://github.com/soveran/map
+	429	https://github.com/sqshq/sampler
+	429	https://github.com/starship/starship
+	429	https://github.com/stoicaviator/arch_metapackage_guide
+	429	https://github.com/supabase/postgres
+	429	https://github.com/tfeldmann/organize
+	429	https://github.com/tmuxinator/tmuxinator
+	429	https://github.com/trailofbits/graphtage
+	429	https://github.com/vvilhonen/nethoscope
+	429	https://github.com/wagoodman/dive
+	429	https://github.com/xyproto/fstabfmt
+	429	https://github.com/yory8/clipman
+	id #L156-L179 not found	https://code.p1k3.com/gitea/brennen/bpb-kit/src/branch/main/home/.sh_common#L156-L179
+	x509: certificate is valid for explainshell.com, not www.explainshell.com	https://www.explainshell.com/
+https://wiki.itdobelikethat.org/docs/notes/guides/quantify/
+	429	https://github.com/AnandChowdhary/life-data
+	429	https://github.com/JacobEvelyn/friends
+	429	https://github.com/KrauseFx/FxLifeSheet
+	429	https://github.com/almarklein/timetagger
+	429	https://github.com/cheeaun/life
+	429	https://github.com/getredash/redash
+	429	https://github.com/heedy/heedy
+	429	https://github.com/metabase/metabase
+	429	https://github.com/mr-karan/swiggy-analytics/tree/master/swiggy_analytics
+	429	https://github.com/nicbou/timeline
+	429	https://github.com/schollz/howmanypeoplearearound
+	429	https://github.com/sourcegraph/thyme
+	429	https://github.com/tmcw/running-for-nerds
+	429	https://github.com/turbomaze/28-hour-day
+	429	https://github.com/woop/awesome-quantified-self
+https://wiki.itdobelikethat.org/docs/notes/research/
+	429	https://github.com/petar
+https://wiki.itdobelikethat.org/docs/ideas/drawing_ducks/
+	too many redirections	https://ebird.org/home
+https://wiki.itdobelikethat.org/docs/notes/questions/
+	id #classification not found	https://wiki.itdobelikethat.org/docs/notes/study/comp_arch#classification
+	id #virtual-memory not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#virtual-memory
 https://wiki.itdobelikethat.org/docs/links/blogs/
 	429	https://github.com/Quartz/bad-data-guide
 	429	https://github.com/copyconstruct/library
@@ -148,66 +143,11 @@ https://wiki.itdobelikethat.org/docs/links/blogs/
 	429	https://github.com/vmbrasseur/Public_Speaking
 	429	https://github.com/watson/awesome-computer-history
 	521	https://en.arguman.org/
-	dialing to the given TCP address timed out	https://grahamduncan.blog/letter-to-a-friend-who-may-start-a-new-investment-platform/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Mon, 16 Aug 2021 01:59:22 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nX-Dns-Prefetch-Control: off\r\nX-Frame-Options: SAMEOR"..."m https://preview.contentful.com https://images.ctfassets.net https://www2.profitwell.com https://tracking.chilipiper.com https://api.chilipiper.com https://api.unsplash.com https://boards-api.greenho"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Tue, 17 Aug 2021 01:58:54 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nX-Dns-Prefetch-Control: off\r\nX-Frame-Options: SAMEOR"..."m https://preview.contentful.com https://images.ctfassets.net https://www2.profitwell.com https://tracking.chilipiper.com https://api.chilipiper.com https://api.unsplash.com https://boards-api.greenho"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
 	id #/app/visakanv-public/page/aHYzCZnry not found	https://roamresearch.com/#/app/visakanv-public/page/aHYzCZnry
-https://wiki.itdobelikethat.org/docs/ideas/subjects/
-	503	https://www.reciperadar.com/
-https://wiki.itdobelikethat.org/docs/courses/others/accessp2p/
-	429	https://github.com/warner/magic-wormhole
-	429	https://github.com/warner/magic-wormhole/issues/348
-https://wiki.itdobelikethat.org/docs/workshops/projects/
-	429	https://github.com/Pithikos/C-Thread-Pool
-	429	https://github.com/antirez/rax
-	429	https://github.com/async-raft/async-raft
-	429	https://github.com/erikgrinaker/toydb
-	429	https://github.com/jamesroutley/write-a-hash-table
-	429	https://github.com/josevalim/nested-data-structure-traversal
-	429	https://github.com/jpillora/chisel
-	429	https://github.com/karan/Projects-Solutions
-	429	https://github.com/pomerium/autocache
-	429	https://github.com/serialx/hashring
-	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
-https://wiki.itdobelikethat.org/docs/notes/guides/quantify/
-	429	https://github.com/AnandChowdhary/life-data
-	429	https://github.com/JacobEvelyn/friends
-	429	https://github.com/KrauseFx/FxLifeSheet
-	429	https://github.com/almarklein/timetagger
-	429	https://github.com/cheeaun/life
-	429	https://github.com/getredash/redash
-	429	https://github.com/heedy/heedy
-	429	https://github.com/metabase/metabase
-	429	https://github.com/mr-karan/swiggy-analytics/tree/master/swiggy_analytics
-	429	https://github.com/nicbou/timeline
-	429	https://github.com/schollz/howmanypeoplearearound
-	429	https://github.com/sourcegraph/thyme
-	429	https://github.com/tmcw/running-for-nerds
-	429	https://github.com/turbomaze/28-hour-day
-	429	https://github.com/woop/awesome-quantified-self
-https://wiki.itdobelikethat.org/docs/notes/guides/communities/
-	lookup cstheory.stackexchange.co: no such host	https://cstheory.stackexchange.co
-https://wiki.itdobelikethat.org/docs/notes/study/p2p/
-	429	https://github.com/ccding/go-stun
-	429	https://github.com/kgryte/awesome-peer-to-peer
-	429	https://github.com/pion/turn
-	429	https://github.com/wilfreddenton/udp-hole-punching
 https://wiki.itdobelikethat.org/docs/notes/study/programming_langs/ruby/
 	429	https://github.com/rubocop-hq/ruby-style-guide#no-character-literals
 	429	https://github.com/rubocop-hq/ruby-style-guide/issues/631
-https://wiki.itdobelikethat.org/docs/notes/case_studies/
-	429	https://github.com/golang/go/issues/23687#issuecomment-496705293
-	id #end-to-end-principle not found	https://wiki.itdobelikethat.org/docs/notes/study/internet#end-to-end-principle
-https://wiki.itdobelikethat.org/docs/notes/podcasts/
-	404	https://player.fm/series/crazy-wisdom-2497498/how-to-tell-a-computer-what-to-do-stephen-wolfram-founder-ceo-wolfram-alpha
-https://wiki.itdobelikethat.org/docs/notes/study/digital_rights/
-	404	http://www.loc.gov/teachers/copyrightmystery/text/files/
-https://wiki.itdobelikethat.org/docs/notes/study/math/
-	404	https://oregonstate.edu/instruct/mth251/cq/Stage4/Lesson/fieldGuide.1.html
-https://wiki.itdobelikethat.org/docs/notes/research/
-	429	https://github.com/petar
-https://wiki.itdobelikethat.org/docs/notes/questions/
-	id #classification not found	https://wiki.itdobelikethat.org/docs/notes/study/comp_arch#classification
-	id #virtual-memory not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#virtual-memory
 https://wiki.itdobelikethat.org/docs/notes/guides/web3/
 	404	https://crates.io/crates/actyxos_sdk
 	429	https://github.com/Antharia/awesome-lowtech
@@ -240,9 +180,21 @@ https://wiki.itdobelikethat.org/docs/notes/guides/web3/
 	429	https://github.com/w2g/w2g
 	429	https://github.com/zerok/webmentiond
 	502	https://hummingbard.com/hummingbard/introducing-hummingbard
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 16 Aug 2021 01:59:43 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 157361\r\nConnection: close\r\nX-Powered-By: Express\r\nStrict-Transport-Security: max-age=31536"..."L0Lfoa1E3YsY=' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM='; img-src * data:; style-src 'self' 'unsafe-inline' https://assets-cdn.github.com https://github.githubassets.com https://assets.hac"	https://hackmd.io/ZRTimHheSU-mH3B6sg3Z0g
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 17 Aug 2021 01:58:58 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 157361\r\nConnection: close\r\nX-Powered-By: Express\r\nStrict-Transport-Security: max-age=31536"..."L0Lfoa1E3YsY=' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM='; img-src * data:; style-src 'self' 'unsafe-inline' https://assets-cdn.github.com https://github.githubassets.com https://assets.hac"	https://hackmd.io/ZRTimHheSU-mH3B6sg3Z0g
 	id #1 not found	https://blog.mauve.moe/slides/agregore-presentation/#1
 	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
+	x509: certificate is valid for libreserver.local, not epicyon.net	https://epicyon.net/
+https://wiki.itdobelikethat.org/docs/notes/study/security/
+	429	https://github.com/veeral-patel/how-to-secure-anything
+https://wiki.itdobelikethat.org/docs/notes/case_studies/
+	429	https://github.com/golang/go/issues/23687#issuecomment-496705293
+	id #end-to-end-principle not found	https://wiki.itdobelikethat.org/docs/notes/study/internet#end-to-end-principle
+https://wiki.itdobelikethat.org/docs/notes/guides/communities/
+	lookup cstheory.stackexchange.co: no such host	https://cstheory.stackexchange.co
+https://wiki.itdobelikethat.org/docs/notes/podcasts/
+	404	https://player.fm/series/crazy-wisdom-2497498/how-to-tell-a-computer-what-to-do-stephen-wolfram-founder-ceo-wolfram-alpha
+https://wiki.itdobelikethat.org/docs/notes/study/digital_rights/
+	404	http://www.loc.gov/teachers/copyrightmystery/text/files/
 https://wiki.itdobelikethat.org/docs/notes/history/
 	404	https://computer.rip/https://buttondown.email/hillelwayne/archive/oracle-testing/
 	429	https://github.com/geekodour/wiki/blob/master/docs/notes/history.md
@@ -250,63 +202,48 @@ https://wiki.itdobelikethat.org/docs/notes/history/
 	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
 	id #eeprom not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#eeprom
 	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
+https://wiki.itdobelikethat.org/docs/ideas/pantry/
+	429	https://github.com/0x263b/Otherside
+	429	https://github.com/GoogleChromeLabs/quicklink
+	429	https://github.com/ProjectDrawdown/solutions
+	429	https://github.com/captn3m0/ideas
+	429	https://github.com/chatwoot/chatwoot
+	429	https://github.com/fogleman/primitive
+	429	https://github.com/foodcoops/foodsoft
+	429	https://github.com/forem/forem
+	429	https://github.com/geekodour/reachout
+	429	https://github.com/imazen/imageflow
+	429	https://github.com/lexiross/fattest-cat
+	429	https://github.com/samsquire/ideas
+	429	https://github.com/samsquire/wants
+	429	https://github.com/segmentio/ksuid
+	429	https://github.com/sw-yx/spark-joy
+	lookup ahilapaati.com: no such host	https://ahilapaati.com/
+https://wiki.itdobelikethat.org/docs/notes/study/p2p/
+	429	https://github.com/ccding/go-stun
+	429	https://github.com/kgryte/awesome-peer-to-peer
+	429	https://github.com/pion/turn
+	429	https://github.com/wilfreddenton/udp-hole-punching
+https://wiki.itdobelikethat.org/docs/courses/others/accessp2p/
+	429	https://github.com/warner/magic-wormhole
+	429	https://github.com/warner/magic-wormhole/issues/348
+https://wiki.itdobelikethat.org/docs/ideas/ideas_in_ed/
+	429	https://github.com/PharkMillups/beautiful-docs
+	429	https://github.com/mathigon/textbooks
+https://wiki.itdobelikethat.org/docs/workshops/projects/
+	429	https://github.com/Pithikos/C-Thread-Pool
+	429	https://github.com/antirez/rax
+	429	https://github.com/async-raft/async-raft
+	429	https://github.com/erikgrinaker/toydb
+	429	https://github.com/jamesroutley/write-a-hash-table
+	429	https://github.com/josevalim/nested-data-structure-traversal
+	429	https://github.com/jpillora/chisel
+	429	https://github.com/karan/Projects-Solutions
+	429	https://github.com/pomerium/autocache
+	429	https://github.com/serialx/hashring
+	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
 https://wiki.itdobelikethat.org/docs/courses/others/gc_essentials_udemy/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 16 Aug 2021 01:59:54 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nCf-Ray: 67f710e239ff5a0f-IAD\r\nAge: 0\r\nCache-Control: no-sto"..."x-Age=86400; Path=/; Secure\r\nSet-Cookie: __udmy_2_v57r=e67518e6343242838fd15522c65aea23; Domain=.udemy.com; expires=Tue, 16 Aug 2022 01:59:54 GMT; Max-Age=31536000; Path=/; Secure\r\nSet-Cookie: ud_cach"	https://www.udemy.com/course/essentials-of-garbage-collectors/
-https://wiki.itdobelikethat.org/docs/tools/db/promql/
-	429	https://github.com/cloudflare/pint
-	429	https://github.com/infinityworks/prometheus-example-queries
-	429	https://github.com/jitendra-1217/promql.cheat.sheet
-	429	https://github.com/prometheus/prometheus/blob/2209fa98b42aee3aed864d7ea3534775ca8cd6e9/promql/engine.go#L920
-	429	https://github.com/prometheus/prometheus/issues/1246
-	429	https://github.com/prometheus/prometheus/issues/2564
-	429	https://github.com/prometheus/prometheus/issues/398
-	429	https://github.com/prometheus/prometheus/issues/5415
-	429	https://github.com/prometheus/prometheus/pull/7011
-	id #errors not found	https://promtools.dev/#errors
-https://wiki.itdobelikethat.org/docs/tools/open_source_projects/
-	429	https://github.com/TomerAberbach/grfn
-	429	https://github.com/ahosna/Pi0AudioBook
-	429	https://github.com/automerge/automerge
-	429	https://github.com/chr15m/slingcode
-	429	https://github.com/everestpipkin/tools-list
-	429	https://github.com/kdzwinel/SnappySnippet
-	429	https://github.com/matcornic/hermes
-	429	https://github.com/matt-auckland/retro-css
-	429	https://github.com/mitsuhiko/indicatif
-	429	https://github.com/nextapps-de/winbox
-	429	https://github.com/oidoid/mem
-	429	https://github.com/osquery/osquery
-	429	https://github.com/samsonmking/epaper.js
-	429	https://github.com/skydive-project/skydive
-	429	https://github.com/slatedocs/slate
-	429	https://github.com/tidwall/cities
-	429	https://github.com/timqian/chart.xkcd
-	429	https://github.com/valeriansaliou/sonic
-	id #/ not found	https://mermaid-js.github.io/mermaid/#/
-https://wiki.itdobelikethat.org/docs/links/papers/
-	404	https://arxiv.org/abs/1606.05519i
-	404	https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37755.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41342.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44860.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45409.pdf
-	404	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
-	404	https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
-	429	https://archive.is/2ZOLj#selection-113.133-113.150
-	429	https://github.com/AljoschaMeyer/set-reconciliation
-	429	https://github.com/datprotocol/whitepaper/blob/master/dat-paper.pdf
-	429	https://github.com/hashicorp/research-resources
-	429	https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf
-	429	https://github.com/timelydataflow/differential-dataflow/blob/master/differentialdataflow.pdf
-	dial tcp4 162.255.119.129:443: connect: connection refused	https://www.rgoarchitects.com/Files/fallacies.pdf
-	x509: certificate has expired or is not yet valid	https://nikita.ca/papers/eigenspeed-iptps09.pdf
-	x509: certificate signed by unknown authority	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
-	x509: certificate signed by unknown authority	http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
-https://wiki.itdobelikethat.org/docs/ideas/problems_in_edu/
-	429	http://archive.is/zzhaP
-	timeout	http://archive.is/19ZNG
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 17 Aug 2021 01:59:24 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nCf-Ray: 67ff4d841fc8df7f-SEA\r\nAge: 0\r\nCache-Control: must-r"..."fdd7b8cba3111dc26901; expires=Wed, 18 Aug 2021 01:59:24 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_modern_browser=0; expires=Wed, 18 Aug 2021 01:59:24 GMT; Max-Age=86400; Path=/; Secure\r"	https://www.udemy.com/course/essentials-of-garbage-collectors/
 https://wiki.itdobelikethat.org/docs/tools/self_hosting/
 	429	https://github.com/42wim/matterbridge
 	429	https://github.com/AdguardTeam/AdGuardHome
@@ -357,47 +294,8 @@ https://wiki.itdobelikethat.org/docs/tools/self_hosting/
 	429	https://github.com/tomnomnom/waybackurls
 	429	https://github.com/tonarino/innernet
 	429	https://github.com/yrutschle/sslh
+	dialing to the given TCP address timed out	https://codingquark.com/emacs/2020/04/19/elfeed-protocol-ttrss.html
 	x509: certificate signed by unknown authority	https://piratebox.cc/goals
-https://wiki.itdobelikethat.org/docs/tools/db/others/
-	404	https://lyft.github.io/amundsen/
-	429	https://github.com/MichaelMure/git-bug/blob/master/doc/model.md
-	429	https://github.com/buraksezer/olric
-https://wiki.itdobelikethat.org/docs/notes/study/memory/alloc/
-	429	https://gist.github.com/geekodour/543d370e9e7816fe368d264374c86cfc
-https://wiki.itdobelikethat.org/docs/notes/study/memory/gc/
-	429	https://github.com/golang/go/blob/master/src/runtime/malloc.go
-	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
-https://wiki.itdobelikethat.org/docs/links/tweets/
-	429	http://archive.is/HuXXW
-	429	http://archive.is/QG4dU
-	429	https://archive.is/wip/pQEIm
-	dialing to the given TCP address timed out	https://twitter.com/michael_nielsen/status/1098098218565390337
-	timeout	http://archive.is/QJSyS
-	timeout	http://archive.is/drXhc
-	timeout	http://archive.is/koKQB
-	timeout	http://archive.is/q7ZAh
-	timeout	http://archive.is/riX5l
-	timeout	http://archive.is/wIj1g
-	timeout	http://archive.is/wip/pjtln
-	timeout	https://archive.is/o4K7c
-https://wiki.itdobelikethat.org/docs/ideas/timelines/
-	429	http://archive.is/rYiI3
-	429	https://github.com/CUTR-at-USF/awesome-transit
-	429	https://github.com/ColCarroll/ridge_map
-	429	https://github.com/UDST/vizicities
-	429	https://github.com/fogleman/PirateMap
-	429	https://github.com/mapnificent/mapnificent
-	429	https://github.com/microsoft/SandDance
-	429	https://github.com/public-transport/generating-transit-maps
-	429	https://github.com/tabatkins/railroad-diagrams
-	429	https://github.com/transitland/transitland-processing-animation
-	429	https://github.com/wwcline/list-of-frequent-transit-maps
-	id #zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF not found	https://www.lightpollutionmap.info/#zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF
-	timeout	http://archive.is/nq0H4
-	x509: certificate signed by unknown authority	https://www.tema.ru/eng/travel/
-https://wiki.itdobelikethat.org/docs/notes/study/os/elf/
-	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Mon, 16 Aug 2021 02:00:00 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nStrict-Transport-Security: max-age=31536000\r"..."eclick.net *.youtube.com; child-src 'self' *.intezer.com; base-uri 'self' *.intezer.com; form-action 'self' https://*.twitter.com/; worker-src 'self' *.intezer.com; report-uri https://gate.rapidsec.ne"	https://www.intezer.com/blog/research/executable-linkable-format-101-part1-sections-segments/
 https://wiki.itdobelikethat.org/docs/links/oneshot/
 	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
 	404	https://drive.google.com/file/d/1msGTeCIV0ZfHefb_MpHZDZqv8qcGnhEU/view
@@ -419,24 +317,91 @@ https://wiki.itdobelikethat.org/docs/links/oneshot/
 	dial tcp4 159.65.164.7:80: connect: connection refused	http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/
 	id #/ not found	https://faculty.washington.edu/ajko/books/foundations-of-information/#/
 	timeout	https://ipfs.io/ipns/gkbrk.com/2017/10/putting-my-blog-on-ipfs/
-https://wiki.itdobelikethat.org/docs/notes/study/math/log/
-	404	https://qedinsight.wordpress.com/2011/04/17/a-practical-use-for-logarithms/
-	404	https://qedinsight.wordpress.com/2011/04/22/a-practical-use-for-logarithms-part-2-how-we-multiplied-large-numbers-40-years-ago-and-how-integral-transforms-use-the-same-basic-idea/
-https://wiki.itdobelikethat.org/docs/notes/study/math/functions/
-	dialing to the given TCP address timed out	http://mathonweb.com/help_ebook/html/functions_4.htm
-https://wiki.itdobelikethat.org/docs/notes/study/security/
-	429	https://github.com/veeral-patel/how-to-secure-anything
-https://wiki.itdobelikethat.org/docs/notes/random/scales/
-	429	http://archive.is/O5s8R
+	x509: certificate is valid for libreserver.local, not freedombone.net	https://freedombone.net/
+https://wiki.itdobelikethat.org/docs/tools/open_source_projects/
+	429	https://github.com/TomerAberbach/grfn
+	429	https://github.com/ahosna/Pi0AudioBook
+	429	https://github.com/automerge/automerge
+	429	https://github.com/chr15m/slingcode
+	429	https://github.com/everestpipkin/tools-list
+	429	https://github.com/kdzwinel/SnappySnippet
+	429	https://github.com/matcornic/hermes
+	429	https://github.com/matt-auckland/retro-css
+	429	https://github.com/mitsuhiko/indicatif
+	429	https://github.com/nextapps-de/winbox
+	429	https://github.com/oidoid/mem
+	429	https://github.com/osquery/osquery
+	429	https://github.com/samsonmking/epaper.js
+	429	https://github.com/skydive-project/skydive
+	429	https://github.com/slatedocs/slate
+	429	https://github.com/tidwall/cities
+	429	https://github.com/timqian/chart.xkcd
+	429	https://github.com/valeriansaliou/sonic
+	id #/ not found	https://mermaid-js.github.io/mermaid/#/
+https://wiki.itdobelikethat.org/docs/tools/db/others/
+	404	https://lyft.github.io/amundsen/
+	429	https://github.com/MichaelMure/git-bug/blob/master/doc/model.md
+	429	https://github.com/buraksezer/olric
 https://wiki.itdobelikethat.org/docs/notes/study/os/resource_mgmt/
 	404	http://geekswing.com/geek/quickie-tutorial-ulimit-soft-limits-hard-limits-soft-stack-hard-stack/
 	id #:~:text=There are two types of,user once it is set.&text=A soft limit, however, can,equal to 'hard limit' not found	https://serverfault.com/questions/265155/soft-limit-vs-hard-limit#:~:text=There%20are%20two%20types%20of,user%20once%20it%20is%20set.&text=A%20soft%20limit,%20however,%20can,equal%20to%20%27hard%20limit%27
 	lookup nics.tennessee.edufaq: no such host	https://www.nics.tennessee.edu/faq/general-how-do-i-change-my-default-limits-stack-size-core-file-size-etc#:~:text=The%20soft%20limit%20is%20the,decreased,%20but%20its%20not%20recommended
 	mime: invalid media parameter	https://www.ibm.com/support/knowledgecenter/SSCRJU_4.1.1/com.ibm.streams.install.doc/doc/ibminfospherestreams-install-operating-system-settings.html
+https://wiki.itdobelikethat.org/docs/links/papers/
+	404	https://arxiv.org/abs/1606.05519i
+	404	https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37755.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41342.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44860.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45409.pdf
+	404	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
+	404	https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
+	429	https://github.com/AljoschaMeyer/set-reconciliation
+	429	https://github.com/datprotocol/whitepaper/blob/master/dat-paper.pdf
+	429	https://github.com/hashicorp/research-resources
+	429	https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf
+	429	https://github.com/timelydataflow/differential-dataflow/blob/master/differentialdataflow.pdf
+	dial tcp4 162.255.119.129:443: connect: connection refused	https://www.rgoarchitects.com/Files/fallacies.pdf
+	timeout	https://archive.is/2ZOLj#selection-113.133-113.150
+	x509: certificate has expired or is not yet valid	https://nikita.ca/papers/eigenspeed-iptps09.pdf
+	x509: certificate signed by unknown authority	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
+	x509: certificate signed by unknown authority	http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
+https://wiki.itdobelikethat.org/docs/notes/study/os/interrupts/
+	400	https://wiki.itdobelikethat.org/docs/notes/study/os/interrupts/#interrupt-handlerinterrupt-service-routineisr
+	400	https://wiki.itdobelikethat.org/docs/notes/study/os/interrupts/#interrupt-requestirq
+	400	https://wiki.itdobelikethat.org/docs/notes/study/os/interrupts/#links
+	dialing to the given TCP address timed out	https://www.tldp.org/LDP/lkmpg/2.4/html/x1210.html
+https://wiki.itdobelikethat.org/docs/notes/study/os/elf/
+	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Tue, 17 Aug 2021 01:59:36 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nStrict-Transport-Security: max-age=31536000\r"..."eclick.net *.youtube.com; child-src 'self' *.intezer.com; base-uri 'self' *.intezer.com; form-action 'self' https://*.twitter.com/; worker-src 'self' *.intezer.com; report-uri https://gate.rapidsec.ne"	https://www.intezer.com/blog/research/executable-linkable-format-101-part1-sections-segments/
+https://wiki.itdobelikethat.org/docs/links/tweets/
+	429	https://archive.is/wip/pQEIm
+	dialing to the given TCP address timed out	https://twitter.com/visakanv/status/1296877467940995073
+	timeout	http://archive.is/HuXXW
+	timeout	http://archive.is/QG4dU
+	timeout	http://archive.is/QJSyS
+	timeout	http://archive.is/drXhc
+	timeout	http://archive.is/koKQB
+	timeout	http://archive.is/q7ZAh
+	timeout	http://archive.is/riX5l
+	timeout	http://archive.is/wIj1g
+	timeout	http://archive.is/wip/pjtln
+	timeout	https://archive.is/o4K7c
 https://wiki.itdobelikethat.org/docs/notes/blogs/
 	timeout	http://archive.is/sB5CM
+https://wiki.itdobelikethat.org/docs/notes/study/math/log/
+	404	https://qedinsight.wordpress.com/2011/04/17/a-practical-use-for-logarithms/
+	404	https://qedinsight.wordpress.com/2011/04/22/a-practical-use-for-logarithms-part-2-how-we-multiplied-large-numbers-40-years-ago-and-how-integral-transforms-use-the-same-basic-idea/
+https://wiki.itdobelikethat.org/docs/notes/study/memory/gc/
+	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
+https://wiki.itdobelikethat.org/docs/notes/study/memory/alloc/
+	429	https://gist.github.com/geekodour/543d370e9e7816fe368d264374c86cfc
+https://wiki.itdobelikethat.org/docs/notes/random/scales/
+	timeout	http://archive.is/O5s8R
 https://wiki.itdobelikethat.org/docs/tools/workstation/
-	429	https://github.com/corkami/pics
+	429	https://archive.is/KnsnU
 	429	https://github.com/formatc1702/WireViz
 	429	https://github.com/fulldecent/system-bus-radio
 	429	https://github.com/googlecreativelab/anypixel
@@ -444,63 +409,71 @@ https://wiki.itdobelikethat.org/docs/tools/workstation/
 	429	https://github.com/maxandersen/internet-monitoring
 	429	https://github.com/rtr7/router7
 	429	https://github.com/seemoo-lab/openhaystack
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 16 Aug 2021 01:59:55 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nX-Dns-Prefetch-Control: off\r\nX-Frame-Options: SAMEORIGIN\r\nS"..."://preview.contentful.com https://images.ctfassets.net https://www2.profitwell.com https://tracking.chilipiper.com https://api.chilipiper.com https://api.unsplash.com https://boards-api.greenhouse.io "	https://www.notion.so/A-Beginner-s-Guide-to-Houseplants-f90190a8c15b4bb8b65c60f16e3f9502
-	timeout	https://archive.is/KnsnU
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 17 Aug 2021 01:59:26 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nX-Dns-Prefetch-Control: off\r\nX-Frame-Options: SAMEORIGIN\r\nS"..."://preview.contentful.com https://images.ctfassets.net https://www2.profitwell.com https://tracking.chilipiper.com https://api.chilipiper.com https://api.unsplash.com https://boards-api.greenhouse.io "	https://www.notion.so/A-Beginner-s-Guide-to-Houseplants-f90190a8c15b4bb8b65c60f16e3f9502
+https://wiki.itdobelikethat.org/docs/ideas/problems_in_edu/
+	429	http://archive.is/zzhaP
+	timeout	http://archive.is/19ZNG
+https://wiki.itdobelikethat.org/docs/ideas/timelines/
+	429	https://github.com/CUTR-at-USF/awesome-transit
+	429	https://github.com/ColCarroll/ridge_map
+	429	https://github.com/UDST/vizicities
+	429	https://github.com/fogleman/PirateMap
+	429	https://github.com/mapnificent/mapnificent
+	429	https://github.com/microsoft/SandDance
+	429	https://github.com/public-transport/generating-transit-maps
+	429	https://github.com/tabatkins/railroad-diagrams
+	429	https://github.com/transitland/transitland-processing-animation
+	429	https://github.com/wwcline/list-of-frequent-transit-maps
+	id #zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF not found	https://www.lightpollutionmap.info/#zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF
+	timeout	http://archive.is/nq0H4
+	timeout	http://archive.is/rYiI3
+	x509: certificate signed by unknown authority	https://www.tema.ru/eng/travel/
+https://wiki.itdobelikethat.org/docs/tools/db/promql/
+	429	https://github.com/cloudflare/pint
+	429	https://github.com/infinityworks/prometheus-example-queries
+	429	https://github.com/jitendra-1217/promql.cheat.sheet
+	429	https://github.com/prometheus/prometheus/blob/2209fa98b42aee3aed864d7ea3534775ca8cd6e9/promql/engine.go#L920
+	429	https://github.com/prometheus/prometheus/issues/1246
+	429	https://github.com/prometheus/prometheus/issues/2564
+	429	https://github.com/prometheus/prometheus/issues/398
+	429	https://github.com/prometheus/prometheus/issues/5415
+	429	https://github.com/prometheus/prometheus/pull/7011
+	timeout	https://promtools.dev/
+	timeout	https://promtools.dev/#errors
 https://wiki.itdobelikethat.org/docs/tools/performance_tools/
 	timeout	http://archive.is/PUHrs
-https://wiki.itdobelikethat.org/docs/tools/k8s/
-	timeout	https://itnext.io/an-illustrated-guide-to-kubernetes-networking-part-1-d1ede3322727
-https://wiki.itdobelikethat.org/docs/notes/unread_case_studies/
-	403	https://blog.stackpath.com/bpf-hook-points-part-1/
-	403	https://www.allthingsdistributed.com/2020/09/reinventing-virtualization-with-aws-nitro.html
-	404	https://info.acloud.guru/resources/kubernetes-aws-cloud-scaling-hey
-	429	https://archive.is/hZ1kc
-	429	https://github.com/DataDog/gostackparse
-	429	https://github.com/GrrrDog/weird_proxies
-	429	https://github.com/NieDzejkob/cursedfs
-	429	https://github.com/ThreeDotsLabs/watermill
-	429	https://github.com/benbjohnson/litestream
-	429	https://github.com/danluu/debugging-stories
-	429	https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md
-	429	https://github.com/futurice/backend-best-practices
-	429	https://github.com/geohot/minikeyvalue
-	429	https://github.com/getredash/redash
-	429	https://github.com/gotoz/runq
-	429	https://github.com/hwayne/awesome-cold-showers
-	429	https://github.com/lorin/awesome-limits
-	429	https://github.com/rmarx/h3-protocol-stack
-	429	https://github.com/securitybunker/databunker
-	429	https://github.com/sirupsen/napkin-math
-	429	https://github.com/spacejam/sled
-	429	https://github.com/upgundecha/howtheysre
-	id #slide=id.g35f391192_00 not found	https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/mobilepresent#slide=id.g35f391192_00
-	lookup aadrake.com: No address associated with hostname	https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
-	lookup akshayr.me: Temporary failure in name resolution	https://akshayr.me/blog/articles/python-dictionaries
-	lookup docs.https.dev: no such host	https://docs.https.dev/acme-ops
-	x509: certificate has expired or is not yet valid	https://adventurist.me/posts/00304
-	x509: certificate has expired or is not yet valid	https://tech.lightspeedhq.com/when-pushing-is-not-enough-a-git-story/
-https://wiki.itdobelikethat.org/docs/notes/study/p2p/nat/
-	429	https://archive.is/u7His#selection-15.0-20.0
-	429	https://github.com/pion/turn
-	timeout	https://archive.is/jt4c2
-https://wiki.itdobelikethat.org/docs/notes/study/go_lang/pprof/
-	429	https://github.com/golang/go/wiki/Performance
-	429	https://github.com/golang/proposal/blob/master/design/17280-profile-labels.md
-	429	https://github.com/google/pprof
-	429	https://github.com/google/pprof#basic-usage
-	429	https://github.com/google/pprof#using-pprof-with-linux-perf
-	429	https://github.com/google/pprof/blob/master/proto/profile.proto
-	429	https://github.com/google/pprof/tree/master/doc
-	429	https://github.com/google/pprof/tree/master/doc#interpreting-the-callgraph
-	429	https://github.com/google/pprof/tree/master/doc#options
-	429	https://github.com/google/pprof/tree/master/third_party
-	429	https://github.com/pkg/profile
-	429	https://github.com/profefe/profefe
-	timeout	http://archive.is/jh1nv
 https://wiki.itdobelikethat.org/docs/notes/study/os/libs/
 	404	http://www.goldsborough.me/c/low-level/kernel/2016/08/29/16-48-53-the*-ld_preload-_trick/
 	409	http://www.visi.com/~barr/ldpath.html
+	429	https://gist.github.com/geekodour/9ec2eee223b4704aed5f69fee22561b8
+	429	https://github.com/hjl-tools/x86-psABI/wiki/X86-psABI
+	dialing to the given TCP address timed out	https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html
 	id #5469334 not found	https://stackoverflow.com/questions/5469274/what-does-plt-mean-here/5469334#5469334
 	id #SEC88 not found	http://web.mit.edu/gnu/doc/html/make_toc.html#SEC88
 	id #libraries not found	http://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html#libraries
 	timeout	https://blogs.oracle.com/solaris/inside-elf-symbol-tables-v2
+https://wiki.itdobelikethat.org/docs/notes/study/go_lang/pprof/
+	id #basic-usage not found	https://github.com/google/pprof#basic-usage
+	id #interpreting-the-callgraph not found	https://github.com/google/pprof/tree/master/doc#interpreting-the-callgraph
+	id #options not found	https://github.com/google/pprof/tree/master/doc#options
+	id #using-pprof-with-linux-perf not found	https://github.com/google/pprof#using-pprof-with-linux-perf
+	timeout	http://archive.is/jh1nv
+https://wiki.itdobelikethat.org/docs/notes/unread_case_studies/
+	403	https://blog.stackpath.com/bpf-hook-points-part-1/
+	403	https://www.allthingsdistributed.com/2020/09/reinventing-virtualization-with-aws-nitro.html
+	404	https://info.acloud.guru/resources/kubernetes-aws-cloud-scaling-hey
+	429	https://github.com/getredash/redash
+	429	https://github.com/hwayne/awesome-cold-showers
+	dialing to the given TCP address timed out	http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nContent-Type: text/html;charset=UTF-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nServer: Server\r\nDate: Tue, 17 Aug 2021 01:59:41 GMT\r\nX-Amz-Rid: VE33EEVHSV8RYBE4MFS0\r\nSet-Cookie:"..."t\r\nVary: accept-encoding,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent\r\nPermissions-Policy: interest-cohort=()\r\nX-Cache: Miss from cloudfront\r\nVia: 1.1 e291f351a18746d40"	https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/?did=ba_card&trk=ba_card
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nContent-Type: text/html;charset=UTF-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nServer: Server\r\nDate: Tue, 17 Aug 2021 01:59:48 GMT\r\nX-Amz-Rid: 8NHE57F48V439YA369C6\r\nSet-Cookie:"..."t\r\nVary: accept-encoding,Content-Type,Accept-Encoding,X-Amzn-CDN-Cache,X-Amzn-AX-Treatment,User-Agent\r\nPermissions-Policy: interest-cohort=()\r\nX-Cache: Miss from cloudfront\r\nVia: 1.1 010c0731b9775a983"	https://aws.amazon.com/builders-library/challenges-with-distributed-systems/
+	id #slide=id.g35f391192_00 not found	https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/mobilepresent#slide=id.g35f391192_00
+	lookup aadrake.com: No address associated with hostname	https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
+	lookup docs.https.dev: no such host	https://docs.https.dev/acme-ops
+	timeout	https://archive.is/hZ1kc
+	x509: certificate has expired or is not yet valid	https://adventurist.me/posts/00304
+	x509: certificate has expired or is not yet valid	https://tech.lightspeedhq.com/when-pushing-is-not-enough-a-git-story/
+https://wiki.itdobelikethat.org/docs/notes/study/p2p/nat/
+	429	https://github.com/pion/turn
+	timeout	https://archive.is/jt4c2
+	timeout	https://archive.is/u7His#selection-15.0-20.0
