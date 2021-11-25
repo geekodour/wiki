@@ -1,193 +1,346 @@
-https://wiki.itdobelikethat.org/docs/workshops/tech-guides/
-	x509: certificate has expired or is not yet valid	https://www.zytrax.com/books/dns/
-	x509: certificate has expired or is not yet valid	https://www.zytrax.com/books/ldap/
-https://wiki.itdobelikethat.org/docs/courses/others/gc_essentials_udemy/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:25 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nCf-Ray: 6b2f0c9d2bd85d79-IAD\r\nAge: 0\r\nCache-Control: max-ag"..." GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_device=None; expires=Thu, 25 Nov 2021 02:01:25 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_modern_browser=0; expires=Thu, 25 Nov "	https://www.udemy.com/course/essentials-of-garbage-collectors/
+https://wiki.itdobelikethat.org/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/ideas/drawing_ducks/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/8666faec.1c9baf7d.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 	too many redirections	https://ebird.org/home
-https://wiki.itdobelikethat.org/docs/links/blogs/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:22 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928239422861; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-OWYyYjUyNGYtNDI1NC00OTc5LWE2NmYtMjMwZDVlZjJhNjRi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/james_d_baird/status/1379113187983908866
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Wed, 24 Nov 2021 02:01:22 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=576808a4-baf8-4ab9-ab4"..."tercomcdn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.io https://logs-01.loggly.com https://cdn.segment.com https://api.segment.io https://analytics.pgncs.notion.so https://api.pg"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
-	id #/app/visakanv-public/page/aHYzCZnry not found	https://roamresearch.com/#/app/visakanv-public/page/aHYzCZnry
-	lookup en.arguman.org: no such host	https://en.arguman.org/
+https://wiki.itdobelikethat.org/docs/links/weekly/links0/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/guides/notetaking/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/case_studies/
+	404	https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/go_lang/pprof
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	id #end-to-end-principle not found	https://wiki.itdobelikethat.org/docs/notes/study/internet#end-to-end-principle
+https://wiki.itdobelikethat.org/docs/notes/study/os/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/security/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/random/names/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/virt/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/math/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/rfc/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/tools/laptop_tools/
-	404	https://github.com/geekodour/dotfiles
-	429	https://github.com/2mol/pboy
-	429	https://github.com/Alexays/Waybar
 	429	https://github.com/Canop/broot
 	429	https://github.com/Canop/lfs
 	429	https://github.com/Canop/rhit
-	429	https://github.com/Dr-Noob/cpufetch
-	429	https://github.com/GRVYDEV/Project-Lightspeed
+	429	https://github.com/Ciphey/Ciphey
+	429	https://github.com/CorentinJ/Real-Time-Voice-Cloning
+	429	https://github.com/FiloSottile/whoami.filippo.io
 	429	https://github.com/Genymobile/scrcpy
-	429	https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli
 	429	https://github.com/Igglybuff/awesome-piracy
 	429	https://github.com/JaCzekanski/Avocado
+	429	https://github.com/Jguer/yay
 	429	https://github.com/KasperskyLab/TinyCheck
-	429	https://github.com/Katee/quietnet
 	429	https://github.com/Kharacternyk/pacwall
 	429	https://github.com/LuRsT/hr
 	429	https://github.com/MontFerret/ferret
 	429	https://github.com/Nukesor/pueue
 	429	https://github.com/Peltoche/lsd
-	429	https://github.com/Sangarshanan/jazzit
-	429	https://github.com/Swordfish90/cool-retro-term
+	429	https://github.com/RustScan/RustScan
 	429	https://github.com/Y2Z/monolith
 	429	https://github.com/adri/memex
 	429	https://github.com/ahmetb/kubectx
 	429	https://github.com/akavel/up
 	429	https://github.com/any1/wayvnc
 	429	https://github.com/apenwarr/netselect
+	429	https://github.com/ashlinchak/mdanki
 	429	https://github.com/atxdevops/dodatx-food
-	429	https://github.com/bcicen/ctop
 	429	https://github.com/benjojo/sping
+	429	https://github.com/birchb1024/frangipanni
 	429	https://github.com/burtonator/polar-bookshelf
 	429	https://github.com/cespare/reflex
 	429	https://github.com/charmbracelet/bubbletea
 	429	https://github.com/client9/misspell
-	429	https://github.com/cloudhead/rx
-	429	https://github.com/contribsys/faktory
-	429	https://github.com/cooperhammond/irs
-	429	https://github.com/dai-shi/excalidraw-animate
+	429	https://github.com/corkami/pics
 	429	https://github.com/dandavison/delta
 	429	https://github.com/dariusk/corpora
 	429	https://github.com/debauchee/barrier
 	429	https://github.com/deepfakes/faceswap
-	429	https://github.com/deezer/spleeter
-	429	https://github.com/derailed/k9s
 	429	https://github.com/dgryski/trifles
 	429	https://github.com/direnv/direnv
 	429	https://github.com/dutchcoders/transfer.sh
-	429	https://github.com/eloquence/freeyourstuff.cc
 	429	https://github.com/emilwallner/Screenshot-to-code
+	429	https://github.com/epi052/feroxbuster
 	429	https://github.com/esimov/caire
 	429	https://github.com/facebook/watchman
-	429	https://github.com/fatedier/frp
-	429	https://github.com/federico-terzi/espanso
+	429	https://github.com/flameshot-org/flameshot
 	429	https://github.com/flimzy/anki
-	429	https://github.com/fogleman/nes
-	429	https://github.com/gen2brain/cam2ip
+	429	https://github.com/geekodour/dotfiles
 	429	https://github.com/git-tips/tips#everyday-git-in-twenty-commands-or-so
+	429	https://github.com/gleicon/pipecamp
 	429	https://github.com/hluk/CopyQ
 	429	https://github.com/iamadamdev/bypass-paywalls-chrome
-	429	https://github.com/iawia002/annie
 	429	https://github.com/imsnif/bandwhich
-	429	https://github.com/iorate/uBlacklist
+	429	https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 	429	https://github.com/iovisor/bcc
 	429	https://github.com/iv-org/invidious
-	429	https://github.com/ivandokov/phockup
 	429	https://github.com/jacobian/notamazon
 	429	https://github.com/jarun/buku
-	429	https://github.com/jarun/nnn
+	429	https://github.com/jdan/cleaver
+	429	https://github.com/jedisct1/minisign
 	429	https://github.com/jesseduffield/lazydocker
-	429	https://github.com/jhchen/ansize
 	429	https://github.com/jhlyeung/rumin-web-clipper
-	429	https://github.com/jhspetersson/fselect
+	429	https://github.com/jifunks/botany
 	429	https://github.com/kamranahmedse/pennywise
 	429	https://github.com/kdabir/has
+	429	https://github.com/kernc/logkeys
 	429	https://github.com/kickscondor/fraidycat
-	429	https://github.com/knadh/tg-archive
 	429	https://github.com/knqyf263/pet
-	429	https://github.com/koalaman/shellcheck
+	429	https://github.com/lengstrom/fast-style-transfer
 	429	https://github.com/lptstr/chmap
-	429	https://github.com/lyrebird-voice-changer/lyrebird
 	429	https://github.com/magic-wormhole/magic-wormhole
 	429	https://github.com/martijnvanbrummelen/nwipe
+	429	https://github.com/mezod/awesome-indie
 	429	https://github.com/mholt/archiver
-	429	https://github.com/mozilla/ssh_scan
 	429	https://github.com/muesli/duf
 	429	https://github.com/muesli/smartcrop
-	429	https://github.com/mvdan/sh
 	429	https://github.com/mylxsw/redis-tui
-	429	https://github.com/nanzhong/workstation
-	429	https://github.com/natpen/awesome-wayland
+	429	https://github.com/narwhalacademy/zebra-crossing
+	429	https://github.com/nayafia/lemonade-stand
 	429	https://github.com/nayafia/microgrants
-	429	https://github.com/nelhage/reptyr
+	429	https://github.com/nemanjan00/uniread
+	429	https://github.com/notwaldorf/tiny-care-terminal
+	429	https://github.com/ntop/ntopng
 	429	https://github.com/nuno-faria/tiler
 	429	https://github.com/o2sh/onefetch
-	429	https://github.com/ogham/exa
+	429	https://github.com/owenthereal/upterm
 	429	https://github.com/owncast/owncast
+	429	https://github.com/oz/tz
 	429	https://github.com/pavlobu/deskreen
 	429	https://github.com/peco/peco
 	429	https://github.com/pemistahl/grex
 	429	https://github.com/phw/peek
 	429	https://github.com/pnpm/pnpm
 	429	https://github.com/pomber/git-history
+	429	https://github.com/posva/catimg
 	429	https://github.com/qarmin/czkawka
-	429	https://github.com/rbenv/rbenv
 	429	https://github.com/reorx/httpstat
-	429	https://github.com/s0md3v/Photon
-	429	https://github.com/sbstp/kubie
-	429	https://github.com/schollz/croc
+	429	https://github.com/rgburke/grv
 	429	https://github.com/schollz/find3
 	429	https://github.com/simeji/jid
-	429	https://github.com/so-fancy/diff-so-fancy
+	429	https://github.com/slok/grafterm
 	429	https://github.com/soveran/map
-	429	https://github.com/soypat/gitaligned
-	429	https://github.com/sqshq/sampler
+	429	https://github.com/sshuttle/sshuttle
 	429	https://github.com/starship/starship
-	429	https://github.com/supabase/postgres
+	429	https://github.com/stoicaviator/arch_metapackage_guide
 	429	https://github.com/tfeldmann/organize
-	429	https://github.com/timothycrosley/concentration
+	429	https://github.com/thesephist/histools
 	429	https://github.com/tmrts/boilr
 	429	https://github.com/tmuxinator/tmuxinator
 	429	https://github.com/traefik/yaegi
 	429	https://github.com/trailofbits/graphtage
 	429	https://github.com/trashhalo/imgcat
-	429	https://github.com/tridactyl/tridactyl
+	429	https://github.com/twpayne/chezmoi
+	429	https://github.com/tycrek/degoogle
 	429	https://github.com/tzutalin/labelImg
 	429	https://github.com/veltman/clmystery
 	429	https://github.com/ventoy/Ventoy
-	429	https://github.com/wagoodman/dive
 	429	https://github.com/weihanglo/sfz
 	429	https://github.com/wtfutil/wtf
 	429	https://github.com/xyproto/fstabfmt
 	429	https://github.com/yory8/clipman
+	429	https://github.com/yrp604/rappel
 	429	https://github.com/yudai/gotty
 	429	https://github.com/zedeus/nitter
-	dialing to the given TCP address timed out	https://www.wslyvh.com/ethereum-guide/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:24 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928438234300; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YzRiNDJlNmEtM2RjNy00ODJmLThmYjItZWM3ZWYwMTNiYmYx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/thingskatedid/status/1386077306381242371
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:25 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928531849347; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ODBkNmZhZDUtYzc2NC00ZGFiLTk4ZDgtODhkYmE5ZWFjMTYx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/archillect
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:25 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928582047502; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-OTMxMTZhY2QtYTkzZC00MGIyLWE3ZTAtNzIyOTQxMjk3NWE3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/radicle/status/1364980998530879498
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:21 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780574164885333; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YzdkYTI4NjQtMzQxMS00Yjg0LTlmYjYtZWEwOWJhMzQzZmE3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/thingskatedid/status/1386077306381242371
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:22 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780574284174097; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-OTljMWMyNjAtMGNmMS00YThmLThjOWUtZGVmZDIzMDcyZWFh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/archillect
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:23 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780574386680161; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MDlmNjQ0ZGEtOWRlOS00YmEyLWI4MjAtY2Q4ZDM0MTE1MWM3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/radicle/status/1364980998530879498
 	id #L156-L179 not found	https://code.p1k3.com/gitea/brennen/bpb-kit/src/branch/main/home/.sh_common#L156-L179
-https://wiki.itdobelikethat.org/docs/links/tweets/
-	dialing to the given TCP address timed out	https://twitter.com/crystaljjlee/status/1358171293456035840
-	dialing to the given TCP address timed out	https://twitter.com/michael_nielsen/status/1224902391331319809
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928647897371; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YmYyYmJkMzMtZjU1Ni00OTFmLThiZTEtMGU4YTMwZTM4ZWY5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/paraschopra/status/1346688696599252993
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928647990168; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZmNmMTk5YzItYTFlYi00NjczLTg4MjEtNmUyN2I2ZjYwNTdh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/i/status/1093552400453885958
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928649195680; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NDFlNmY5Y2QtNzQ2Zi00OWRiLWEzMjctMmMwY2FkMzg0MTkx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/michael_nielsen/status/1098098218565390337
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928655290639; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MzRlZTE4NDMtOGYzYy00OTE2LWI1YjEtODkxNTRjZjRlZDgy'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/daveambrose/status/864476831306719232
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928660760121; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MmY1ZDQ2MDItMzU0OC00N2M5LWFkNDYtODg5N2Q1NDBjZmQ2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/james_d_baird/status/1372936895668322309
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928661284387; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-N2E2ODIyZWItOWU0Ni00YzdmLWE5MjEtM2QxZDhlNmI4YWFj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/elamje/status/1280714011990913024
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928662677355; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NmNlYzZmMWQtZjU2ZS00NWM1LTk0YWUtYzQ5YjAzNWVjMTgx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/shreyas/status/1303150374124048386
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928664973100; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MDJmMTRhNGItN2E4YS00Zjk3LWIxMDItNjVlNDQyOTc2OWY0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/1088354634429677570
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:28 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928828435755; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YzllZjQ1MGYtNzcwYi00NGQzLTlmOTgtODAyOGQzNzdmNmI5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/1296877467940995073
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:28 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928831796449; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NTc3YTgyY2EtODJiZC00N2U1LWFjOGItNzQwZmUxZDdjYjgz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/NirantK/status/1234077539020050432
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:28 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928837246475; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YTM0NTZiODQtNTEyMS00MDI0LTkxMDktMzg5MmJlZGIxYTA4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/patio11/status/936615043126370306
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:28 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928845985842; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MDk0MjhlYTEtYjVhNC00MDEwLTk4NzgtZTM5MmZmMzg2NzJk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ShriramKMurthi/status/1223053225705852929
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:28 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928846125069; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-Y2RhNGI1M2QtYTVkNS00YTgwLWIzODQtODgzMTAxN2NmMjI0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/avichal/status/1250906803849711616
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:29 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928929840851; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NjE1ZTczZDMtNjJmZi00M2FiLTk1ZDItOTI4YWU2MmY2MzEx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/KevinSimler/status/1171278541788348416
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:29 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771928947486730; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MDJkNDZlMTUtNzYxMy00NTEzLWI4NGQtYjA2YTg4ODBlZmIz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/michael_nielsen/status/1081070044648398848
-https://wiki.itdobelikethat.org/docs/courses/others/accessp2p/
-	429	https://github.com/warner/magic-wormhole
-	429	https://github.com/warner/magic-wormhole/issues/348
-https://wiki.itdobelikethat.org/docs/links/others/dump/
-	404	https://darkpatterns.org/types-of-dark-pattern.html
-	404	https://wiki.itdobelikethat.org/img/image_dump
-	429	https://github.com/brantou/reading/issues
-	429	https://github.com/costela/wesher
-	429	https://github.com/domargan/awesome-dynamic-graphs
-	429	https://github.com/haimgel/display-switch
-	429	https://github.com/kbumsik/VirtScreen
-	429	https://github.com/neutrinolabs/xrdp
-	429	https://github.com/stapelberg/costream
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:34 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771929421116718; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZjllN2IyYzUtYjhlZS00NWEyLWE4YmQtNzg4MDQ1ZmFiOWQz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/rajbhagatt/status/1260588325846560774
-	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
+https://wiki.itdobelikethat.org/docs/notes/questions/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	id #classification not found	https://wiki.itdobelikethat.org/docs/notes/study/comp_arch#classification
+	id #virtual-memory not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#virtual-memory
+https://wiki.itdobelikethat.org/docs/notes/guides/askingq/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/programming_langs/rust/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/people/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/filesystems/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/random/jargon/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/random/scales/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/books/zero_to_one/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/memory/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/computation/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/papers/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/notes/study/p2p/
 	429	https://github.com/ccding/go-stun
 	429	https://github.com/kgryte/awesome-peer-to-peer
 	429	https://github.com/pion/turn
 	429	https://github.com/wilfreddenton/udp-hole-punching
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/design_patterns/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/storage/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/logging/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/finance/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/research/
+	429	https://github.com/petar
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/twitter/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780574624439029; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZWRiOTg2OGItN2IxMi00NGJiLWFhMDgtZTcxOGEwNjIxZTc4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/david_perell/status/1228873220167753728
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780574627369347; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZjY0MDg0ZDItN2YwYS00NDE3LTgwZjktZjUxMTE3ODVlMjM2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/866490888519770114
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780574627798584; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MTVhZWU2OGItYjNlMC00YWNjLThhNzgtMDkwOTkxOTllYmY0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ali01/status/1228348422056374272
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780574628645680; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-Mzc4Y2VjNTAtODE1OS00NjQyLThjMDctYTcyYWRlZTY1YmE2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ShriramKMurthi
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780574632710067; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ODU2ZjlkNjMtZGMzYy00NDRlLThjN2YtYWUzZTg2YTA5NjIx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/fortelabs/status/1251976256540696576
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780574632978516; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ODc5MWE5ZTEtMTJlNy00MTA3LWI1ZTMtZjJkZTExZDU5Y2Nj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ShriramKMurthi/status/1249081347857174533
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780574636876389; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YWI2OTFiMDEtMjk2Ny00Yjk0LWIyMjAtYWY1ZTFjZDJmM2Yz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/1129212169701085186
+https://wiki.itdobelikethat.org/docs/notes/study/programming_langs/ruby/
+	429	https://github.com/rubocop-hq/ruby-style-guide#no-character-literals
+	429	https://github.com/rubocop-hq/ruby-style-guide/issues/631
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	lookup rubylearning.com: no such host	http://rubylearning.com/satishtalim/more_on_strings.html
+	lookup rubylearning.com: no such host	http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html
+https://wiki.itdobelikethat.org/docs/links/books/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/go_lang/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/go_lang/pprof
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/podcasts/
+	404	https://player.fm/series/crazy-wisdom-2497498/how-to-tell-a-computer-what-to-do-stephen-wolfram-founder-ceo-wolfram-alpha
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/comp_arch/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/notes/guides/quantify/
 	429	https://github.com/AnandChowdhary/life-data
 	429	https://github.com/JacobEvelyn/friends
@@ -204,67 +357,72 @@ https://wiki.itdobelikethat.org/docs/notes/guides/quantify/
 	429	https://github.com/tmcw/running-for-nerds
 	429	https://github.com/turbomaze/28-hour-day
 	429	https://github.com/woop/awesome-quantified-self
-https://wiki.itdobelikethat.org/docs/notes/research/
-	429	https://github.com/petar
-https://wiki.itdobelikethat.org/docs/notes/case_studies/
-	404	https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/
-	429	https://github.com/golang/go/issues/23687#issuecomment-496705293
-	id #end-to-end-principle not found	https://wiki.itdobelikethat.org/docs/notes/study/internet#end-to-end-principle
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/soeycscs1/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/links/blogs/
+	429	https://github.com/Quartz/bad-data-guide
+	429	https://github.com/copyconstruct/library
+	429	https://github.com/danluu/post-mortems
+	429	https://github.com/donnemartin/system-design-primer
+	429	https://github.com/heathermiller/dist-prog-book
+	429	https://github.com/heidi-ann/distributed-consensus-reading-list
+	429	https://github.com/hjacobs/kubernetes-failure-stories
+	429	https://github.com/hkalant/awesome-edtech-tools
+	429	https://github.com/hwayne/awesome-cold-showers
+	429	https://github.com/hypotext/notation
+	429	https://github.com/jnv/lists
+	429	https://github.com/kdeldycke/awesome-falsehood
+	429	https://github.com/lorin/resilience-engineering
+	429	https://github.com/mfleming/performance-resources
+	429	https://github.com/mxssl/sre-interview-prep-guide
+	429	https://github.com/philsturgeon/awesome-earth
+	429	https://github.com/rxin/db-readings
+	429	https://github.com/vmbrasseur/Public_Speaking
+	429	https://github.com/watson/awesome-computer-history
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:34 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575432367876; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MDNhZTQxNDItMTdlNi00ODNmLTk2YTctOWMxNDVhNjRiYzgz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/james_d_baird/status/1379113187983908866
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Thu, 25 Nov 2021 02:02:34 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=3b78f353-391a-4b3e-914"..."tercomcdn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.io https://logs-01.loggly.com https://cdn.segment.com https://api.segment.io https://analytics.pgncs.notion.so https://api.pg"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
+	id #/app/visakanv-public/page/aHYzCZnry not found	https://roamresearch.com/#/app/visakanv-public/page/aHYzCZnry
+	lookup en.arguman.org: no such host	https://en.arguman.org/
+https://wiki.itdobelikethat.org/docs/notes/guides/communities/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	lookup cstheory.stackexchange.co: no such host	https://cstheory.stackexchange.co
+https://wiki.itdobelikethat.org/docs/links/videos/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/ideas/interesting_pictures/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/ideas/humor/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/notes/study/digital_rights/
 	404	http://www.loc.gov/teachers/copyrightmystery/text/files/
-https://wiki.itdobelikethat.org/docs/workshops/projects/
-	404	http://seriot.ch/ntp.php
-	429	https://github.com/Pithikos/C-Thread-Pool
-	429	https://github.com/antirez/rax
-	429	https://github.com/async-raft/async-raft
-	429	https://github.com/erikgrinaker/toydb
-	429	https://github.com/jamesroutley/write-a-hash-table
-	429	https://github.com/josevalim/nested-data-structure-traversal
-	429	https://github.com/jpillora/chisel
-	429	https://github.com/karan/Projects-Solutions
-	429	https://github.com/pomerium/autocache
-	429	https://github.com/serialx/hashring
-	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
-https://wiki.itdobelikethat.org/docs/notes/twitter/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:38 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771929856255326; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-OWY5YjA4MDMtODNmYi00Y2IzLTlmNjMtY2I5ZjIyNzczYjgz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/david_perell/status/1228873220167753728
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:38 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771929861185164; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NjdhMzRhZmQtMDA4YS00NDBmLWI4YTEtNTliYzk1NjkwZTc2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/fortelabs/status/1251976256540696576
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:38 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771929878144823; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-M2VlZWViODctOTIxNy00NmIwLWFmOTctNmRkZGZmYWZkMDhk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ShriramKMurthi/status/1249081347857174533
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:38 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771929881353623; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-OGFkMDk4NmMtMmMyZi00YmNiLWI2MWYtMDYyN2E4ZTE0OTFj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/866490888519770114
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:38 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771929882109508; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MTNkZDUyM2MtOGUzYy00YmQ4LWI4YjMtY2U5NzQzMmIxYmI1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ShriramKMurthi
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:39 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771929974997110; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZDM4NDVmZTItZGU3Zi00YTMyLWE3YWUtOGMwZmVhNjgxNDVj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ali01/status/1228348422056374272
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:39 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771929982102026; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-M2M3MzBmNzQtYWQzMS00ZDhkLWI3NWEtZDM2MDJlMTUwZjgx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/1129212169701085186
-https://wiki.itdobelikethat.org/docs/notes/study/security/
-	429	https://github.com/veeral-patel/how-to-secure-anything
-https://wiki.itdobelikethat.org/docs/notes/podcasts/
-	404	https://player.fm/series/crazy-wisdom-2497498/how-to-tell-a-computer-what-to-do-stephen-wolfram-founder-ceo-wolfram-alpha
-https://wiki.itdobelikethat.org/docs/notes/study/programming_langs/ruby/
-	429	https://github.com/rubocop-hq/ruby-style-guide#no-character-literals
-	429	https://github.com/rubocop-hq/ruby-style-guide/issues/631
-	lookup rubylearning.com: no such host	http://rubylearning.com/satishtalim/more_on_strings.html
-	lookup rubylearning.com: no such host	http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html
-https://wiki.itdobelikethat.org/docs/notes/questions/
-	id #classification not found	https://wiki.itdobelikethat.org/docs/notes/study/comp_arch#classification
-	id #virtual-memory not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#virtual-memory
-https://wiki.itdobelikethat.org/docs/notes/guides/communities/
-	lookup cstheory.stackexchange.co: no such host	https://cstheory.stackexchange.co
-https://wiki.itdobelikethat.org/docs/notes/history/
-	404	https://computer.rip/https://buttondown.email/hillelwayne/archive/oracle-testing/
-	429	https://github.com/geekodour/wiki/blob/master/docs/notes/history.md
-	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
-	id #eeprom not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#eeprom
-	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
-https://wiki.itdobelikethat.org/docs/ideas/timelines/
-	429	https://github.com/CUTR-at-USF/awesome-transit
-	429	https://github.com/ColCarroll/ridge_map
-	429	https://github.com/UDST/vizicities
-	429	https://github.com/fogleman/PirateMap
-	429	https://github.com/mapnificent/mapnificent
-	429	https://github.com/microsoft/SandDance
-	429	https://github.com/public-transport/generating-transit-maps
-	429	https://github.com/tabatkins/railroad-diagrams
-	429	https://github.com/transitland/transitland-processing-animation
-	429	https://github.com/wwcline/list-of-frequent-transit-maps
-	id #zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF not found	https://www.lightpollutionmap.info/#zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/ideas/subjects/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/wireless/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/ideas/pantry/
 	429	https://github.com/0x263b/Otherside
 	429	https://github.com/GoogleChromeLabs/quicklink
@@ -281,27 +439,216 @@ https://wiki.itdobelikethat.org/docs/ideas/pantry/
 	429	https://github.com/samsquire/wants
 	429	https://github.com/segmentio/ksuid
 	429	https://github.com/sw-yx/spark-joy
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:45 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771930583633308; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZWZkYmE3MTgtMzVhOC00MjhiLWI0MTEtNjU2NjRiNDkxN2Yx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/rsnous/status/1373691707326222337
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:38 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575824712382; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-OGEyYmY2MDEtMmZjNy00NjU5LWEzNzYtMzg1ZWVmMTkyZjhh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/rsnous/status/1373691707326222337
 	lookup ahilapaati.com: no such host	https://ahilapaati.com/
 	lookup waitwho.is: no such host	https://waitwho.is/
-https://wiki.itdobelikethat.org/docs/tools/db/promql/
-	429	https://github.com/cloudflare/pint
-	429	https://github.com/infinityworks/prometheus-example-queries
-	429	https://github.com/jitendra-1217/promql.cheat.sheet
-	429	https://github.com/prometheus/prometheus/blob/2209fa98b42aee3aed864d7ea3534775ca8cd6e9/promql/engine.go#L920
-	429	https://github.com/prometheus/prometheus/issues/1246
-	429	https://github.com/prometheus/prometheus/issues/2564
-	429	https://github.com/prometheus/prometheus/issues/398
-	429	https://github.com/prometheus/prometheus/issues/5415
-	429	https://github.com/prometheus/prometheus/pull/7011
-	id #errors not found	https://promtools.dev/#errors
+https://wiki.itdobelikethat.org/docs/ideas/timelines/
+	429	https://github.com/CUTR-at-USF/awesome-transit
+	429	https://github.com/ColCarroll/ridge_map
+	429	https://github.com/UDST/vizicities
+	429	https://github.com/fogleman/PirateMap
+	429	https://github.com/mapnificent/mapnificent
+	429	https://github.com/microsoft/SandDance
+	429	https://github.com/public-transport/generating-transit-maps
+	429	https://github.com/tabatkins/railroad-diagrams
+	429	https://github.com/transitland/transitland-processing-animation
+	429	https://github.com/wwcline/list-of-frequent-transit-maps
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	id #zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF not found	https://www.lightpollutionmap.info/#zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF
+https://wiki.itdobelikethat.org/docs/notes/study/internet/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/links/tweets/
+	dialing to the given TCP address timed out	https://twitter.com/patio11/status/936615043126370306
+	dialing to the given TCP address timed out	https://twitter.com/visakanv/status/1296877467940995073
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:35 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575584542367; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZDJmMjIzMWMtMzg3ZS00YjQyLTg0OTgtMzViYjJjMjE1NWEw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/paraschopra/status/1346688696599252993
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:35 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575596047152; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NmYzNTQ0YWItMzQxYy00YzRmLWI4Y2YtYjEzMjkwMDFjYzA1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/NirantK/status/1234077539020050432
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575600665951; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NDAxMmQ3YjQtY2FhNi00OTkyLWJhMDYtZjc3NmM4ZTZiZGEx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/1088354634429677570
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575601374174; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YzYyZjBhMzMtMWE4Zi00MDBhLWI0MzgtOTQzMTcyNzc2MWY3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/i/status/1093552400453885958
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575615229106; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZGYzZTJmZGMtN2ZhOC00MDBhLWFmOWItZDc5YWI0MTQ4YjY3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/michael_nielsen/status/1224902391331319809
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575623452925; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZTYxZTMxMTktYWEwYi00N2M1LThmNGQtYmIzZTI5YTQwMDI1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/shreyas/status/1303150374124048386
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575637491303; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-OGNmZDg4ZDYtMWE5NC00Yjg5LTgyNjMtY2RmMjFiYjRkMTYz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/michael_nielsen/status/1081070044648398848
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575639448284; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NDU1NjkzNzItYTY2OC00OTM3LWIyMDktMThjZWMwNjliYTU0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/james_d_baird/status/1372936895668322309
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575642913508; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-Y2ExYmJlNjYtZmU1Mi00Y2JhLTk1ODMtNjU3YjA5ZjNiNTE4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/elamje/status/1280714011990913024
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575645198813; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-N2VlNDdhMWItZTBiYS00NmI1LWE1ZGYtYjc3YmQ5NGMzOWZm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/crystaljjlee/status/1358171293456035840
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575651372743; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NTM2ODNmMTQtOTMzMS00OTM3LThiNTUtMTIzMGQ1MTQ1ZDE3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/avichal/status/1250906803849711616
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575655773157; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YTdlMjhmZjUtYzdkOS00ZjY2LTgyM2QtMzExMGQzNmNiNjFh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ShriramKMurthi/status/1223053225705852929
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575663946534; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YzE0NmQyZWQtN2U5Yi00ZTYzLWI4MWQtN2Q1NGVmYjMwZGIw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/daveambrose/status/864476831306719232
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575664920695; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NWIxNGViNWYtZGY0Yy00ZjcyLTlkYzktZjM2MzQyNWIyYjRh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/KevinSimler/status/1171278541788348416
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780575676596326; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NmYzNGExNWItNmNjOC00Yzg5LTg5OTItY2Y0MWY5MzZiNmUy'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/michael_nielsen/status/1098098218565390337
+https://wiki.itdobelikethat.org/docs/ideas/running_bsns/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/ideas/ideas_in_ed/
 	429	https://github.com/PharkMillups/beautiful-docs
 	429	https://github.com/mathigon/textbooks
-https://wiki.itdobelikethat.org/docs/tools/db/others/
-	404	https://lyft.github.io/amundsen/
-	429	https://github.com/MichaelMure/git-bug/blob/master/doc/model.md
-	429	https://github.com/buraksezer/olric
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/ideas/problems_in_edu/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/history/
+	404	https://computer.rip/https://buttondown.email/hillelwayne/archive/oracle-testing/
+	429	https://github.com/geekodour/wiki/blob/master/docs/notes/history.md
+	429	https://github.com/watson/awesome-computer-history
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
+	id #eeprom not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#eeprom
+	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
+https://wiki.itdobelikethat.org/docs/links/others/dump/
+	404	https://darkpatterns.org/types-of-dark-pattern.html
+	404	https://wiki.itdobelikethat.org/img/image_dump
+	429	https://github.com/brantou/reading/issues
+	429	https://github.com/costela/wesher
+	429	https://github.com/domargan/awesome-dynamic-graphs
+	429	https://github.com/haimgel/display-switch
+	429	https://github.com/kbumsik/VirtScreen
+	429	https://github.com/neutrinolabs/xrdp
+	429	https://github.com/stapelberg/costream
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:40 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780576008557540; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NDNmZDA3MzUtMzQxYy00MjU4LWFlOTUtNTlhNjA4YTQ2NDll'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/rajbhagatt/status/1260588325846560774
+	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
+https://wiki.itdobelikethat.org/docs/notes/study/os/ipc/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/os/interrupts/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/network/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/os/processes/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/guides/shitposting/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/ideas/quotes/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/blog/
+	429	https://github.com/KaTeX/KaTeX
+	429	https://github.com/facebook/docusaurus/issues/2742
+	429	https://github.com/geekodour
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/os/threads/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/security/linux_security/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/network_prog/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/math/matrix/
+	429	https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/links/people/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/math/numbers/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/math/meta_math/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/blogs/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/math/fp/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/math/calculus/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/math/mod/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/math/exponents/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/math/log/
+	404	https://qedinsight.wordpress.com/2011/04/17/a-practical-use-for-logarithms/
+	404	https://qedinsight.wordpress.com/2011/04/22/a-practical-use-for-logarithms-part-2-how-we-multiplied-large-numbers-40-years-ago-and-how-integral-transforms-use-the-same-basic-idea/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/tools/zookeeper/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/os/elf/
+	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Thu, 25 Nov 2021 02:02:49 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nStrict-Transport-Security: max-age=31536000\r"..."eclick.net *.youtube.com; child-src 'self' *.intezer.com; base-uri 'self' *.intezer.com; form-action 'self' https://*.twitter.com/; worker-src 'self' *.intezer.com; report-uri https://gate.rapidsec.ne"	https://www.intezer.com/blog/research/executable-linkable-format-101-part1-sections-segments/
+https://wiki.itdobelikethat.org/docs/tools/performance_tools/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/math/functions/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/os/resource_mgmt/
+	404	http://geekswing.com/geek/quickie-tutorial-ulimit-soft-limits-hard-limits-soft-stack-hard-stack/
+	404	http://www.linuxfromscratch.org/lfs/view/7.2/chapter06/util-linux.html
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	id #:~:text=There are two types of,user once it is set.&text=A soft limit, however, can,equal to 'hard limit' not found	https://serverfault.com/questions/265155/soft-limit-vs-hard-limit#:~:text=There%20are%20two%20types%20of,user%20once%20it%20is%20set.&text=A%20soft%20limit,%20however,%20can,equal%20to%20%27hard%20limit%27
+	lookup nics.tennessee.edufaq: no such host	https://www.nics.tennessee.edu/faq/general-how-do-i-change-my-default-limits-stack-size-core-file-size-etc#:~:text=The%20soft%20limit%20is%20the,decreased,%20but%20its%20not%20recommended
+	mime: invalid media parameter	https://www.ibm.com/support/knowledgecenter/SSCRJU_4.1.1/com.ibm.streams.install.doc/doc/ibminfospherestreams-install-operating-system-settings.html
+https://wiki.itdobelikethat.org/docs/tools/open_source_projects/
+	429	https://github.com/TomerAberbach/grfn
+	429	https://github.com/ahosna/Pi0AudioBook
+	429	https://github.com/automerge/automerge
+	429	https://github.com/chr15m/slingcode
+	429	https://github.com/everestpipkin/tools-list
+	429	https://github.com/kdzwinel/SnappySnippet
+	429	https://github.com/matcornic/hermes
+	429	https://github.com/matt-auckland/retro-css
+	429	https://github.com/mitsuhiko/indicatif
+	429	https://github.com/nextapps-de/winbox
+	429	https://github.com/oidoid/mem
+	429	https://github.com/osquery/osquery
+	429	https://github.com/samsonmking/epaper.js
+	429	https://github.com/skydive-project/skydive
+	429	https://github.com/slatedocs/slate
+	429	https://github.com/tidwall/cities
+	429	https://github.com/timqian/chart.xkcd
+	429	https://github.com/valeriansaliou/sonic
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	id #/ not found	https://mermaid-js.github.io/mermaid/#/
+https://wiki.itdobelikethat.org/docs/tools/calculator/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/tools/forgetful/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/tools/self_hosting/
 	429	https://github.com/42wim/matterbridge
 	429	https://github.com/AdguardTeam/AdGuardHome
@@ -352,28 +699,17 @@ https://wiki.itdobelikethat.org/docs/tools/self_hosting/
 	429	https://github.com/tomnomnom/waybackurls
 	429	https://github.com/tonarino/innernet
 	429	https://github.com/yrutschle/sslh
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 	x509: certificate signed by unknown authority	https://piratebox.cc/goals
-https://wiki.itdobelikethat.org/docs/tools/open_source_projects/
-	429	https://github.com/TomerAberbach/grfn
-	429	https://github.com/ahosna/Pi0AudioBook
-	429	https://github.com/automerge/automerge
-	429	https://github.com/chr15m/slingcode
-	429	https://github.com/everestpipkin/tools-list
-	429	https://github.com/kdzwinel/SnappySnippet
-	429	https://github.com/matcornic/hermes
-	429	https://github.com/matt-auckland/retro-css
-	429	https://github.com/mitsuhiko/indicatif
-	429	https://github.com/nextapps-de/winbox
-	429	https://github.com/oidoid/mem
-	429	https://github.com/osquery/osquery
-	429	https://github.com/samsonmking/epaper.js
-	429	https://github.com/skydive-project/skydive
-	429	https://github.com/slatedocs/slate
-	429	https://github.com/tidwall/cities
-	429	https://github.com/timqian/chart.xkcd
-	429	https://github.com/valeriansaliou/sonic
-	id #/ not found	https://mermaid-js.github.io/mermaid/#/
+https://wiki.itdobelikethat.org/docs/tools/k8s/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/tools/apache_drill/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/tools/workstation/
+	429	https://github.com/corkami/pics
 	429	https://github.com/formatc1702/WireViz
 	429	https://github.com/fulldecent/system-bus-radio
 	429	https://github.com/googlecreativelab/anypixel
@@ -381,42 +717,292 @@ https://wiki.itdobelikethat.org/docs/tools/workstation/
 	429	https://github.com/maxandersen/internet-monitoring
 	429	https://github.com/rtr7/router7
 	429	https://github.com/seemoo-lab/openhaystack
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:49 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=e6a73f39-6f60-4ccc-b234-c7deb"..."dn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.io https://logs-01.loggly.com https://cdn.segment.com https://api.segment.io https://analytics.pgncs.notion.so https://api.pgncs.not"	https://www.notion.so/A-Beginner-s-Guide-to-Houseplants-f90190a8c15b4bb8b65c60f16e3f9502
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:51 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=f025d32a-6877-4cb7-8889-0a3f1"..."dn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.io https://logs-01.loggly.com https://cdn.segment.com https://api.segment.io https://analytics.pgncs.notion.so https://api.pgncs.not"	https://www.notion.so/A-Beginner-s-Guide-to-Houseplants-f90190a8c15b4bb8b65c60f16e3f9502
+https://wiki.itdobelikethat.org/docs/tools/db/postgres/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/tools/db/promql/
+	429	https://github.com/cloudflare/pint
+	429	https://github.com/infinityworks/prometheus-example-queries
+	429	https://github.com/jitendra-1217/promql.cheat.sheet
+	429	https://github.com/prometheus/prometheus/blob/2209fa98b42aee3aed864d7ea3534775ca8cd6e9/promql/engine.go#L920
+	429	https://github.com/prometheus/prometheus/issues/1246
+	429	https://github.com/prometheus/prometheus/issues/2564
+	429	https://github.com/prometheus/prometheus/issues/398
+	429	https://github.com/prometheus/prometheus/issues/5415
+	429	https://github.com/prometheus/prometheus/pull/7011
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	id #errors not found	https://promtools.dev/#errors
+https://wiki.itdobelikethat.org/docs/tools/db/others/
+	404	https://lyft.github.io/amundsen/
+	429	https://github.com/MichaelMure/git-bug/blob/master/doc/model.md
+	429	https://github.com/buraksezer/olric
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/p2p/bittorrent/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/computation/analyt_eng/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/books/perf_little_book/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/memory/vm/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/notes/study/memory/alloc/
 	429	https://gist.github.com/geekodour/543d370e9e7816fe368d264374c86cfc
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/books/linux_networking/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/books/tcpdump_little_book/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/finance/calculations/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/memory/mem_metrics/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/notes/study/memory/gc/
 	429	https://github.com/golang/go/blob/master/src/runtime/malloc.go
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
-https://wiki.itdobelikethat.org/docs/notes/study/go_lang/pprof/
-	429	https://github.com/golang/go/wiki/Performance
-	429	https://github.com/golang/proposal/blob/master/design/17280-profile-labels.md
-	429	https://github.com/google/pprof
-	429	https://github.com/google/pprof#basic-usage
-	429	https://github.com/google/pprof#using-pprof-with-linux-perf
-	429	https://github.com/google/pprof/blob/master/proto/profile.proto
-	429	https://github.com/google/pprof/tree/master/doc
-	429	https://github.com/google/pprof/tree/master/doc#interpreting-the-callgraph
-	429	https://github.com/google/pprof/tree/master/doc#options
-	429	https://github.com/google/pprof/tree/master/third_party
-	429	https://github.com/pkg/profile
-	429	https://github.com/profefe/profefe
-https://wiki.itdobelikethat.org/docs/notes/study/os/elf/
-	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Wed, 24 Nov 2021 02:01:52 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nStrict-Transport-Security: max-age=31536000\r"..."eclick.net *.youtube.com; child-src 'self' *.intezer.com; base-uri 'self' *.intezer.com; form-action 'self' https://*.twitter.com/; worker-src 'self' *.intezer.com; report-uri https://gate.rapidsec.ne"	https://www.intezer.com/blog/research/executable-linkable-format-101-part1-sections-segments/
+https://wiki.itdobelikethat.org/docs/notes/study/p2p/basic_p2p/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/books/tools_sys_research/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/comp_arch/bios_efi/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/comp_arch/bus/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/comp_arch/isa/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/comp_arch/micro-arch/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/cs138_distsys/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/cmu15721/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/khan/sandp/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/khan/apstat/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/computation/actor/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/workshops/projects/
+	404	http://seriot.ch/ntp.php
+	429	https://github.com/EmilHernvall/dnsguide
+	429	https://github.com/Pithikos/C-Thread-Pool
+	429	https://github.com/antirez/rax
+	429	https://github.com/async-raft/async-raft
+	429	https://github.com/erikgrinaker/toydb
+	429	https://github.com/jamesroutley/write-a-hash-table
+	429	https://github.com/josevalim/nested-data-structure-traversal
+	429	https://github.com/jpillora/chisel
+	429	https://github.com/karan/Projects-Solutions
+	429	https://github.com/pomerium/autocache
+	429	https://github.com/serialx/hashring
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
+https://wiki.itdobelikethat.org/docs/courses/cmu15213/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/math-books/libarts-math/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/comp_arch/multiprocessing/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/others/distributedsystemscourse/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/math-books/interm-alg/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/khan/compsci/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/khan/alg2/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/internet/mtcp/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/internet/quic/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/khan/hs-stat/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/math-books/stats_without_tears/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/internet/bgp/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/memory/cache/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/internet/meta_ideas/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/cmu15445/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/blog/v2/
+	429	https://github.com/KaTeX/KaTeX
+	429	https://github.com/facebook/docusaurus/issues/2742
+	429	https://github.com/geekodour
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/math-books/grimaldi/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/blog/tags/docusaurus/
+	429	https://github.com/KaTeX/KaTeX
+	429	https://github.com/facebook/docusaurus/issues/2742
+	429	https://github.com/geekodour
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 https://wiki.itdobelikethat.org/docs/notes/study/p2p/nat/
 	429	https://github.com/pion/turn
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 	id #selection-15.0-20.0 not found	https://archive.is/u7His#selection-15.0-20.0
-https://wiki.itdobelikethat.org/docs/notes/study/math/matrix/
-	429	https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0
-https://wiki.itdobelikethat.org/docs/notes/study/math/log/
-	404	https://qedinsight.wordpress.com/2011/04/17/a-practical-use-for-logarithms/
-	404	https://qedinsight.wordpress.com/2011/04/22/a-practical-use-for-logarithms-part-2-how-we-multiplied-large-numbers-40-years-ago-and-how-integral-transforms-use-the-same-basic-idea/
-https://wiki.itdobelikethat.org/docs/notes/study/os/resource_mgmt/
-	404	http://geekswing.com/geek/quickie-tutorial-ulimit-soft-limits-hard-limits-soft-stack-hard-stack/
-	404	http://www.linuxfromscratch.org/lfs/view/7.2/chapter06/util-linux.html
-	id #:~:text=There are two types of,user once it is set.&text=A soft limit, however, can,equal to 'hard limit' not found	https://serverfault.com/questions/265155/soft-limit-vs-hard-limit#:~:text=There%20are%20two%20types%20of,user%20once%20it%20is%20set.&text=A%20soft%20limit,%20however,%20can,equal%20to%20%27hard%20limit%27
-	lookup nics.tennessee.edufaq: no such host	https://www.nics.tennessee.edu/faq/general-how-do-i-change-my-default-limits-stack-size-core-file-size-etc#:~:text=The%20soft%20limit%20is%20the,decreased,%20but%20its%20not%20recommended
-	mime: invalid media parameter	https://www.ibm.com/support/knowledgecenter/SSCRJU_4.1.1/com.ibm.streams.install.doc/doc/ibminfospherestreams-install-operating-system-settings.html
+https://wiki.itdobelikethat.org/docs/notes/study/memory/mem_hie/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/courses/others/gc_essentials_udemy/
+	dialing to the given TCP address timed out	https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/#id4
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:58 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nCf-Ray: 6b374c3da9e256e6-IAD\r\nAge: 0\r\nCache-Control: max-ag"..."; Secure\r\nSet-Cookie: ud_cache_device=None; expires=Fri, 26 Nov 2021 02:02:58 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_modern_browser=0; expires=Fri, 26 Nov 2021 02:02:58 GMT; Max-Age="	https://www.udemy.com/course/essentials-of-garbage-collectors/
+https://wiki.itdobelikethat.org/docs/courses/others/accessp2p/
+	429	https://github.com/warner/magic-wormhole
+	429	https://github.com/warner/magic-wormhole/issues/348
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/img/nat-arch.png
+https://wiki.itdobelikethat.org/docs/notes/study/comp_arch/memory_design/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/internet/traceroute/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/internet/traceroute/#links
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#anycast
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#broadcast
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#example
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#how-does-data-flow-in-a-network
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#layer-2
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#layer-2-1
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#layer-2-2
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#layer-3
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#layer-3-1
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#layer-3-2
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#layer-7
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#multicast
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#overview
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#support
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#support-1
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#support-2
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/network/data_traversal/#unicast
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/notes/guides/web3/
+	403	http://len.falken.ink/web/perceived-relations-between-gopher-gemini-and-http.txt
+	404	https://crates.io/crates/actyxos_sdk
+	502	https://hummingbard.com/hummingbard/introducing-hummingbard
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/random/shrines
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/study/email
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/notes/videos
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:16 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780573672289891; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ODI1ZjAwNTQtMmMzZS00MTI1LThhZTItMWRkYmVjMjUxNTg5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/anandchokkavelu/status/1371129975752044547
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:17 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 163808\r\nConnection: close\r\nX-Powered-By: Express\r\nStrict-Transport-Security: max-age=31536"..."L0Lfoa1E3YsY=' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM='; img-src * data:; style-src 'self' 'unsafe-inline' https://assets-cdn.github.com https://github.githubassets.com https://assets.hac"	https://hackmd.io/ZRTimHheSU-mH3B6sg3Z0g
+	id #1 not found	https://blog.mauve.moe/slides/agregore-presentation/#1
+	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
+	timeout	https://iknowwhatyoudownload.com/en/peer/
+	x509: certificate has expired or is not yet valid	https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/
+https://wiki.itdobelikethat.org/blog/tags/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/8be5b89e.e3742e6b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+https://wiki.itdobelikethat.org/docs/links/oneshot/
+	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
+	404	https://cscie28.dce.harvard.edu/~lib215/reference/programming/pikestyle.html
+	404	https://drive.google.com/file/d/1msGTeCIV0ZfHefb_MpHZDZqv8qcGnhEU/view
+	404	https://valerieaurora.org/tcpip.html
+	429	https://gist.github.com/geekodour/543d370e9e7816fe368d264374c86cfc
+	429	https://gist.github.com/geekodour/c5b6e49b3b2e355c0110b8f0f6fecfac
+	429	https://github.com/Raynos/topology
+	429	https://github.com/angrave/SystemProgramming/wiki
+	429	https://github.com/dominictarr/stack-expression
+	429	https://github.com/jamiebuilds/the-super-tiny-compiler
+	429	https://github.com/learnbyexample/Command-line-text-processing
+	429	https://github.com/reinderien/mimic
+	429	https://github.com/shellphish/how2heap
+	429	https://github.com/tree-sitter/tree-sitter
+	429	https://github.com/yarrick/pingfs
+	500	https://wtanaka.com/node/8136
+	504	http://www.linuxprogrammingblog.com/all-about-linux-signals?page=show
+	504	https://www.jelmer.uk/janitor-update-2.html
+	522	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
+	dialing to the given TCP address timed out	https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	id #/ not found	https://faculty.washington.edu/ajko/books/foundations-of-information/#/
+	timeout	https://ipfs.io/ipns/gkbrk.com/2017/10/putting-my-blog-on-ipfs/
+	x509: certificate is valid for webredirect.inria.fr, not modernc.gforge.inria.fr	https://modernc.gforge.inria.fr/
+https://wiki.itdobelikethat.org/docs/links/papers/
+	404	http://www.sigops.org/ew-history/1998/papers/mazieres.ps
+	404	https://arxiv.org/abs/1606.05519i
+	404	https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37755.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41342.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44860.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45409.pdf
+	404	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
+	404	https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
+	429	https://github.com/AljoschaMeyer/set-reconciliation
+	429	https://github.com/datprotocol/whitepaper/blob/master/dat-paper.pdf
+	429	https://github.com/hashicorp/research-resources
+	429	https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf
+	429	https://github.com/timelydataflow/differential-dataflow/blob/master/differentialdataflow.pdf
+	dial tcp4 162.255.119.129:443: connect: connection refused	https://www.rgoarchitects.com/Files/fallacies.pdf
+	dialing to the given TCP address timed out	http://ctmucommunity.org/wiki/
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/pdf/p2pecosystemreview2021.pdf
+	id #selection-113.133-113.150 not found	https://archive.is/2ZOLj#selection-113.133-113.150
+	timeout	https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf
+	x509: certificate has expired or is not yet valid	https://nikita.ca/papers/eigenspeed-iptps09.pdf
+	x509: certificate signed by unknown authority	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
+	x509: certificate signed by unknown authority	http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
+	x509: certificate signed by unknown authority	https://www.hpl.hp.com/techreports/tandem/TR-86.1.pdf
 https://wiki.itdobelikethat.org/docs/notes/unread_case_studies/
 	403	https://blog.stackpath.com/bpf-hook-points-part-1/
 	403	https://www.allthingsdistributed.com/2020/09/reinventing-virtualization-with-aws-nitro.html
@@ -437,6 +1023,7 @@ https://wiki.itdobelikethat.org/docs/notes/unread_case_studies/
 	429	https://github.com/geohot/minikeyvalue
 	429	https://github.com/getredash/redash
 	429	https://github.com/gotoz/runq
+	429	https://github.com/hwayne/awesome-cold-showers
 	429	https://github.com/ianpreston/redditfs
 	429	https://github.com/lorin/awesome-limits
 	429	https://github.com/rmarx/h3-protocol-stack
@@ -445,105 +1032,25 @@ https://wiki.itdobelikethat.org/docs/notes/unread_case_studies/
 	429	https://github.com/spacejam/sled
 	429	https://github.com/upgundecha/howtheyaws
 	429	https://github.com/upgundecha/howtheysre
-	521	https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/
-	dialing to the given TCP address timed out	https://mforney.org/blog/2020-05-21-securing-your-zone-with-dnssec-and-dane.html
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:53 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771931343364290; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MWFkNTk4YjMtNmE0NS00MmQyLTk3YWMtZDcxM2JkYTEyMGU1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/el_bhs/status/1349406398388400128
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:53 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771931351461454; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YzAwMGNlYTgtNzJlNS00NTZkLTg0YjMtZmNhMDI1NmZhZWVh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/el_bhs/status/1360276734344450050
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:55 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771931507818346; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-N2YyMzlhYzgtYTNmZS00Mzc4LTlmZWEtMTkwMjY3NTIwMmJm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/el_bhs/status/1375236202949799938
+	dialing to the given TCP address timed out	https://ferd.ca/a-pipeline-made-of-airbags.html
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:40 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780576036337004; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZGUyODI0NTQtZjE2MS00Y2EwLTg3ODEtYmQ4MjgyZTNmNWY3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/el_bhs/status/1349406398388400128
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:40 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780576061175354; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YTE2MDYxZWQtYzk3MS00NWUzLWI3MTgtYzE0MjFkMjM3ZGY5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/el_bhs/status/1360276734344450050
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Thu, 25 Nov 2021 02:02:41 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163780576179534648; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-OWY4NjcyMzctZmZjOS00YWZjLWEyM2ItNDk5MTlkNmQ5NjQ3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/el_bhs/status/1375236202949799938
 	id #slide=id.g35f391192_00 not found	https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/mobilepresent#slide=id.g35f391192_00
 	lookup aadrake.com: No address associated with hostname	https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
 	lookup docs.https.dev: no such host	https://docs.https.dev/acme-ops
-https://wiki.itdobelikethat.org/docs/links/papers/
-	404	http://www.sigops.org/ew-history/1998/papers/mazieres.ps
-	404	https://arxiv.org/abs/1606.05519i
-	404	https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37755.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41342.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44860.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45409.pdf
-	404	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
-	404	https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
-	429	https://github.com/AljoschaMeyer/set-reconciliation
-	429	https://github.com/datprotocol/whitepaper/blob/master/dat-paper.pdf
-	429	https://github.com/hashicorp/research-resources
-	429	https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf
-	429	https://github.com/timelydataflow/differential-dataflow/blob/master/differentialdataflow.pdf
-	dial tcp4 162.255.119.129:443: connect: connection refused	https://www.rgoarchitects.com/Files/fallacies.pdf
-	id #selection-113.133-113.150 not found	https://archive.is/2ZOLj#selection-113.133-113.150
-	timeout	https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf
-	x509: certificate has expired or is not yet valid	https://nikita.ca/papers/eigenspeed-iptps09.pdf
-	x509: certificate signed by unknown authority	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
-	x509: certificate signed by unknown authority	http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
-	x509: certificate signed by unknown authority	https://www.hpl.hp.com/techreports/tandem/TR-86.1.pdf
-https://wiki.itdobelikethat.org/docs/links/oneshot/
-	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
-	404	https://cscie28.dce.harvard.edu/~lib215/reference/programming/pikestyle.html
-	404	https://drive.google.com/file/d/1msGTeCIV0ZfHefb_MpHZDZqv8qcGnhEU/view
-	404	https://valerieaurora.org/tcpip.html
-	429	https://gist.github.com/geekodour/543d370e9e7816fe368d264374c86cfc
-	429	https://gist.github.com/geekodour/c5b6e49b3b2e355c0110b8f0f6fecfac
-	429	https://github.com/Raynos/topology
-	429	https://github.com/angrave/SystemProgramming/wiki
-	429	https://github.com/dominictarr/stack-expression
-	429	https://github.com/jamiebuilds/the-super-tiny-compiler
-	429	https://github.com/learnbyexample/Command-line-text-processing
-	429	https://github.com/reinderien/mimic
-	429	https://github.com/shellphish/how2heap
-	429	https://github.com/tree-sitter/tree-sitter
-	429	https://github.com/yarrick/pingfs
-	500	https://wtanaka.com/node/8136
-	504	http://www.linuxprogrammingblog.com/all-about-linux-signals?page=show
-	522	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
-	dialing to the given TCP address timed out	https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know
-	id #/ not found	https://faculty.washington.edu/ajko/books/foundations-of-information/#/
-	timeout	https://ipfs.io/ipns/gkbrk.com/2017/10/putting-my-blog-on-ipfs/
-	x509: certificate is valid for webredirect.inria.fr, not modernc.gforge.inria.fr	https://modernc.gforge.inria.fr/
-https://wiki.itdobelikethat.org/docs/notes/guides/web3/
-	403	http://len.falken.ink/web/perceived-relations-between-gopher-gemini-and-http.txt
-	404	https://crates.io/crates/actyxos_sdk
-	429	https://github.com/Antharia/awesome-lowtech
-	429	https://github.com/PigeonProtocolConsortium/pigeon-spec
-	429	https://github.com/RangerMauve/dat-workshop
-	429	https://github.com/Tribler/tribler
-	429	https://github.com/brutella/dnssd
-	429	https://github.com/coturn/coturn
-	429	https://github.com/earthstar-project/earthstar
-	429	https://github.com/forgefed/forgefed
-	429	https://github.com/google/physical-web
-	429	https://github.com/hypothesis
-	429	https://github.com/jminjie/fourhands
-	429	https://github.com/jskjott/webring
-	429	https://github.com/kr1sp1n/awesome-gemini
-	429	https://github.com/lminiero/jamrtc
-	429	https://github.com/mbrubeck/agate
-	429	https://github.com/mk270/blizanci
-	429	https://github.com/p2pcommons/sdk-js
-	429	https://github.com/p2pcommons/specs
-	429	https://github.com/pfrazee/ctzn
-	429	https://github.com/pion
-	429	https://github.com/redecentralize/alternative-internet
-	429	https://github.com/sangaline/wayback-machine-scraper
-	429	https://github.com/silicium14/peertube_index
-	429	https://github.com/skyjake/lagrange
-	429	https://github.com/tomeshnet/meshstream
-	429	https://github.com/tradle/why-hypercore
-	429	https://github.com/upspin/upspin
-	429	https://github.com/w2g/w2g
-	429	https://github.com/zerok/webmentiond
-	502	https://hummingbard.com/hummingbard/introducing-hummingbard
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:42 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A163771930284224573; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YzVhYTg5MzgtNjE3MC00YzNmLWEwM2UtZGM0MmE0YzJkOGQw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/anandchokkavelu/status/1371129975752044547
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Wed, 24 Nov 2021 02:01:46 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 163808\r\nConnection: close\r\nX-Powered-By: Express\r\nStrict-Transport-Security: max-age=31536"..."L0Lfoa1E3YsY=' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM='; img-src * data:; style-src 'self' 'unsafe-inline' https://assets-cdn.github.com https://github.githubassets.com https://assets.hac"	https://hackmd.io/ZRTimHheSU-mH3B6sg3Z0g
-	id #1 not found	https://blog.mauve.moe/slides/agregore-presentation/#1
-	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
-	timeout	https://iknowwhatyoudownload.com/en/peer/
-	x509: certificate has expired or is not yet valid	https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/
+	timeout	https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
+	timeout	https://netflixtechblog.com/byte-down-making-netflixs-data-infrastructure-cost-effective-fee7b3235032
+	timeout	https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f
 https://wiki.itdobelikethat.org/docs/notes/study/os/libs/
 	404	http://www.goldsborough.me/c/low-level/kernel/2016/08/29/16-48-53-the*-ld_preload-_trick/
 	409	http://www.visi.com/~barr/ldpath.html
 	429	https://gist.github.com/geekodour/9ec2eee223b4704aed5f69fee22561b8
 	429	https://github.com/hjl-tools/x86-psABI/wiki/X86-psABI
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/1.1536591b.js
+	dialing to the given TCP address timed out	https://wiki.itdobelikethat.org/docs/workshops/tech-guides
 	id #5469334 not found	https://stackoverflow.com/questions/5469274/what-does-plt-mean-here/5469334#5469334
 	id #SEC88 not found	http://web.mit.edu/gnu/doc/html/make_toc.html#SEC88
 	id #libraries not found	http://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html#libraries
