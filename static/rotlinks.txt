@@ -1,163 +1,160 @@
 https://wiki.itdobelikethat.org/docs/workshops/tech-guides/
 	x509: certificate has expired or is not yet valid	https://www.zytrax.com/books/dns/
 	x509: certificate has expired or is not yet valid	https://www.zytrax.com/books/ldap/
-https://wiki.itdobelikethat.org/docs/notes/research/
-	429	https://github.com/petar
-https://wiki.itdobelikethat.org/docs/notes/study/p2p/
-	429	https://github.com/ccding/go-stun
-	429	https://github.com/kgryte/awesome-peer-to-peer
-	429	https://github.com/pion/turn
-	429	https://github.com/wilfreddenton/udp-hole-punching
-https://wiki.itdobelikethat.org/docs/notes/case_studies/
-	404	https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/
-	429	https://github.com/golang/go/issues/23687#issuecomment-496705293
-	id #end-to-end-principle not found	https://wiki.itdobelikethat.org/docs/notes/study/internet#end-to-end-principle
-https://wiki.itdobelikethat.org/docs/notes/twitter/
-	dialing to the given TCP address timed out	https://twitter.com/ali01/status/1228348422056374272
-	dialing to the given TCP address timed out	https://twitter.com/david_perell/status/1228873220167753728
-	dialing to the given TCP address timed out	https://twitter.com/fortelabs/status/1251976256540696576
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875631425653035; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YWE2ZTY4OWQtYTRhOC00Y2UzLWI4ODQtNDMzNDc2MDBmNmU5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/1129212169701085186
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875631430206226; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NTkwZDQ0ZTAtODUwYi00ZWJjLTg2YzYtZTIwZjk5YzBjMTlm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ShriramKMurthi
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875631435204895; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-M2I2YWEyYTktZjdiYS00NDg2LTlhNTctOTM1MWRjY2VkMzEy'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/866490888519770114
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875631438054126; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YTg1YWNiYjMtYTJjYi00YjFlLWE0YTktM2E4ZjM2MDFlZTVj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ShriramKMurthi/status/1249081347857174533
+https://wiki.itdobelikethat.org/docs/notes/study/digital_rights/
+	404	http://www.loc.gov/teachers/copyrightmystery/text/files/
+https://wiki.itdobelikethat.org/docs/ideas/pantry/
+	429	https://github.com/0x263b/Otherside
+	429	https://github.com/GoogleChromeLabs/quicklink
+	429	https://github.com/ProjectDrawdown/solutions
+	429	https://github.com/captn3m0/ideas
+	429	https://github.com/chatwoot/chatwoot
+	429	https://github.com/fogleman/primitive
+	429	https://github.com/foodcoops/foodsoft
+	429	https://github.com/forem/forem
+	429	https://github.com/geekodour/reachout
+	429	https://github.com/imazen/imageflow
+	429	https://github.com/lexiross/fattest-cat
+	429	https://github.com/samsquire/ideas
+	429	https://github.com/samsquire/wants
+	429	https://github.com/segmentio/ksuid
+	429	https://github.com/sw-yx/spark-joy
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:23 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884290315551888; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MGNlNWExM2ItZmZhMy00MDVhLWE1Y2YtMzhkMTZjOGRkMTVl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/rsnous/status/1373691707326222337
+	lookup ahilapaati.com: no such host	https://ahilapaati.com/
+	lookup waitwho.is: no such host	https://waitwho.is/
 https://wiki.itdobelikethat.org/docs/tools/laptop_tools/
-	400	https://disconnected.systems/blog/archlinux-meta-packages/#organising-our-meta-packages
 	429	https://github.com/2mol/pboy
 	429	https://github.com/AleoHQ/wagyu
+	429	https://github.com/Alexays/Waybar
 	429	https://github.com/Canop/broot
 	429	https://github.com/Canop/lfs
-	429	https://github.com/Canop/rhit
-	429	https://github.com/Ciphey/Ciphey
-	429	https://github.com/CorentinJ/Real-Time-Voice-Cloning
 	429	https://github.com/Dr-Noob/cpufetch
 	429	https://github.com/FiloSottile/whoami.filippo.io
+	429	https://github.com/Foxboron/sbctl
 	429	https://github.com/GRVYDEV/Project-Lightspeed
-	429	https://github.com/Genymobile/scrcpy
+	429	https://github.com/Igglybuff/awesome-piracy
 	429	https://github.com/JaCzekanski/Avocado
 	429	https://github.com/Jguer/yay
 	429	https://github.com/Katee/quietnet
-	429	https://github.com/Kharacternyk/pacwall
-	429	https://github.com/Peltoche/lsd
-	429	https://github.com/RustScan/RustScan
-	429	https://github.com/WerWolv/ImHex
-	429	https://github.com/Y2Z/monolith
+	429	https://github.com/MontFerret/ferret
+	429	https://github.com/Swordfish90/cool-retro-term
 	429	https://github.com/adri/memex
-	429	https://github.com/akavel/up
+	429	https://github.com/ahmetb/kubectx
 	429	https://github.com/akshat46/FlyingFox
+	429	https://github.com/any1/wayvnc
 	429	https://github.com/apenwarr/netselect
-	429	https://github.com/asciimoo/drawille
-	429	https://github.com/atxdevops/dodatx-food
-	429	https://github.com/benjojo/sping
+	429	https://github.com/bcicen/ctop
+	429	https://github.com/birchb1024/frangipanni
 	429	https://github.com/burtonator/polar-bookshelf
 	429	https://github.com/casey/just
-	429	https://github.com/cespare/reflex
 	429	https://github.com/charmbracelet/bubbletea
 	429	https://github.com/contribsys/faktory
-	429	https://github.com/corkami/pics
-	429	https://github.com/dai-shi/excalidraw-animate
-	429	https://github.com/dandavison/delta
+	429	https://github.com/cooperhammond/irs
 	429	https://github.com/deepfakes/faceswap
-	429	https://github.com/derailed/k9s
+	429	https://github.com/deezer/spleeter
 	429	https://github.com/direnv/direnv
+	429	https://github.com/dutchcoders/transfer.sh
+	429	https://github.com/eloquence/freeyourstuff.cc
+	429	https://github.com/emilwallner/Screenshot-to-code
+	429	https://github.com/epi052/feroxbuster
 	429	https://github.com/esimov/caire
+	429	https://github.com/facebook/watchman
 	429	https://github.com/fatedier/frp
-	429	https://github.com/federico-terzi/espanso
 	429	https://github.com/flameshot-org/flameshot
-	429	https://github.com/flimzy/anki
+	429	https://github.com/fogleman/nes
 	429	https://github.com/geekodour/dotfiles
+	429	https://github.com/gen2brain/cam2ip
 	429	https://github.com/ggerganov/wave-share
 	429	https://github.com/git-tips/tips#everyday-git-in-twenty-commands-or-so
-	429	https://github.com/gleicon/pipecamp
-	429	https://github.com/hluk/CopyQ
+	429	https://github.com/iamadamdev/bypass-paywalls-chrome
 	429	https://github.com/iawia002/annie
-	429	https://github.com/iovisor/bcc
-	429	https://github.com/ivandokov/phockup
-	429	https://github.com/jacobian/notamazon
-	429	https://github.com/jarun/buku
-	429	https://github.com/jdan/cleaver
-	429	https://github.com/jedisct1/minisign
+	429	https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+	429	https://github.com/iorate/uBlacklist
+	429	https://github.com/iv-org/invidious
+	429	https://github.com/jesseduffield/lazydocker
 	429	https://github.com/jhchen/ansize
 	429	https://github.com/jhlyeung/rumin-web-clipper
+	429	https://github.com/jhspetersson/fselect
 	429	https://github.com/jifunks/botany
 	429	https://github.com/jmathai/elodie
 	429	https://github.com/kamranahmedse/pennywise
-	429	https://github.com/kdabir/has
+	429	https://github.com/kernc/logkeys
 	429	https://github.com/kickscondor/fraidycat
+	429	https://github.com/knadh/tg-archive
+	429	https://github.com/knqyf263/pet
 	429	https://github.com/koalaman/shellcheck
-	429	https://github.com/lettier/gifcurry
-	429	https://github.com/lucidrains/deep-daze
+	429	https://github.com/lengstrom/fast-style-transfer
+	429	https://github.com/lfit/itpol
+	429	https://github.com/linuxserver/Heimdall
+	429	https://github.com/lptstr/chmap
+	429	https://github.com/lyrebird-voice-changer/lyrebird
+	429	https://github.com/madler/pigz
 	429	https://github.com/martijnvanbrummelen/nwipe
-	429	https://github.com/mholt/archiver
+	429	https://github.com/mozilla/ssh_scan
 	429	https://github.com/msoap/shell2http
 	429	https://github.com/muesli/smartcrop
 	429	https://github.com/mvdan/sh
+	429	https://github.com/mylxsw/redis-tui
 	429	https://github.com/nanzhong/workstation
-	429	https://github.com/natpen/awesome-wayland
+	429	https://github.com/narwhalacademy/zebra-crossing
+	429	https://github.com/nayafia/microgrants
 	429	https://github.com/nelhage/reptyr
-	429	https://github.com/nemanjan00/uniread
+	429	https://github.com/nico2sh/semtag
 	429	https://github.com/notwaldorf/tiny-care-terminal
 	429	https://github.com/ntop/ntopng
+	429	https://github.com/nuno-faria/tiler
 	429	https://github.com/ogham/exa
-	429	https://github.com/owenthereal/upterm
 	429	https://github.com/owncast/owncast
+	429	https://github.com/oz/tz
+	429	https://github.com/pavlobu/deskreen
+	429	https://github.com/peco/peco
 	429	https://github.com/pemistahl/grex
 	429	https://github.com/phw/peek
+	429	https://github.com/pnpm/pnpm
 	429	https://github.com/posva/catimg
 	429	https://github.com/pyenv/pyenv
-	429	https://github.com/qarmin/czkawka
-	429	https://github.com/reorx/httpstat
+	429	https://github.com/rbenv/rbenv
 	429	https://github.com/rgburke/grv
 	429	https://github.com/runrin/tt
 	429	https://github.com/s0md3v/Photon
 	429	https://github.com/sbstp/kubie
-	429	https://github.com/schollz/croc
-	429	https://github.com/simeji/jid
-	429	https://github.com/skatiyar/pacman
+	429	https://github.com/shazow/ssh-chat
+	429	https://github.com/so-fancy/diff-so-fancy
+	429	https://github.com/soveran/map
 	429	https://github.com/soypat/gitaligned
 	429	https://github.com/sqshq/sampler
 	429	https://github.com/sshuttle/sshuttle
-	429	https://github.com/starship/starship
+	429	https://github.com/stoicaviator/arch_metapackage_guide
+	429	https://github.com/supabase/postgres
 	429	https://github.com/teenyicons/teenyicons
-	429	https://github.com/tmrts/boilr
-	429	https://github.com/trashhalo/imgcat
+	429	https://github.com/tfeldmann/organize
+	429	https://github.com/thesephist/histools
+	429	https://github.com/tmuxinator/tmuxinator
+	429	https://github.com/traefik/yaegi
 	429	https://github.com/tridactyl/tridactyl
 	429	https://github.com/tylertreat/comcast
-	429	https://github.com/vvilhonen/nethoscope
-	429	https://github.com/wagoodman/dive
 	429	https://github.com/weihanglo/sfz
 	429	https://github.com/wtfutil/wtf
+	429	https://github.com/xyproto/fstabfmt
 	429	https://github.com/yory8/clipman
-	429	https://github.com/yrp604/rappel
 	429	https://github.com/zedeus/nitter
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:11 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875631129528380; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MTkwNDdlNzgtMWQzMy00NDFlLTkxZjYtMDAyNDE3MjhiODdk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/radicle/status/1364980998530879498
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:12 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875631242534453; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MzNjNmZkOWEtYWY5OC00NmNiLWE0N2QtZTIyNWM4MjY4NDZi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/thingskatedid/status/1386077306381242371
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:13 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875631315069671; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZWM3YmY0MzUtZTkwYy00ZjIwLWFlZTktMTFlOWU5ODNiOGE0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/archillect
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:20 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884289997384592; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MTZmZTg5NGItMmQyZC00NjRjLTgyOGUtMzkyZDg3ODg4NzJi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/archillect
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:21 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884290101064805; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YmNjYjczYjMtYjI2ZS00ZTUxLWFkNjgtYTlmMDE1OGY2NmFk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/thingskatedid/status/1386077306381242371
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:21 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884290109080467; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZDA0MGNlNTQtNjE3ZC00NjBkLTkxNjQtZWVjMjkzYmMzZDBl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/radicle/status/1364980998530879498
 	id #L156-L179 not found	https://code.p1k3.com/gitea/brennen/bpb-kit/src/branch/main/home/.sh_common#L156-L179
-https://wiki.itdobelikethat.org/docs/notes/guides/quantify/
-	429	https://github.com/AnandChowdhary/life-data
-	429	https://github.com/JacobEvelyn/friends
-	429	https://github.com/KrauseFx/FxLifeSheet
-	429	https://github.com/almarklein/timetagger
-	429	https://github.com/cheeaun/life
-	429	https://github.com/getredash/redash
-	429	https://github.com/heedy/heedy
-	429	https://github.com/metabase/metabase
-	429	https://github.com/mr-karan/swiggy-analytics/tree/master/swiggy_analytics
-	429	https://github.com/nicbou/timeline
-	429	https://github.com/schollz/howmanypeoplearearound
-	429	https://github.com/sourcegraph/thyme
-	429	https://github.com/tmcw/running-for-nerds
-	429	https://github.com/turbomaze/28-hour-day
-	429	https://github.com/woop/awesome-quantified-self
-https://wiki.itdobelikethat.org/docs/notes/questions/
-	id #classification not found	https://wiki.itdobelikethat.org/docs/notes/study/comp_arch#classification
-	id #virtual-memory not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#virtual-memory
-https://wiki.itdobelikethat.org/docs/notes/podcasts/
-	404	https://player.fm/series/crazy-wisdom-2497498/how-to-tell-a-computer-what-to-do-stephen-wolfram-founder-ceo-wolfram-alpha
+https://wiki.itdobelikethat.org/docs/ideas/ideas_in_ed/
+	429	https://github.com/PharkMillups/beautiful-docs
+	429	https://github.com/mathigon/textbooks
+https://wiki.itdobelikethat.org/docs/notes/twitter/
+	dialing to the given TCP address timed out	https://twitter.com/fortelabs/status/1251976256540696576
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:24 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884290402219613; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MGQ4ZmZmOTQtMjQ2Yy00ZTc5LTgyZDEtNWQzMTk5MTI4NjI2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/866490888519770114
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:24 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884290409912614; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZDFiZTdkNGQtZWJlYi00MGJlLWEyZmItNDUzNmFiNmNiMGY2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/1129212169701085186
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:24 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884290416889440; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NjVhNjI4OGItNWI4Yi00ODRhLWJlMjctMzUxYTdjNWM4ODBm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/david_perell/status/1228873220167753728
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:24 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884290418007497; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-N2YwZTQxYjgtN2JhOC00NmUzLThlMTctZmVjZGVmOTkxODRh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ShriramKMurthi
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:24 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884290422674034; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NjM1MDFmMDctM2U4ZS00ZWE4LTg3ZGUtY2ViNjRhZmYzNDE1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ali01/status/1228348422056374272
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:24 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884290427121573; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MWE1OWVjZDktOGQwYS00ZGIwLWFiYmItYWJlYWUwNzUyZWQ3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/ShriramKMurthi/status/1249081347857174533
 https://wiki.itdobelikethat.org/docs/notes/guides/communities/
 	lookup cstheory.stackexchange.co: no such host	https://cstheory.stackexchange.co
-https://wiki.itdobelikethat.org/docs/notes/study/digital_rights/
-	404	http://www.loc.gov/teachers/copyrightmystery/text/files/
 https://wiki.itdobelikethat.org/docs/notes/study/programming_langs/ruby/
 	429	https://github.com/rubocop-hq/ruby-style-guide#no-character-literals
 	429	https://github.com/rubocop-hq/ruby-style-guide/issues/631
@@ -165,9 +162,30 @@ https://wiki.itdobelikethat.org/docs/notes/study/programming_langs/ruby/
 	lookup rubylearning.com: no such host	http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html
 https://wiki.itdobelikethat.org/docs/notes/study/security/
 	429	https://github.com/veeral-patel/how-to-secure-anything
-https://wiki.itdobelikethat.org/docs/courses/others/accessp2p/
-	429	https://github.com/warner/magic-wormhole
-	429	https://github.com/warner/magic-wormhole/issues/348
+https://wiki.itdobelikethat.org/docs/notes/questions/
+	id #classification not found	https://wiki.itdobelikethat.org/docs/notes/study/comp_arch#classification
+	id #virtual-memory not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#virtual-memory
+https://wiki.itdobelikethat.org/docs/notes/research/
+	429	https://github.com/petar
+https://wiki.itdobelikethat.org/docs/ideas/timelines/
+	429	https://github.com/CUTR-at-USF/awesome-transit
+	429	https://github.com/ColCarroll/ridge_map
+	429	https://github.com/UDST/vizicities
+	429	https://github.com/fogleman/PirateMap
+	429	https://github.com/mapnificent/mapnificent
+	429	https://github.com/microsoft/SandDance
+	429	https://github.com/public-transport/generating-transit-maps
+	429	https://github.com/tabatkins/railroad-diagrams
+	429	https://github.com/transitland/transitland-processing-animation
+	429	https://github.com/wwcline/list-of-frequent-transit-maps
+	id #zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF not found	https://www.lightpollutionmap.info/#zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF
+https://wiki.itdobelikethat.org/docs/notes/history/
+	404	https://computer.rip/https://buttondown.email/hillelwayne/archive/oracle-testing/
+	429	https://github.com/geekodour/wiki/blob/master/docs/notes/history.md
+	429	https://github.com/watson/awesome-computer-history
+	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
+	id #eeprom not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#eeprom
+	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
 https://wiki.itdobelikethat.org/docs/notes/guides/web3/
 	403	http://len.falken.ink/web/perceived-relations-between-gopher-gemini-and-http.txt
 	404	https://crates.io/crates/actyxos_sdk
@@ -201,36 +219,40 @@ https://wiki.itdobelikethat.org/docs/notes/guides/web3/
 	429	https://github.com/w2g/w2g
 	429	https://github.com/zerok/webmentiond
 	502	https://hummingbard.com/hummingbard/introducing-hummingbard
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:24 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875632446211191; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ODljNmM3YjQtNDE0Zi00Yjc5LTlhOTgtNGVmMGNkNDFjNWFk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/anandchokkavelu/status/1371129975752044547
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:25 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 163808\r\nConnection: close\r\nX-Powered-By: Express\r\nStrict-Transport-Security: max-age=31536"..."s9ZxesA+4xg0QDSrdI=' 'sha256-8HvL1KRq6jEwDkuVgxMDK7Gag1vnT70L0Lfoa1E3YsY=' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM='; img-src * data:; style-src 'self' 'unsafe-inline' https://assets-cdn.g"	https://hackmd.io/ZRTimHheSU-mH3B6sg3Z0g
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:31 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291100829193; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-M2QzYWEyMGMtMmUxZi00ZjY1LTgzNjYtYmRmZWJjNDY5ZWVm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/anandchokkavelu/status/1371129975752044547
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:32 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 163808\r\nConnection: close\r\nX-Powered-By: Express\r\nStrict-Transport-Security: max-age=31536"..."L0Lfoa1E3YsY=' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM='; img-src * data:; style-src 'self' 'unsafe-inline' https://assets-cdn.github.com https://github.githubassets.com https://assets.hac"	https://hackmd.io/ZRTimHheSU-mH3B6sg3Z0g
 	id #1 not found	https://blog.mauve.moe/slides/agregore-presentation/#1
 	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
 	x509: certificate has expired or is not yet valid	https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/
-https://wiki.itdobelikethat.org/docs/courses/others/gc_essentials_udemy/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:28 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nCf-Ray: 6b91f308abb308be-SEA\r\nAge: 0\r\nCache-Control: max-ag"..." 02:05:28 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_device=None; expires=Tue, 07 Dec 2021 02:05:28 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_modern_browser=0; expires=Tue"	https://www.udemy.com/course/essentials-of-garbage-collectors/
 https://wiki.itdobelikethat.org/docs/ideas/drawing_ducks/
 	too many redirections	https://ebird.org/home
-https://wiki.itdobelikethat.org/docs/workshops/projects/
-	404	http://seriot.ch/ntp.php
-	429	https://github.com/Pithikos/C-Thread-Pool
-	429	https://github.com/antirez/rax
-	429	https://github.com/async-raft/async-raft
-	429	https://github.com/erikgrinaker/toydb
-	429	https://github.com/jamesroutley/write-a-hash-table
-	429	https://github.com/josevalim/nested-data-structure-traversal
-	429	https://github.com/jpillora/chisel
-	429	https://github.com/karan/Projects-Solutions
-	429	https://github.com/pomerium/autocache
-	429	https://github.com/serialx/hashring
-	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
-https://wiki.itdobelikethat.org/docs/notes/history/
-	404	https://computer.rip/https://buttondown.email/hillelwayne/archive/oracle-testing/
-	429	https://github.com/geekodour/wiki/blob/master/docs/notes/history.md
-	429	https://github.com/watson/awesome-computer-history
-	503	https://worldwideweb.cern.ch/worldwideweb/
-	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
-	id #eeprom not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#eeprom
-	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
+https://wiki.itdobelikethat.org/docs/notes/case_studies/
+	404	https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/
+	429	https://github.com/golang/go/issues/23687#issuecomment-496705293
+	id #end-to-end-principle not found	https://wiki.itdobelikethat.org/docs/notes/study/internet#end-to-end-principle
+https://wiki.itdobelikethat.org/docs/notes/guides/quantify/
+	429	https://github.com/AnandChowdhary/life-data
+	429	https://github.com/JacobEvelyn/friends
+	429	https://github.com/KrauseFx/FxLifeSheet
+	429	https://github.com/almarklein/timetagger
+	429	https://github.com/cheeaun/life
+	429	https://github.com/getredash/redash
+	429	https://github.com/heedy/heedy
+	429	https://github.com/metabase/metabase
+	429	https://github.com/mr-karan/swiggy-analytics/tree/master/swiggy_analytics
+	429	https://github.com/nicbou/timeline
+	429	https://github.com/schollz/howmanypeoplearearound
+	429	https://github.com/sourcegraph/thyme
+	429	https://github.com/tmcw/running-for-nerds
+	429	https://github.com/turbomaze/28-hour-day
+	429	https://github.com/woop/awesome-quantified-self
+https://wiki.itdobelikethat.org/docs/notes/study/p2p/
+	429	https://github.com/ccding/go-stun
+	429	https://github.com/kgryte/awesome-peer-to-peer
+	429	https://github.com/pion/turn
+	429	https://github.com/wilfreddenton/udp-hole-punching
+https://wiki.itdobelikethat.org/docs/notes/podcasts/
+	404	https://player.fm/series/crazy-wisdom-2497498/how-to-tell-a-computer-what-to-do-stephen-wolfram-founder-ceo-wolfram-alpha
 https://wiki.itdobelikethat.org/docs/links/blogs/
 	429	https://github.com/Quartz/bad-data-guide
 	429	https://github.com/copyconstruct/library
@@ -251,8 +273,8 @@ https://wiki.itdobelikethat.org/docs/links/blogs/
 	429	https://github.com/rxin/db-readings
 	429	https://github.com/vmbrasseur/Public_Speaking
 	429	https://github.com/watson/awesome-computer-history
-	dialing to the given TCP address timed out	https://twitter.com/james_d_baird/status/1379113187983908866
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Mon, 06 Dec 2021 02:05:32 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=e542717c-091e-4d04-9cc"..."s: http: https://cdn.amplitude.com https://api.amplitude.com https://hkfxbbdzib.notion.so https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.i"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:41 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884292152497858; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NDY5YmI2Y2YtZWUxMy00YWYyLThjNGQtMTNlYjFlYThkYmU1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/james_d_baird/status/1379113187983908866
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Tue, 07 Dec 2021 02:08:41 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=b13e5e1c-28f5-46ad-9ef"..."s: http: https://cdn.amplitude.com https://api.amplitude.com https://hkfxbbdzib.notion.so https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.i"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
 	id #/app/visakanv-public/page/aHYzCZnry not found	https://roamresearch.com/#/app/visakanv-public/page/aHYzCZnry
 	lookup en.arguman.org: no such host	https://en.arguman.org/
 https://wiki.itdobelikethat.org/docs/links/others/dump/
@@ -265,81 +287,31 @@ https://wiki.itdobelikethat.org/docs/links/others/dump/
 	429	https://github.com/kbumsik/VirtScreen
 	429	https://github.com/neutrinolabs/xrdp
 	429	https://github.com/stapelberg/costream
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:32 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875633277361192; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-N2ZlZDU1YmEtMjIwMS00MmVkLWFhMDYtYzVhYzllYmU5YTFl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/rajbhagatt/status/1260588325846560774
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:42 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884292264284392; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MjEyZDQ4NTUtNmUwZS00NjAyLTk0MDktMzNjZDNjYWIzYWFi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/rajbhagatt/status/1260588325846560774
 	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
 https://wiki.itdobelikethat.org/docs/links/tweets/
-	dialing to the given TCP address timed out	https://twitter.com/KevinSimler/status/1171278541788348416
-	dialing to the given TCP address timed out	https://twitter.com/NirantK/status/1234077539020050432
 	dialing to the given TCP address timed out	https://twitter.com/ShriramKMurthi/status/1223053225705852929
-	dialing to the given TCP address timed out	https://twitter.com/daveambrose/status/864476831306719232
-	dialing to the given TCP address timed out	https://twitter.com/elamje/status/1280714011990913024
 	dialing to the given TCP address timed out	https://twitter.com/i/status/1093552400453885958
-	dialing to the given TCP address timed out	https://twitter.com/james_d_baird/status/1372936895668322309
-	dialing to the given TCP address timed out	https://twitter.com/michael_nielsen/status/1081070044648398848
-	dialing to the given TCP address timed out	https://twitter.com/visakanv/status/1296877467940995073
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:33 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875633359933007; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NzBiNzcwZDMtMzY3MC00ZmQyLTg0MDEtYmRmM2M1Yjg2NmQ0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/patio11/status/936615043126370306
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:33 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875633367483996; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NzQzYmU4ZjgtMGEzMy00ZjAxLWI5YjYtMzRjNWM4ODlhNzRl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/crystaljjlee/status/1358171293456035840
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:33 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875633371511423; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-OTVlNzk2Y2EtOGM4Ni00MmRjLTgyMmItM2NmYTljMzc3Yzg4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/michael_nielsen/status/1098098218565390337
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:33 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875633388899724; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MWNiMzQ3N2ItYTk1Yi00ZTQ5LWFiMDUtMjQxOWQ3NDRmM2Vj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/michael_nielsen/status/1224902391331319809
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:34 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875633407129356; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MTk1NDMzMjAtM2MzYS00ZTg2LWFkNDctNmVhOWFjODhmYjJk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/paraschopra/status/1346688696599252993
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:34 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875633412021898; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NWQ0Y2JjZWItNjVmNC00MjkwLTk4M2YtYzY2ODUxM2MwNDUz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/avichal/status/1250906803849711616
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:34 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875633448709723; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NjY5NmE4ODMtZmVkZS00ZTAzLThmYjktYjkxOWMwYTM1N2Zk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/1088354634429677570
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:34 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875633466978248; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MGNmYzAyYTUtMzg1Yi00ZmE3LWIwMWQtMDJjNGRjYzE4MTZk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/shreyas/status/1303150374124048386
-https://wiki.itdobelikethat.org/docs/ideas/pantry/
-	429	https://github.com/0x263b/Otherside
-	429	https://github.com/GoogleChromeLabs/quicklink
-	429	https://github.com/ProjectDrawdown/solutions
-	429	https://github.com/captn3m0/ideas
-	429	https://github.com/chatwoot/chatwoot
-	429	https://github.com/fogleman/primitive
-	429	https://github.com/foodcoops/foodsoft
-	429	https://github.com/forem/forem
-	429	https://github.com/geekodour/reachout
-	429	https://github.com/imazen/imageflow
-	429	https://github.com/lexiross/fattest-cat
-	429	https://github.com/samsquire/ideas
-	429	https://github.com/samsquire/wants
-	429	https://github.com/segmentio/ksuid
-	429	https://github.com/sw-yx/spark-joy
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:42 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875634236845164; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YTUwY2I4NjktNjI2Yy00ODA4LThjNjAtNDY3YWU0YjQwNmE5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/rsnous/status/1373691707326222337
-	lookup ahilapaati.com: no such host	https://ahilapaati.com/
-	lookup waitwho.is: no such host	https://waitwho.is/
-https://wiki.itdobelikethat.org/docs/tools/db/others/
-	404	https://lyft.github.io/amundsen/
-	429	https://github.com/MichaelMure/git-bug/blob/master/doc/model.md
-	429	https://github.com/buraksezer/olric
-https://wiki.itdobelikethat.org/docs/tools/open_source_projects/
-	429	https://github.com/TomerAberbach/grfn
-	429	https://github.com/ahosna/Pi0AudioBook
-	429	https://github.com/automerge/automerge
-	429	https://github.com/chr15m/slingcode
-	429	https://github.com/everestpipkin/tools-list
-	429	https://github.com/kdzwinel/SnappySnippet
-	429	https://github.com/matcornic/hermes
-	429	https://github.com/matt-auckland/retro-css
-	429	https://github.com/mitsuhiko/indicatif
-	429	https://github.com/nextapps-de/winbox
-	429	https://github.com/oidoid/mem
-	429	https://github.com/osquery/osquery
-	429	https://github.com/samsonmking/epaper.js
-	429	https://github.com/skydive-project/skydive
-	429	https://github.com/slatedocs/slate
-	429	https://github.com/tidwall/cities
-	429	https://github.com/timqian/chart.xkcd
-	429	https://github.com/valeriansaliou/sonic
-	id #/ not found	https://mermaid-js.github.io/mermaid/#/
-https://wiki.itdobelikethat.org/docs/ideas/timelines/
-	429	https://github.com/CUTR-at-USF/awesome-transit
-	429	https://github.com/ColCarroll/ridge_map
-	429	https://github.com/UDST/vizicities
-	429	https://github.com/fogleman/PirateMap
-	429	https://github.com/mapnificent/mapnificent
-	429	https://github.com/microsoft/SandDance
-	429	https://github.com/public-transport/generating-transit-maps
-	429	https://github.com/tabatkins/railroad-diagrams
-	429	https://github.com/transitland/transitland-processing-animation
-	429	https://github.com/wwcline/list-of-frequent-transit-maps
-	id #zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF not found	https://www.lightpollutionmap.info/#zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF
+	dialing to the given TCP address timed out	https://twitter.com/paraschopra/status/1346688696599252993
+	dialing to the given TCP address timed out	https://twitter.com/shreyas/status/1303150374124048386
+	dialing to the given TCP address timed out	https://twitter.com/visakanv/status/1088354634429677570
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291609983810; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZGY1MzJkZGQtNzc2NC00MDc5LWEzZTgtYjk2YjYwYWE4Nzcx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/michael_nielsen/status/1081070044648398848
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291610071707; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MzA0ZmQ4OWYtNGQxNi00ODNiLTljZDMtMjg5NzUwYWJhZDhj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/NirantK/status/1234077539020050432
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291615770730; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MWYyMDM3Y2UtYmE2MC00MTAxLWFhYWYtYjhiZWExYjliZmNi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/KevinSimler/status/1171278541788348416
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291616996309; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ODhhNjg4NzUtMDM3NS00MGY3LTljZTktMjZiN2NlOTZiMTNh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/michael_nielsen/status/1224902391331319809
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291621183252; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NjllMmM4NmUtNTMwNi00NDc2LThjODEtNDUxYTkyMzlhZjVh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/crystaljjlee/status/1358171293456035840
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291623227343; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-NzQ0ZTFmNGEtMDljNS00MDA3LWE0YWQtZGE3NzhjOWViMWQy'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/patio11/status/936615043126370306
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291634235875; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YzI4ZjVjZTQtYzg0NS00YjA5LTkwMDMtZWRlM2MxNjBmZmJl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/daveambrose/status/864476831306719232
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291635516748; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZjJmYThhZDMtZDRlNS00YWJiLWI0NTctOGIwMTVhMTM0ZmQx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/visakanv/status/1296877467940995073
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291639693532; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZTA1ZjRkNmEtNzNiMS00Yjk3LWJmNzQtYWRhYzg5YjI0OTg3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/elamje/status/1280714011990913024
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291658752217; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MDMyMDNlZmQtM2NlMy00ODdjLTlkMzMtOWVlZDIwOWI4ZDk4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/james_d_baird/status/1372936895668322309
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291667853661; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-MGM5ZmY1MGYtMTVlZi00MzFiLTkxNmYtODc0MzljMzAzYTYx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/michael_nielsen/status/1098098218565390337
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884291695978526; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZGM2MWMxZDItYmVhZS00ZjgzLWExODQtM2FhOWQ4ZTNjYzcx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/avichal/status/1250906803849711616
+https://wiki.itdobelikethat.org/docs/courses/others/accessp2p/
+	429	https://github.com/warner/magic-wormhole
+	429	https://github.com/warner/magic-wormhole/issues/348
+https://wiki.itdobelikethat.org/docs/courses/others/gc_essentials_udemy/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:50 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nCf-Ray: 6b9a35561e0d600a-SEA\r\nAge: 0\r\nCache-Control: max-ag"..."th=/; Secure\r\nSet-Cookie: ud_cache_device=None; expires=Wed, 08 Dec 2021 02:08:50 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_modern_browser=0; expires=Wed, 08 Dec 2021 02:08:50 GMT; Max-"	https://www.udemy.com/course/essentials-of-garbage-collectors/
 https://wiki.itdobelikethat.org/docs/tools/self_hosting/
 	429	https://github.com/42wim/matterbridge
 	429	https://github.com/AdguardTeam/AdGuardHome
@@ -391,11 +363,27 @@ https://wiki.itdobelikethat.org/docs/tools/self_hosting/
 	429	https://github.com/tonarino/innernet
 	429	https://github.com/yrutschle/sslh
 	x509: certificate signed by unknown authority	https://piratebox.cc/goals
-https://wiki.itdobelikethat.org/docs/ideas/ideas_in_ed/
-	429	https://github.com/PharkMillups/beautiful-docs
-	429	https://github.com/mathigon/textbooks
+https://wiki.itdobelikethat.org/docs/tools/open_source_projects/
+	429	https://github.com/TomerAberbach/grfn
+	429	https://github.com/ahosna/Pi0AudioBook
+	429	https://github.com/automerge/automerge
+	429	https://github.com/chr15m/slingcode
+	429	https://github.com/everestpipkin/tools-list
+	429	https://github.com/kdzwinel/SnappySnippet
+	429	https://github.com/matcornic/hermes
+	429	https://github.com/matt-auckland/retro-css
+	429	https://github.com/mitsuhiko/indicatif
+	429	https://github.com/nextapps-de/winbox
+	429	https://github.com/oidoid/mem
+	429	https://github.com/osquery/osquery
+	429	https://github.com/samsonmking/epaper.js
+	429	https://github.com/skydive-project/skydive
+	429	https://github.com/slatedocs/slate
+	429	https://github.com/tidwall/cities
+	429	https://github.com/timqian/chart.xkcd
+	429	https://github.com/valeriansaliou/sonic
+	id #/ not found	https://mermaid-js.github.io/mermaid/#/
 https://wiki.itdobelikethat.org/docs/tools/workstation/
-	429	https://github.com/corkami/pics
 	429	https://github.com/formatc1702/WireViz
 	429	https://github.com/fulldecent/system-bus-radio
 	429	https://github.com/googlecreativelab/anypixel
@@ -403,7 +391,20 @@ https://wiki.itdobelikethat.org/docs/tools/workstation/
 	429	https://github.com/maxandersen/internet-monitoring
 	429	https://github.com/rtr7/router7
 	429	https://github.com/seemoo-lab/openhaystack
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:44 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=1e2c9b9a-9086-4a80-a8e8-8b69d"...": https://cdn.amplitude.com https://api.amplitude.com https://hkfxbbdzib.notion.so https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.io https"	https://www.notion.so/A-Beginner-s-Guide-to-Houseplants-f90190a8c15b4bb8b65c60f16e3f9502
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:50 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=d84fba34-df55-4b68-8887-91637"...": https://cdn.amplitude.com https://api.amplitude.com https://hkfxbbdzib.notion.so https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom.io wss://nexus-websocket-a.intercom.io https"	https://www.notion.so/A-Beginner-s-Guide-to-Houseplants-f90190a8c15b4bb8b65c60f16e3f9502
+https://wiki.itdobelikethat.org/docs/workshops/projects/
+	404	http://seriot.ch/ntp.php
+	429	https://github.com/Pithikos/C-Thread-Pool
+	429	https://github.com/antirez/rax
+	429	https://github.com/async-raft/async-raft
+	429	https://github.com/erikgrinaker/toydb
+	429	https://github.com/jamesroutley/write-a-hash-table
+	429	https://github.com/josevalim/nested-data-structure-traversal
+	429	https://github.com/jpillora/chisel
+	429	https://github.com/karan/Projects-Solutions
+	429	https://github.com/pomerium/autocache
+	429	https://github.com/serialx/hashring
+	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
 https://wiki.itdobelikethat.org/docs/tools/db/promql/
 	429	https://github.com/cloudflare/pint
 	429	https://github.com/infinityworks/prometheus-example-queries
@@ -415,18 +416,32 @@ https://wiki.itdobelikethat.org/docs/tools/db/promql/
 	429	https://github.com/prometheus/prometheus/issues/5415
 	429	https://github.com/prometheus/prometheus/pull/7011
 	id #errors not found	https://promtools.dev/#errors
+https://wiki.itdobelikethat.org/docs/tools/db/others/
+	404	https://lyft.github.io/amundsen/
+	429	https://github.com/MichaelMure/git-bug/blob/master/doc/model.md
+	429	https://github.com/buraksezer/olric
+https://wiki.itdobelikethat.org/docs/notes/study/memory/gc/
+	429	https://github.com/golang/go/blob/master/src/runtime/malloc.go
+	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
+https://wiki.itdobelikethat.org/docs/notes/study/os/elf/
+	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Tue, 07 Dec 2021 02:08:55 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nStrict-Transport-Security: max-age=31536000\r"..."eclick.net *.youtube.com; child-src 'self' *.intezer.com; base-uri 'self' *.intezer.com; form-action 'self' https://*.twitter.com/; worker-src 'self' *.intezer.com; report-uri https://gate.rapidsec.ne"	https://www.intezer.com/blog/research/executable-linkable-format-101-part1-sections-segments/
+https://wiki.itdobelikethat.org/docs/notes/study/math/matrix/
+	429	https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0
+https://wiki.itdobelikethat.org/docs/notes/study/memory/alloc/
+	429	https://gist.github.com/geekodour/543d370e9e7816fe368d264374c86cfc
+https://wiki.itdobelikethat.org/docs/notes/study/os/interrupts/
+	dialing to the given TCP address timed out	https://www.tldp.org/LDP/lkmpg/2.4/html/x1210.html
 https://wiki.itdobelikethat.org/docs/notes/study/os/resource_mgmt/
 	404	http://geekswing.com/geek/quickie-tutorial-ulimit-soft-limits-hard-limits-soft-stack-hard-stack/
 	404	http://www.linuxfromscratch.org/lfs/view/7.2/chapter06/util-linux.html
+	dialing to the given TCP address timed out	https://www.tldp.org/LDP/sag/html/buffer-cache.html
 	id #:~:text=There are two types of,user once it is set.&text=A soft limit, however, can,equal to 'hard limit' not found	https://serverfault.com/questions/265155/soft-limit-vs-hard-limit#:~:text=There%20are%20two%20types%20of,user%20once%20it%20is%20set.&text=A%20soft%20limit,%20however,%20can,equal%20to%20%27hard%20limit%27
 	lookup nics.tennessee.edufaq: no such host	https://www.nics.tennessee.edu/faq/general-how-do-i-change-my-default-limits-stack-size-core-file-size-etc#:~:text=The%20soft%20limit%20is%20the,decreased,%20but%20its%20not%20recommended
 	mime: invalid media parameter	https://www.ibm.com/support/knowledgecenter/SSCRJU_4.1.1/com.ibm.streams.install.doc/doc/ibminfospherestreams-install-operating-system-settings.html
-https://wiki.itdobelikethat.org/docs/notes/study/os/elf/
-	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nServer: nginx\r\nDate: Mon, 06 Dec 2021 02:05:49 GMT\r\nContent-Type: text/html; charset=UTF-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nStrict-Transport-Security: max-age=31536000\r"..."eclick.net *.youtube.com; child-src 'self' *.intezer.com; base-uri 'self' *.intezer.com; form-action 'self' https://*.twitter.com/; worker-src 'self' *.intezer.com; report-uri https://gate.rapidsec.ne"	https://www.intezer.com/blog/research/executable-linkable-format-101-part1-sections-segments/
-https://wiki.itdobelikethat.org/docs/notes/study/p2p/nat/
-	429	https://github.com/pion/turn
-	id #selection-15.0-20.0 not found	https://archive.is/u7His#selection-15.0-20.0
+https://wiki.itdobelikethat.org/docs/notes/study/math/log/
+	404	https://qedinsight.wordpress.com/2011/04/17/a-practical-use-for-logarithms/
+	404	https://qedinsight.wordpress.com/2011/04/22/a-practical-use-for-logarithms-part-2-how-we-multiplied-large-numbers-40-years-ago-and-how-integral-transforms-use-the-same-basic-idea/
 https://wiki.itdobelikethat.org/docs/notes/study/go_lang/pprof/
 	429	https://github.com/golang/go/wiki/Performance
 	429	https://github.com/golang/proposal/blob/master/design/17280-profile-labels.md
@@ -440,20 +455,10 @@ https://wiki.itdobelikethat.org/docs/notes/study/go_lang/pprof/
 	429	https://github.com/google/pprof/tree/master/third_party
 	429	https://github.com/pkg/profile
 	429	https://github.com/profefe/profefe
-https://wiki.itdobelikethat.org/docs/notes/study/math/matrix/
-	429	https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0
-https://wiki.itdobelikethat.org/docs/notes/study/math/log/
-	404	https://qedinsight.wordpress.com/2011/04/17/a-practical-use-for-logarithms/
-	404	https://qedinsight.wordpress.com/2011/04/22/a-practical-use-for-logarithms-part-2-how-we-multiplied-large-numbers-40-years-ago-and-how-integral-transforms-use-the-same-basic-idea/
-https://wiki.itdobelikethat.org/docs/notes/study/memory/alloc/
-	429	https://gist.github.com/geekodour/543d370e9e7816fe368d264374c86cfc
-https://wiki.itdobelikethat.org/docs/notes/study/memory/gc/
-	429	https://github.com/golang/go/blob/master/src/runtime/malloc.go
-	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
-https://wiki.itdobelikethat.org/docs/notes/study/math/functions/
-	dialing to the given TCP address timed out	http://mathonweb.com/help_ebook/html/functions_4.htm
-https://wiki.itdobelikethat.org/docs/notes/study/memory/vm/
-	dialing to the given TCP address timed out	https://wiki.osdev.org/Paging
+	dialing to the given TCP address timed out	https://artem.krylysov.com/blog/2017/03/13/profiling-and-optimizing-go-web-applications/
+https://wiki.itdobelikethat.org/docs/notes/study/p2p/nat/
+	429	https://github.com/pion/turn
+	id #selection-15.0-20.0 not found	https://archive.is/u7His#selection-15.0-20.0
 https://wiki.itdobelikethat.org/docs/links/papers/
 	404	http://www.sigops.org/ew-history/1998/papers/mazieres.ps
 	404	https://arxiv.org/abs/1606.05519i
@@ -479,32 +484,6 @@ https://wiki.itdobelikethat.org/docs/links/papers/
 	x509: certificate signed by unknown authority	http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
 	x509: certificate signed by unknown authority	https://www.hpl.hp.com/techreports/tandem/TR-86.1.pdf
 https://wiki.itdobelikethat.org/docs/links/oneshot/
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#compilers
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#concurrency
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#containers
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#data-structures-and-algorithms
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#databases
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#electronics
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#floating-point
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#humor
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#linux-internals
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#linux-user
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#memory-management
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#networks
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#operating-systems
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#others
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#peer-to-peer
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#plt
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#programming-in-c-and-cpp
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#quantum
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#security
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#software-engineering
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#static-code-analysis
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#systems
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#systems-admin
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#text-processing
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#unicode
-	400	https://wiki.itdobelikethat.org/docs/links/oneshot/#web-engineering
 	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
 	404	https://cscie28.dce.harvard.edu/~lib215/reference/programming/pikestyle.html
 	404	https://drive.google.com/file/d/1msGTeCIV0ZfHefb_MpHZDZqv8qcGnhEU/view
@@ -522,10 +501,8 @@ https://wiki.itdobelikethat.org/docs/links/oneshot/
 	429	https://github.com/yarrick/pingfs
 	500	https://wtanaka.com/node/8136
 	504	http://www.linuxprogrammingblog.com/all-about-linux-signals?page=show
-	504	https://www.jelmer.uk/janitor-update-2.html
 	522	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
 	dialing to the given TCP address timed out	https://sysadmincasts.com/episodes/25-bits-sysadmins-should-know
-	dialing to the given TCP address timed out	https://wiki.osdev.org/Expanded_Main_Page
 	id #/ not found	https://faculty.washington.edu/ajko/books/foundations-of-information/#/
 	timeout	https://ipfs.io/ipns/gkbrk.com/2017/10/putting-my-blog-on-ipfs/
 	x509: certificate is valid for webredirect.inria.fr, not modernc.gforge.inria.fr	https://modernc.gforge.inria.fr/
@@ -534,7 +511,6 @@ https://wiki.itdobelikethat.org/docs/notes/study/os/libs/
 	409	http://www.visi.com/~barr/ldpath.html
 	429	https://gist.github.com/geekodour/9ec2eee223b4704aed5f69fee22561b8
 	429	https://github.com/hjl-tools/x86-psABI/wiki/X86-psABI
-	dialing to the given TCP address timed out	https://wiki.osdev.org/C_Library
 	id #5469334 not found	https://stackoverflow.com/questions/5469274/what-does-plt-mean-here/5469334#5469334
 	id #SEC88 not found	http://web.mit.edu/gnu/doc/html/make_toc.html#SEC88
 	id #libraries not found	http://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html#libraries
@@ -568,11 +544,11 @@ https://wiki.itdobelikethat.org/docs/notes/unread_case_studies/
 	429	https://github.com/spacejam/sled
 	429	https://github.com/upgundecha/howtheyaws
 	429	https://github.com/upgundecha/howtheysre
+	522	https://nullsweep.com/why-is-this-website-port-scanning-me/
 	dialing to the given TCP address timed out	https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
-	dialing to the given TCP address timed out	https://twitter.com/el_bhs/status/1349406398388400128
-	dialing to the given TCP address timed out	https://twitter.com/el_bhs/status/1360276734344450050
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Mon, 06 Dec 2021 02:05:54 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163875635453235741; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-OTdkNjU5YjQtMTFhMy00ZjZjLWE1YmUtMjM5YjNkNDQ5N2Q3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/el_bhs/status/1375236202949799938
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:08:58 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884293818234604; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-YjYzYTUzMWItNWIwZC00MTUzLWEyZGUtMWI2OTViNTc5N2Mz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/el_bhs/status/1360276734344450050
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:09:00 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884294030285345; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-ZGNkMzk1YmUtYzk1OS00OTU1LWJhNWMtYmM4NGQ3ODUzYTA0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/el_bhs/status/1349406398388400128
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Tue, 07 Dec 2021 02:09:00 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_a\r\nSet-Cookie: guest_id_marketing=v1%3A163884294068971179; Max-Age=63072000; "..."leauth/static/jsapi/appleid/1/en_US/appleid.auth.js  'nonce-OThlNjU2NzctZjI3OC00MWRmLWE3ZDktZGI2YWE1ZWYyY2Y0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.co"	https://twitter.com/el_bhs/status/1375236202949799938
 	id #slide=id.g35f391192_00 not found	https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/mobilepresent#slide=id.g35f391192_00
 	lookup docs.https.dev: no such host	https://docs.https.dev/acme-ops
-	timeout	https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f
 	timeout	https://itnext.io/websocket-load-testing-with-artillery-io-b8b7ecbcd7ed
