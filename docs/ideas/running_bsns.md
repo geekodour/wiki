@@ -11,4 +11,8 @@ sidebar_label: Running a Business
 ## Links
 
 - [Seth Godin Steps](https://www.reddit.com/r/startups/comments/6s6r4a/heres_the_exact_process_seth_godin_uses_to_launch/)
-- http://slap.pm/
+- http://slap.pm/ SwearyLightweightAgilePlanning
+- https://twitter.com/david_perell/status/1413995757552689154
+- https://twitter.com/shreyas/status/1412622302185881600
+- https://twitter.com/shreyas/status/1411394575877296128
+- https://archive.is/0O8O6

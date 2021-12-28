@@ -27,6 +27,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [Microkernel](http://www.microkernel.info/) | [eBPF and Microkernel](https://news.ycombinator.com/item?id=22953730)
 - [Unikernel](https://en.wikipedia.org/wiki/Unikernel)
 - Monolith
+- https://github.com/vvaltchev/tilck
 - [Fstab](https://en.wikipedia.org/wiki/Fstab)
 - [Wheel](<https://en.wikipedia.org/wiki/Wheel_(computing)>)
 - [Hard link](https://en.wikipedia.org/wiki/Hard_link)
@@ -40,3 +41,5 @@ Read links will be removed and added somewhere else where they fit better.
 
 - [Linux Versions](https://en.wikipedia.org/wiki/Linux_kernel_version_history)
 - [Human Redable Summary of Each Kernel Release 😸](https://kernelnewbies.org/LinuxVersions)
+- [understanding thread stack sizes and how alpine is different](https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/)
+

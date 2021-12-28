@@ -165,3 +165,21 @@ sidebar_label: Storage[WIP]
 
 - https://bsdimp.blogspot.com/2020/07/old-school-disk-partitioning.html
 - https://www.devever.net/~hl/usbuas
+
+## Disk encryption links
+- https://docs.oracle.com/en/database/other-databases/nosql-database/20.3/security/disk-encryption-linux-environment.html | 💤 Disk Encryption in a Linux Environment
+- https://blog.cloudflare.com/speeding-up-linux-disk-encryption/ | 💤 Speeding up Linux disk encryption
+- https://en.wikibooks.org/wiki/The_Linux_Kernel/Storage | 💤 Storage functionality - Wikibooks, open books for an open world
+- https://wiki.archlinux.org/title/Data-at-rest_encryption | 💤 Data-at-rest encryption - ArchWiki
+- https://gist.github.com/huntrar/e42aee630bee3295b2c671d098c81268 | 💤 Arch Linux Full-Disk Encryption Installation Guide [Encrypted Boot, UEFI, NVMe, Evil Maid]
+- https://en.wikipedia.org/wiki/Opal_Storage_Specification | 💤 Opal Storage Specification - Wikipedia
+- https://www.reddit.com/r/thinkpad/comments/a212wx/what_is_the_opal_in_nvme_m2_opal_ssd_in_the_x1e/ | 💤 What is the "OPAL" in nVME M.2 OPAL SSD in the X1E and how is it different from the normal M.2 nVME SSD? : thinkpad
+- https://www.reddit.com/r/archlinux/comments/7gv4ed/anyone_using_an_opal_drive/ | 💤 Anyone using an OPAL drive? : archlinux
+- https://news.ycombinator.com/item?id=19299404 | 💤 Ask HN: What Do You Use for Linux Full Disk Crypto? | Hacker News
+- https://linuxsecurity.com/features/features/the-ultimate-guide-to-using-data-encryption-on-linux?rss | 💤 The Ultimate Guide to Using Data Encryption on Linux.
+- https://www.reddit.com/r/linux/comments/30nhvk/encryption_in_linux/ | 💤 Encryption in Linux? : linux
+- https://news.ycombinator.com/item?id=11761491 | 💤 Ask HN: How do you encrypt your laptops? | Hacker News
+- https://news.ycombinator.com/item?id=19177435 | 💤 How to Secure a Linux Server | Hacker News
+- https://madaidans-insecurities.github.io/guides/linux-hardening.html | Linux Hardening Guide | Madaidan's Insecurities
+- https://github.com/lfit/itpol/blob/master/linux-workstation-security.md | 💤 itpol/linux-workstation-security.md at master · lfit/itpol
+- https://github.com/agherzan/yubikey-full-disk-encryption | 💤 agherzan/yubikey-full-disk-encryption: Use YubiKey to unlock a LUKS partition

@@ -26,6 +26,8 @@ Read links will be removed and added somewhere else where they fit better.
 - https://offlinemark.com/2020/10/14/demand-paging/
 - https://www.talospace.com/2020/10/where-did-64k-page-size-come-from.html
 - https://bitcharmer.blogspot.com/2020/05/t_84.html
+- http://canonical.org/~kragen/memory-models/
+- https://dzone.com/articles/linux-kernel-vs-memory-fragmentation-part-i
 
 ### ManybutInfinite Links
 - https://manybutfinite.com/post/anatomy-of-a-program-in-memory/

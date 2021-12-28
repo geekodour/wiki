@@ -33,6 +33,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [ula](https://en.wikipedia.org/wiki/Unique_local_address)
 - [ll3](https://serverfault.com/questions/118324/what-is-a-link-local-address)
 - [Happy Eyeballs](https://en.wikipedia.org/wiki/Happy_Eyeballs)
+- https://news.ycombinator.com/item?id=28326806
 
 ### Mobile
 

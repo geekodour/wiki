@@ -11,13 +11,31 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
     - https://github.com/sirupsen/napkin-math
 - [Massive Growth of the Data Infrastructure Market](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
 - https://github.com/danluu/debugging-stories
+- https://github.com/styfle/breaking-changes-web
+- https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/
+- https://blog.dave.tf/post/finding-bottom-turtle/
 - https://github.com/securitybunker/databunker
 - [Extreme Debugging](https://squanderingti.me/blog/2020/10/28/extreme-debugging.html)
 - https://solovyov.net/blog/2020/api-pagination-design/
 - https://brandur.org/fragments/offset-pagination
+- https://unix.stackexchange.com/questions/206410/why-gcc-show-unknown-in-target-x86-64-unknown-linux-gnu-in-arch-linux
+- https://cerebralab.com/The_universal_VM_we_call_browser
+- https://github.com/pltr/onering
+- https://macwright.com/2020/05/10/spa-fatigue.html
+- https://archive.is/hrOMk
+- [Catchphrases & workplace wisdom](https://archive.is/RIuRY#selection-3017.0-3017.31)
 - https://github.com/DataDog/gostackparse read the testing methodologies
+- https://filecoin.io/blog/posts/starling-lab-establishing-trust-for-humanity-s-data/
+- https://github.com/jameslk/awesome-falsehoods
+- https://codefaster.substack.com/p/xargs-considered-harmful
+- https://github.com/sit-fyi/sit
+- https://github.com/mmcgrana/services-engineering
+- https://github.com/ligurio/software-quality-wiki/wiki
 - https://github.com/upgundecha/howtheyaws
+- https://github.com/schollz/kiki
+- https://github.com/Ivoah/minimap : can add this as a ci thing
 - https://github.com/ianpreston/redditfs
+- https://github.com/armon/bloomd understand how used
 - https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/
 - [Weird Proxies](https://github.com/GrrrDog/weird_proxies)
 - https://github.com/upgundecha/howtheysre
@@ -38,6 +56,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 ## Kernel
 
 - [A Standalone Linux Kernel Module](https://medium.com/@eitan.levinzon/a-standalone-linux-kernel-module-df54283d4803)
+- [Linux block devices: hints for debugging and new developments](https://www.redhat.com/en/blog/linux-block-devices-hints-debugging-and-new-developments)
 - [Diving into /proc/[pid]/mem](https://blog.cloudflare.com/diving-into-proc-pid-mem/)
 - [File handling in Unix: tips, traps and outright badness](https://rachelbythebay.com/w/2020/08/11/files/)
 - [An introduction to lockless algorithms](https://lwn.net/Articles/844224/)
@@ -64,9 +83,17 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 
 - [WireGuide: All about the WireGuard VPN protocol](https://www.privateinternetaccess.com/blog/wireguide-all-about-the-wireguard-vpn-protocol/)
 - [Can we talk about client-side certificates?](https://drewdevault.com/2020/06/12/Can-we-talk-about-client-side-certs.html)
+- https://blog.haschek.at/2020/stopping-phishing-campaigns-with-bash.html
+- https://throughascreendarkly.com/2021/05/16/port-knocking-better/
+- https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/
+- https://gynvael.coldwind.pl/?lang=en&id=737
+- https://johnmathews.eu/i-leaked-credentials-onto-a-public-github-repo.html
+- https://lwn.net/Articles/852112/
 - [OAuth is Not User Authorization](https://www.scottbrady91.com/OAuth/OAuth-is-Not-User-Authorization)
 - [Tailscale on NixOS: A new Minecraft server in ten minutes](https://tailscale.com/blog/nixos-minecraft/)
+- https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 - [Please Stop Encrypting with RSA Directly](https://soatok.blog/2021/01/20/please-stop-encrypting-with-rsa-directly/)
+- https://shufflingbytes.com/posts/sip-honeypot/
 - [Terramaster NAS exposing itself with UPNP](https://kn100.me/terramaster-nas-exposing-itself-over-upnp/)
 - [Cryptography as a prgrammer](https://soatok.blog/2020/06/10/how-to-learn-cryptography-as-a-programmer/)
 - [e2e encryption](https://soatok.blog/2020/11/14/going-bark-a-furrys-guide-to-end-to-end-encryption/)
@@ -95,8 +122,16 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 ## Networks
 
 - [Taking Back What Is Already Yours: Router Wars Episode I](https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/)
+- https://daniel.haxx.se/blog/2021/05/31/curl-localhost-as-a-local-host/
+- https://susam.in/blog/reliance-jio-impersonation-issue/
+- [IPv4 route lookup on Linux](https://vincent.bernat.ch/en/blog/2017-ipv4-route-lookup-linux)
+- https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network
 - [How NAT traversal works](https://tailscale.com/blog/how-nat-traversal-works/)
 - [TCP Performance problems caused by interaction between Nagle’s Algorithm and Delayed ACK](http://www.stuartcheshire.org/papers/NagleDelayedAck/)
+- https://kognitio.com/blog/syn-cookies-ate-my-dog-breaking-tcp-on-linux/
+- https://superuser.com/questions/784978/why-did-the-ietf-specifically-choose-192-168-16-to-be-a-private-ip-address-class
+- https://cmpct.info/~calvin/Articles/Network10/Network10.htm
+- https://tailscale.com/blog/sisyphean-dns-client-linux/?s=09
 - [NTP Working](https://blog.selectel.com/synchronizing-servers-ntp/)
 - [Introduction to DPDK: Architecture and Principles](https://blog.selectel.com/introduction-dpdk-architecture-principles/)
 - [DNS Query Privacy revisited](https://blog.apnic.net/2020/09/11/dns-query-privacy-revisited/)
@@ -145,24 +180,39 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 ## Observability
 - https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f
 - [Mitigate Connection Leaks in Production via Proxies](https://www.softwareatscale.dev/p/mitigate-connection-leaks-in-production)
+- https://gcollazo.com/logging-is-important/
 - https://slack.engineering/tracing-at-slack-thinking-in-causal-graphs/
+- https://www.bwplotka.dev/2021/correlations-exemplars/
+- https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
 - https://www.philipotoole.com/logs-and-time-series-are-not-the-same/
 - [observability replacing monitoring](https://twitter.com/el_bhs/status/1349406398388400128)
 - [About cardanility](https://twitter.com/el_bhs/status/1360276734344450050)
 - https://twitter.com/el_bhs/status/1375236202949799938
 
+## Web
+- https://blog.syncinc.so/events-not-webhooks
+  - https://en.wikipedia.org/wiki/Server-sent_events
+
 ## Dist Sys
 
 - [Consistent Hashing in viemo](https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed)
 - [Files and storing them](https://danluu.com/deconstruct-files/)
+- https://codahale.com/you-cant-sacrifice-partition-tolerance/
 - [Fallbacks in AWS](https://aws.amazon.com/builders-library/avoiding-fallback-in-distributed-systems/?did=ba_card&trk=ba_card)
+- https://alex.dzyoba.com/blog/nginx-features-for-developers/
+- https://www.softwareatscale.dev/p/guids-are-not-enough
 - [How dist sys fail](https://robertovitillo.com/how-distributed-systems-fail/)
 - [The Mystery of the Slow Downloads](https://panic.com/blog/mystery-of-the-slow-downloads/)
+- [Metastability and Distributed Systems](https://brooker.co.za/blog/2021/05/24/metastable.html)
+- [No more DSLs: Implement and deploy a distributed system with a single program](http://catern.com/caternetes.html)
+  - https://www.oilshell.org/blog/2021/07/blog-backlog-1.html#fallacies
 - [Crawling 40 Billion Pages](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
+- https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51
 - [SRE: Debugging: Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
 - [Memcached-Backed Content Infrastructure Khanacademy](http://engineering.khanacademy.org/posts/memcached-fms.htm)
 - [How do you reason about a probabilistic distributed system?](https://ahelwer.ca/post/2020-04-15-probabilistic-distsys/)
 - [Fastest Site in the world](https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7)
+- https://scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/
 - [Debugging Distributed Systems](https://dl.acm.org/doi/pdf/10.1145/2927299.2940294)
 - [On Cache Invalidation](https://yihui.org/en/2018/06/cache-invalidation/)
 - [Dockerless, part 1: Which tools to replace Docker with and why](https://mkdev.me/en/posts/dockerless-part-1-which-tools-to-replace-docker-with-and-why)
@@ -197,6 +247,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Sandboxing and Workload Isolation](https://fly.io/blog/sandboxing-and-workload-isolation/)
 - [Packaging LXD for Arch Linux](https://linderud.dev/blog/packaging-lxd-for-arch-linux/)
 - [How are docker images built? A look into the Linux overlay file-systems and the OCI specification](https://dev.to/napicella/how-are-docker-images-built-a-look-into-the-linux-overlay-file-systems-and-the-oci-specification-175n)
+- https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/
 - [Why strace doesn't work in Docker](https://jvns.ca/blog/2020/04/29/why-strace-doesnt-work-in-docker/)
 - [Cache Management Lessons Learned](https://symas.com/cache-management-lessons-learned/)
 - [da memory hierarchy](http://www.pixelbeat.org/docs/memory_hierarchy/)
@@ -214,6 +265,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 
 ## Filesystems
 - [Modern storage is plenty fast. It is the APIs that are bad.](https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a)
+- http://0pointer.net/blog/file-descriptor-limits.html
 - https://github.com/NieDzejkob/cursedfs
 - [A Ceph war story](https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/)
 
@@ -221,10 +273,13 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 ## Linux in general
 - [Making Sense of The Audio Stack On Unix](https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html)
 - [Undeleting a file overwritten with mv](https://behind.pretix.eu/2020/11/28/undelete-flv-file/)
+- https://ariadne.space/2021/04/25/why-apk-tools-is-different-than-other-package-managers/
+- http://catern.com/supervisors.html
 - [Intel Virtualisation: How VT-x, KVM and QEMU Work Together](https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together/) 🌟
   - https://zserge.com/posts/kvm/
   - https://www.amazon.com/Hardware-Software-Virtualization-Synthesis-Architecture/dp/1627056939
   - https://airbus-seclab.github.io/qemu_blog/
+- https://christine.website/talks/systemd-the-good-parts-2021-05-16
 
 
 ## Misc
@@ -232,6 +287,8 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [How to store data forever](https://drewdevault.com/2020/04/22/How-to-store-data-forever.html)
 - [trace art](https://esoteric.codes/blog/stack-trace-art)
 - [Choosing boring tech](https://mcfunley.com/choose-boring-technology)
+- [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/)
+- https://nolanlawson.com/2021/08/26/my-love-hate-affair-with-technology/
 - https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/
 - [FOSDEM on matrix](https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix)
 - [How To Write Unmaintainable Code](https://cs.fit.edu/~kgallagher/Schtick/How%20To%20Write%20Unmaintainable%20Code.html)
@@ -279,23 +336,39 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [The Death Of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html)
 - [Inside the messy mission to bring 4G to the London Underground](https://www.wired.co.uk/article/london-underground-4g)
 - [The Sad Story of TCP Fast Open](https://squeeze.isobar.com/2019/04/11/the-sad-story-of-tcp-fast-open/)
+- https://techblog.bozho.net/the-syslog-hell/
+- https://www.stevenrbaker.com/tech/history-of-rspec.html
 - [Escape from System D](https://davmac.wordpress.com/2017/06/14/escape-from-system-d/)
 - [Why I dislike systemd](http://www.steven-mcdonald.id.au/articles/systemd.shtml)
+- https://lobste.rs/s/sbzf0k/how_microsoft_lost_api_war_2004
+- https://klarasystems.com/articles/history-of-zfs-part-1-the-birth-of-zfs/
 - [CRDs Killed the Free Kubernetes Control Plane](https://caleblloyd.com/software/crds-killed-free-kubernetes-control-plane/)
 - [Configuration files and .d directories](https://jmmv.dev/2020/08/config-files-vs-directories.html)
+- http://jackkelly.name/blog/archives/2021/07/09/free_softwares_relevance_in_2021/index.html
+- https://www.filfre.net/2016/01/a-pirates-life-for-me-part-3-case-studies-in-copy-protection/
 
 ## Database
 
 - [Implementing Stripe-like Idempotency Keys in Postgres](https://brandur.org/idempotency-keys)
 - [sled](https://github.com/spacejam/sled)
 - https://github.com/ept/hermitage
+- https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
+- https://scattered-thoughts.net/writing/against-sql/
+- https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 - [An unlikely database migration](https://tailscale.com/blog/an-unlikely-database-migration/)
+- http://justinjaffray.com/query-engines-push-vs.-pull/
 - [i want to see how this project is building its connectors](https://github.com/getredash/redash)
+- http://sled.rs/perf
+- http://squarism.com/2021/07/08/databases-ruin-all-good-ideas/
+- [One Database Transaction Too Many](https://hakibenita.com/django-nested-transaction)
 - [study the litestream package](https://github.com/benbjohnson/litestream)
 - [study minikeyvalue](https://github.com/geohot/minikeyvalue)
+- https://acco.io/read-from-dbs
+- https://minimalmodeling.substack.com/p/240-tables-and-no-documentation
 - [graph db in sqlite](https://github.com/dpapathanasiou/simple-graph)
 - [Consistent Hashing: Algorithmic Tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 - [The Next Gen Database Servers Powering Let's Encrypt](https://letsencrypt.org/2021/01/21/next-gen-database-servers.html)
+- https://spin.atomicobject.com/2021/02/04/redis-postgresql/
 - [How Buffer Pool Works: An Implementation In Go](https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/)
 - [Deciding on relations](https://www.damirsystems.com/sql-x-to-y/)
 - [Scaling Datastores at Slack with Vitess](https://slack.engineering/scaling-datastores-at-slack-with-vitess/)
@@ -317,6 +390,8 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Text Processing VS Hadoop](https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 - [Debugging MySQL replication lag by diving into the internals](https://making.pusher.com/debugging-mysql-replication-lag/)
 - [SQL Murder Mystery](https://mystery.knightlab.com/)
+- https://de.slideshare.net/billkarwin/models-for-hierarchical-data
+  - https://hoverbear.org/blog/postgresql-hierarchical-structures/
 - [Monzo Cassandra](https://monzo.com/blog/2019/09/08/why-monzo-wasnt-working-on-july-29th)
 - [Reddit’s database has two tables](https://kevin.burke.dev/kevin/reddits-database-has-two-tables/)
 - sled simulation: https://sled.rs/simulation
@@ -329,6 +404,10 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 
 ## Writing tests
 - [Oracle Testing](https://buttondown.email/hillelwayne/archive/oracle-testing/)
+- https://matklad.github.io//2021/05/31/how-to-test.html
+- https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/
+- https://news.ycombinator.com/item?id=28311288
+- https://jvns.ca/blog/2021/07/08/writing-great-examples/
 
 ## P2P
 
@@ -345,8 +424,23 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Faster Integer Parsing](https://kholdstare.github.io/technical/2020/05/26/faster-integer-parsing.html)
 - [Discord switching from go to rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 - [Structured programming: how to write proper if statements](http://boris-marinov.github.io/if/)
+- https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html
+- https://massimo-nazaria.github.io/blog/2019/09/05/software-architecture-design-for-busy-developers.html
+- https://jemma.dev/blog/gc-compaction
+- https://www.hillelwayne.com/post/cleverness/
+- https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/
 - [if-then-else/if-then-else.md](https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md)
 - [TCO](https://eklitzke.org/how-tail-call-optimization-works)
+- https://robert.ocallahan.org/2021/04/print-debugging-should-go-away.html
+  - https://buttondown.email/geoffreylitt/archive/starting-this-newsletter-print-debugging-byoc/
+- https://apisyouwonthate.com/blog/api-versioning-has-no-right-way
+- https://www.gresearch.co.uk/article/in-praise-of-dry-run/
+- https://blog.regehr.org/archives/199
+- [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
+- https://theoryof.predictable.software/articles/what-is-predictable-software/
+- https://brooker.co.za/blog/2021/04/19/latency.html
+- https://www.worldofbs.com/decoupled-software/
+- https://meetryanflowers.com/that-wont-work/
 - [How not to teach recursion](https://eklitzke.org/how-tail-call-optimization-works)
 - https://neilmadden.blog/2020/11/25/parse-dont-type-check/
 - [Applying “Make Invalid States Unrepresentable”](https://kevinmahoney.co.uk/articles/applying-misu/)

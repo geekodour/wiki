@@ -29,6 +29,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [Replay Attack](https://en.wikipedia.org/wiki/Replay_attack)
 - [ROCA](https://en.wikipedia.org/wiki/ROCA_vulnerability)
 - [POODLE](https://en.wikipedia.org/wiki/POODLE)
+- https://alpaca-attack.com/
 - [TCP Reset Attack](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
 - [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack)
 - [NAT Slipstreaming v2.0](https://samy.pl/slipstream/)
@@ -41,9 +42,12 @@ Read links will be removed and added somewhere else where they fit better.
 - [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
 - [Stunnel](https://en.wikipedia.org/wiki/Stunnel)
 - [NSA Suite B (old)](https://en.wikipedia.org/wiki/NSA_Suite_B_Cryptography)
+- https://github.com/bkimminich/juice-shop
 - [Forward Secrecy](https://en.wikipedia.org/wiki/Forward_secrecy)
 - [Port Knocking Stupid](https://news.ycombinator.com/item?id=23187662)
+- https://devd.me/log//posts/kerckhoffs-law/
 - [ECDSA vs RSA](https://www.ssl.com/article/comparing-ecdsa-vs-rsa/)
+- https://github.com/qazbnm456/awesome-web-security
 
 ### Theory/Ideas/Protocols
 

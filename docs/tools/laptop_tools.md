@@ -39,6 +39,8 @@ $ git reset filename.txt
 $ git clean -fdx
 # show all untracked files
 git ls-files --others --exclude-standard
+# prepare list of commits for cherry picking
+gl <commit_hash>..HEAD --reverse| awk '{print $1}' | paste -s -d ' '    
 ```
 
 ## kitty
@@ -255,30 +257,15 @@ $ time -v <exec>
 - I need to build a system like https://getpolarized.io/ where all my notes from papers, pocket articles highlights, kidle highlights, dates, org mode notes, book summaries etc automatically create Anki cards and I can review them whenever I want. I have bad memory so this will be super useful for me. https://github.com/burtonator/polar-bookshelf
 - https://github.com/kernc/logkeys
 #### System
-- [Booting On Unix](https://venam.nixers.net/blog/unix/2017/06/04/booting-on-unix.html)
 - https://unixsheikh.com/articles/the-real-motivation-behind-systemd.html
 - https://venam.nixers.net/blog/unix/2020/05/02/time-on-unix.html
 #### Display
-- [Loading of xinitrc,xserverrc,xresources,xdefaults,xprofile,xsession,xmodmap](https://venam.nixers.net/blog/unix/2020/01/27/xconfig.html)
 - [Adding Glue To a Desktop Environment](https://venam.nixers.net/blog/unix/2019/01/07/win-automation.html)
-- [Xcb, X11, Xlib, Wayland?](https://venam.nixers.net/blog/unix/2016/10/25/x11-blah-blah.html)
 - [Terminals](https://venam.nixers.net/blog/unix/2017/06/04/terminals.html)
 - [Shells](https://venam.nixers.net/blog/unix/2017/06/04/unix-shells.html)
 - [Zombies](https://venam.nixers.net/blog/unix/2017/06/04/zombies.html)
-- [Fonts on Unix](https://venam.nixers.net/blog/unix/2017/06/04/fonts-on-unix.html)
+- https://github.com/returntocorp/semgrep
 - https://wayland-book.com/
-- XDG stands for X Development Group, which was the old name of FreeDesktop.org
-- https://venam.nixers.net/blog/programming/2021/01/26/future-of-distros.html
-- XFT and XCB
-- [The Linux graphics stack from X to Wayland](https://arstechnica.com/information-technology/2011/03/the-linux-graphics-stack-from-x-to-wayland/)
-- https://en.wikipedia.org/wiki/GTK#History
-- [Linux Graphics Essay](https://wiki.linuxfoundation.org/tab/linux-graphics-essay)
-- https://www.reddit.com/r/linuxquestions/comments/8nzb51/eli5_the_linux_graphics_stack/
-- https://blog.mecheye.net/2013/12/xplain/
-- https://bootlin.com/doc/training/graphics/graphics-slides.pdf : lol
-- [A brief introduction to the Linux graphics stack](https://blogs.igalia.com/itoral/2014/07/29/a-brief-introduction-to-the-linux-graphics-stack/)
-- [Why do game developers prefer Windows?](https://softwareengineering.stackexchange.com/questions/60544/why-do-game-developers-prefer-windows)
-- [WM & DE](https://venam.nixers.net/blog/unix/2017/06/04/wm-de.html)
 #### Storage
 - [Data Storage on Unix](https://venam.nixers.net/blog/unix/2017/11/05/unix-filesystem.html)
 - [Key And Trust Store on Unix-like OS](https://venam.nixers.net/blog/unix/2020/01/27/keystore.html)
@@ -320,6 +307,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 - new blog should also fetch latest tweets in it
 - https://www.google.com/search?q=christine.website+nix
 - https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028
+- https://lobste.rs/s/w5ssrg/ssh_agent_forwarding_considered_harmful
 - get better at remembering shortcuts
 - be more attentive at life
 - learn how to use marking in ranger, emacs and in vim
@@ -329,13 +317,18 @@ sudo pacman --needed --noconfirm -S ripgrep
 - sway i3 replacement
   - https://www.youtube.com/watch?v=8E0SOWo-Gsg
   - https://wayland.app/protocols/
+  - https://github.com/nwg-piotr/nwg-panel
 - https://wayland.emersion.fr/grim/
 - https://github.com/JaCzekanski/Avocado
 - https://github.com/Nukesor/pueue seems like will be useful when downloading shit
+- https://christine.website/talks/systemd-the-good-parts-2021-05-16
 - https://github.com/jhchen/ansize nice this is simlar to imcat?
+- https://huffduffer.com/
 - https://github.com/muesli/duf df alternative
 - https://github.com/Sangarshanan/jazzit crypto scripts
 - https://github.com/runrin/tt
+- ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEU5PQB14dvrOXCnUud2f8czFeSd1wy94CVrU261OXy0 public key
+- need to have a donations page, donations to orgs and open source projects
 - https://github.com/any1/wayvnc
 - https://github.com/LuRsT/hr : have man page for all your tools
 - https://github.com/mozilla/ssh_scan
@@ -345,20 +338,31 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/jarun/nnn
 - Understand gobject, gtk+, the diagram in this page: https://en.wikipedia.org/wiki/Accessibility_Toolkit
 - fish/oil shell
+- https://github.com/pirate/fish-utils#fish-utility-functions
 - https://github.com/Alexays/Waybar
+- https://github.com/danielmiessler/SecLists
 - https://github.com/nelhage/reptyr (this will be useful inside tmux sessions too)
 - https://github.com/casey/just
+  - https://github.com/go-task/task
+- https://github.com/libfuse/sshfs
 - https://github.com/lfit/itpol IT  policies
 - https://github.com/nayafia/microgrants
   -  https://github.com/mezod/awesome-indie
-- https://github.com/cooperhammond/irs need to merge this with the assmese music metadata service
+- https://github.com/cooperhammond/irs need to merge this with the assmese music metadata servicGe
 - https://github.com/mylxsw/redis-tui will be useful when learning redis
 - https://github.com/schollz/find3
+- https://github.com/ruslashev/elfcat
+- https://github.com/jedisct1/piknik
+- Need some extension or something to show if i've visited this website before
+  - also i need to know where did i note that link. in the wiki, in notion, in some codebase of some repo etc.
 - https://github.com/lptstr/chmap
+- https://github.com/cbbrowne/autodoc
 - https://github.com/fogleman/nes
 - https://github.com/shazow/ssh-chat
+  - https://github.com/lunatic-solutions/chat
 - https://github.com/FiloSottile/whoami.filippo.io
 - https://shadowsocks.org/en/index.html
+- https://github.com/jtesta/ssh-audit
 - https://github.com/natpen/awesome-wayland
 - twitter list automation, tweet deletion, other automation, backup etc.
 - might check: https://lineageos.org/engineering/HowTo-SELinux/ (lineseos)
@@ -367,10 +371,21 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://beepb00p.xyz/promnesia.html
 - Fraidycat is a desktop app or browser extension for Firefox or Chrome. I use it to follow people (hundreds) on whatever platform they choose - Twitter, a blog, YouTube, even on a public TiddlyWiki.
 - https://omglord.com/maps (love the city map idea)
+- https://github.com/xraymemory/bookstory-en
 - trading bots
 - https://arewewaylandyet.com/
 ### Day to Day
 - [soveran/map](https://github.com/soveran/map) : nice xargs replacement in some cases
+- https://github.com/leahneukirchen/xe
+- https://github.com/nushell/nushell its a replacement for fish but i am gon use
+  fish so will need to see when i want to use it.
+- https://github.com/alt-romes/programmer-calculator
+- https://github.com/aaronpenne/generative_art
+- https://no-color.org/ : good list of tools
+- https://github.com/rustdesk/rustdesk
+- https://github.com/pystardust/ytfzf
+- some way to read bret vctor daily
+- https://github.com/mikf/gallery-dl
 - [tabfs](https://omar.website/tabfs/) - https://github.com/jhlyeung/rumin-web-clipper (use tabfs to simulate what rumin web clibber does to take notes into org mode)
 - [ripgrep tips](https://learnbyexample.github.io/substitution-with-ripgrep/)
     - [ripgrep is faster than {grep, ag, git grep, ucg, pt, sift}](https://blog.burntsushi.net/ripgrep/)
@@ -378,24 +393,48 @@ sudo pacman --needed --noconfirm -S ripgrep
 - [systemd-nspawn](https://blog.selectel.com/systemd-containers-introduction-systemd-nspawn/)
 - https://obsproject.com/
 - https://github.com/peco/peco
+- https://github.com/clibs/clib
+- Have a public blog and a private blog, write extreme takes on the private blog. Have a secret key to it, write where to find it in the public and keep that unplished. add a watchdog timer to publish the steps to get the key. i.e Once I die it'll automatically publish that.
+- build corpora of assamese data
 - https://github.com/jarun/buku See how buku can fit my flow
+- https://github.com/jpochyla/psst
+- https://github.com/Morganamilo/paru
+- https://github.com/karlicoss/cloudmacs
+- https://github.com/progrium/topframe
+- https://github.com/folke/tokyonight.nvim
+  - https://github.com/samrath2007/kyoto.nvim
 - https://github.com/Genymobile/scrcpy
 - Some of the tools i make i want to make like this: `curl cht.sh` curl but comes up with nice things, also the ssh chat thing was interesting we can do that.
 - https://github.com/fatedier/frp
+- https://github.com/SimonBrazell/privacy-redirect
 - https://github.com/thesephist/histools
 - https://github.com/iovisor/bcc
+- ArchiveTeam Warriors.
 - https://github.com/jesseduffield/lazydocker
 - https://github.com/msoap/shell2http : remote control laptop from phone
 - https://github.com/jhspetersson/fselect
 - https://github.com/linuxserver/Heimdall : I need a way to list all applications web, cli, mobile etc i am using at one place and have notes(multiple) about them. Have a way to debug them easily from there. For any problem at hand i should be able to see what are the tools i can use only after thinking what are the tools that i need. Hamidall still fills a different usecase.
+  - https://github.com/jeroenpardon/sui this is for listing all my self hosted public applications. for local ones i can keep using hamidall
 - https://github.com/debauchee/barrier
 - https://github.com/pavlobu/deskreen
 - https://github.com/direnv/direnv (i can use this for adwyze/adyze)
 - https://github.com/tmuxinator/tmuxinator (my personal projects can have this file, as well adwyze)
 - https://github.com/client9/misspell (Also get done with spell checker and dict, setup emacs to do that)
+- https://github.com/checkly/headless-recorder
 - https://github.com/facebook/watchman
   - https://github.com/cespare/reflex
+  - https://github.com/watchexec/watchexec
+- https://github.com/sweis/crypto-might-not-suck
+- mosh
+- https://github.com/callum-oakley/gotta-go-fast
 - https://github.com/kickscondor/fraidycat
+- https://github.com/ehazlett/stellar
+- https://github.com/dbohdan/structured-text-tools nice
+- https://github.com/sherlock-project/sherlock
+- https://github.com/joewalnes/websocketd
+- need something to keep track of my finances, investments and donations
+- https://github.com/defunkt/gist should be a emacs version
+- https://github.com/iipc/awesome-web-archiving
 - https://github.com/iorate/uBlacklist geek4geek hitlist
 - https://github.com/o2sh/onefetch
 - [dog](https://dns.lookup.dog/) the command-line DNS client
@@ -404,6 +443,9 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/jmathai/elodie
 - https://github.com/tfeldmann/organize
 - https://github.com/tycrek/degoogle
+- https://github.com/antifuchs/gmail-britta there's another similar thing
+  - https://github.com/mbrt/gmailctl
+- https://github.com/evanw/esbuild for webapps, try elm and slevetle or whatever that is
 - https://github.com/jacobian/notamazon maintain similar list for indian sites
   - actually the gift site is not a bad idea ppl post on twitter
 - https://github.com/cloudhead/rx new hobbby pixxel art
@@ -420,22 +462,72 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/ashlinchak/mdanki
 - https://github.com/Canop/broot : this is nice than nn for viewing things quickly
 - https://github.com/jifunks/botany
+- https://datasette.io/ super useful for me
+- https://github.com/Biont/sway-launcher-desktop this will help with man69 aswell i guess
+- https://github.com/emersion/kanshi
+- https://github.com/maximbaz/dotfiles
+- https://github.com/eoli3n/dotfiles
 - https://github.com/Kharacternyk/pacwall
+- https://github.com/xyproto/wallutils
+- https://github.com/bettercap/bettercap
+- https://commons.wikimedia.org/wiki/File:The_Linux_Graphics_Stack_and_glamor.svg
+- https://github.com/swaywm/swayidle
+- https://hakibenita.com/sql-for-data-analysis
+  - https://muhammadraza.me/2021/Oneliners/
 - https://unix4lyfe.org/darkhttpd/
 - https://github.com/iamadamdev/bypass-paywalls-chrome
 - [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt): Format /etc/fstab 
 - https://github.com/Swordfish90/cool-retro-term (sometimes for fun)
 - Video Downloader: https://github.com/iawia002/annie
+- https://github.com/open-pomodoro/openpomodoro-cli
+- https://github.com/antoniomika/sish
+- https://github.com/smxi/inxi
+- https://github.com/qarmin/szyszka
+- https://github.com/Unrud/remote-touchpad
+- https://github.com/ES-Community/nsecure
+- https://people.kernel.org/kuba/common-interface-for-nic-statistics
 - [flameshot](https://github.com/flameshot-org/flameshot)
 - [pet](https://github.com/knqyf263/pet) : CLI Snippet Manager
   - https://github.com/gleicon/pipecamp : super unstructured
+  - with man69 i also need this: https://til.simonwillison.net/ not to manage but a link to it.
 - https://github.com/teenyicons/teenyicons (sway)
+- https://github.com/facebookincubator/oomd
+  - Have a buffer disk and buffer memory where things stop: use `tune2fs`
+- https://github.com/ksnip/ksnip
+- https://github.com/Granulate/gprofiler
+- I want sort of a image board service
+  - to post memes, screenshots of various things, i should be able to tag things, write a short desc etc.
+  - maybe make it offline first, run ocr on it locally and maintain an index to be searched later.
+  - don't need a phone app, wpa will do
+  - basically i need pinterest here, but the existing open source solutions suck balls
+  - also want to run some anti duplicating software
+  - maybe telegram bot will be a good idea, we have access to telegram from anywhere i can simply paste the link and server will process the link and then do whatever the fuck it wants with it.
+  - I think the best bet will be to create an anonymous twitter account and use hashtags
+  - but then again i also want the feature where i simply throw it reddit/instagram/twitter urls and it downloads the video on its own etc
+  - https://github.com/funmaker/hybooru
+    - i want to write my thoughts on the image there anonmously
+    - https://hydrusnetwork.github.io/hydrus/
+  - https://github.com/kennell/imageboards
+  - If your initial instinct is to delete...listen to it! Any contribution they have made to your art has already been made, your brain has logged it, so have some faith in your own ability and let them go.
 - https://github.com/federico-terzi/espanso : See how these compare to clipboard managers
+- https://github.com/LibrePhotos/librephotos 8gb ram
+- https://k3tan.com/starting-a-new-digital-identity
+  - https://calyxos.org/get/
+- https://simonwillison.net/2021/May/2/one-year-of-tils/
+- The indieweb is what got me back in to blogging and RSS again. Being able to be social on the net without FB/Twitter has made being on the 'net fun again. Adding your feed to micro.blog even gives you a full-social modern social-experience, except it's completely powered by blogs and RSS. - HN comment,
+  - https://news.ycombinator.com/item?id=26950009
+  - I want to express things socially without being on social media
+  - another thing is i want to do hard things daily so that hard things become simple to me
+  - I want to interact with complex tools so that i become familiar with them and can use things more effectively
+    - build them into my workflow so that they don't sit there and wait to be used and i forget, make use of them somehow
+    - https://blog.nindalf.com/posts/how-to-learn-unix-tools/
 - https://github.com/hluk/CopyQ
 - https://github.com/yory8/clipman
+- https://web.archive.org/web/19970711071555/http://www.cooltool.com/apr96.html have a newslettter like cronweekly and this combined
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh)
 - [croc](https://github.com/schollz/croc)
 - [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole): get things from one computer to another, safely 
+  - https://lobste.rs/s/fhpswy/global_socket_connect_like_there_is_no read discussion
 - https://github.com/akavel/up : interactive pipes
 - script to generate wallpaper and new tab content, like interesting quotes, puzzles, tweets, pictures from https://github.com/corkami/pics etc.
 - https://github.com/Dr-Noob/cpufetch
@@ -446,18 +538,26 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://james.darpinian.com/satellites/
 - A set of onelines from sed/awk/tr/col to do basic things like snakecase, downcase etc
 - https://github.com/ahmetb/kubectx
+- https://github.com/anatol/booster (maybe just to test)
 - WormholeApp by ferros
 - https://github.com/timothycrosley/concentration :: this is super nice, i can write my own replacement of leechblock this way
 - https://github.com/sbstp/kubie
 - https://archlinux.org/packages/community/any/lolcat/
 - The pokemon background thing but with kitty because kitty now supports backgroud. make it in go/rust also allow plugins so that its not limited to pockemon but ppl can use anything any set of images etc. - https://twitter.com/archillect
 - Have me automatically urge to read one aosa book article a day
+- Update github readme
+- Need a website for personal food recipies too, photography also
+  - https://github.com/balevine/cocktails
+  - org mode export or something should do
 - need a tool to list all show hn, github stars of some some person etc. a good way to discover new tools
 - https://github.com/kamranahmedse/pennywise
 - https://pushover.net/ and custom telegram bots to automate things
+- https://github.com/angt/glorytun
+- https://github.com/jedisct1/dsvpn
 - https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove
 - ngrok proper use
 - https://github.com/starship/starship nice shell prompt
+- https://github.com/sdushantha/tmpmail
 - mkcert
 - https://github.com/lettier/gifcurry
 - [tz](https://github.com/oz/tz)
@@ -472,20 +572,45 @@ sudo pacman --needed --noconfirm -S ripgrep
 - [dstat](https://linux.die.net/man/1/dstat): Dstat is a versatile replacement for vmstat, iostat and ifstat. Dstat overcomes some of the limitations and adds some extra features. 
 - https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli
 - https://github.com/pomber/git-history
+- Learn discord
 - https://github.com/MontFerret/ferret
+- https://github.com/EnergizedProtection/block
+- A beatiful lyrics app(with transparency) so that i can read the lyrics when listening to some song
+- https://github.com/client9/shlib
+- https://github.com/sahib/brig
+- https://github.com/schollz/hostyoself probably need to maek a fork
+- https://github.com/tj/histo
+- https://github.com/ngosang/trackerslist
+- The blog/webpage needs to be able to host single page long form articles like suppose i write something on bitmap fonts maybe use examples from orbit.  https://github.com/andymatuschak/orbit there was another site that had 3d thingy in it forgot the name. all that shit i need
+- https://github.com/guardianproject/haven this is simply amazing i need it
+- https://github.com/pdfarranger/pdfarranger
+- https://github.com/docker-slim/docker-slim
 - https://github.com/notwaldorf/tiny-care-terminal I need the tweet thing from here, might have to write my own. Also need some way to export my digital wellbeing from phone. then later can graph is somewhere.
 - https://github.com/simeji/jid / jiq
 - [peek](https://github.com/phw/peek) GIF maker
 - https://github.com/bcicen/ctop
+- https://github.com/wtfutil/wtf : can link this with quanitfy and grafana stuff
+- https://github.com/sstadick/hck
+- https://github.com/emersion/mako
+- https://github.com/r-darwish/topgrade
 - https://github.com/wtfutil/wtf : prolly not going to use it but can take inspiration. + https://github.com/charmbracelet/bubbletea + https://github.com/slok/grafterm
 - https://github.com/madler/pigz
+- https://github.com/gephi/gephi
 - https://github.com/imsnif/bandwhich
 - ipfs
+- https://github.com/bbugyi200/funky
+- https://github.com/antonmedv/fx compare to ijq etc. for speed and everything.
 - https://github.com/ogham/exa https://github.com/Peltoche/lsd
 - jq https://sr.ht/~gpanders/ijq/
 - https://sr.ht/~halzy/waitforit/
+### Data
+- https://www.datawrapper.de/
+- https://datasette.io/
+- https://archive.is/y0JtV
 ### Programming
 - https://github.com/nico2sh/semtag (use this in my projects)
+- https://github.com/proper-testing/proper
+  - https://github.com/BurntSushi/quickcheck
 - I need some way to list all the possible tools i can use to look at a problem. might need to build this myself.
 - [rr](https://rr-project.org/) : rr aspires to be your primary C/C++ debugging tool for Linux, replacing — well, enhancing — gdb. You record a failure once, then debug the recording, deterministically, as many times as you want. The same execution is replayed every time.
 - https://github.com/supabase/postgres (check for tutning my postgres instances)
@@ -493,6 +618,24 @@ sudo pacman --needed --noconfirm -S ripgrep
 - Learn https://graphviz.org/ Why: https://twitter.com/thingskatedid/status/1386077306381242371
 - https://www.flycheck.org/en/latest/index.html see supported languages and enable on ones that's needed
 - https://github.com/traefik/yaegi Go interpreter
+- https://github.com/kellyjonbrazil/jc
+- https://github.com/jorgebucaran/fisher
+- https://github.com/benfred/py-spy
+- https://github.com/rcoh/angle-grinder
+- https://eternalterminal.dev/
+- https://github.com/google/zx
+- https://github.com/katef/libfsm
+- https://github.com/johnkerl/miller
+  - https://github.com/TomWright/dasel
+- https://github.com/haxpax/gosms
+- https://github.com/DannyBen/bashly
+- https://github.com/SixArm/sixarm-unix-shell-functions
+- https://github.com/octobox/octobox
+- https://github.com/rui314/mold
+- https://github.com/muesli/pkgbuilds
+- https://anticapitalist.software/
+- https://github.com/someshkar/colabcat
+  - https://github.com/hashcat/hashcat
 - Learn how to use debuggers and tracers effectively
 - https://github.com/mvdan/sh
 - https://github.com/contribsys/faktory for all the background automation in the laptop
@@ -512,28 +655,200 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://insomnia.rest/ and curl
 - https://github.com/wagoodman/dive
 - https://hashcat.net/hashcat/
+- see how we can use basic machine learning, learn a bit of basic machine learning
+  - get familiar with openai tools.
 - https://github.com/Jguer/yay
 - https://github.com/esimov/caire
+- pinfo instead of info
+  - Enter for entering link
+  - H for previous
+  - https://man.archlinux.org/man/fuser.1
+- https://wiki.c2.com/?EmacsIsSuperman
+- https://github.com/emacscollective/no-littering
+- https://www.cs.utah.edu/~regehr/hourglass/ (need to find more such educational things and host them myself)
+- https://danielbmarkham.com/how-to-win-at-tech-publishing/
 - https://github.com/dai-shi/excalidraw-animate
+- https://www.reddit.com/r/PixelArt/
+- https://patchbay.pub/
+  - https://github.com/schollz/duct/blob/master/src/server/server.go
+  - this is real fun
+- https://github.com/andrewning/sortphotos : maybe useful for my blog
+- https://github.com/vi/websocat
+- Regardless of whether password shadowing is in effect on a given system, the passwd file is readable by all users so that various system utilities (e.g., grep) can work (e.g., to ensure that user names existing on the system can be found inside the file), while only the root user can write to it. Without password shadowing, this means that an attacker with unprivileged access to the system can obtain the hashed form of every user's password. Those values can be used to mount a brute force attack offline, testing possible passwords against the hashed passwords relatively quickly without alerting system security arrangements designed to detect an abnormal number of failed login attempts. Especially when the hash is not salted it is also possible to look up these hashed passwords in rainbow tables, databases specially made for giving back a password for a unique hash.  :: https://en.wikipedia.org/wiki/Passwd can create a blogpost out of this
+- https://github.com/katmagic/Shallot
+- https://ols.wtf/2021/05/10/orgy-personal-tech-stack.html
+- https://ban.ai/multics/
+- https://blueoakcouncil.org/license/1.0.0
+- https://macwright.com/2021/03/16/return-of-fancy-tools.html
+- https://github.com/lunixbochs/usercorn
+- https://github.com/tianon/gosu
 - https://github.com/jdan/cleaver
+- https://lobste.rs/s/jgixbw/basics_zfs_snapshot_management
+- https://github.com/minimaxir/hacker-news-undocumented
+- https://github.com/orf/gping
+- https://github.com/rs/curlie
+  - https://speedtestdemon.com/a-guide-to-curls-performance-metrics-how-to-analyze-a-speed-test-result/
+- https://github.com/chocolateboy/startup-time nice to have on the blog
+- https://github.com/joshdick/microstat
+- https://github.com/ellie/atuin currently no fish support
+- https://github.com/dbgate/dbgate
+- https://github.com/spieglt/nestur
+- https://github.com/irevenko/what-anime-cli
+- https://github.com/Codepoints/awesome-codepoints TUI useful
+- https://github.com/caseychu/spotify-backup
+- https://github.com/timvieira/justified-variables can make a editor exitension based on this
+- https://github.com/librariesio/metrics
+- https://github.com/cheat/cheat this is most of man69 that i need this is different from https://github.com/chubin/cheat.sh
+  - but this lacks exporter support etc. we probably now want man69 to use org mode aswell.
+  - this functionality can also be done with pet, man69 serves different purposes than a cheat
+- https://github.com/idealo/imagededup
+- https://github.com/spook/sshping
+- https://github.com/koreader/koreader
+- need terminal shortcuts to snakecase, underscore, camelcase etc
+- https://github.com/codebutler/farebot
+- https://github.com/guumaster/hostctl
+- https://github.com/netblue30/firejail
+- https://docs.errata.ai/vale/about
+  - https://duncan.codes/posts/2020-09-14-prose-linting-vale-emacs.org/index.html
+  - real nice
+- https://github.com/snarfed/granary
+- https://github.com/banga/git-split-diffs
+  - i think emacs should already have this idk
+- https://github.com/uutils/coreutils
+- https://github.com/opticdev/optic can use this for all of my apis for sanity
+- https://github.com/DorianRudolph/sirula projecct idea
+- https://github.com/nomasters/killcord
+- https://github.com/networkprotocol/netcode interesting
+- https://github.com/bufbuild/buf
+- https://github.com/cloudflare/cloudflared
+  - Understand cloudflare + tailscale stack it's interesting
+- https://github.com/emitter-io/emitter
+- https://github.com/mozilla-services/autograph
+- https://github.com/google/wuffs
+- https://github.com/k4m4/movies-for-hackers
+- https://github.com/genuinetools checkout all the tools here
+- https://github.com/itaysk/kubectl-neat
+- https://github.com/davidhampgonsalves/life-dashboard
+  - hack the kindle to do more things, it's clearly doing less for me
+- https://github.com/containers/skopeo
+- https://github.com/Wilfred/difftastic
+- https://github.com/jasonrudolph/keyboard#a-more-useful-caps-lock-key Very nice, just what i was looking for
+- https://github.com/mathiasbynens/dotfiles/blob/main/.aliaseks
+- https://github.com/holman/dotfiles
+- USENET, use it.  https://github.com/nzbget/nzbget
+- https://github.com/hrkfdn/ncspot
+- https://github.com/samhocevar/rinetd
+- https://github.com/TheDiscordian/ipfs-sync
+- https://github.com/Nudin/iptable_vis
+- https://github.com/jez/as-tree
+- https://github.com/proot-me/proot
+- https://github.com/mrbbot/miniflare
+- https://github.com/tarsius/keycast
+  - https://github.com/jojojames/dired-sidebar nice
+  - https://github.com/dacap/keyfreq
+  - https://github.com/tecosaur/emacs-config the boss
+  - https://github.com/magnars/dash.el
+  - https://github.com/magit/transient
+  - https://github.com/toshism/org-super-links
+  - https://github.com/alphapapa/org-ql
+- https://github.com/francma/wob
+- https://github.com/merbanan/rtl_433
 - https://github.com/koalaman/shellcheck
+- https://github.com/hpjansson/chafa
+- https://github.com/vmatare/thinkfan BAD
+- https://github.com/TotallyNotChase/glitch-this
+- i want to be silent but at the same time i want to have a very clear voice, i want things to have intentions, i want to be able to express myself clearly if i am enjoying music i want to just express it, because expressing what i feel completes the feeling for me, i don't want my feelings to hurt anyone but i still want to express so that's one of the founding philosoply
+- https://github.com/bup/bup
+- https://github.com/bazelbuild/sandboxfs
+- https://github.com/GlasgowEmbedded/glasgow
+- https://github.com/cuelang/cue
+- https://github.com/aquasecurity/tracee
+- https://github.com/microsoft/PowerToys windows
+- https://github.com/stateright/stateright dist sys
+- https://github.com/maciejhirsz/logos
+- https://github.com/s-rah/onionscan
+- I am going for total minimalism, no extra monitors, just one laptop, a notebook and a pen and i should be able to do whatever the fuck i want to do.
+- https://github.com/seccomp/libseccomp
+- https://github.com/ellotheth/pipethis : for my usecase i want this to simply execute it in a sandbox env
+- https://github.com/greymd/tmux-xpanes
+- https://janet-lang.org/
+- Alternative viewer for flamegraph: https://github.com/jlfwong/speedscope
+- https://github.com/looterz/grimd
+- https://safeboot.dev/install/
+- https://github.com/firecat53/networkmanager-dmenu
+- https://github.com/kennylevinsen/sshmuxd
+- https://tailscale.com/kb/1106/taildrop/
+- https://ideas.offby1.net/posts/development-environment-2021.html
+- https://github.com/dyne/Tomb
+- https://github.com/davatorium/rofi-scripts
+- https://github.com/lzap/systemd-shortcuts
+- https://github.com/tsileo/microblog.pub
+  - https://viggy28.dev/article/setting-up-ghost-in-raspberry-pi-for-free/ very nice
+- https://github.com/adtac/fssb (all my practice files can go with this i guess)
+- https://github.com/michaldaniel/ebook-viewer
+- https://github.com/jimsalterjrs/sanoid
+- pfsense firewall
+- https://github.com/drduh/YubiKey-Guide
+- https://github.com/ciur/papermerge scanned doc archival, i have few more but this seems nice
+- https://github.com/stepchowfun/docuum
 - https://www.explainshell.com/
+- https://www.reddit.com/r/InternetIsBeautiful/comments/oeibvg/lalalai_100_aipowered_separation_of_instrumental/
+- https://github.com/jrblevin/deft + org-roam
 - https://www.reddit.com/r/linux/comments/mzncxc/linux_networking_tool_with_simpler_understanding/
 - https://github.com/derailed/k9s
+  - k3d, k3s(prod), kind, microk8s
+- https://github.com/icy/gk8s#seriously-why-dont-just-use-kubectl-config
+  - https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
+  - https://github.com/pch/dotfiles/blob/master/kubernetes/utils.zsh
+- https://devhints.io/xpath related to man69
 - https://github.com/owenthereal/upterm
 - [lfs](https://github.com/Canop/lfs): A thing to get information on your mounted disks.
 - https://github.com/pyenv/pyenv
 - [z3](https://github.com/presslabs/z3) : Backup your ZFS snapshots to S3. Decide on which filesystem to use.
+- https://openrgb.org/
 ### Random
+- https://github.com/javierbyte/pintr
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat): a tool to output images as RGB ANSI graphics on the terminal 
   - https://github.com/posva/catimg compare and benchmark which one to use
+  - https://github.com/sharkdp/hyperfine use this to run benchmarks
 - https://github.com/muesli/smartcrop
 - create gist directly from emacs
+- https://github.com/dgryski/haiku-finder
+- lots of twitter bots
+  - one idea is to tweet good things from books of assamese authrs see @frogandtoadbot
+- https://github.com/hacksalot/HackMyResume
+- https://github.com/egonelbre/gophers
+- https://github.com/brannondorsey/wifi-cracking
+- https://github.com/fanpei91/torsniff
+- https://github.com/KuroLabs/Airshare
+- https://mediasoup.org/documentation/
+- https://github.com/nomad-software/meme
+- https://github.com/ashleymcnamara/artwork
+- https://awsu.me/
+- https://whimsical.com/
+- https://github.com/gamelinux/passivedns
+- https://github.com/cecton/cecile/blob/main/bin/sendselection
+- https://github.com/wohb/okify with some random jittter, i can have programming quotes thrown at me + ascii art whenever i enter the exit code is non-zero
+- https://github.com/zfsonlinux/zfs-auto-snapshot
+- https://github.com/chozabu/LinNetLim don't want to use this but need something like this
+- https://github.com/variadico/noti super useful
+- https://github.com/ius/rsatool
+- https://github.com/denisidoro/navi
+- https://github.com/theSage21/handwritten
 - https://github.com/deepfakes/faceswap
+- https://github.com/cspeterson/splatmoji
+- https://github.com/muesli nice gituhb readme page
+- https://github.com/felixfbecker/svg-screenshots nice
+- https://github.com/shrutikapoor08/devjoke
+- Modify : https://github.com/GMartigny/gh.midi
 - https://tosdr.org/
+- https://github.com/neldredge/mathgen
 - https://github.com/lyrebird-voice-changer/lyrebird
+- https://github.com/discourse/discourse i need some way to discuss about the issues across my self hosted things. Use this to host that discussion. Run this thing like a company.
 - https://github.com/tridactyl/tridactyl
 - https://github.com/dgryski/trifles maintain one such repo
+- https://github.com/rupa/z
+- https://github.com/raisely/NoHarm
 - https://github.com/CorentinJ/Real-Time-Voice-Cloning
 - webtorrent
 - https://github.com/atxdevops/dodatx-food (can do this for guwahati)
@@ -542,12 +857,14 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/lengstrom/fast-style-transfer
 - https://github.com/lucidrains/deep-daze
 - https://github.com/nuno-faria/tiler
+- https://github.com/marcbelmont/cnn-watermark-removal
 - https://github.com/tzutalin/labelImg
 - https://github.com/emilwallner/Screenshot-to-code
 - [cbonsai](https://gitlab.com/jallbrit/cbonsai): grow bonsai trees in your terminal
 - [Literally listen to your network](https://github.com/vvilhonen/nethoscope)
 ### Information org
 - [flimzy/anki](https://github.com/flimzy/anki) Go library to read Anki *.apkg files 
+- https://github.com/watson/cheatsheets/blob/master/google-calendar.md need a wiki for these things aswell
 - https://github.com/adri/memex
 ### Binary data
 - ar, nm, readelf, objdump
@@ -561,6 +878,17 @@ sudo pacman --needed --noconfirm -S ripgrep
 - [Deprecated Linux networking commands and their replacements](https://dougvitale.wordpress.com/2011/12/21/deprecated-linux-networking-commands-and-their-replacements/)
 - https://github.com/apenwarr/netselect
 - https://github.com/benjojo/sping
+- https://github.com/Lochnair/xt_tls
+- https://github.com/batchcorp/plumber
+- https://github.com/RobinLinus/snapdrop
+- https://github.com/v-byte-cpu/sx
+- https://github.com/wiretrustee/wiretrustee
+- https://github.com/fastos/tcpdive
+- https://github.com/vvilhonen/nethoscope will be fun to reimplement
+- https://github.com/valyala/httpteleport
+- https://github.com/cloudflare/xdpcap
+- https://github.com/rs/dnstrace
+- https://github.com/shadow/shadow
 - https://github.com/ntop/ntopng
 - [iproute2](https://wiki.gentoo.org/wiki/Iproute2)
 - socat, netcat, ss, ip2unix and frens
@@ -570,10 +898,45 @@ sudo pacman --needed --noconfirm -S ripgrep
 ### Security
 - [sbctl](https://github.com/Foxboron/sbctl): Secure Boot key manager 
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck): TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them.
+- https://github.com/m57/dnsteal
+- http://firehol.org/tutorial/firehol-by-goal/ unsure
+- https://github.com/trufflesecurity/truffleHog
+- https://github.com/orjail/orjail
+- https://github.com/droe/sslsplit
+- https://github.com/nuvious/pam-duress nice
+- https://github.com/angr/angr programmable
+- https://github.com/Ice3man543/hawkeye
+- https://github.com/DeviceFarmer/stf
+- https://github.com/mvt-project/mvt
+- https://github.com/Te-k/harpoon
+- https://github.com/docker-slim/docker-slim
+- https://github.com/projectdiscovery/nuclei
+  - https://github.com/jonaslejon/malicious-pdf
+- https://github.com/antoniomika/sish
+- https://github.com/0vercl0k/wtf
+- https://github.com/Oros42/IMSI-catcher
+- https://github.com/ginuerzh/gost also learn its implementation
+- https://github.com/dsoprea/go-exif
+- https://github.com/threat9/routersploit
+- https://github.com/usb-tools/ViewSB
+- https://github.com/moul/rules.mk I want to have something similar to this for my projects
+- https://github.com/fehawen/bin
+- https://github.com/dreadl0ck/netcap
+- https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html
+- https://github.com/Lissy93/personal-security-checklist
+- https://github.com/sozu-proxy/sozu
+- https://github.com/zhenyolka/DPITunnel
+  - https://github.com/SadeghHayeri/GreenTunnel
+- https://github.com/jopohl/urh
+- https://news.ycombinator.com/item?id=27323748
+- https://github.com/CrowdStrike/travel-laptop
+- https://github.com/ffuf/ffuf
 - https://github.com/jedisct1/minisign
 - [Photon](https://github.com/s0md3v/Photon): Incredibly fast crawler designed for OSINT.
 - [feroxbuster](https://github.com/epi052/feroxbuster): A fast, simple, recursive content discovery tool written in Rust. 
+- https://github.com/pluja/awesome-privacy
 - https://github.com/martijnvanbrummelen/nwipe
+- https://github.com/bee-san/pyWhat
 - [rust nmap alternative](https://github.com/RustScan/RustScan)
 - [Ciphey](https://github.com/Ciphey/Ciphey): Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes
 - [age](https://github.com/FiloSottile/age)
@@ -582,8 +945,20 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/gen2brain/cam2ip (I can use this to keep an eye on who is checking on my laptop)
 - [OwnCast](https://github.com/owncast/owncast): Take control over your content and stream it yourself. 
 ### Crypto
+- https://twitter.com/MagnetsOh/status/1390597915727433729
+- https://norswap.com/blockchain-how/
+- https://smallstep.com/blog/command-line-secrets/
+- https://twitter.com/10kdiver/status/1380942728222011395
+- https://twitter.com/yassineARK/status/1047978606297792513
+- https://archive.is/5cp49
+- https://github.com/trustwallet/assets
+- I denetly need alerts on some coins, like z-cash was like 12k this month no brainer to get it
+- https://twitter.com/saxena_puru/status/1215909869670129665
 - https://github.com/nayafia/lemonade-stand
+  - https://github.com/beeware/paying-the-piper
+  - https://github.com/wbkd/awesome-interactive-journalism
 - Metamask
+- https://github.com/austintgriffith/eth.build
 - curl rate.sx (make own projects like this)
   - I will host a ton of these apis so need some kind of a framework for these.
   - https://github.com/dariusk/corpora
@@ -596,9 +971,14 @@ Make some app where i can keep track of online tools that i use.
 - [cool backgrounds](https://coolbackgrounds.io/)
 - https://jpeg.rocks/
 - https://squoosh.app/
+- https://github.com/LingDong-/fishdraw
+- https://go-city.github.io/#/github.com/prometheus/prometheus
 - https://toonify.photos/
+- https://www.ventusky.com/?p=29.21;-89.07;6&l=satellite&t=20210829/1840
+- https://languagelearningwithnetflix.com/
 - https://artvee.com/
 - https://excalidraw.com/ very good drawing playground for tech
+- google contacts as contacts crm no extra needed
 - https://humanclock.com/ : Make a tool to make scale analogy
     - When we say 10mn, what does that mean you can buy 1 honda city
     - When you say 30mts that's the length of some popular statue
@@ -606,11 +986,52 @@ Make some app where i can keep track of online tools that i use.
     - Inputs can be multiple SI units  and the analoges can be infinite ;)
 - https://tosdr.org/
 - https://github.com/iv-org/invidious
+- http://goshify.tny.im/
 - https://lofi.cafe/ firefox-ssb
+- https://github.com/alcor/itty-bitty
+- https://github.com/apenwarr/blip
 - https://swimlanes.io seq diagrams 
+- https://github.com/mingrammer/diagrams for home setup
+- https://news.google.com/newspapers?nid=P9oYG7HA76QC&dat=19630731&b_mode=2&hl=en
+- http://muan.github.io/emoji-minesweeper/ can make the terminal verison of this for practice
 - https://github.com/zedeus/nitter
+- https://github.com/ibraheemdev/modern-unix
+- https://github.com/ianhan/BitmapFonts
+- http://geekwagon.net/projects/xkcd1190/
+- https://github.com/rastapasta/mapscii check out how this shit is running on telnet
+- https://mbuki-mvuki.org/posts/2021-05-30-memoize-commands-or-bash-functions-with-coprocs/
+- https://ninad.pundaliks.in/blog/2020/12/thrift-vpn/
+- https://tailscale.com/blog/2021-06-taildrop-was-easy/
+- https://whimsical.com/mind-maps
 - https://removebackground.app/
 - https://github.com/soypat/gitaligned
+- fund my macbook pro
+  - other fund me pages, wish list and allow people to fund me for it through bitcoin, paypal
 - https://github.com/eloquence/freeyourstuff.cc
 ### Projects that i just want to keep an eye on
 - https://github.com/tmrts/boilr
+- http://choly.ca/post/debugging-go-with-rr/
+- https://github.com/sidkshatriya/rd
+- https://dolphin-emu.org/
+- https://github.com/ageitgey/face_recognition
+- https://danyspin97.org/blog/improving-linux-packaging-rinstall/
+
+## others
+- https://venthur.de/2021-06-26-python-packaging.html
+- https://frida.re/
+- https://github.com/compiler-explorer/compiler-explorer
+
+## Blog inspirations
+- https://manfred.life/
+- https://www.gwern.net/Links
+- https://www.datagubbe.se/bestofbash/
+- there are few more need to search
+- https://webb.page/
+- https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021
+- ferross ka homepage
+- when is nes goingtobeused
+- https://steveblank.com/secret-history/
+- https://mgree.github.io/ actually make a geekodour cli to access everything i have and my homepage is my man page
+- thume.ca
+- https://lonami.dev/blog/graphs/ want to have notebooks like this
+- read more of usesthis

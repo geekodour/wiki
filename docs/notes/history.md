@@ -346,6 +346,7 @@ A lot of events in history are important, but some events are more important to 
 - **IANA**(Now a function of ICANN) was founded.
 - **IRC** was the created by Jarkko Oikarinen.
 - **tcpdump** was written by Van Jacobson and friends, **traceroute** was also written by Van around this time.
+- **Password shadowing** [first appeared](#1987) in Unix systems with the development of SunOS.
 - Mark Weiser coined the term **ubiquitous computing/pervasive computing**
 - 🇺🇸 **Morris worm** entered the internet.
 - The first direct IP connection between Europe and North America was made.
@@ -359,6 +360,7 @@ A lot of events in history are important, but some events are more important to 
 - **GCC** was released by RMS from MIT.
 - **FLEX**, an open source version of [LEX](#1975) was released.
 - **MINIX** (a unix like academic os) based on **microkernel** was released by Tanenbaum.
+- The author of the original Shadow Password Suite], Julie Haugh, experienced a computer break-in and wrote the initial release of the Shadow Suite containing the **login, passwd and su** commands.
 - **Unicode** was born.
 
 ## 1986
@@ -1126,3 +1128,19 @@ A lot of events in history are important, but some events are more important to 
 - http://www.dansmc.com/MC_repaircourse.htm
 - https://www.msgroup.org/
 - https://archive.org/details/softside-magazine-59/page/n9/mode/2up
+- https://webdevelopmenthistory.com/index/
+- https://www.folklore.org/StoryView.py?project=Macintosh&story=Apple_II_Mouse_Card.txt
+- https://compositor.bham.ac.uk/
+- http://hccc.org.uk/retro/retro.html
+- http://cyber.dabamos.de/88x31/ nice
+- https://github.com/bagder/irchistory
+- https://lobste.rs/s/ow3nhn/what_is_your_oldest_living_presence_on
+- https://www.pldi21.org/prerecorded_hopl.11.html
+- https://liam-on-linux.livejournal.com/81341.html
+- https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
+- https://webdevelopmenthistory.com/
+- https://www.cpushack.com/
+- https://bytecellar.com/
+- https://www.os2museum.com/wp/
+- https://obscuritory.com/
+- https://news.ycombinator.com/item?id=28280051

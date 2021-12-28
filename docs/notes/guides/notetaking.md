@@ -79,3 +79,35 @@ Try saving links to Pocket when you see shiny link on social media to avoid goin
 - https://news.ycombinator.com/item?id=23445742
 - https://vegard.wiki/w/Main_Page
 - https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki
+- https://github.com/RichardLitt/meta-knowledge
+- https://github.com/EyebrowHairs/garden
+- https://notes.andymatuschak.org/About_these_notes
+- https://vasilishynkarenka.com/learning/
+- https://every.to/superorganizers/how-to-build-a-learning-machine-299655
+- https://notes.andymatuschak.org/z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be
+- https://braindump.jethro.dev/
+- https://commonplace.doubleloop.net/20200821142536-how_i_publish_my_wiki_with_org_publish
+- https://github.com/andymatuschak/orbit see how we can fit it or contribute to
+  this or use ideas from this for my workflow
+- https://notes.stonecharioteer.com/ i like the disclaimer
+  - While I do maintain copious notes on various topics, this is not a blog, and neither is it meant for public reading. I use this site mostly to revise my notes and search through them when I’m on a phone or a tablet.  If you’d like to use the interview prep roadmap, feel free, but note that it is a roadmap that works for me (at least I’d like to assume so, but I’ll update this if I get the job I’m looking for), and might not work for you.
+- have  a thankful for page, thankful people, technogolies, inventions etc.
+- https://www.linkedin.com/pulse/i-wrote-user-manual-working-me-its-been-amazingly-zach-coelius/
+- https://github.com/archivy/archivy
+- https://macwright.com/2019/01/02/paper-notes.html
+- https://ksylor.github.io/2020/08/26/bullet-journaling.html
+- http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/ nice
+- https://every.to/cybernaut/caught-in-the-study-web
+- https://christine.website/blog/gtd-on-paper-2021-06-13
+- https://neuracache.com/
+- https://github.com/paperboi/kindle2notion
+- https://github.com/hodovani/hodovani.github.io
+- https://twitter.com/shreyas/status/1372042291968274435 (proptitinzing and todo)
+- https://github.com/KasperZutterman/Second-Brain
+- A very impressive ‘wiki’/‘zettelkasten’/‘directory’: https://barnsworthburning.net/
+- http://fed.wiki.org/view/welcome-visitors
+- https://github.com/hadynz/obsidian-kindle-plugin
+- https://github.com/thesephist/revery
+- https://github.com/inkandswitch/capstone
+- https://news.ycombinator.com/item?id=28300318
+- https://mmry.io/blog/20210807-the-second-coming-of-the-search-engine

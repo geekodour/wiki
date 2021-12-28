@@ -189,3 +189,4 @@ int main (void)
 ## Links
 
 - [CSAPP Slides](/img//10-memory-hierarchy.pdf)
+- https://www.brendangregg.com/blog/2021-05-09/poor-disk-performance.html

@@ -49,5 +49,10 @@ I wanted to write about each of them here briefly but due to privacy reasons, I 
 - Devika
 - Avinash
 - Agnim
+- Corona
 - Ishani
 - Anubhav
+- Tasdik
+- Neel
+- Pritam
+- Stella

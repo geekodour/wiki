@@ -28,6 +28,7 @@ sidebar_label: Dump
 - https://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 - https://makezine.com/2013/07/06/the-rockwell-integrated-space-plan-vector-redux-version/
 - https://snapl.org/2015/policy.html
+- https://github.com/AmnestyTech/investigations
 - https://news.ycombinator.com/item?id=24233820
 - https://dexie.org/
 - https://netbox.readthedocs.io/en/stable/
@@ -36,19 +37,19 @@ sidebar_label: Dump
 - https://justine.lol/redbean/index.html
 - https://drawingmachines.org/
 - https://github.com/domargan/awesome-dynamic-graphs
+- https://github.com/hwayne/hacker-test-history
+- https://github.com/robhagemans/hoard-of-bitfonts
+- https://github.com/lukebelliveau/CALL_ME
 - https://littlebigdetails.com/
 
 ## Education related
 - https://vanmeterlibraryvoice.blogspot.com/2020/07/our-virtual-makerspace-is-open.html
 - https://lobste.rs/s/3bbj56/edutech_spyware_is_still_spyware
 
-## workstation dump
-- https://github.com/haimgel/display-switch
-- https://github.com/stapelberg/costream
-- https://github.com/neutrinolabs/xrdp
-  - https://en.wikipedia.org/wiki/TightVNC
-  - https://github.com/kbumsik/VirtScreen
-- https://kaitai.io/
 
 ## Image Dump
 - [Directory Listing(go offsite)](/img/image_dump)
+
+# music
+- https://psynwav.bandcamp.com/album/slamilton
+- i need to have separate collection for music, videos etc

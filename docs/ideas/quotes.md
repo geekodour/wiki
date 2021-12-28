@@ -68,3 +68,11 @@ plus i have a bad taste in quotes. Also I decided to dump random snippets in thi
 - ActivityPub isn't the future. Useful things that are built, brought to market, and meet user needs that may happen to use ActivityPub under the hood are the future. Knowing what is useful for whom and how to bring it to market in a sustainable manner for the people it's intended for is a super critical element. One that's often overlooked. Specs are like plumbing pipes. People care about sinks, showers, and stuff like that. The pipe fittings, materials, and sizes enable a lot. But, it's not what the end users tend to care about. 
 - anti productivity can be a new productivity, anti-brand can be new form of brand
 - Most people forget that the goal isn’t money. The goal is to spend days as you wish.
+- Capu's blog: you can't downvote me here
+- Reinventing the wheel like every dev wants to do
+- "If the world were perfect, it wouldn't be." - Yogi Berra
+- The most important thing is the ability to survive until you get lucky
+- why would u write code without documenting it, write for humans man. computer toh 1 and 0 bhi samajh lega.
+- We live what? 75-85 years? I don't want to retire at 60 only to go to the hospital for the last 10-15 years of my life, some redditor
+- You can’t sell me the dreams that are mine anyway
+- You will rarely get more than what you're willing to ask for. By not risking a rejection, you reject yourself before anyone else can.

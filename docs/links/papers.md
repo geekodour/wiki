@@ -14,6 +14,9 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - https://fermatslibrary.com/
 - https://scite.ai/
 - https://www.connectedpapers.com
+- https://github.com/karpathy/researchlei
+- https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+- https://github.com/ReScience/ReScience
 
 
 ## Distributed Systems
@@ -104,6 +107,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [Knowledge Graphs](https://arxiv.org/abs/2003.02320)
 - [The Cognitive-Theoretic Model of the Universe or CTMU](http://ctmucommunity.org/wiki/)
 - [If Materialism Is True, the United States Is Probably Conscious](/pdf/USAconscious-140721.pdf)
+- https://github.com/jbrew/readability
 - [Visualisation and Cognition:Drawing Things Together](http://worrydream.com/refs/Latour%20-%20Visualisation%20and%20Cognition.pdf)
 
 ## Computation
@@ -126,12 +130,14 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [Dissolving the Fermi Paradox](https://arxiv.org/abs/1806.02404)
 - [Ten Lessons I Wish I HadBeen Taught](https://www.ams.org/notices/199701/comm-rota.pdf)
 - [Bullshitters. Who Are They and What Do We Know about Their Lives](http://ftp.iza.org/dp12282.pdf)
+- [The Physics of Financial Networks](https://arxiv.org/abs/2103.05623)
 - [The Origins of the Underline as VisualRepresentation of the Hyperlink on theWeb: A Case Study in Skeuomorphism](https://dash.harvard.edu/bitstream/handle/1/33797379/ROMANO-DOCUMENT-2016.pdf)
 - https://arxiv.org/abs/2009.06489
 
 ## Education
 
 - [Building complex reasoning skills online through open-ended activities](https://early.khanacademy.org/open-ended/)
+- [Why Working From Home Will Stick](https://nbloom.people.stanford.edu/sites/g/files/sbiybj4746/f/why_wfh_stick1_0.pdf)
 - 🖨[Social Identity, Access to Education, and Employment in India](https://www.orfonline.org/research/social-identity-access-to-education-and-employment-in-india/)
 - [The Effect of Computer-Assisted Learning on Students’ Long-Term Development](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3309169)
 - 🖨[Affirmative action in higher education : Insights from recent empirical research](https://www.orfonline.org/research/affirmative-action-in-higher-education-insights-from-recent-empirical-reserach/)
@@ -171,6 +177,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [Understanding Replicationin Databasesand DistributedSystems](https://www.ic.unicamp.br/~buzato/teaching/2018/mo441/wiesmann00a.pdf)
 - [Queues Are Databases(1995)](https://news.ycombinator.com/item?id=23727877)
 - [Who Needs an Architect](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
+- [Knowledge Representation in Bicategories of Relations](https://arxiv.org/pdf/1706.00526.pdf)
 
 ## Systems
 
@@ -188,6 +195,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - 🖨[Programming paradigms for dummies: what every programmer should know](https://blog.acolyer.org/2019/01/25/programming-paradigms-for-dummies-what-every-programmer-should-know/)
 - http://jmc.stanford.edu/articles/lisp/lisp.pdf
 - [On Understanding  Data  Abstraction,  Revisited](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
+- [Dev of erlang](https://fermatslibrary.com/s/the-development-of-erlang)
 
 ## Statistics
 
@@ -201,6 +209,9 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 
 ## Web
 - [Bad Character : Who Do We Want Out Hypertexts To Be?](https://www.markbernstein.org/HT20/index.pdf)
+
+## Maths
+- https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf
 
 ## Electronics
 

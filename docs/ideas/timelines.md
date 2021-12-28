@@ -17,6 +17,9 @@ sidebar_label: Timelines
 - https://arxiv.org/abs/2004.04733
 - https://en.wikipedia.org/wiki/Semantic_MediaWiki
 - https://www.grammaticalframework.org/
+- https://www.openbloc.fr/home/about
+- http://worrydream.com/#!/Bio
+- https://cascade.page/
 - https://mathigon.org/timeline
 
 ## Projects
@@ -25,21 +28,59 @@ sidebar_label: Timelines
 - [Mapping a World of Cities](https://www.leventhalmap.org/projects/mapping-a-world-of-cities/)
 - [Ridge maps](https://github.com/ColCarroll/ridge_map)
 - [wtf1971](http://archive.is/rYiI3) : https://wtfhappenedin1971.com/
+- https://app.litmaps.co/create
 
 
 ## Maps
 - https://github.com/public-transport/generating-transit-maps
 - https://protomaps.com/blog/new-way-to-make-maps
+- https://www.openmapchest.org/shutting-down/
+- https://www.halcyonmaps.com/map-of-the-internet-2021/
+- https://wiki.openstreetmap.org/wiki/Mkgmap/help/How_to_create_a_map
 - https://www.lightpollutionmap.info/#zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF
 - https://github.com/mapnificent/mapnificent
+- https://github.com/streetcomplete/StreetComplete
+- https://github.com/organicmaps/organicmaps
+- https://github.com/RailFansCanada/RailFansMap
+- https://citymapper.com/hong-kong
+- https://github.com/marceloprates/prettymaps
+- https://www.youtube.com/watch?v=m0fB4wrvgeY
+- https://ramblemaps.com/
+  - https://ramblemaps.com/turning-satellite-imagery-into-wall-art
+- https://github.com/Znerox/wifimap
+- https://github.com/systemed/tilemaker
 - https://github.com/tabatkins/railroad-diagrams
+- https://github.com/telegeography/www.submarinecablemap.com
 - https://github.com/CUTR-at-USF/awesome-transit
 - https://github.com/transitland/transitland-processing-animation
 - https://github.com/wwcline/list-of-frequent-transit-maps
+- https://www.halcyonmaps.com/map-of-the-internet-2021/
+  - https://www.caida.org/projects/cartography/as-core/2020/
+- https://mapoflondon.uvic.ca/agas.htm
+- https://github.com/mewo2/terrain
+- https://news.ycombinator.com/item?id=27410133
+- https://maplibre.org/
+- https://bdon.org/blog/web-map-services/
+- https://www.mani.ai/
+- https://news.ycombinator.com/item?id=27469715 (https://www.openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1850&daterange=1800,2021)
+- https://github.com/biolab/orange3
+- https://github.com/a-b-street/abstreet
+- https://github.com/RocketMap/RocketMap
+- https://github.com/atlasr-org/atlasr
 - https://github.com/UDST/vizicities
 - https://github.com/microsoft/SandDance : more of a data viz tool
 - https://github.com/fogleman/PirateMap
 
+## Data viz
+- https://github.com/mathisonian/awesome-visualization-research
+- https://github.com/lightning-viz/lightning
+
 ## Collections
 - https://govbins.uk/
 - https://www.tema.ru/eng/travel/
+
+## Space
+- https://github.com/csete/gpredict
+- https://www.space-track.org/auth/login
+- http://celestrak.com/
+- https://nightingaledvs.com/making-sense-of-satellite-data-an-open-source-workflow-accessing-data/

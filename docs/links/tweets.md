@@ -32,3 +32,19 @@ sidebar_label: Tweets
 - [Popular threads by Shreyas](https://twitter.com/shreyas/status/1303150374124048386)
 - https://twitter.com/james_d_baird/status/1372936895668322309
 - [Everyone wants to decouple time from money.](https://archive.is/wip/pQEIm)
+- [Excellent thread on the misconception that low-income communities just need education to come out of poverty](https://archive.is/gUUSm)
+- [How to support someone in their grief ](https://archive.is/73RF5)
+- [How to teach thinking in schools](https://archive.is/N8eAw)
+- [Explanations](https://twitter.com/james_d_baird/status/1381675761359273993)
+- [Practical nutrition](https://archive.is/7s8mU)
+
+## Unread but want to read
+- https://twitter.com/QuinnyPig/status/1387937035382452230
+-
+- https://twitter.com/mrcatacroquer/status/1386318806411325440 I also need a place to store where people share their inventions etc. i mean we can store it in one place but a tag would be nice
+- https://twitter.com/shreyas/status/1384008853004578822
+- https://twitter.com/jmikolay/status/1381635288238325761
+- https://twitter.com/kshitiz/status/1405190674966712320
+- https://twitter.com/dharmeshba/status/1429124984446668802
+- https://archive.is/VVVxO
+- https://archive.is/Tg31v

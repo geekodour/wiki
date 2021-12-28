@@ -19,3 +19,4 @@ To improve on drawing ducks I'll have to practice basic shape drawings initially
 Hope, I'll be able to draw cool ducks in a year or two.
 
 See https://ebird.org/home
+- https://blog.roboflow.com/computer-vision-win-games-duck-hunt/

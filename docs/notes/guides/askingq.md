@@ -8,5 +8,7 @@ I am not good at asking questions either, but as I learn I'll put things here.
 
 - https://xyproblem.info/
 - https://nedbatchelder.com//blog/202009/how_to_be_helpful_online.html
+- https://daedtech.com/programmers-teach-non-geeks-the-true-cost-of-interruptions/
+- when not to intruupt in notion SWE page
 
 ![](/img/2020-09/EgrhtjcWoAIngAB.jpg)

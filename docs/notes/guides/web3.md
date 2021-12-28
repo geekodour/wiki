@@ -13,10 +13,25 @@ sidebar_label: Web 3.0
 ## Archiving
 - [WebRecorder](https://webrecorder.net/): Webrecorder provides a suite of open source projects and tools to capture interactive websites and replay them at a later time as accurately as possible.
 - [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
+- https://indicnlp.ai4bharat.org/samanantar/
 - [conifer : WebRecorder Service](https://conifer.rhizome.org/)
+- https://archive.org/details/Ambedkar_CompleteWorks/01.Caste%20in%20India
+- https://github.com/projectblacklight/spotlight
 - [Can You Help us Make the 19th Century Searchable?](https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/)
+- https://twitter.com/internetarchive/status/1386423512810721284
+- https://github.com/oduwsdl/archivenow
+- https://github.com/WebMemex/freeze-dry
+- https://github.com/makeworld-the-better-one/tiktok-link
+- https://github.com/rahiel/archiveror
+- https://github.com/szymonkaliski/archivist
+- https://github.com/bevacqua/shots
+- https://github.com/staeiou/dystopedia
+  - https://quarry.wmflabs.org/query/runs/all
 - [The DigiBarn](http://digibarn.com/)
 - [The Wayback Machine Scraper](https://github.com/sangaline/wayback-machine-scraper)
+- https://github.com/ipld/go-car
+- https://github.com/web3-storage/ipfs-car
+- https://github.com/jsvine/waybackpack
 
 ## Old/Retro Web
 ### Catalogues 
@@ -92,20 +107,27 @@ sidebar_label: Web 3.0
   - [How To Create An IndieWeb Profile](https://kevq.uk/how-to-create-an-indieweb-profile/)
   - [Implementing The IndieWeb Into My Website](https://kevq.uk/implementing-the-indieweb-into-my-website/)
   - [Creating My Own Personal Micropub Client](https://www.jvt.me/posts/2020/06/28/personal-micropub-client/)
+  - https://indiewebify.me/
   - [Autonomy Online: A Case For The IndieWeb](https://www.smashingmagazine.com/2020/08/autonomy-online-indieweb/)
   - [POSSE](https://indieweb.org/POSSE)
 - [SmalltechOrg](https://small-tech.org/)
 
 ## Technologies
 - https://github.com/redecentralize/alternative-internet
+- https://ingrids.space/posts/why-distributed-systems-dont-work/
+- https://handshake.org/
 
 ### Gemini
 - https://github.com/mbrubeck/agate
 - https://github.com/skyjake/lagrange
 - https://github.com/mk270/blizanci
+- https://gemini.circumlunar.space/docs/companion/subscription.gmi
 - https://toffelblog.xyz/blog/gemini-overview/
+- https://alex.flounder.online/gemlog/2021-01-08-useless.gmi
+- https://gerikson.com/blog/comm/Why-u-no-gemini.html
 - https://gemini.circumlunar.space/
 - https://github.com/kr1sp1n/awesome-gemini
+- https://pitr.ca/2021-05-29-gemini-ecosystem
 - https://drewdevault.com/2020/11/01/What-is-Gemini-anyway.html
 - [A Browser for the small internet (Gemini, Gopher, Finger)](https://sr.ht/~julienxx/Castor/)
 - [Plaintext HTTP in a Modern World](https://jcs.org/2021/01/06/plaintext)
@@ -127,6 +149,8 @@ sidebar_label: Web 3.0
 ### Matrix
 - [Introducing P2P Matrix](https://matrix.org/blog/2020/06/02/introducing-p-2-p-matrix)
 - [Difference between XMPP and Matrix](https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp)
+- https://matrix.org/blog/2021/06/10/low-bandwidth-matrix-an-implementation-guide
+- https://matrix.org/blog/2021/05/17/the-matrix-space-beta
 
 ### Bluetooth Low Energy
 - [Berty](https://berty.tech/blog/bluetooth-low-energy/)
@@ -160,6 +184,12 @@ sidebar_label: Web 3.0
 ### Audio
 - [Fourhands, the p2p piano](https://github.com/jminjie/fourhands)
 
+
+### Others
+- https://www.inkandswitch.com/cambria.html
+- https://github.com/inkandswitch/ksp-browser
+- https://github.com/inkandswitch/farm
+
 ### Torrent
 
 #### Tools
@@ -188,6 +218,8 @@ sidebar_label: Web 3.0
 - [coturn](https://github.com/coturn/coturn)
 - [WebRTC is now a W3C and IETF standard](https://web.dev/webrtc-standard-announcement/)
 - [(pre-alpha) JamRTC -- Jam sessions with Janus!](https://github.com/lminiero/jamrtc)
+- https://github.com/pion/awesome-pion
+- https://github.com/pion/offline-browser-communication
 
 ### Webmention
 Webmention is a W3C recommendation that describes a simple protocol to notify any URL when a website links to it, and for web pages to request notifications when somebody links to them. 
@@ -226,9 +258,16 @@ Webmention is a W3C recommendation that describes a simple protocol to notify an
 - [What is an NFT?](https://twitter.com/anandchokkavelu/status/1371129975752044547)
 
 ## Random Projects idk where to put
+- http://www.dial-multiscreen.org/
 - https://github.com/brutella/dnssd
 - https://crates.io/crates/actyxos_sdk
+- https://github.com/OpenHD/Open.HD
+- https://github.com/snarfed/bridgy-fed
+- https://github.com/prometheus-community/PushProx
+- https://news.ycombinator.com/item?id=27451844
 - https://github.com/Antharia/awesome-lowtech
+- https://news.ycombinator.com/item?id=27481465
+- https://kn100.me/turning-upnp-off/
 - https://github.com/upspin/upspin
 - https://github.com/tomeshnet/meshstream
 - [Announcing GitTorrent: A Decentralized GitHub(2015)](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)

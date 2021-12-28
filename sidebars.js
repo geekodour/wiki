@@ -60,6 +60,7 @@ module.exports = {
       "courses/others/accessp2p",
       "courses/others/distributedsystemscourse",
       "courses/others/gc_essentials_udemy",
+      "courses/others/human_memory",
     ],
   },
   notes: {

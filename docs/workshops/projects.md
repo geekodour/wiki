@@ -21,6 +21,8 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html
 - http://jimbly.github.io/regex-crossword
 - https://github.com/karan/Projects-Solutions
+- https://treasure21.timotijhof.net/index.html
+- https://mysteries.wizardzines.com/50ms-request.html
 
 ## Web Engineering
 
@@ -42,6 +44,7 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - [Building a database in C](https://cstack.github.io/db_tutorial/)
 - [Building a database in Go](http://notes.eatonphil.com/database-basics.html)
 - [in Rust](https://github.com/erikgrinaker/toydb)
+- https://github.com/erikgrinaker/toydb
 
 ## Compilers and Parsers
 
@@ -53,6 +56,7 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - [Concurrent Servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
 - [Writing a VM](https://justinmeiners.github.io/lc3-vm/)
 - [A thread pool](https://github.com/Pithikos/C-Thread-Pool)
+- https://carltheperson.com/posts/10-things-linux
 
 ## Protocols
 
@@ -80,3 +84,6 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - [Build yourself a weather station. Part I](https://blog.kdubovikov.ml/articles/hardware/build-yourself-a-weather-station)
 - [How Students Built a 16th-Century Engineer’s Book-Reading Machine](https://www.atlasobscura.com/articles/behold-the-renaissance-bookwheel)
 - [My brother made a game which can project on this room](https://www.reddit.com/r/Damnthatsinteresting/comments/cvr4cp/my_brother_made_a_game_which_can_project_on_this/ey6102k/)
+- https://github.com/hankhank10/vinylemulator
+  - https://github.com/maddox/magic-cards
+  - https://github.com/codebutler/farebot

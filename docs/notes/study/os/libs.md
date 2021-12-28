@@ -478,6 +478,7 @@ It's an way to export kernel space routines to userspace. The main reason is to 
 - [various mechanisms to protect against buffer overflow exploits.](https://www.win.tue.nl/~aeb/linux/hh/protection.html)
 - [Drew on Dynamic Linking](https://drewdevault.com/dynlib.html)
 - [Traditional Unix Toolchain](https://bsdimp.blogspot.com/2020/07/traditional-unix-toolchains.html?m=1)
+- https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2
 
 ## Tools
 

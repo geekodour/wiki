@@ -66,6 +66,8 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 ## Linux user
 
 - [A broad overview of how modern Linux systems boot](https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxBootOverview)
+- https://github.com/linuxboot/book 📘
+- https://github.com/mairin/selinux-coloring-book 📘
 - [How do groups work on Linux?](https://jvns.ca/blog/2017/11/20/groups/)
 - [Differences between tmux vs screen](https://wtanaka.com/node/8136)
 - [Htop Guide P1](https://codeahoy.com/2017/01/20/hhtop-explained-visually/) | [Htop Guide P2](https://www.monades.dev/managing-processes-with-htop/)
@@ -121,6 +123,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [fast-servers](http://geocar.sdf1.org/fast-servers.html)
 - [A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
 - [Systems design for advanced beginners](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
+- https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
 
 ## Memory Management
 
@@ -133,6 +136,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [The Ultimate Question of Programming, Refactoring, and Everything](https://software.intel.com/en-us/articles/the-ultimate-question-of-programming-refactoring-and-everything)
 - 📘[AOSA book: The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 - 📘[Delft Students on Software Architecture](https://legacy.gitbook.com/@delftswa)
+- 📘[Software Engineering Body of Knowledge (computer.org)](https://news.ycombinator.com/item?id=26901070)
 - https://www.jelmer.uk/janitor-update-2.html
 
 ## Containers
@@ -168,8 +172,11 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [Another Number representation - Math Heavy](http://www.introtcs.org/public/lec_02_representation.html)
 - [Floating point visually explained](http://fabiensanglard.net/floating_point_visually_explained/)
 - [Formatting floating point](http://www.zverovich.net/2019/02/11/formatting-floating-point-numbers.html)
+- https://float.exposed/
+- https://0.30000000000000004.com/
 - [What Every Programmer Should Know About Floating-Point Arithmetic](http://floating-point-gui.de)
 - [Oracle Paper on Floating Point](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+- https://trekhleb.dev/blog/2021/binary-floating-point/
 - [Demystifying Floating Point Precision](https://blog.demofox.org/2017/11/21/floating-point-precision/)
 - 🎥[Number representation](https://www.youtube.com/watch?v=HhtecBhM_oA&index=1&list=PLD71F13843965439D)
 - 🎥[Floating point numbers 8-bit](https://www.youtube.com/watch?v=ji3SfClm8TU) (See video description)
@@ -232,8 +239,8 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 
 - [My most useful RegExp trick](https://dassur.ma/things/regexp-quote/)
 - [Coreutils gotchas](http://www.pixelbeat.org/docs/coreutils-gotchas.html)
-- [Workstation guide](https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide)
 - [Things that programmers don't know but should](https://gist.github.com/geekodour/c5b6e49b3b2e355c0110b8f0f6fecfac)
+- https://www.jeremyong.com/cpp/2021/05/20/graphics-pipelines-for-young-bloods/
 - [Things Every Hacker Once Knew](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/)
 - [Foundations of Information](https://faculty.washington.edu/ajko/books/foundations-of-information/#/)
 - [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
@@ -266,3 +273,6 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - [Bongo drums wire format](https://web.archive.org/web/20130917021241/http://www.eagle.auc.ca/~dreid/)
 - [DNSFS](https://blog.benjojo.co.uk/post/dns-filesystem-true-cloud-storage-dnsfs)
 - [ASCII art in DNS](https://www.cambus.net/storing-ascii-art-in-the-dns/)
+
+## Others
+- https://github.com/bobeff/programming-math-science

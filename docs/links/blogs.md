@@ -34,6 +34,7 @@ sidebar_label: Blogs
 ## Education
 
 - [hkalant/awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) : Not a reading list but more of an interesting tool list that can help generate ideas in EdTech.
+- https://github.com/hack-earth/manifesto
 
 ## Climate Change
 
@@ -59,6 +60,14 @@ sidebar_label: Blogs
 
 - [Notation and thought](https://github.com/hypotext/notation)
 - https://untools.co/
+- https://www.dgsiegel.net/articles/pencil-and-paper-thinking
+- https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by
+- https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication
+- https://github.com/dessalines/essays
+- https://thesystemsthinker.com/a-lifetime-of-systems-thinking/
+- https://github.com/hack-earth/manifesto
+- https://engineeringmedia.com/
+- https://metarationality.com/bongard-meta-rationality
 - [The Case for Underground Research](http://nawab.me/blog/?p=656)
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) : Falsehoods Programmers Believe in.
 - [How to Make Yourself Into a Learning Machine](https://superorganizers.substack.com/p/how-to-build-a-learning-machine)
@@ -67,7 +76,9 @@ sidebar_label: Blogs
 - [Arguments](http://liamrosen.com/arguments.html)
 - [Teaching kids how to think](https://news.ycombinator.com/item?id=24638756)
 - [vmbrasseur/Public_Speaking](https://github.com/vmbrasseur/Public_Speaking) : A repository of resources about public speaking, specifically in the context of software development and IT conferences.
+- https://web.stanford.edu/~ouster/cgi-bin/decisions.php
 - [social cooling](https://www.socialcooling.com/)
+- https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/
 - [notion/visa](https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73): The best of @visakanv's twitter threads
 - [Mindware: Critical Thinking for the Information Age](https://www.coursera.org/learn/mindware)
 - [Critical Thinking Skills for University Success](https://www.coursera.org/learn/critical-thinking-skills)
@@ -104,6 +115,7 @@ sidebar_label: Blogs
 - https://www.conradakunga.com/blog/what-do-you-actually-agree-to-when-you-accept-all-cookies/
 - https://danluu.com/hn-comments/
 - https://idlewords.com/talks/website_obesity.htm
+- https://labmuffin.com/the-only-skincare-that-works-according-to-science-asap-science-video-response/
 
 ## Writing
 
@@ -119,3 +131,14 @@ sidebar_label: Blogs
 
 - For Aaron, Dual Core
 - The Algorithm
+
+
+## Blog links dump
+- https://gafferongames.com/
+- https://solar.lowtechmagazine.com/
+- https://100r.co/site/home.html
+- https://marginalrevolution.com/
+- https://midnight.pub/
+- https://sorry.about.computer/
+- https://www.accesscyber.org/
+- https://www.mrmoneymustache.com/
