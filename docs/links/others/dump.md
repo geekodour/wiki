@@ -41,10 +41,44 @@ sidebar_label: Dump
 - https://github.com/robhagemans/hoard-of-bitfonts
 - https://github.com/lukebelliveau/CALL_ME
 - https://littlebigdetails.com/
+- https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm#ch3.1
+- https://estimote.com/
+- https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
+- https://github.com/devplayer0/cvos
+- https://github.com/WIZARDISHUNGRY/hls-await wtf am i looking at
+- https://github.com/tachiyomiorg/tachiyomi
+- https://github.com/witheve/Eve
+- https://github.com/matiasinsaurralde/facebook-tunnel
+- https://github.com/afrantzis/pixel-format-guide
+- https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books
+- https://github.com/mon/0x40-web
+- https://github.com/illacceptanything/illacceptanything
+- https://github.com/sonic-pi-net/sonic-pi
+- https://github.com/joshwcomeau/panther
+- https://github.com/OctoPrint/OctoPrint
+- https://github.com/Toufool/Auto-Split
+- https://github.com/microsoft/recommenders
+- https://github.com/IKEA/IKEA3DAssemblyDataset
+- https://github.com/mjyc/awesome-robotics-projects
+- https://github.com/wnzhang/rtb-papers
+- https://github.com/martinwhitaker/pcmemtest
+- https://github.com/cotoami/cotoami
+- https://github.com/LeftValues/leftvalues.github.io
+- https://github.com/DustinBrett/daedalOS
+- https://github.com/nmarcel/ThinkComposer
+- https://burds.vercel.app/
+- https://www.ohsat.com/post/sor2-design-docs/ 
+- https://witchcraft.computer/tech/a-tT
+- https://vimeo.com/8040182
+- This repository is a pile of scratch mini-projects I've written over the years that capture various experiments and lessons learned. When working on other projects, I will sometimes harvest code snippets from this scratch repository. Some of this code is complete, working, and tested, but not sufficiently substantial to warrant its own repository. Some is incomplete or half-baked. Almost all the code here is dedicated to the public domain.
+- https://brianlovin.com/writing/product-design-portfolios
 
 ## Education related
 - https://vanmeterlibraryvoice.blogspot.com/2020/07/our-virtual-makerspace-is-open.html
 - https://lobste.rs/s/3bbj56/edutech_spyware_is_still_spyware
+
+## Internet
+- https://cyber.fsi.stanford.edu/io
 
 
 ## Image Dump

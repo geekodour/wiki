@@ -76,3 +76,7 @@ plus i have a bad taste in quotes. Also I decided to dump random snippets in thi
 - We live what? 75-85 years? I don't want to retire at 60 only to go to the hospital for the last 10-15 years of my life, some redditor
 - You can’t sell me the dreams that are mine anyway
 - You will rarely get more than what you're willing to ask for. By not risking a rejection, you reject yourself before anyone else can.
+- A document is not necessarily a simulation of paper. In the most general sense, a document is a package of ideas created by human minds and addressed to human minds, intended for the furtherance of those ideas and those minds. Human ideas manifest as text, connections, diagrams and more: thus how to store them and present them is a crucial issue for civilization.—Ted Nelson
+- lack of regret is hell of a drug - i found this on krish's are.na
+- I speak only of myself since I do not wish to convince, I have no right to drag others into my river, I oblige no one to follow me and everybody practices his art in his own way. - Dada Manifesto 1918
+- Lock yourself in a room making 5 beats a day for 3 summers - ye

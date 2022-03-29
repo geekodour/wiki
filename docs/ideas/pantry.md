@@ -12,9 +12,16 @@ sidebar_label: Idea Pantry
 - [Nintil's Random startup ideas](https://nintil.com/startup-ideas/)
 - [Silky's list of Crazy Ideas](https://silky.github.io/posts/2019-02-22-2018s-crazy-ideas.html)
 - [Wintermute](https://wintermute.app/)
+- [Under-Investigated Fields List (Version 1.0)](https://matthewmcateer.me/blog/under-investigated-fields/#origins-of-this-list)
+- [List of common human goals](https://www.lesswrong.com/posts/ZJJH45J6eF2JCSQhW/list-of-common-human-goals)
+- [Alternative Institutions](http://mason.gmu.edu/~rhanson/altinst.html)
+- https://www.infraculture.org/2021-12-30-an-inventory-of-interests/
 - https://github.com/captn3m0/ideas
 - https://github.com/samsquire/ideas
 - https://iwishtherewas.app/
+- https://github.com/jbenet/random-ideas/issues
+- https://github.com/open-source-ideas/ideas/issues
+- https://github.com/egoist/ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 - https://github.com/samsquire/wants
 - https://twitter.com/rsnous/status/1373691707326222337
 
@@ -27,23 +34,44 @@ sidebar_label: Idea Pantry
 - https://github.com/uetchy/namae
 - https://www.causal.app/saas-metrics
 - https://github.com/AutoSpotting/AutoSpotting
+- https://github.com/tvler/laundry-symbols
 - https://github.com/imazen/imageflow
 - https://github.com/segmentio/ksuid
+- https://github.com/beizhedenglong/rough-charts
+- https://github.com/alvaromontoro/almond.css
+- https://github.com/woltapp/blurhash
+- https://github.com/HttpErrorPages/HttpErrorPages
+- https://github.com/kamranahmedse/brusher
+- https://github.com/earthly/earthly
 - https://github.com/papercups-io/papercups
 - https://github.com/remotion-dev/remotion
 - https://github.com/fogleman/primitive
+- https://github.com/jdan/98.css
+- https://github.com/sverweij/state-machine-cat
+- https://github.com/sw-yx/spark-joy
+- https://github.com/paulirish/lite-youtube-embed
+- https://github.com/drbh/wasm-flate
+- https://github.com/Unleash/unleash
+- https://github.com/qrohlf/trianglify
+  - https://github.com/esimov/triangle
 - https://github.com/factbook/factbook.json
+- https://github.com/growthbook/growthbook
 - https://github.com/taivop/awesome-data-annotation
 - https://illlustrations.co/
 - https://2.flexiple.com/scale/multi-color-illustrations
 - http://www.textfiles.com/underconstruction/
+- https://github.com/Kozea/WeasyPrint
 - https://github.com/huggingface/transformers
 
 ## SAAS
 - https://blog.thea.codes/winterblooms-tech-stack/
+- https://publish.obsidian.md/swyx/R+-+Product/Launch+Cheatsheet
 - https://dlopuch.github.io/venture-dealr/ nice
+- https://github.com/smirnov-am/awesome-saas-boilerplates
+- https://github.com/timhaines/saas-pricing-resources
 - https://draculatheme.com/pro/journey
 - https://www.indiehackers.com/post/launched-my-first-course-earned-over-us-500-000-ama-4382405cd5
+- https://github.com/mautic/mautic
 - https://panelbear.com/blog/tech-stack/
 - https://pketh.org/how-kinopio-is-made.html
 - https://jake.nyc/words/tools-and-services-i-use-to-run-my-saas/
@@ -51,6 +79,8 @@ sidebar_label: Idea Pantry
 - https://www.clym.io/pricing/
 - https://httpstatusdogs.com/
 - https://anthonynsimon.com/blog/one-man-saas-architecture/
+- https://segment.com/blog/why-we-re-transitioning-to-api-first/
+- https://alexdanco.com/2019/05/09/cooking-as-a-service
 - https://www.cypress.io/
 - https://remoteok.io/open lists everything about the company
 - https://sive.rs/multiply
@@ -63,23 +93,35 @@ sidebar_label: Idea Pantry
 - https://github.com/chatwoot/chatwoot 
 - https://github.com/rudderlabs/rudder-server
 - https://github.com/frappe/books
+- https://github.com/vercel/virtual-event-starter-kit
+- https://github.com/erxes/erxes
 - https://github.com/GetTogetherComm/GetTogether
 - https://framagit.org/framasoft/mobilizon/
 - https://github.com/forem/forem
+- https://github.com/ro31337/libretaxi
 - https://meedan.com/check
+- https://github.com/MacPaw/together-app
+- https://github.com/edumeet/edumeet
+- https://github.com/Netflix-Skunkworks/stethoscope
 - https://github.com/foodcoops/foodsoft
-- https://github.com/frappe/books
 - https://github.com/Couchers-org/couchers
+- https://github.com/Godmartinz/snipe-it
+- https://github.com/openemr/openemr
+- https://github.com/CultureHub/LiveLab
+- https://github.com/getredash/redash
 - https://github.com/lexiross/fattest-cat
 
 ### Climate
+- https://www.terra.do/climate-farm-school-regenerative-agriculture/
 - https://web.archive.org/web/20091222135011if_/http://s3.amazonaws.com/infobeautiful/climate_skeptics_960.gif
+- https://space10.com/
 
 
 ## Interesting projects
 - [ProjectDrawdown/solutions](https://github.com/ProjectDrawdown/solutions):  The mission of Project Drawdown is to help the world reach “Drawdown”— the point in the future when levels of greenhouse gases in the atmosphere stop climbing and start to steadily decline, thereby stopping catastrophic climate change — as quickly, safely, and equitably as possible. 
 - https://www.routinedb.com/routines
 - https://github.com/ustaxes/UsTaxes
+- https://abhas.io/libretechshop/
 
 ## Interesting websites
 - [TheStrangeRoots](https://www.thestrangeroots.com/): A website exploring the strange etymological roots of words used in technology and computer science.
@@ -89,3 +131,9 @@ sidebar_label: Idea Pantry
 - [usesthis](https://usesthis.com/) : The inspiration for [ahilapaatietyadi](https://ahilapaati.com/)
 - [waitwho](https://waitwho.is/) similar to my old idea of [reachout](https://github.com/geekodour/reachout)
 - [otherside](https://github.com/0x263b/Otherside): Create a Twitter List of the accounts someone follows, and see Twitter from their perspective
+- https://github.com/knadh/dont.build
+
+## Design
+- https://discourse.opensourcedesign.net/t/continuing-conversations-about-fellowships-internships-in-open-source-design/2722/8
+  - https://www.openusability.org/
+- https://twitter.com/MatthewWSiu/status/1488911987333500932

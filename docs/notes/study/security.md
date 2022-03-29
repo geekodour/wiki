@@ -18,9 +18,18 @@ Read links will be removed and added somewhere else where they fit better.
 
 - [Keyrings](https://askubuntu.com/questions/32164/what-does-a-keyring-do)
 - [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
+- https://github.com/corkami/collisions
+- https://github.com/jivoi/awesome-osint
+- https://github.com/infoslack/awesome-web-hacking
+- https://github.com/Hack-with-Github/Awesome-Hacking
+- https://github.com/sundowndev/hacker-roadmap
+- https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
+- https://github.com/StarCrossPortal/bug-hunting-101
 
 ### Attacks
 
+- https://github.com/d33tah/call-for-wpa3
+- https://github.com/moxie0/sslstrip
 - [Smurf Attack](https://en.wikipedia.org/wiki/Smurf_attack)
 - [ARP Spoofing](https://en.wikipedia.org/wiki/ARP_spoofing)
 - [ZeroAccess Botnet](https://en.wikipedia.org/wiki/ZeroAccess_botnet)
@@ -33,10 +42,17 @@ Read links will be removed and added somewhere else where they fit better.
 - [TCP Reset Attack](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
 - [Sybil attack](https://en.wikipedia.org/wiki/Sybil_attack)
 - [NAT Slipstreaming v2.0](https://samy.pl/slipstream/)
+- Browser Exploits
+  - https://github.com/matamorphosis/Browser-Exploits
+  - https://github.com/singularseclab/Browser_Exploits
+  - https://github.com/drtychai/browser-exploitation
+  - https://github.com/m1ghtym0/browser-pwn
 
 ### Others
 
+- https://github.com/ctf-wiki/ctf-wiki
 - [Cybersquatting](https://en.wikipedia.org/wiki/Cybersquatting)
+- https://github.com/osnr/horrifying-pdf-experiments
 - [Piggybacking](<https://en.wikipedia.org/wiki/Piggybacking_(security)>)
 - [Broadcast Encryption](https://en.wikipedia.org/wiki/Broadcast_encryption)
 - [Discretionary Access Control](https://en.wikipedia.org/wiki/Discretionary_access_control)
@@ -48,6 +64,7 @@ Read links will be removed and added somewhere else where they fit better.
 - https://devd.me/log//posts/kerckhoffs-law/
 - [ECDSA vs RSA](https://www.ssl.com/article/comparing-ecdsa-vs-rsa/)
 - https://github.com/qazbnm456/awesome-web-security
+- https://github.com/firstlookmedia/sidtoday
 
 ### Theory/Ideas/Protocols
 
@@ -64,3 +81,10 @@ Read links will be removed and added somewhere else where they fit better.
 
 - [SET](https://en.wikipedia.org/wiki/Secure_Electronic_Transaction)
 - [EMV](https://en.wikipedia.org/wiki/EMV)
+
+### Dumps
+- https://github.com/mdp/PlaneBoard
+- https://github.com/speed47/spectre-meltdown-checker
+- https://github.com/gmelodie/awesome-wordlists
+- https://github.com/Igglybuff/awesome-piracy
+- https://github.com/jonaschn/awesome-he

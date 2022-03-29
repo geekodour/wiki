@@ -17,9 +17,12 @@ sidebar_label: Timelines
 - https://arxiv.org/abs/2004.04733
 - https://en.wikipedia.org/wiki/Semantic_MediaWiki
 - https://www.grammaticalframework.org/
+- https://github.com/NUKnightLab/TimelineJS3
+- https://github.com/longnow/longview
 - https://www.openbloc.fr/home/about
 - http://worrydream.com/#!/Bio
 - https://cascade.page/
+- http://onehouronelife.com/
 - https://mathigon.org/timeline
 
 ## Projects
@@ -29,19 +32,34 @@ sidebar_label: Timelines
 - [Ridge maps](https://github.com/ColCarroll/ridge_map)
 - [wtf1971](http://archive.is/rYiI3) : https://wtfhappenedin1971.com/
 - https://app.litmaps.co/create
+- https://github.com/jwngr/sdow
+- https://github.com/lo-th/neo
 
 
 ## Maps
 - https://github.com/public-transport/generating-transit-maps
 - https://protomaps.com/blog/new-way-to-make-maps
+- https://github.com/platers/MAL-Map (ugh)
 - https://www.openmapchest.org/shutting-down/
 - https://www.halcyonmaps.com/map-of-the-internet-2021/
+- https://github.com/shuding/cobe
 - https://wiki.openstreetmap.org/wiki/Mkgmap/help/How_to_create_a_map
+- https://github.com/keplergl/kepler.gl
 - https://www.lightpollutionmap.info/#zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF
 - https://github.com/mapnificent/mapnificent
 - https://github.com/streetcomplete/StreetComplete
+- https://github.com/lowlighter/gracidea
+- https://github.com/ubilabs/threejs-overlay-view
+- https://github.com/Maps4HTML/MapML
+- https://github.com/Malvoz/web-maps-wcag-evaluation
+- https://github.com/vbarbaresi/MetroGit
+- https://github.com/latviancoder/my-cycling-routes
+- https://github.com/cambecc/earth
+- https://github.com/ideal-postcodes/postcodes.io
 - https://github.com/organicmaps/organicmaps
 - https://github.com/RailFansCanada/RailFansMap
+- https://github.com/alyssaxuu/mapus
+- https://github.com/witcher3map/witcher3map
 - https://citymapper.com/hong-kong
 - https://github.com/marceloprates/prettymaps
 - https://www.youtube.com/watch?v=m0fB4wrvgeY
@@ -68,6 +86,8 @@ sidebar_label: Timelines
 - https://github.com/RocketMap/RocketMap
 - https://github.com/atlasr-org/atlasr
 - https://github.com/UDST/vizicities
+- https://www.housingstudies.org/blog/mapping-neighborhood-change/
+- https://eirinimalliaraki.medium.com/towards-intelligent-green-and-blue-infrastructures-52cab0f502b5 
 - https://github.com/microsoft/SandDance : more of a data viz tool
 - https://github.com/fogleman/PirateMap
 

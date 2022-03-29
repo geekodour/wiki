@@ -6,6 +6,7 @@ sidebar_label: Blogs
 
 ## Distributed Systems
 
+- https://github.com/lorin/systems-reading
 - [copyconstruct/library](https://github.com/copyconstruct/library) : A collection of the papers, conference talks, articles, blog posts, interesting Twitter threads, HN/reddit comments on systems engineering
 - [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html?m=1)
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) : Very nice
@@ -59,7 +60,18 @@ sidebar_label: Blogs
 ## Thinking
 
 - [Notation and thought](https://github.com/hypotext/notation)
+- [jameshk/research](https://jameshk.com/research)
 - https://untools.co/
+- https://github.com/andytudhope/APerspectiveOnTechnology
+- https://github.com/chobeat/awesome-critical-tech-reading-list
+- https://thesystemsthinker.com/nurturing-systemic-wisdom-through-knowledge-ecology/
+- https://vickiboykis.com/2021/11/07/the-programmers-brain-in-the-lands-of-exploration-and-production/
+- [Computer Utopias - Lots of good links](http://chrisnovello.com/teaching/risd/computer-utopias/)
+- [Structure and Behavior](https://stefan-lesser.com/2019/12/06/structure-and-behavior/)
+- http://hint.fm/projects/wordtree/
+- https://twitter.com/DrYohanJohn/status/1481508290941136900
+- https://twitter.com/blisstweeting/status/1443228379638030337
+- [A map of Bay Area memespace](https://www.lesswrong.com/posts/WzPJRNYWhMXQTEj69/a-map-of-bay-area-memespace)
 - https://www.dgsiegel.net/articles/pencil-and-paper-thinking
 - https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by
 - https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication
@@ -126,6 +138,7 @@ sidebar_label: Blogs
 - [How the Language Really Works](http://criticalreading.com/)
 - [Technical Writing](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
 - [Making Cheatsheets](https://www.hillelwayne.com/post/cheatsheets/)
+- [The Ultimate Guide to Writing Online](https://perell.com/essay/the-ultimate-guide-to-writing-online/)
 
 ## Music related to technology
 

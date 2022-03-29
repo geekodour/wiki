@@ -44,3 +44,4 @@ Read links will be removed and added somewhere else where they fit better.
 - [Implementing exp](https://www.pseudorandom.com/implementing-exp)
 - [fencepost](https://betterexplained.com/articles/learning-how-to-count-avoiding-the-fencepost-problem/)
 - [glossary](https://mathvault.ca/math-glossary/)
+- https://github.com/StoreyLab/reading

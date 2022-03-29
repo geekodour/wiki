@@ -24,6 +24,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [Ethernet and Wireless](https://networkengineering.stackexchange.com/questions/35618/relation-between-ethernet-and-802-11-headers)
 - [What developers should know about TCP](https://news.ycombinator.com/item?id=23177607)
 - [How do Routers Work, Really?](https://kamila.is//teaching/how-routers-work/)
+- https://github.com/clowwindy/Awesome-Networking
 
 
 ### IPv6
@@ -64,9 +65,12 @@ Read links will be removed and added somewhere else where they fit better.
 - [Christmas Tree Packet](https://en.wikipedia.org/wiki/Christmas_tree_packet)
 - [Bogon Filtering](https://en.wikipedia.org/wiki/Bogon_filtering)
 - [Port Knocking](https://en.wikipedia.org/wiki/Port_knocking)
+  - https://github.com/jvinet/knock
 - [Peercasting](https://en.wikipedia.org/wiki/Peercasting)
 - [Bufferbloat](https://en.wikipedia.org/wiki/Bufferbloat)
 - [Blackhaul](<https://en.wikipedia.org/wiki/Backhaul_(telecommunications)>)
 - [Bastion host](https://en.wikipedia.org/wiki/Bastion_host)
 - [DMZ (computing)](<https://en.wikipedia.org/wiki/DMZ_(computing)>)
+- https://github.com/diracdeltas/FastestWebsiteEver
+- https://github.com/PacktPublishing/Network-Programming-with-Rust
 

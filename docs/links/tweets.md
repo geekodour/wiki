@@ -48,3 +48,12 @@ sidebar_label: Tweets
 - https://twitter.com/dharmeshba/status/1429124984446668802
 - https://archive.is/VVVxO
 - https://archive.is/Tg31v
+- https://archive.is/H95l9
+- https://twitter.com/SamoBurja/status/1094412351623712768
+- https://twitter.com/vgr/status/1204884591598686208
+- https://twitter.com/kushaanshah/status/1500501827120353287
+- https://twitter.com/adityaagrw/status/1500115866935267331
+- https://twitter.com/samjawed65/status/1499980556091670528
+- https://twitter.com/FarzaTV/status/1488965852519022592
+- https://twitter.com/visakanv/status/1487465133123448832
+- https://twitter.com/dan_abramov/status/1476085561064669185

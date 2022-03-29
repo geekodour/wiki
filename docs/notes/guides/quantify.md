@@ -32,11 +32,23 @@ Self Quantification
 - https://github.com/TailorDev/Watson
 - https://github.com/thesephist/sounds A collection of sounds from places I've been
 - https://github.com/mholt/timeliner
+- https://github.com/JohnPhamous/strava-box
 - https://github.com/lord/mortalical this can go with the history app, sort of it also can fork this project
 - https://github.com/MasterScrat/Chatistics
 - https://github.com/cheeaun/life this fits very nicely with my baserow idea
 - https://github.com/schollz/howmanypeoplearearound
 - https://github.com/AnandChowdhary/life-data (Love the commits)
 - https://github.com/KrauseFx/FxLifeSheet
+- https://jordankoschei.com/2019/02/12/the-problem-with-hill-charts/
+- https://www.chrisdancy.com/media
+- https://airtable.com/shrETv5RWBshYAUTx/tblzHFnRPpKaTT3Oi
+- http://data.chrisdancy.com/
 - metrics of how long the laptop was on over days etc
 - visualization of linux home directory etc
+- https://github.com/katmeister/tokyo-2019
+- https://github.com/traumverloren/camping-in-iceland
+- https://github.com/luisandani/valencia-notes
+- https://github.com/Reportr/dashboard
+
+
+![](/img/quant_1.jpg)

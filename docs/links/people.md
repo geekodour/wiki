@@ -25,8 +25,10 @@ Interesting people/personal blogs I find on the internet.
 - [Dan Luu](https://danluu.com/)
 - [Gary](https://www.destroyallsoftware.com/screencasts)
 - [Toby : subpixel](https://subpixel.space/about/)
+- [Seema](https://seema.page/)
 
 ## Homepages
 
 - https://rojer.me/
 - https://simonsarris.com/goals2020
+- http://danrogger.com/

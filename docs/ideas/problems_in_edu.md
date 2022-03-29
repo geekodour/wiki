@@ -27,5 +27,6 @@ sidebar_label: Problems in Education
 19. Student satisfaction != Teaching Quality and Schooling != Education.
 20. Medical Education : http://archive.is/19ZNG
 21. People think a 'modern' classroom is one that has tech. No, a modern classroom is one that treats students differently - foregrounds their agency in constructing their understanding, removes the hierarchy in learning. You can have a lot of tech and still run an outdated classroom - Subir Shukla
+22. The issue here is, we have so much knowledge here and there.
 
 ![](/img/2020-07/edpaji.jpg)

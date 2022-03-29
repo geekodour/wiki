@@ -5,16 +5,30 @@ sidebar_label: Self Hosting
 ---
 
 ## Meta
+- https://github.com/whylabs/whylogs
 - [Map of my personal data infrastructure(not mine :p)](https://beepb00p.xyz/myinfra.html)
 - I will never install directly from github, promise. If i have to i'll always create AUR package and download my own shit.
 - I am done with using other ppl code (subjective)
 - https://chown.me/blog/infrastructure-2020
+- https://github.com/awesome-selfhosted/awesome-selfhosted
+- https://github.com/schollz/hostyoself
+- https://github.com/IceWhaleTech/CasaOS
+- https://github.com/tycrek/degoogle
+- https://github.com/nikitavoloboev/privacy-respecting
+- https://sirupsen.com/metrics
+- https://perfectmediaserver.com/index.html (important)
+- https://github.com/doitintl/secure-gcp-reference
+- https://github.com/thaum-xyz/ankhmorpork
+- https://github.com/sergiomarotco/Network-segmentation-cheat-sheet
+- https://github.com/netbox-community/netbox
+- https://github.com/RunaCapital/awesome-oss-alternatives
 
 
 ## DNS/Ad Blocking
 - https://github.com/AdguardTeam/AdGuardHome
 - https://github.com/whytheplatypus/switchboard
 - https://github.com/honeytrap/honeytrap
+- https://github.com/thinkst/opencanary
 - https://github.com/octodns/octodns for managing my self hosted shit
   - https://github.com/StackExchange/dnscontrol
 - [dnscrypt](https://dnscrypt.info/)
@@ -26,29 +40,53 @@ sidebar_label: Self Hosting
 - [huginn](https://github.com/huginn/huginn): hackable version of IFTTT or Zapier on your own server
   - https://github.com/muesli/beehive there's the other ruby thing aswell
 - [RSSHub](https://github.com/DIYgod/RSSHub): RSSHub is an open source, easy to use, and extensible RSS feed generator. It's capable of generating RSS feeds from pretty much everything.
+- https://github.com/NaturalSelectionLabs/RSS3-Wiki
+- https://github.com/RSS-Bridge/rss-bridge
+- https://github.com/omnivore-app/omnivore
+- https://github.com/sissbruecker/linkding
 - [Tiny Tiny RSS](https://tt-rss.org/) is a free and open source web-based news feed (RSS/Atom) reader and aggregator
     - [Elfeed with Tiny Tiny RSS](https://codingquark.com/emacs/2020/04/19/elfeed-protocol-ttrss.html)
 - [miniflux](https://miniflux.app/): Miniflux is a minimalist and opinionated feed reader.
 - [FreshRSS](https://freshrss.org/): A free, self-hostable aggregator… probably the best!
 - [tomnomnom/waybackurls](https://github.com/tomnomnom/waybackurls)
 - https://xkcd.com/1179/ : Read xkcd daily. make some bot or something.
+- https://github.com/anderspitman/awesome-tunneling
+- https://github.com/joeyates/imap-backup
 
 ## Hosting
 - Caddy : for hosting personal websites
+- https://github.com/getumbrel/umbrel
 - https://github.com/pulumi/pulumi small shit apps
 - https://github.com/groundnuty/k8s-wait-for
-- Move personal projects to sr.ht maybe
+- https://github.com/offen/offen
+- https://github.com/k8s-at-home/awesome-home-kubernetes
+- https://github.com/gerbera/gerbera
+- https://github.com/sabre-io/Baikal
+- Move personal projects to sr.ht maybe or maybe self host git, maybe not initially
 - https://github.com/hashicorp/nomad this prolly will be a good idea
 - https://dokku.com/docs/
 - https://github.com/TwinProduction/gatus
+- https://github.com/LycheeOrg/Lychee
+- https://github.com/arackaf/booklist
+- https://github.com/marcinguy/scanmycode-ce
+- https://github.com/firefly-iii/firefly-iii
+- https://github.com/schn4ck/schnack
+- https://github.com/pixelfed/pixelfed
 - https://github.com/gotify/server
+- https://github.com/flomesh-io/pipy
+- https://github.com/ghostfolio/ghostfolio
+- https://github.com/gogs/gogs
 - https://baserow.io/ (database)
 
 ## Communication
 - [oragono](https://github.com/oragono/oragono): A modern IRC server (daemon/ircd) written in Go. 
 - https://github.com/knadh/listmonk
+- https://github.com/djyde/cusdis
+- https://github.com/amritb/poor-mans-vpn
 - https://github.com/ndbeals/keep-exporter
 - https://github.com/PrivateBin/PrivateBin
+- https://github.com/reviewdog/reviewdog
+  - https://github.com/houndci/hound
 - https://www.monicahq.com for contacts CRM
 - https://openslo.com/
 - [tehlounge](https://github.com/thelounge/thelounge): Modern, responsive, cross-platform, self-hosted web IRC client 
@@ -66,8 +104,11 @@ sidebar_label: Self Hosting
 - [Glauth](https://github.com/glauth/glauth): A lightweight LDAP server for development, home use, or CI 
 - https://github.com/pomerium/pomerium
 - pass/bitwarden/keybase/tail/yubi (security setup)
+- https://github.com/authelia/authelia
 - https://github.com/appvia/krane
+- https://github.com/kanidm/kanidm
 - https://github.com/gravitational/teleport
+- https://github.com/external-secrets/external-secrets
 - https://github.com/pglombardo/PasswordPusher
 - https://github.com/ory/hydra
 - https://github.com/dani-garcia/vaultwarden
@@ -104,12 +145,17 @@ sidebar_label: Self Hosting
 - https://github.com/mickael-kerjean/filestash
 
 ## Information sharing
+- https://github.com/AboutRSS/ALL-about-RSS
+- https://github.com/stringer-rss/stringer
+- https://github.com/LemmyNet/lemmy
+- https://github.com/Mailtrain-org/mailtrain
 - [BookstackApp](https://www.bookstackapp.com/): BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. ( I plan to use to store book reviews of all books)
   - https://github.com/bookwyrm-social/bookwyrm
 - [docspell](https://github.com/eikek/docspell): Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort. 
 - [HedgeDoc](https://docs.hedgedoc.org/): HedgeDoc lets you create real-time collaborative markdown notes.
 - https://github.com/excalidraw/excalidraw
 - https://github.com/calendso/calendso
+- https://github.com/utterance/utterances
 - https://github.com/zhenghaoz/gorse
 - https://github.com/rykov/paperboy
 - https://github.com/backstage/backstage
@@ -121,27 +167,50 @@ sidebar_label: Self Hosting
 - [Tailscale](https://github.com/tailscale/tailscale)
 - https://brokenco.de//2021/06/06/high-density-homelab.html
 - https://github.com/pirate/wireguard-docs (VPN) for experimenting we can probably run tailscale and wireguard both, This is really good resource
+- https://github.com/gravitl/netmaker
+- https://github.com/qdm12/gluetun
+- https://github.com/aquasecurity/tfsec
 - https://github.com/hyprspace/hyprspace
+- https://github.com/caronc/apprise
 - https://github.com/thatmattlove/hyperglass
 
 ## Monitoring
 - Prometheus&Grafana : no brainer
 - https://github.com/samber/awesome-prometheus-alerts
 - https://github.com/honeycombio/refinery
+- https://github.com/DavidWells/analytics
+- https://github.com/PostHog/posthog
+- https://github.com/28mm/blast-radius
+- https://github.com/Enapiuz/awesome-monitoring
+- https://github.com/plausible/analytics
+- https://github.com/parkr/ping
+- https://github.com/paschmann/changd
+- https://github.com/honeytrap/honeytrap
+- https://github.com/jaksi/sshesame
 - https://github.com/monitoringsucks/metrics-catalog
 - [Motion](https://motion-project.github.io/): Motion is a highly configurable program that monitors video signals from many types of cameras. 
 - https://github.com/ossec/ossec-hids
 - https://github.com/slok/sloth
+- https://github.com/usefathom/fathom
 - https://github.com/containrrr/watchtower
+- https://github.com/juliomrqz/statusfy
+- https://github.com/paulogr/dstatuspage
+- https://github.com/valeriansaliou/vigil
 - https://dystroy.org/rhit/
 - https://github.com/testground/testground
+- https://github.com/robscott/kube-capacity
+- https://github.com/thp/urlwatch
+- https://github.com/flatt-security/shisho
+- https://github.com/secretlint/secretlint
 - https://paramdeo.com//blog/opting-your-website-out-of-googles-floc-network
 - https://github.com/coinbase/salus
 - https://oss.oetiker.ch/smokeping/
   - https://github.com/SuperQ/smokeping_prober
 - https://github.com/netdata/netdata
 - https://github.com/pyroscope-io/pyroscope need this for all applications
+- https://github.com/bridgecrewio/checkov
 - https://github.com/milesmcc/shynet
+- https://github.com/ligurio/awesome-ci
 - [netdata](https://github.com/netdata/netdata)
 - https://github.com/prymitive/karma
 
@@ -150,14 +219,21 @@ sidebar_label: Self Hosting
 - [colly](https://github.com/gocolly/colly)
 - https://github.com/ArchiveBox/ArchiveBox
 - https://github.com/i5ik/22120
+- https://github.com/Jwink3101/syncrclone
 - https://github.com/geph-official/geph4
 - https://github.com/uriel1998/muna
 - https://github.com/pentacent/keila
+- https://github.com/Shopify/ghostferry
 - https://github.com/simon987/awesome-datahoarding
 
 ## Entertainment
 - [Jellyfin](https://jellyfin.org/): Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. Your media, your server, your way.
 - https://lidarr.audio/
+- https://github.com/varbhat/exatorrent
+- https://github.com/sebgl/htpc-download-box
+- https://github.com/Luminarys/synapse
+- https://github.com/devsnd/cherrymusic
+- https://github.com/IrosTheBeggar/mStream
 - Self host media wiki for family tree and family information (It should be private by default)
 - https://github.com/pixelfed/pixelfed most importantly it does not have stories
 - https://radarr.video/#downloads-v3-linux
@@ -176,13 +252,35 @@ sidebar_label: Self Hosting
 ## Freaky
 - https://github.com/home-assistant/core
 - https://www.traccar.org/
+- https://github.com/berty/berty
+- https://publish.obsidian.md/swyx/R+-+Product/Automation+Notes
+- https://github.com/knotworks/knot-server
 - https://github.com/privacybot-berkeley/privacybot
 - [tor node](https://hacky.solutions/blog/2020/06/06/operating-a-tor-relay.html): With tailscale you can have exit nodes.
 - crypto miner for fun
 - https://github.com/tonarino/innernet
+- https://github.com/gr2m/twitter-together
+- https://github.com/boypt/simple-torrent
 
 ## Others
 - https://github.com/MayaPosch/NymphCast/
+- https://github.com/rstacruz/kingraph
 - https://github.com/rshipp/awesome-malware-analysis
 - https://github.com/grafana/k6
 - https://github.com/nerab/dropcaster
+- https://github.com/shlinkio/shlink
+- https://github.com/caarlos0/starcharts
+- https://github.com/DNSCrypt/encrypted-dns-server
+- https://github.com/cozy/cozy-stack
+- https://github.com/Cloud-Foundations/keymaster
+- https://github.com/PurritoBin/PurritoBin
+- https://github.com/vincelwt/RaspberryCast
+- https://github.com/freedomofpress/securedrop
+- https://github.com/square/sudo_pair
+- https://github.com/magicbug/Cloudlog
+- https://github.com/ocelotsloth/csmapper
+- https://github.com/danderson/livemon
+- https://github.com/zrepl/zrepl
+- https://github.com/toboshii/hajimari
+- https://github.com/monosidev/monosi
+- https://github.com/craigerl/aprsd

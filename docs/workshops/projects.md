@@ -23,10 +23,15 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - https://github.com/karan/Projects-Solutions
 - https://treasure21.timotijhof.net/index.html
 - https://mysteries.wizardzines.com/50ms-request.html
+- https://github.com/karan/Projects
+- https://github.com/florinpop17/app-ideas
+- https://github.com/practical-tutorials/project-based-learning
 
 ## Web Engineering
 
 - [Build a Browser Engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+- http://taligarsiel.com/Projects/howbrowserswork1.htm
+- https://github.com/nodejs/undici
 
 ## Data Structures and Algorithms
 
@@ -43,20 +48,27 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 
 - [Building a database in C](https://cstack.github.io/db_tutorial/)
 - [Building a database in Go](http://notes.eatonphil.com/database-basics.html)
+- https://github.com/risinglightdb/risinglight
 - [in Rust](https://github.com/erikgrinaker/toydb)
 - https://github.com/erikgrinaker/toydb
+- https://github.com/andygrove/how-query-engines-work
 
 ## Compilers and Parsers
 
 - [Writing a simple JSON parser](http://notes.eatonphil.com/writing-a-simple-json-parser.html)
+- https://github.com/spencertipping/jit-tutorial
 
 ## Systems
 
+- https://github.com/s-matyukevich/raspberry-pi-os
 - [Writing a game emulator](http://emulator101.com/)
 - [Concurrent Servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction/)
+- https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 - [Writing a VM](https://justinmeiners.github.io/lc3-vm/)
 - [A thread pool](https://github.com/Pithikos/C-Thread-Pool)
 - https://carltheperson.com/posts/10-things-linux
+- https://github.com/spencertipping/shell-tutorial
+- https://github.com/iomonad/KFS
 
 ## Protocols
 
@@ -77,7 +89,9 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 
 ## Fun
 - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+- https://github.com/ssloy/tinyrenderer/wiki
 - [How to get better at recursion](https://notes.eatonphil.com/practicing-recursion.html)
+- https://github.com/sindresorhus/quick-lru
 
 ## Hardware
 
@@ -87,3 +101,12 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - https://github.com/hankhank10/vinylemulator
   - https://github.com/maddox/magic-cards
   - https://github.com/codebutler/farebot
+
+## File systems
+- https://github.com/johang/btfs
+
+
+## Dump
+- https://github.com/anvaka/atree
+- https://github.com/anvaka/e-sum
+- https://github.com/whykatherine/every-element-is-an-html

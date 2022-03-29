@@ -47,6 +47,25 @@ sidebar_label: Ideas in Education
 - https://twitter.com/DrLivGibbs/status/1406507357308284930
 - https://lobste.rs/s/2glukp/surveying_k_12_computer_science
 - https://www.oldbookillustrations.com/subjects/
+- https://transcend.substack.com/p/finding-work-you-love-transcend-newsletter?s=r
+- https://www.entangled.solutions/portfolio/unlocking-career-potential/
+- https://medium.com/emerge-edtech-insights/mass-collaboration-between-employers-and-universities-is-the-future-of-higher-education-part-1-ed840467bfd5
+- https://archive.is/jqe39
+- https://mathoverflow.net/questions/13089/why-do-so-many-textbooks-have-so-much-technical-detail-and-so-little-enlightenme
+- https://en.wikipedia.org/wiki/John_Amos_Comenius
+- https://en.wikipedia.org/wiki/Diploma_mill
+- https://en.wikipedia.org/wiki/Criticism_of_college_and_university_rankings_(North_America)#2007_movement
+- https://twitter.com/wilks_isaac/status/1185430062503473153
+- http://positivelysemidefinite.com/2020/06/160k-students.html
+- https://archive.is/emRtn
+- https://matthewrhoads.com/
+- https://archive.is/ZtBX9
+- https://twitter.com/AarihantAaryan/status/1488379957923704832
+- https://twitter.com/gwenckatz/status/1487530360703361024
+- https://www.teachthought.com/learning/ways-to-use-blooms-taxonomy-in-the-classroom/
+- https://archive.is/SZVlf
+- https://twitter.com/david_perell/status/1478946655995105281
+- https://eriktorenberg.substack.com/p/opportunities-in-education?s=r
 
 ## Interesting projects
 - https://imaginary.org/
@@ -56,5 +75,12 @@ sidebar_label: Ideas in Education
 - https://explorabl.es/
 - https://archive.is/wip/dvpfd
 - https://masterwiki.how/
+- https://www.globallearninglandscape.org/
 - https://libraryofbabel.info/theory.html
+- https://www.career-pathways.co.uk/
 - https://github.com/mathigon/textbooks
+- https://github.com/emeryberger/CSrankings
+- https://github.com/brown-bytes/brown-bytes
+- https://github.com/brunosimon/keppler
+- https://www.publicbooks.org/public-books-database/
+- https://github.com/startrekdude/taoquiz

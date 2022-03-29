@@ -87,6 +87,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - https://throughascreendarkly.com/2021/05/16/port-knocking-better/
 - https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/
 - https://gynvael.coldwind.pl/?lang=en&id=737
+- https://simhacks.github.io/defcon-21/#slides
 - https://johnmathews.eu/i-leaked-credentials-onto-a-public-github-repo.html
 - https://lwn.net/Articles/852112/
 - [OAuth is Not User Authorization](https://www.scottbrady91.com/OAuth/OAuth-is-Not-User-Authorization)
@@ -121,6 +122,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 
 ## Networks
 
+- https://github.com/captn3m0/hello-cloudflare
 - [Taking Back What Is Already Yours: Router Wars Episode I](https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/)
 - https://daniel.haxx.se/blog/2021/05/31/curl-localhost-as-a-local-host/
 - https://susam.in/blog/reliance-jio-impersonation-issue/
@@ -190,6 +192,9 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - https://twitter.com/el_bhs/status/1375236202949799938
 
 ## Web
+- https://coywolf.pro/webmaster/cloudflare-stream/
+- https://github.com/pazguille/offline-first
+- https://fasterthanli.me/series/dont-shell-out
 - https://blog.syncinc.so/events-not-webhooks
   - https://en.wikipedia.org/wiki/Server-sent_events
 
@@ -280,12 +285,15 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
   - https://www.amazon.com/Hardware-Software-Virtualization-Synthesis-Architecture/dp/1627056939
   - https://airbus-seclab.github.io/qemu_blog/
 - https://christine.website/talks/systemd-the-good-parts-2021-05-16
+- https://mbuki-mvuki.org/posts/2021-05-30-memoize-commands-or-bash-functions-with-coprocs/
 
 
 ## Misc
 
 - [How to store data forever](https://drewdevault.com/2020/04/22/How-to-store-data-forever.html)
 - [trace art](https://esoteric.codes/blog/stack-trace-art)
+- [What I've learned about data recently](https://seldo.com/posts/what-i-ve-learned-about-data-recently)
+- https://github.com/globalcitizen/taoup
 - [Choosing boring tech](https://mcfunley.com/choose-boring-technology)
 - [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/)
 - https://nolanlawson.com/2021/08/26/my-love-hate-affair-with-technology/
@@ -299,6 +307,9 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Plain text protocols]()https://blainsmith.com/articles/plain-text-protocols/)
 - [Making the best CLI](https://venam.nixers.net/blog/unix/2017/06/04/making-the-best-cli.html)
 - [Date formats](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
+- https://twitter.com/amodm/status/1486949200579690499
+- https://twitter.com/nixxin/status/1487254103956746241
+- https://mikecoutermarsh.com/why-not-use-the-most-hype-stack/
 - [Using Open Source to Create a Video Thumbnail Service](http://blog.flavioribeiro.com/using-open-source-to-create-a-video-thumbnails-service/)
 - [Anybody can write good bash (with a little effort)](https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort)
 - [Save Your Linux Machine From Certain Death](https://medium.com/better-programming/save-your-linux-machine-from-certain-death-24ced335d969)
@@ -335,6 +346,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 
 - [The Death Of Corporate Research Labs](https://blog.dshr.org/2020/05/the-death-of-corporate-research-labs.html)
 - [Inside the messy mission to bring 4G to the London Underground](https://www.wired.co.uk/article/london-underground-4g)
+- https://opguides.info/posts/wtfarch/
 - [The Sad Story of TCP Fast Open](https://squeeze.isobar.com/2019/04/11/the-sad-story-of-tcp-fast-open/)
 - https://techblog.bozho.net/the-syslog-hell/
 - https://www.stevenrbaker.com/tech/history-of-rspec.html
@@ -354,6 +366,8 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - https://github.com/ept/hermitage
 - https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
 - https://scattered-thoughts.net/writing/against-sql/
+- https://gramin.pro/posts/database-as-code/
+- https://riffle.systems/essays/prelude/
 - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 - [An unlikely database migration](https://tailscale.com/blog/an-unlikely-database-migration/)
 - http://justinjaffray.com/query-engines-push-vs.-pull/
@@ -422,6 +436,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 ## Programming
 
 - [Faster Integer Parsing](https://kholdstare.github.io/technical/2020/05/26/faster-integer-parsing.html)
+- https://github.com/phoboslab/qoi
 - [Discord switching from go to rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 - [Structured programming: how to write proper if statements](http://boris-marinov.github.io/if/)
 - https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html

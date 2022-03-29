@@ -1144,3 +1144,13 @@ A lot of events in history are important, but some events are more important to 
 - https://www.os2museum.com/wp/
 - https://obscuritory.com/
 - https://news.ycombinator.com/item?id=28280051
+- http://webseitz.fluxent.com/wiki/HistoryOfThe21stCenturyIn100Objects
+- https://www.historyofinformation.com/index.php
+- https://twitter.com/jschauma/status/1480391335634997248
+- https://twitter.com/krishashok/status/1475009729726349312
+- https://github.com/simh/simh
+- https://github.com/JesseKPhillips/USA-Constitution
+- https://github.com/2d-inc/HistoryOfEverything
+- https://github.com/worrydream/EarlyHistoryOfSmalltalk
+- https://github.com/mraible/history-of-web-frameworks-timeline
+- https://github.com/michael-lazar/finger2020

@@ -13,9 +13,12 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - [hashicorp/research-resources](https://github.com/hashicorp/research-resources) :  A collection of sites, papers and other resources that we hope will be of use if you are beginning to look at academic research (very nice)
 - https://fermatslibrary.com/
 - https://scite.ai/
+- https://theartofresearch.org/a-history/
+- https://www.scinapse.io/
 - https://www.connectedpapers.com
 - https://github.com/karpathy/researchlei
 - https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+- https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/
 - https://github.com/ReScience/ReScience
 
 
@@ -106,6 +109,9 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 
 - [Knowledge Graphs](https://arxiv.org/abs/2003.02320)
 - [The Cognitive-Theoretic Model of the Universe or CTMU](http://ctmucommunity.org/wiki/)
+- [Information Hazards: A Typology of Potential Harms fromKnowledge](https://www.nickbostrom.com/information-hazards.pdf)
+- [Improving Our Ability to Improve: A Call for Investment in a New Future](https://www.dougengelbart.org/content/view/348/)
+- [Designing Documents for People to Use](https://www.sciencedirect.com/science/article/pii/S2405872618300194)
 - [If Materialism Is True, the United States Is Probably Conscious](/pdf/USAconscious-140721.pdf)
 - https://github.com/jbrew/readability
 - [Visualisation and Cognition:Drawing Things Together](http://worrydream.com/refs/Latour%20-%20Visualisation%20and%20Cognition.pdf)
@@ -196,6 +202,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - http://jmc.stanford.edu/articles/lisp/lisp.pdf
 - [On Understanding  Data  Abstraction,  Revisited](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 - [Dev of erlang](https://fermatslibrary.com/s/the-development-of-erlang)
+- [Design Principles Behind Smalltalk](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html)
 
 ## Statistics
 

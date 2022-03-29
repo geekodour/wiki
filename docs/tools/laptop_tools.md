@@ -250,10 +250,20 @@ $ time -v <exec>
 ## Tools/Practices to adopt
 ### Blogposts to read before starting
 - Do the IP addressing Video course
+- https://github.com/Delapouite/dot-in-the-sky
+- https://github.com/nanotee/nvim-lua-guide
+- There's some politics here
+  - https://github.com/containers
+  - https://github.com/opencontainers
+  - understand containers, the current landscape and also the politics
+- https://github.com/opsdisk/the_cyber_plumbers_handbook
+- https://github.com/mhinz/vim-galore
+- https://www.youtube.com/watch?v=rCMh7srOqvw&list=PLhXZp00uXBk4np17N39WvB80zgxlZfVwj
 - https://github.com/narwhalacademy/zebra-crossing
 - have a section in your blog where people can ask you about your laptop setup. If i know the answer i'll simply answer it, if don't then you get the answer + some amount of bitcoin!
 - https://en.wikipedia.org/wiki/Literate_programming
 - I need to be able to answer questions like, what to do if i get logged out my system how can i log back in quickly, how i nuke my laptop, if there is data corruption how do i detect, how can i check health of my laptop etc.
+- https://utcc.utoronto.ca/~cks/space/blog/unix/FindWithoutXargsToday
 - I need to build a system like https://getpolarized.io/ where all my notes from papers, pocket articles highlights, kidle highlights, dates, org mode notes, book summaries etc automatically create Anki cards and I can review them whenever I want. I have bad memory so this will be super useful for me. https://github.com/burtonator/polar-bookshelf
 - https://github.com/kernc/logkeys
 #### System
@@ -338,6 +348,8 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/jarun/nnn
 - Understand gobject, gtk+, the diagram in this page: https://en.wikipedia.org/wiki/Accessibility_Toolkit
 - fish/oil shell
+- https://github.com/justinmayer/virtualfish
+- https://github.com/jorgebucaran/awsm.fish
 - https://github.com/pirate/fish-utils#fish-utility-functions
 - https://github.com/Alexays/Waybar
 - https://github.com/danielmiessler/SecLists
@@ -380,8 +392,98 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/nushell/nushell its a replacement for fish but i am gon use
   fish so will need to see when i want to use it.
 - https://github.com/alt-romes/programmer-calculator
+- https://github.com/orhun/kmon
+- https://github.com/ujjwal96/xwinwrap
+- https://github.com/mpv-player/mpv
+- https://github.com/mdp/qrterminal
+- https://github.com/chriskempson/base16
+- https://github.com/bbatsov/crux
+- https://github.com/integral-dw/org-superstar-mode
+- https://github.com/AmaiKinono/puni
+- https://github.com/minad/corfu
+- https://github.com/tmux-plugins/tmux-sensible
+- https://github.com/rust-lang/discord-mods-bot
+- https://github.com/manateelazycat/snails
+- https://github.com/nobiot/org-remark
+- https://github.com/joostkremers/writeroom-mode
+- https://github.com/cantino/mcfly
+- https://github.com/quenhus/uBlock-Origin-dev-filter
+- https://github.com/mattreduce/oblique-fortunes
+- https://github.com/bcye/Hello-Goodbye
+- https://github.com/ClementTsang/bottom
+- https://github.com/twitter/rezolus
+- https://github.com/seanbreckenridge/browserexport
+- https://github.com/bugaevc/wl-clipboard
+- https://github.com/Hummer12007/brightnessctl
+- https://github.com/ErikReider/SwayNotificationCenter
+- https://github.com/phiresky/ripgrep-all
+  - https://github.com/tmbinc/bgrep
+- https://github.com/betterlockscreen/betterlockscreen
+- https://github.com/nwg-piotr/nwg-launchers
+- https://github.com/tvrzna/emptty
+- https://github.com/VSCodium/vscodium
+- https://github.com/soywod/himalaya
+- https://github.com/robpike/ivy
+- https://github.com/direnv/direnv
+- https://github.com/atanunq/viu
+- https://github.com/vilhalmer/oguri
+- https://github.com/altdesktop/playerctl
+- https://github.com/Syncplay/syncplay
+- https://github.com/MaxKellermann/ferm
+- https://github.com/joelshepherd/tabliss
+- https://github.com/shutter-project/shutter
+- https://github.com/holman/spark
+- https://github.com/ziberna/i3-py
+- https://github.com/ahrm/sioyek
+- https://github.com/lfos/calcurse
+- https://github.com/jenv/jenv
+- https://github.com/inducer/pudb
+- https://github.com/bup/bup
+- https://github.com/soimort/you-get
+- https://github.com/graysky2/lostfiles
+- https://github.com/firecat53/networkmanager-dmenu
+- https://github.com/facebook/PathPicker
+- https://github.com/cenkalti/rain
+- https://github.com/sassman/t-rec-rs
+- https://gitlab.com/screenkey/screenkey
+- https://github.com/pavlobu/deskreen
+- https://github.com/streamlink/streamlink
+- https://github.com/harmonoid/harmonoid
+- https://github.com/anordal/shellharden
+- https://github.com/dalance/procs
+- https://github.com/Schniz/fnm
+- https://github.com/themattrix/bash-concurrent
+- https://github.com/TaKO8Ki/frum
+- https://github.com/koraa/huniq
+- https://github.com/dbrgn/tealdeer
+- https://github.com/kiennq/emacs-mini-modeline
 - https://github.com/aaronpenne/generative_art
+- https://github.com/nvim-telescope/telescope.nvim
+- https://github.com/tpope/vim-abolish
+- https://github.com/wfxr/minimap.vim
+- https://github.com/folke/which-key.nvim
+- https://github.com/SirVer/ultisnips
+- https://github.com/b4b4r07/gomi
+- https://github.com/tusharsadhwani/zxpy
+- https://github.com/hrkfdn/ncspot
+- https://github.com/skywind3000/asyncrun.vim
+- https://github.com/shinpei0208/gdev
+- https://github.com/lambdalisue/guise.vim
+- https://github.com/lawl/NoiseTorch
+- https://github.com/eramdam/BetterTweetDeck
+- https://github.com/jhspetersson/fselect
+- https://github.com/rebelot/kanagawa.nvim
+- https://github.com/numToStr/Comment.nvim
+- https://github.com/MitMaro/git-interactive-rebase-tool
+- https://github.com/andymass/vim-matchup
+- https://github.com/chmln/handlr
 - https://no-color.org/ : good list of tools
+- https://github.com/afroisalreadyinu/miniboss
+- https://github.com/brocode/fw
+- https://github.com/skywind3000/z.lua
+- https://github.com/ajeetdsouza/zoxide
+- https://github.com/sharkdp/insect
+- https://github.com/fupdec/mediaChips
 - https://github.com/rustdesk/rustdesk
 - https://github.com/pystardust/ytfzf
 - some way to read bret vctor daily
@@ -526,6 +628,8 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://web.archive.org/web/19970711071555/http://www.cooltool.com/apr96.html have a newslettter like cronweekly and this combined
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh)
 - [croc](https://github.com/schollz/croc)
+  - https://github.com/Antonito/gfile
+- https://github.com/ZinoKader/portal
 - [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole): get things from one computer to another, safely 
   - https://lobste.rs/s/fhpswy/global_socket_connect_like_there_is_no read discussion
 - https://github.com/akavel/up : interactive pipes
@@ -590,10 +694,12 @@ sudo pacman --needed --noconfirm -S ripgrep
 - [peek](https://github.com/phw/peek) GIF maker
 - https://github.com/bcicen/ctop
 - https://github.com/wtfutil/wtf : can link this with quanitfy and grafana stuff
+- https://github.com/yshui/deai
 - https://github.com/sstadick/hck
 - https://github.com/emersion/mako
 - https://github.com/r-darwish/topgrade
 - https://github.com/wtfutil/wtf : prolly not going to use it but can take inspiration. + https://github.com/charmbracelet/bubbletea + https://github.com/slok/grafterm
+- https://github.com/dln/wofi-emoji
 - https://github.com/madler/pigz
 - https://github.com/gephi/gephi
 - https://github.com/imsnif/bandwhich
@@ -603,12 +709,100 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/ogham/exa https://github.com/Peltoche/lsd
 - jq https://sr.ht/~gpanders/ijq/
 - https://sr.ht/~halzy/waitforit/
+### Utility
+- https://github.com/esimov/caire
+  - https://github.com/muesli/smartcrop
+- https://github.com/jhnc/findimagedupes
+- https://github.com/bokuweb/lcs-image-diff-rs
+- https://github.com/emersion/meltsub
+- https://github.com/dessant/buster
+- https://github.com/abhimanyu003/sttr
+- https://github.com/bytedance/music_source_separation
+- https://github.com/rs/curlie
+- https://github.com/charmbracelet/wishlist
+- https://github.com/koenrh/delete-tweets
+- https://github.com/google/butteraugli
+- https://github.com/axa-group/Parsr
+- https://github.com/nukeop/nuclear
+- https://github.com/caarlos0/tasktimer
+- https://github.com/rnkn/olivetti
+- https://github.com/hlissner/emacs-solaire-mode
+- https://github.com/plexus/chemacs2
+- https://github.com/dundee/gdu
+- https://github.com/arvindell/envful
+- https://github.com/medialab/gazouilloire
+- https://github.com/Fanael/rainbow-delimiters
+- https://github.com/watsonbox/exportify
+- https://github.com/mps-youtube/mps-youtube
+- https://github.com/abbbi/qmpbackup (idk if i need this)
+- https://github.com/waycrate/swhkd
+- https://github.com/raitonoberu/sptlrx
+- https://github.com/emacscollective/no-littering
+- https://github.com/DeploySentinel/Recorder
+- https://github.com/segmentio/chamber
+- https://github.com/chrisdonahue/nesmdb
+- https://github.com/Khan/snippets
+- https://github.com/PaulJuliusMartinez/jless
+- https://github.com/Skallwar/suckit
+- https://github.com/tsurumeso/vocal-remover
+- https://github.com/fmthoma/ascii-art-to-unicode
+- https://github.com/textlint/textlint
+- https://github.com/mikesteele/dual-captions
+- https://github.com/any1/wayvnc
+- https://github.com/dinedal/textql
+- https://github.com/tangramdotdev/tangram
+- https://github.com/awslabs/autogluon
+- https://github.com/databricks/click
+- https://github.com/trungdq88/logmine
+- https://github.com/vinceliuice/Qogir-theme
+- https://github.com/SoptikHa2/desed
+- https://github.com/ImageOptim/gifski
+- https://github.com/icholy/ttygif 
+  - https://github.com/vvo/gifify
+- https://github.com/yuanqing/vdx
+- https://github.com/Sioro-Neoku/go-peerflix IDK
+- https://github.com/kohler/gifsicle
+- https://github.com/johnfactotum/foliate
+- https://github.com/swaywm/swaybg
+- https://github.com/neutrinolabs/xrdp
+- https://github.com/BishopFox/unredacter
+- https://github.com/irevenko/tsukae
+- https://github.com/iawia002/lux
+- https://github.com/Nekmo/dirhunt
+- https://github.com/aria2/aria2
+- https://github.com/Franiac/TwitchLeecher
+- https://github.com/sabnzbd/sabnzbd
+- https://github.com/Mayowa-Ojo/chmod-cli rather than this, what i want is something that can quickly remind me how to set the actual command.
+- https://github.com/soruly/trace.moe
+  - https://github.com/irevenko/what-anime-cli
+- https://github.com/sezanzeb/input-remapper
+- https://github.com/PaddlePaddle/PaddleSpeech
+  - https://github.com/PaddlePaddle/PaddleOCR
+- https://github.com/smacke/ffsubsync
 ### Data
 - https://www.datawrapper.de/
+- https://github.com/vasi/pixz
 - https://datasette.io/
+- https://github.com/dimitri/pgcopydb
+- https://github.com/multiprocessio/dsq
+- https://github.com/torakiki/pdfsam
 - https://archive.is/y0JtV
 ### Programming
 - https://github.com/nico2sh/semtag (use this in my projects)
+- https://github.com/analysis-tools-dev/static-analysis
+- https://github.com/nickgerace/gfold
+- https://github.com/siemens/jailhouse
+- https://github.com/benbjohnson/litestream
+- https://github.com/golang-migrate/migrate
+- https://github.com/textbrowser/dooble
+- https://github.com/remote-android/redroid-doc
+- https://github.com/binwiederhier/ntfy
+- https://github.com/qayshp/TestDisk
+- https://github.com/elkowar/eww
+- https://github.com/abatsakidis/PDFDeSecure
+- https://github.com/mickeynp/combobulate
+- https://github.com/wandersoncferreira/code-review
+- https://github.com/iorate/ublacklist
 - https://github.com/proper-testing/proper
   - https://github.com/BurntSushi/quickcheck
 - I need some way to list all the possible tools i can use to look at a problem. might need to build this myself.
@@ -619,8 +813,52 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://www.flycheck.org/en/latest/index.html see supported languages and enable on ones that's needed
 - https://github.com/traefik/yaegi Go interpreter
 - https://github.com/kellyjonbrazil/jc
+- https://github.com/aarzilli/gdlv
+- https://github.com/postgres-ai/database-lab-engine
+- https://github.com/lief-project/LIEF
+- https://github.com/facebook/flipper
+- https://github.com/debauchee/barrier
+- https://github.com/amir20/dozzle
+- https://github.com/plexsystems/sinker
+- https://github.com/tcdi/pgx
+- https://github.com/remotemobprogramming/mob
+- https://github.com/Redocly/openapi-cli
+- https://github.com/iovisor/ubpf
+- https://github.com/pixelb/ps_mem
+- https://github.com/auto-complete/popup-el
+- https://github.com/turbot/steampipe
+- https://github.com/nikolaydubina/go-binsize-treemap
+- https://github.com/fofapro/fapro
+- https://github.com/jstrieb/quickserv (for quick prototyping)
+- https://github.com/CZ-NIC/pz
+- https://github.com/codeinred/untree
+- https://github.com/haampie/libtree
+- https://github.com/FiloSottile/passage
+- https://github.com/quickemu-project/quickemu
+- https://github.com/darold/pgbadger
+- https://github.com/jobertabma/ground-control
+- https://github.com/XAMPPRocky/tokei
 - https://github.com/jorgebucaran/fisher
 - https://github.com/benfred/py-spy
+- https://github.com/koute/bytehound
+- https://github.com/Sysinternals/ProcDump-for-Linux
+- https://github.com/jonhoo/inferno
+- https://github.com/ymarco/auto-activating-snippets
+- https://github.com/ftilde/ugdb
+  - https://github.com/cyrus-and/gdb-dashboard
+  - https://github.com/cs01/gdbgui
+  - https://github.com/hugsy/gef
+- https://github.com/AlexStocks/redis-tool-set
+  - https://github.com/rediscookbook/rediscookbook
+- https://github.com/styfle/packagephobia
+- https://github.com/sharkdp/hexyl
+- https://github.com/typicode/husky
+- https://github.com/conventional-changelog/commitlint
+- https://github.com/puremourning/vimspector
+- https://github.com/jbyuki/dash.nvim
+  - https://github.com/michaelb/sniprun
+- https://github.com/lemoony/snipkit
+- https://github.com/rohanrhu/gdb-frontend
 - https://github.com/rcoh/angle-grinder
 - https://eternalterminal.dev/
 - https://github.com/google/zx
@@ -696,6 +934,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/irevenko/what-anime-cli
 - https://github.com/Codepoints/awesome-codepoints TUI useful
 - https://github.com/caseychu/spotify-backup
+- https://github.com/Rigellute/spotify-tui
 - https://github.com/timvieira/justified-variables can make a editor exitension based on this
 - https://github.com/librariesio/metrics
 - https://github.com/cheat/cheat this is most of man69 that i need this is different from https://github.com/chubin/cheat.sh
@@ -802,18 +1041,89 @@ sudo pacman --needed --noconfirm -S ripgrep
   - https://github.com/pch/dotfiles/blob/master/kubernetes/utils.zsh
 - https://devhints.io/xpath related to man69
 - https://github.com/owenthereal/upterm
+- https://github.com/sindresorhus/fkill-cli
 - [lfs](https://github.com/Canop/lfs): A thing to get information on your mounted disks.
 - https://github.com/pyenv/pyenv
 - [z3](https://github.com/presslabs/z3) : Backup your ZFS snapshots to S3. Decide on which filesystem to use.
 - https://openrgb.org/
 ### Random
 - https://github.com/javierbyte/pintr
+- https://github.com/musically-ut/lovely-forks
+- https://github.com/zenorocha/codecopy
+- https://github.com/klange/nyancat
+- https://github.com/dustinkirkland/hollywood
+- https://github.com/yuzu-emu/yuzu
+- https://github.com/caarlos0/org-stats
+- https://github.com/achannarasappa/ticker
+- https://github.com/polybar/polybar
+- https://github.com/maaslalani/confetty
+- https://github.com/sachac/subed
+- https://github.com/SimulaVR/Simula
+- https://github.com/asciimoo/drawille
+- https://github.com/pixa-pics/pixa-pics.github.io
+- https://github.com/freqtrade/freqtrade
+- https://github.com/bottlesdevs/Bottles
+- https://github.com/cursorless-dev/cursorless-talon
+- https://github.com/JeanJouliaCode/wipeClean
+- https://github.com/m-ou-se/pong
+- https://github.com/GitSquared/edex-ui
+- https://github.com/charmbracelet/confettysh
+- https://github.com/svenstaro/genact
+- https://github.com/in3rsha/sha256-animation
+- https://github.com/insin/tweak-new-twitter
+- https://github.com/folke/trouble.nvim
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat): a tool to output images as RGB ANSI graphics on the terminal 
   - https://github.com/posva/catimg compare and benchmark which one to use
   - https://github.com/sharkdp/hyperfine use this to run benchmarks
+  - https://github.com/michaelkofron/image2ascii
 - https://github.com/muesli/smartcrop
 - create gist directly from emacs
+- https://github.com/nwtgck/piping-server
+- https://github.com/openai/glide-text2im
+- https://github.com/ruffle-rs/ruffle
 - https://github.com/dgryski/haiku-finder
+- https://github.com/jayphelps/git-blame-someone-else
+- https://github.com/wfxr/code-minimap
+- https://github.com/vadimdemedes/gifi
+- https://github.com/tj/git-extras
+- https://github.com/carbon-app/carbon
+  - https://github.com/mplewis/src2png
+- https://github.com/lunush/rates
+- https://github.com/fregante/GhostText
+- https://github.com/TachibanaYoshino/AnimeGAN
+- https://github.com/robbiebarrat/art-DCGAN
+- https://github.com/bloc97/Anime4K
+- https://github.com/wuhuikai/GP-GAN
+- https://github.com/jantic/DeOldify
+- https://github.com/lucidrains/big-sleep
+- https://github.com/lucidrains/DALLE-pytorch
+- https://github.com/pathak22/context-encoder
+- https://github.com/williamyang1991/TET-GAN
+- https://github.com/k4yt3x/video2x
+- https://github.com/AaronFeng753/Waifu2x-Extension-GUI
+- https://github.com/xinntao/Real-ESRGAN
+- https://github.com/TencentARC/GFPGAN
+- https://github.com/nagadomi/waifu2x
+- https://github.com/PaddlePaddle/PaddleGAN
+- https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+- https://github.com/bobbens/sketch_simplification
+- https://github.com/nihui/waifu2x-ncnn-vulkan
+- https://github.com/naelstrof/maim
+- https://github.com/Syllo/nvtop
+- https://github.com/NVIDIA/pix2pixHD
+- https://github.com/phillipi/pix2pix
+- https://github.com/rh12503/triangula
+- https://github.com/apple/turicreate
+- https://github.com/alievk/avatarify-python
+- https://github.com/nashory/gans-awesome-applications
+- https://github.com/AlexeyAB/darknet
+- https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life
+- https://github.com/meowtec/Imagine
+- https://github.com/NVIDIA/FastPhotoStyle
+- https://github.com/Mukosame/Anime2Sketch
+- https://github.com/DmitryUlyanov/deep-image-prior
+- https://github.com/junyanz/CycleGAN
+- https://github.com/emilianavt/OpenSeeFace
 - lots of twitter bots
   - one idea is to tweet good things from books of assamese authrs see @frogandtoadbot
 - https://github.com/hacksalot/HackMyResume
@@ -866,8 +1176,11 @@ sudo pacman --needed --noconfirm -S ripgrep
 - [flimzy/anki](https://github.com/flimzy/anki) Go library to read Anki *.apkg files 
 - https://github.com/watson/cheatsheets/blob/master/google-calendar.md need a wiki for these things aswell
 - https://github.com/adri/memex
+- https://github.com/JustinBeckwith/linkinator
+- https://github.com/dundalek/GrammKit
 ### Binary data
 - ar, nm, readelf, objdump
+- https://github.com/angr/angr
 - cgasm, [rappel](https://github.com/yrp604/rappel)
 - [GNU Poke](https://www.youtube.com/watch?v=Nwb_8VJ5ZeQ)
 - [ImHex](https://github.com/WerWolv/ImHex)
@@ -879,8 +1192,38 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/apenwarr/netselect
 - https://github.com/benjojo/sping
 - https://github.com/Lochnair/xt_tls
+- https://github.com/sshuttle/sshuttle
+- https://github.com/ducaale/xh
+- https://github.com/Overv/outrun (what, we do this all the timE)
 - https://github.com/batchcorp/plumber
+- https://github.com/yarrick/iodine
+- https://github.com/batfish/batfish
+- https://github.com/NHAS/reverse_ssh
 - https://github.com/RobinLinus/snapdrop
+- https://github.com/lwthiker/curl-impersonate
+- https://github.com/rootless-containers/slirp4netns
+- https://github.com/richfelker/mxclient
+- https://github.com/aramperes/onetun
+- https://github.com/ns1labs/pktvisor
+- https://github.com/awnumar/rosen
+- https://github.com/danielmiessler/SecLists
+- https://github.com/networkprotocol/netcode
+- https://github.com/esnet/iperf
+- https://github.com/seemk/WebUDP
+- https://github.com/traviscross/mtr
+- https://github.com/alexkirsz/dispatch-proxy
+- https://github.com/cameronhunter/local-ssl-proxy
+- https://github.com/moul/assh
+- https://github.com/microsoft/snocat
+- https://github.com/JakeWharton/pidcat
+- https://github.com/yrutschle/sslh
+- https://github.com/fatedier/frp
+- https://github.com/gsliepen/tinc
+- https://github.com/mpolden/echoip
+- https://github.com/robertdavidgraham/masscan
+  - https://github.com/networkit/networkit
+  - https://github.com/zmap/zmap
+- https://github.com/iovisor/bcc
 - https://github.com/v-byte-cpu/sx
 - https://github.com/wiretrustee/wiretrustee
 - https://github.com/fastos/tcpdive
@@ -900,13 +1243,75 @@ sudo pacman --needed --noconfirm -S ripgrep
 - [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck): TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them.
 - https://github.com/m57/dnsteal
 - http://firehol.org/tutorial/firehol-by-goal/ unsure
+- https://github.com/future-architect/vuls
+- https://github.com/s0md3v/XSStrike
+- https://github.com/medialab/minet
+- https://github.com/inotify-tools/inotify-tools
+- https://github.com/tejado/android-usb-gadget
+- https://github.com/charmbracelet/melt (explore other tools from this org)
 - https://github.com/trufflesecurity/truffleHog
+- https://github.com/androguard/androguard (need a more updated version of this from somewhere)
+- https://github.com/snovvcrash/VeraCryptThief
+- https://github.com/smicallef/spiderfoot
+- https://github.com/FirmWire/FirmWire
+- https://github.com/zeek/zeek
+- https://github.com/r3nt0n/bopscrk
+- https://github.com/mrd0x/EvilSelenium
+- https://github.com/aquasecurity/tracee
+- https://github.com/activecm/rita
+- https://github.com/gate-computer/gate
+- https://github.com/botherder/androidqf
+- https://github.com/utkusen/wholeaked
+- https://github.com/mandatoryprogrammer/CursedChrome
+- https://github.com/francisrstokes/ebpf-usb
+- https://github.com/alphasoc/flightsim
+- https://github.com/firezone/firezone
+- https://github.com/glebarez/cero
+- https://github.com/intel/cve-bin-tool
+- https://github.com/seanbreckenridge/sqlite_backup
+- https://github.com/opsdisk/pagodo
+- https://github.com/ReFirmLabs/binwalk
+- https://github.com/mechpen/sockdump
+- https://github.com/m57/dnsteal
+- https://github.com/trustedsec/User-Behavior-Mapping-Tool
+- https://github.com/GTFOBins/GTFOBins.github.io
+- https://github.com/evilsocket/opensnitch
+- https://github.com/jvns/dnspeep
+- https://github.com/mmozeiko/aes-finder
+- https://github.com/dmshaw/paperkey
+- https://github.com/rapid7/metasploitable3
+- https://github.com/ncopa/su-exec
+- https://github.com/evilsocket/xray
+- https://github.com/Raikia/FiercePhish
+- https://github.com/zardus/ctf-tools
+- https://github.com/Tylous/SniffAir
+- https://github.com/NateBrune/silk-guardian
+- https://github.com/ufrisk/pcileech
+- https://github.com/cloudflare/flan
+- https://github.com/trailofbits/manticore
+- https://github.com/trustedsec/social-engineer-toolkit
+- https://github.com/eugenekolo/sec-tools
+- https://github.com/ElectronicCats/SamyKamTools
+- https://github.com/pelya/android-keyboard-gadget
+- https://github.com/Waboodoo/HTTP-Shortcuts
+- https://github.com/samyk/poisontap
+- https://github.com/v2fly/v2ray-core
+  - https://github.com/v2ray/v2ray-core
+- https://github.com/samyk/pwnat
+- https://github.com/taviso/ctftool
+- https://github.com/beurtschipper/Depix
+- https://github.com/mitmproxy/mitmproxy
+- https://github.com/violentmonkey/violentmonkey
 - https://github.com/orjail/orjail
+- https://github.com/evilsocket/pwnagotchi
+- https://github.com/radareorg/radare2
+- https://github.com/not-an-aardvark/lucky-commit
+- https://github.com/darkoperator/dnsrecon
+- https://github.com/ticarpi/jwt_tool
 - https://github.com/droe/sslsplit
 - https://github.com/nuvious/pam-duress nice
 - https://github.com/angr/angr programmable
 - https://github.com/Ice3man543/hawkeye
-- https://github.com/DeviceFarmer/stf
 - https://github.com/mvt-project/mvt
 - https://github.com/Te-k/harpoon
 - https://github.com/docker-slim/docker-slim
@@ -944,6 +1349,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 - [Lightspeed](https://github.com/GRVYDEV/Project-Lightspeed)
 - https://github.com/gen2brain/cam2ip (I can use this to keep an eye on who is checking on my laptop)
 - [OwnCast](https://github.com/owncast/owncast): Take control over your content and stream it yourself. 
+- https://github.com/tsl0922/ttyd
 ### Crypto
 - https://twitter.com/MagnetsOh/status/1390597915727433729
 - https://norswap.com/blockchain-how/
@@ -972,6 +1378,22 @@ Make some app where i can keep track of online tools that i use.
 - https://jpeg.rocks/
 - https://squoosh.app/
 - https://github.com/LingDong-/fishdraw
+- https://tradingeconomics.com/india/gdp-growth
+- https://github.com/initml/cleanup.pictures
+- https://github.com/calebj0seph/spectro
+- https://github.com/piskelapp/piskel
+- https://github.com/rgab1508/PixelCraft
+- https://github.com/tomdionysus/foaas
+- https://github.com/Miodec/monkeytype
+- https://github.com/alyssaxuu/screenity
+- https://github.com/wulkano/Kap
+- https://github.com/bestony/logoly
+- https://hash.ai/
+- https://transformer.huggingface.co/
+- https://ar5iv.labs.arxiv.org/
+- https://books.google.com/talktobooks/
+- https://vicariously.io/
+- https://subredditstats.com/subreddit-user-overlaps/slatestarcodex
 - https://go-city.github.io/#/github.com/prometheus/prometheus
 - https://toonify.photos/
 - https://www.ventusky.com/?p=29.21;-89.07;6&l=satellite&t=20210829/1840
@@ -1013,13 +1435,26 @@ Make some app where i can keep track of online tools that i use.
 - http://choly.ca/post/debugging-go-with-rr/
 - https://github.com/sidkshatriya/rd
 - https://dolphin-emu.org/
+- https://github.com/elfshaker/elfshaker
+- https://github.com/tom-james-watson/wikitrivia
 - https://github.com/ageitgey/face_recognition
+- https://github.com/typpo/asterank
+- https://github.com/standardebooks/tools
+- https://github.com/launchbadge/sqlx
 - https://danyspin97.org/blog/improving-linux-packaging-rinstall/
 
 ## others
 - https://venthur.de/2021-06-26-python-packaging.html
 - https://frida.re/
+- https://github.com/digego/extempore
+- https://github.com/facebookresearch/detectron2
+- https://github.com/ssh-vault/ssh-vault
+- https://github.com/zachlatta/sshtron
 - https://github.com/compiler-explorer/compiler-explorer
+- https://github.com/CamiloGarciaLaRotta/kboard
+- https://github.com/jon4hz/ascii-ssh-movie
+- https://github.com/kripthor/WiFiBeaconJam
+- https://github.com/rofl0r/proxychains-ng
 
 ## Blog inspirations
 - https://manfred.life/
@@ -1035,3 +1470,11 @@ Make some app where i can keep track of online tools that i use.
 - thume.ca
 - https://lonami.dev/blog/graphs/ want to have notebooks like this
 - read more of usesthis
+
+## voice
+- https://github.com/jim-schwoebel/voice_datasets
+- https://github.com/jim-schwoebel/voicebook
+- https://github.com/jim-schwoebel/voiceome
+- https://github.com/julius-speech/julius
+- https://github.com/alphacep/vosk-api
+- https://github.com/ideasman42/nerd-dictation

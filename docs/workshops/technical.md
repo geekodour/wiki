@@ -56,6 +56,8 @@ I'll be adding/removing links to and from this page time to time.
 - [Static Analysis with Go - A Practitioner's Guide](https://github.com/amit-davidson/GopherCon2021IsraelStaticAnalysisWorkshop)
 - [Gophercon 2020 Debugging Workshop](https://github.com/jasonkeene/debugging-workshop)
 - https://github.com/gerasdf/InsecureProgramming
+- https://github.com/w-vi/diyC
+- https://github.com/gurugio/lowlevelprogramming-university
 
 ## Kernel
 
@@ -71,6 +73,7 @@ I'll be adding/removing links to and from this page time to time.
 
 ## Systems Admin
 
+- [Simple Awk](https://github.com/adrianscheff/simple-awk)
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) : Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) : When you don't have time to read ProGit.
 - https://github.com/KillingSpark/HowLogindWorks
@@ -120,13 +123,17 @@ I'll be adding/removing links to and from this page time to time.
 - [Tcpdump little book](https://nanxiao.github.io/tcpdump-little-book/)
 - https://howdns.works/ep1/
 - internet and email : https://explained-from-first-principles.com/
+- https://github.com/drakkar-lig/socklab
+- https://github.com/aler9/howto-udp-broadcast-golang
 - [Linux networking stack from the ground up, part 1](https://www.privateinternetaccess.com/blog/linux-networking-stack-from-the-ground-up-part-1/)
 - [EME, CDM, AES, CENC, and Keys – The Essential Building Blocks of DRM](https://ottverse.com/eme-cenc-cdm-aes-keys-drm-digital-rights-management/)
 - https://github.com/saminiir/level-ip
 
 ## Security
 
+- [Hands-on tutorials to learn about software supply chain security](https://github.com/step-security/supply-chain-goat)
 - [xairy/easy-linux-pwn](https://github.com/xairy/easy-linux-pwn) : A set of Linux binary exploitation tasks for beginners on various architectures
+- https://github.com/khalladay/hooking-by-example
 - [aeden/pc4d-go](https://github.com/aeden/pc4d-go) : Practical Cryptography for Developers (Go)
 - [kong/mashape-oauth](https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md): The OAuth Bible
 - https://github.com/pillarjs/understanding-csrf
@@ -149,7 +156,9 @@ I'll be adding/removing links to and from this page time to time.
 - [accessp2p](https://accessp2p.xyz/) ✅ (See [notes](/docs/courses/others/accessp2p))
 
 ## Others
+- [Port scanning examples to teach Go concurrency bounding](https://github.com/jboursiquot/portscan)
 - [Internet Search Tips](https://www.gwern.net/Search)
+- [embedded-trainings-2020](https://github.com/ferrous-systems/embedded-trainings-2020)
 - https://www.catem.be/app/sd-explainer/
 - [Writing a Technical Book](https://andregarzia.com/2021/04/writing-a-technical-book.html)
 - [The confusing world of USB](https://fabiensanglard.net/nousb/index.html)
@@ -167,6 +176,7 @@ I'll be adding/removing links to and from this page time to time.
 - [Open Source Tools & Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html)
 - https://github.com/apprenticeharper/DeDRM_tools
 - https://github.com/digitalrebar/edgelab
+- https://github.com/lemmy/BlockingQueue
 - UML
     - https://crashedmind.github.io/PlantUMLHitchhikersGuide/about/AboutPlantUML.html
     - https://real-world-plantuml.com/

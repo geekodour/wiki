@@ -7,15 +7,20 @@ sidebar_label: Workstation
 > Things related to workstation and homelab
 
 ## Homelab related blogposts
+- https://github.com/aaqaishtyaq/lab
 - [Raspberry Pi as a local server for self hosting applications](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/)
 - [Ansible-defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
 - [Home Lab Beginners guide – Hardware](https://haydenjames.io/home-lab-beginners-guide-hardware/)
 - https://christine.website/blog/my-homelab-2021-06-08
+- https://github.com/khuedoan/homelab
 - https://healeycodes.com/listening-to-satellites-with-my-raspberry-pi/
 - [Workstation guide](https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide)
 - [How To Setup Pi-hole On A Synology NAS](https://kevq.uk/how-to-setup-pi-hole-on-a-synology-nas/)
 - https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/
 - https://www.reddit.com/r/darknetplan/comments/rg6dyv/yggdrasil_and_routers/
+  - https://github.com/yggdrasil-network/public-peers
+  - https://github.com/matrix-org/pinecone
+  - https://github.com/cjdelisle/cjdns
 - https://viggy28.dev/article/pain-of-setting-up-port-forwarding-in-xfinity/
 - [Building a better home network](https://kevin.burke.dev/kevin/building-a-better-home-network/)
 - [Monitoring my home network](https://mrkaran.dev/posts/isp-monitoring/)
@@ -37,8 +42,10 @@ sidebar_label: Workstation
 - [Monitoring Homenetwork](https://github.com/maxandersen/internet-monitoring)
 - [Notes on RSI for Developers](https://www.swyx.io/rsi-tips/)
 - [Creating a Home IPv6 Network](https://blog.hansenpartnership.com/creating-a-home-ipv6-network/)
+- https://github.com/AdguardTeam/AdGuardHome
 - https://louwrentius.com/this-blog-is-now-running-on-solar-power.html
 - https://blog.notryan.com/009.txt
+- https://github.com/home-assistant/core
 
 ## Design
 - [Computer science posters](https://github.com/corkami/pics)
@@ -48,6 +55,7 @@ sidebar_label: Workstation
 ## Hardware
 ### Tools
 - [Nitrokey](https://lists.archlinux.org/pipermail/arch-dev-public/2021-March/030400.html)
+  - https://github.com/44670/44Key
 - https://github.com/fulldecent/system-bus-radio
 - RPi Zero and Other models
 - https://github.com/qubist/aqo
@@ -59,10 +67,16 @@ sidebar_label: Workstation
 - https://l-o-o-s-e-d.net/vim-clutch
 - [openhaystack](https://github.com/seemoo-lab/openhaystack): Build your own 'AirTags' label today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network. 
 - [Althea ISP](https://althea.net/) Fast, affordable, locally run internet
+- https://github.com/scottbez1/smartknob
 ### Alternatives
 - https://github.com/rtr7/router7
+- https://github.com/koreader/koreader
+- https://github.com/sibbl/hass-lovelace-kindle-screensaver
 ### Electronics
 - [WireViz](https://github.com/formatc1702/WireViz): Easily document cables and wiring harnesses 
+- https://github.com/David00/rpi-power-monitor
+- https://github.com/merbanan/rtl_433
+- https://github.com/DeviceFarmer/stf
 
 ## workstation pictures
 ![](/img/workspaces/Ef4LG4AUEAEWz20.jpg)
@@ -79,3 +93,22 @@ sidebar_label: Workstation
   - https://github.com/kbumsik/VirtScreen
 - https://kaitai.io/
 - TIL connecting to "localhost:0" allows the kernel pick an open port for you 
+- https://github.com/fwiedmann/icof
+- https://github.com/MichMich/MagicMirror
+- https://github.com/skiffos/SkiffOS
+- https://github.com/reef-pi/reef-pi
+- https://github.com/rasteri/SC1000
+- https://github.com/dilshan/usb2-power-hub
+- https://github.com/emsec/ChameleonMini
+- https://github.com/greatscottgadgets/hackrf
+- https://github.com/aaga/choo-choo-clock
+- https://github.com/penk/penkesu
+- https://github.com/merge/skulls
+- https://github.com/usbarmory/usbarmory
+- https://twitter.com/aschmelyun/status/1506960015063625733
+- https://github.com/ipartola/hawkeye
+- https://github.com/pikvm/pikvm
+- https://github.com/norasector/turbine
+- https://github.com/keirf/flashfloppy
+- https://github.com/Jana-Marie/otterlinear-keyboard
+- https://github.com/joeycastillo/Sensor-Watch

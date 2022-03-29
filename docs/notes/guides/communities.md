@@ -55,3 +55,14 @@ Reddit Subreddits
 Twitch channels
 
 - https://venam.nixers.net/blog/unix/2017/06/04/newcomers.html
+
+Others
+- http://www.visakanv.com/blog/communities/
+- https://knowingless.com/2016/08/21/strange-subculture-list/
+- https://heyguys.cc/
+- https://github.com/kossnocorp/etiquette
+- https://github.com/XXIIVV/webring
+- https://github.com/orbit-love/orbit-model
+- https://github.com/withspectrum/spectrum
+- https://github.com/lawik/beambloggers
+- https://github.com/forstmeier/askpaulgraham

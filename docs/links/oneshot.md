@@ -25,6 +25,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 
 ## Compilers
 
+- https://github.com/aprell/compiler-potpourri
 - [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
 - [Hello world program in esoteric languages](https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages)
 - https://github.com/tree-sitter/tree-sitter
@@ -225,6 +226,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 - 📘[Heap Exploitation](https://heap-exploitation.dhavalkapil.com/)
 - [Educational Heap Exploitation](https://github.com/shellphish/how2heap)
 - [Everything you need to know about HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
+- https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/
 - [ELF P1](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html) | [ELF P2](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/) | [ELF P3](https://medium.com/@MrJamesFisher/understanding-the-elf-4bd60daac571)
 - [How To Learn Cryptography as a Programmer](https://soatok.blog/2020/06/10/how-to-learn-cryptography-as-a-programmer/)
 
@@ -276,3 +278,4 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 
 ## Others
 - https://github.com/bobeff/programming-math-science
+- 📘 [Organizational Behavior](https://saylordotorg.github.io/text_organizational-behavior-v1.1/index.html)

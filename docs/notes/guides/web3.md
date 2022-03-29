@@ -9,19 +9,34 @@ sidebar_label: Web 3.0
 - [Why decentralization matters](https://cdixon.org/2018/02/18/why-decentralization-matters)
 - [A state of the art of decentralized web — Part 1(2018)](https://hackernoon.com/a-state-of-the-art-of-decentralized-web-part-1-54f70fdb7355)
 - [Local First](https://www.inkandswitch.com/local-first.html)
+- https://ar.al/notes/how-web-2-0-killed-the-internet/
+- https://archive.is/o10Kr
+- https://github.com/kgryte/awesome-peer-to-peer
+- https://github.com/mafintosh/awesome-p2p
+- https://github.com/metacartel/mission
 
 ## Archiving
 - [WebRecorder](https://webrecorder.net/): Webrecorder provides a suite of open source projects and tools to capture interactive websites and replay them at a later time as accurately as possible.
 - [Archival Identifiers for Digital Files](https://blog.adamretter.org.uk/archival-identifiers-for-digital-files/)
+- https://github.com/emersion/tooru
 - https://indicnlp.ai4bharat.org/samanantar/
 - [conifer : WebRecorder Service](https://conifer.rhizome.org/)
 - https://archive.org/details/Ambedkar_CompleteWorks/01.Caste%20in%20India
+- https://github.com/gilesbowkett/rewind
+- https://archive.org/details/jonah-edwards-presentation
+- https://github.com/simonw/shot-scraper
 - https://github.com/projectblacklight/spotlight
+- https://github.com/zeskeertwee/vach
+- https://github.com/Rhizome-Conifer/conifer
 - [Can You Help us Make the 19th Century Searchable?](https://blog.archive.org/2020/08/21/can-you-help-us-make-the-19th-century-searchable/)
 - https://twitter.com/internetarchive/status/1386423512810721284
 - https://github.com/oduwsdl/archivenow
 - https://github.com/WebMemex/freeze-dry
+- https://github.com/openzim/mwoffliner
 - https://github.com/makeworld-the-better-one/tiktok-link
+- https://github.com/larrabee/s3sync
+- https://thecreativeindependent.com/guides/how-to-archive-your-work-digitally/
+- https://guides.lib.umich.edu/c.php?g=992751
 - https://github.com/rahiel/archiveror
 - https://github.com/szymonkaliski/archivist
 - https://github.com/bevacqua/shots
@@ -157,6 +172,7 @@ sidebar_label: Web 3.0
 
 ### Offline
 - https://github.com/google/physical-web
+- https://github.com/gmarland/lohost
 
 ### IPFS
 
@@ -168,6 +184,7 @@ sidebar_label: Web 3.0
 
 ### Hypothesis 
 - [github/hypothesis](https://github.com/hypothesis) : We build software to enable the annotation of the web.
+- https://github.com/szymonkaliski/cartographist
 
 ### Radicle
 - https://radicle.xyz/
@@ -250,24 +267,47 @@ Webmention is a W3C recommendation that describes a simple protocol to notify an
 ## Crypto
 - [How does Bitcoin work?](https://learnmeabitcoin.com/)
 - [The Square Crypto Book of Bitcoin Mythology](https://bitcoinmythology.org/)
+- https://github.com/jashmenn/cryptocurrencies-in-four-words
+- https://jacob.energy/hyperstructures.html
+- https://github.com/MrChrisJ/World-Citizenship
+- https://twitter.com/bramcohen/status/1484258430302912512
+- https://twitter.com/chriscantino/status/1477665773619486720
+- https://github.com/w3f/Grants-Program 
 - [Cryptocurrencies Are Detrimental to Society](https://louwrentius.com/cryptocurrencies-are-detrimental-to-society.html)
+- https://github.com/noya-app/studio721
+- https://github.com/rainbow-me/rainbow
+- https://github.com/ConsenSys/surya
+- https://blockprotocol.org/ (not really crypto but why did they use the word block, hmmm)
+- https://github.com/blockchain-etl/ethereum-etl
+- https://github.com/mcclure/NFTBlocker
+- [Crypto: the good, the bad and the ugly](https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly)
+- https://twitter.com/Ash_uxi/status/1486565969682055178
+- https://www.coindesk.com/business/2022/01/12/chia-network-launches-native-peer-to-peer-trading-services-for-wallet-holders/
+- https://github.com/kodadot/nft-gallery
 ### Applications/Coins
 - [Sia](https://siasky.net/)
 - [Chia 1.0 Mainnet](https://www.chia.net/2021/03/17/Chia-1.0.html)
 - [NEAR Protocol - behind the scenes update for runtime and contracts.](https://threadreaderapp.com/thread/1358175627841519616.html)
 - [What is an NFT?](https://twitter.com/anandchokkavelu/status/1371129975752044547)
+- [TweetBoost: Influence of Social Media on NFT Valuation](https://arxiv.org/abs/2201.08373)
+
 
 ## Random Projects idk where to put
 - http://www.dial-multiscreen.org/
 - https://github.com/brutella/dnssd
+- https://github.com/orbitdb/ipfs-log
 - https://crates.io/crates/actyxos_sdk
 - https://github.com/OpenHD/Open.HD
 - https://github.com/snarfed/bridgy-fed
 - https://github.com/prometheus-community/PushProx
 - https://news.ycombinator.com/item?id=27451844
 - https://github.com/Antharia/awesome-lowtech
+- https://github.com/chrisleekr/binance-trading-bot
 - https://news.ycombinator.com/item?id=27481465
 - https://kn100.me/turning-upnp-off/
+- https://github.com/linkeddata/dokieli
+- https://github.com/Bitmessage/PyBitmessage
+- https://github.com/perlin-network/noise
 - https://github.com/upspin/upspin
 - https://github.com/tomeshnet/meshstream
 - [Announcing GitTorrent: A Decentralized GitHub(2015)](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)

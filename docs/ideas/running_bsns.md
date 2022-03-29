@@ -16,3 +16,10 @@ sidebar_label: Running a Business
 - https://twitter.com/shreyas/status/1412622302185881600
 - https://twitter.com/shreyas/status/1411394575877296128
 - https://archive.is/0O8O6
+- https://www.allthingsdistributed.com/2006/11/working_backwards.html
+- https://www.reforge.com/blog/growth-loopS
+- https://twitter.com/barrettjoneill/status/1497950095228080137
+- https://twitter.com/patio11/status/1483267542080626693
+- https://twitter.com/obiltschnig/status/1473915766743445506
+- https://www.ted.com/talks/yochai_benkler_the_new_open_source_economics?language=en
+- https://sive.rs/multiply
