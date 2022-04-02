@@ -1,118 +1,25 @@
 https://wiki.itdobelikethat.org/docs/ideas/drawing_ducks/
 	too many redirections	https://ebird.org/home
-https://wiki.itdobelikethat.org/docs/workshops/tech-guides/
-	404	http://tumregels.github.io/Network-Programming-with-Go/
-	404	https://anonymousplanet.github.io/thgtoa/guide.html
-	dialing to the given TCP address timed out	http://www.brendangregg.com/blog/2018-06-30/benchmarking-checklist.html
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:02 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878188247801252; Max-Age=63072000; "..."th.js  'nonce-NDE2OTFmMWQtN2ZmNS00M2M3LWIzODItZDM0YTkyMTI0MjJi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/jschauma/status/1415858462064533505
-	lookup beej.us: Temporary failure in name resolution	http://beej.us/guide/bgipc/html/multi/index.html
-	lookup kestas.kuliukas.com: Temporary failure in name resolution	http://kestas.kuliukas.com/RainbowTables/
-https://wiki.itdobelikethat.org/docs/courses/others/human_memory/
-	429	https://github.com/ContextLab/human-memory
+https://wiki.itdobelikethat.org/docs/ideas/interesting_pictures/
+	404	https://wiki.itdobelikethat.org/img/interesting_pics/ccc.jpg
 https://wiki.itdobelikethat.org/docs/notes/guides/notetaking/
+	404	https://github.com/EyebrowHairs/garden
 	404	https://www.are.na/krish/tools-for-thought-lnujvshtshI
-	429	https://github.com/EyebrowHairs/garden
-	429	https://github.com/FooSoft/anki-connect
-	429	https://github.com/RichardLitt/meta-knowledge
-	429	https://github.com/Roznoshchik/Lurnby
-	429	https://github.com/ankitects/anki
-	429	https://github.com/archivy/archivy
-	429	https://github.com/austinvhuang/openmemex
-	429	https://github.com/inkandswitch/capstone
-	429	https://github.com/jashkenas/docco
-	429	https://github.com/jdavis/til
-	429	https://github.com/logseq/awesome-logseq
-	429	https://github.com/outline/outline
-	429	https://github.com/penrose/penrose
-	429	https://github.com/seanbreckenridge/HPI#readme
-	429	https://github.com/sokirill/logseq-panic-theme
-	429	https://github.com/yoshuawuyts/notes
-	429	https://github.com/zim-desktop-wiki/zim-desktop-wiki
-	dialing to the given TCP address timed out	https://twitter.com/david_perell/status/1394703236335013889
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:03 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878188336937955; Max-Age=63072000; "..."th.js  'nonce-YTQ3ZjNiZDktM2YzNC00ZDA4LWI0NTctMDAyYzg4MjMwNjFi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/yoshikischmitz/status/1172658236974960641?s=12
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:04 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878188400980697; Max-Age=63072000; "..."th.js  'nonce-MWUzOTE4Y2UtZmY5NC00NDgxLTgxMzgtN2NiYmJmMTk5YTNj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/shreyas/status/1372042291968274435
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:04 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878188449855230; Max-Age=63072000; "..."th.js  'nonce-NjEyOTE2NDctYmEwNC00YTNkLTg3OTktNjE0Y2I5NGE3NTk2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/KinopioClub/status/1488180383011246087
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:05 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=5780bcd4-16b3-4d4b-9271-7f733"..."zonaws.com https: http: https://cdn.amplitude.com https://api.amplitude.com https://hkfxbbdzib.notion.so https://www.notion.so https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom."	https://www.notion.so/Learning-in-the-Open-daedce8b6d8144bca813da2c3c98bced
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:05 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878188544162987; Max-Age=63072000; "..."th.js  'nonce-ZjRjNzY2NDctZjM0Zi00OWMxLWE0YTAtNzVkMGE2MDhiMGVi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/andy_matuschak/status/1202663202997170176
-	lookup feltpresence.com: Temporary failure in name resolution	https://feltpresence.com/
+	dialing to the given TCP address timed out	https://twitter.com/andy_matuschak/status/1202663202997170176
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:05 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886690578525055; Max-Age=63072000; "..."th.js  'nonce-NTdhOWNkMmEtY2QwMS00YWNjLWEwM2QtNDU0YjI5YjNlMDcy'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/david_perell/status/1394703236335013889
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:06 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886690664760683; Max-Age=63072000; "..."th.js  'nonce-MjFjNDc5NjctYzlhNC00YTdiLTk3ZmItZDE5NGE2MjY4Y2I4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/yoshikischmitz/status/1172658236974960641?s=12
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:06 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886690684127164; Max-Age=63072000; "..."th.js  'nonce-YzE2MzFjYmItZDUyNy00ZDQ3LWI5NDEtODY2ODQ3MWIyYjJj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/shreyas/status/1372042291968274435
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:07 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886690723730911; Max-Age=63072000; "..."th.js  'nonce-YjMwZjg4N2QtNjdkYy00NjFiLTg4MGUtMmFkY2U2ZDAxMGZm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/KinopioClub/status/1488180383011246087
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:08 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=45ae8d7f-d405-425e-b29b-276b7"..."zonaws.com https: http: https://cdn.amplitude.com https://api.amplitude.com https://hkfxbbdzib.notion.so https://www.notion.so https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom."	https://www.notion.so/Learning-in-the-Open-daedce8b6d8144bca813da2c3c98bced
 	x509: certificate signed by unknown authority	https://pages.stern.nyu.edu/~adamodar/
-https://wiki.itdobelikethat.org/docs/courses/others/accessp2p/
-	429	https://github.com/warner/magic-wormhole
-	429	https://github.com/warner/magic-wormhole/issues/348
-https://wiki.itdobelikethat.org/docs/courses/others/gc_essentials_udemy/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:17 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nCf-Ray: 6f4e0fe57bf781ff-IAD\r\nAge: 0\r\nCache-Control: max-ag"..."=Sat, 02 Apr 2022 02:58:17 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_modern_browser=0; expires=Sat, 02 Apr 2022 02:58:17 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_logged_"	https://www.udemy.com/course/essentials-of-garbage-collectors/
-https://wiki.itdobelikethat.org/docs/links/books/
-	429	https://github.com/PJ-Finlay/Notes/tree/main/Books
-	429	https://github.com/RichardLitt/awesome-fantasy
-	429	https://github.com/cs-books/influential-cs-books
-	429	https://github.com/isaacs/reading-list
-https://wiki.itdobelikethat.org/docs/workshops/projects/
-	404	http://seriot.ch/ntp.php
-	429	https://github.com/Pithikos/C-Thread-Pool
-	429	https://github.com/andygrove/how-query-engines-work
-	429	https://github.com/antirez/rax
-	429	https://github.com/anvaka/atree
-	429	https://github.com/anvaka/e-sum
-	429	https://github.com/async-raft/async-raft
-	429	https://github.com/codebutler/farebot
-	429	https://github.com/erikgrinaker/toydb
-	429	https://github.com/florinpop17/app-ideas
-	429	https://github.com/hankhank10/vinylemulator
-	429	https://github.com/iomonad/KFS
-	429	https://github.com/jamesroutley/write-a-hash-table
-	429	https://github.com/johang/btfs
-	429	https://github.com/josevalim/nested-data-structure-traversal
-	429	https://github.com/jpillora/chisel
-	429	https://github.com/karan/Projects
-	429	https://github.com/karan/Projects-Solutions
-	429	https://github.com/maddox/magic-cards
-	429	https://github.com/nodejs/undici
-	429	https://github.com/pomerium/autocache
-	429	https://github.com/practical-tutorials/project-based-learning
-	429	https://github.com/risinglightdb/risinglight
-	429	https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
-	429	https://github.com/s-matyukevich/raspberry-pi-os
-	429	https://github.com/serialx/hashring
-	429	https://github.com/sindresorhus/quick-lru
-	429	https://github.com/spencertipping/jit-tutorial
-	429	https://github.com/spencertipping/shell-tutorial
-	429	https://github.com/ssloy/tinyrenderer/wiki
-	429	https://github.com/whykatherine/every-element-is-an-html
-	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
-	lookup limpet.net: Temporary failure in name resolution	https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
-https://wiki.itdobelikethat.org/docs/links/tweets/
-	dialing to the given TCP address timed out	https://twitter.com/QuinnyPig/status/1387937035382452230
-	dialing to the given TCP address timed out	https://twitter.com/ShriramKMurthi/status/1223053225705852929
-	dialing to the given TCP address timed out	https://twitter.com/adityaagrw/status/1500115866935267331
-	dialing to the given TCP address timed out	https://twitter.com/i/status/1093552400453885958
-	dialing to the given TCP address timed out	https://twitter.com/kshitiz/status/1405190674966712320
-	dialing to the given TCP address timed out	https://twitter.com/visakanv/status/1296877467940995073
-	dialing to the given TCP address timed out	https://twitter.com/visakanv/status/1487465133123448832
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:25 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190561252384; Max-Age=63072000; "..."th.js  'nonce-YTg5YjlhYjMtMTgxNC00OTUyLThiNGQtYTdmM2Y3NWRiZDIw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/patio11/status/936615043126370306
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:25 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190564193099; Max-Age=63072000; "..."th.js  'nonce-OTBkYjk1MTgtMzE3OS00YTc4LTgxYjYtNDdkZTBiNWE4OThh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/FarzaTV/status/1488965852519022592
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:25 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190565801736; Max-Age=63072000; "..."th.js  'nonce-OTJmYTFhYTItMmFlZC00YzMxLTk4MWItMDExNGRhMzVlYmRm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/michael_nielsen/status/1224902391331319809
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:25 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190570179997; Max-Age=63072000; "..."th.js  'nonce-ZGI1Njk0NWQtY2Y2ZS00NDU4LWExMGMtZDc4NWUzMjE5NmUz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/elamje/status/1280714011990913024
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:25 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190583312024; Max-Age=63072000; "..."th.js  'nonce-NGY0YWM4OTItMGUzMy00YjNiLTgxNzItYzY1NjY1NmQ4Njcw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/samjawed65/status/1499980556091670528
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190601570689; Max-Age=63072000; "..."th.js  'nonce-MjRmZmI1MGQtOTFiMy00Mjc4LTk0MWItZDI3YTliNmU2ZDU0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/james_d_baird/status/1372936895668322309
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190610094551; Max-Age=63072000; "..."th.js  'nonce-NTg4ZWExMzYtYjBmYS00OTQyLTg2MjItYTIxMTQzYjg2M2Ew'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/shreyas/status/1303150374124048386
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190627437504; Max-Age=63072000; "..."th.js  'nonce-ZTQ4ZDQ1NjctMzU4Ny00Y2NjLTgxNWUtMzMwZjNlZTA4NDhi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/james_d_baird/status/1381675761359273993
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190634421023; Max-Age=63072000; "..."th.js  'nonce-MGVlYTkwZjYtMjRmZC00YzRkLWI5YzYtMDZiNjY3OTg5NWJm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/vgr/status/1204884591598686208
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190657328268; Max-Age=63072000; "..."th.js  'nonce-OTMwNDI4OTgtMDA4Yi00N2YyLWE2YjUtOWQ5YzcyNGJlOGNm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/michael_nielsen/status/1098098218565390337
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190669460210; Max-Age=63072000; "..."th.js  'nonce-MWVlYTY5YTUtYmJhMy00N2Y4LWEzZmItYzQxNDE5ZTJiMDNm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/KevinSimler/status/1171278541788348416
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190670792444; Max-Age=63072000; "..."th.js  'nonce-ZWU3YmEyN2ItMjQ5MS00N2U3LTg5MGYtZGQ5YTg0Yzg1M2Uw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/NirantK/status/1234077539020050432
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190677081244; Max-Age=63072000; "..."th.js  'nonce-ZTc1YTA0ODQtMzg0YS00MTk4LWFmNTYtMjVjZTc4OGI3MDkx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/michael_nielsen/status/1081070044648398848
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190681522061; Max-Age=63072000; "..."th.js  'nonce-YjAyMDMwNDYtOWE1Zi00NDhhLTlkNWItOTEzYzliYTRlOWUw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/kushaanshah/status/1500501827120353287
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190690543801; Max-Age=63072000; "..."th.js  'nonce-ZmY5MjRhMzYtM2U3OS00ZWI5LTg1MjktZWE4ZmM4M2E1MDU2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/dan_abramov/status/1476085561064669185
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190693582128; Max-Age=63072000; "..."th.js  'nonce-M2YxMDJlYTMtMjk2Yi00YTY2LWE3OTAtNDFmYzliYmNlYTUy'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/daveambrose/status/864476831306719232
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:27 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190723180075; Max-Age=63072000; "..."th.js  'nonce-MTI2MDVlZTctYTdlOC00M2M3LWE1NzctNTJjMTlhMDcxZTli'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/avichal/status/1250906803849711616
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:27 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190723640167; Max-Age=63072000; "..."th.js  'nonce-ZTI2ZTNmNGItOGJkNS00MDQ1LThiODUtOTlmM2RiOGQ4Nzk4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/crystaljjlee/status/1358171293456035840
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:27 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190728360491; Max-Age=63072000; "..."th.js  'nonce-NTdlNDg4NDAtZjBlYy00Nzc5LTg3YzItN2VhOWFjMzQ2NzQw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/paraschopra/status/1346688696599252993
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:27 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190737326857; Max-Age=63072000; "..."th.js  'nonce-ZmI4Zjc3YTktZGYxNS00NjNkLTllMWYtYjBkMTZjOGMzODA4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/jmikolay/status/1381635288238325761
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:27 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190776470556; Max-Age=63072000; "..."th.js  'nonce-ZmYyYzYzNjktMDg3YS00NjQ0LWIzMjgtZDQ3NGI3NzA3NzBl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/visakanv/status/1088354634429677570
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:27 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190778612664; Max-Age=63072000; "..."th.js  'nonce-MGNiNDZlMDUtZWUzYy00ZDYyLWE0MTYtZGM0MjcxMjVjOWU4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/dharmeshba/status/1429124984446668802
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:27 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190779101043; Max-Age=63072000; "..."th.js  'nonce-Zjc0ZjQ2NWUtMGVmOS00NTg2LThmZDUtNjhlMWFhNmFjNDQy'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/mrcatacroquer/status/1386318806411325440
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:27 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190784122266; Max-Age=63072000; "..."th.js  'nonce-NGFlZmRmY2QtOTc5NC00ODMyLThiZjQtZGVjZjMzNThhNmFj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/shreyas/status/1384008853004578822
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:28 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190841545802; Max-Age=63072000; "..."th.js  'nonce-N2E1OWI1NzgtYjI4MS00ZTNkLTk2MzgtNjU3ZmU4ODY1OTYy'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/SamoBurja/status/1094412351623712768
+https://wiki.itdobelikethat.org/docs/notes/twitter/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:10 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691074038736; Max-Age=63072000; "..."th.js  'nonce-OTUyOGIzM2QtZDIwZi00ZWY5LWJhODAtMDk4YjJhODkwYjZk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/david_perell/status/1228873220167753728
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:10 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691074174077; Max-Age=63072000; "..."th.js  'nonce-YTA0MmFhZGMtNDIzYi00OTJhLWI2NTItMWQzOWNiNmYwZGQ2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/ShriramKMurthi
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:10 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691074985324; Max-Age=63072000; "..."th.js  'nonce-NzA0MjQ0ODAtNzM0NS00N2VhLWIxMWEtOWViNTc2ZGFkZjFh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/ali01/status/1228348422056374272
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:10 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691081496050; Max-Age=63072000; "..."th.js  'nonce-ZDYyYWY1M2UtMDZlNS00YzI4LThjODAtM2U4Yjg3YmFiZmVk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/ShriramKMurthi/status/1249081347857174533
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:10 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691084288355; Max-Age=63072000; "..."th.js  'nonce-NGUzNTg1YjYtZDgzYS00MmM5LTgwYTItMjEyMmU0Nzc2OGVk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/visakanv/status/866490888519770114
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:10 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691088561781; Max-Age=63072000; "..."th.js  'nonce-ZTlmZWRiYTMtZDU2NS00ZjJiLWIzNzUtMDllODk2YmZkZGJh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/visakanv/status/1129212169701085186
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:11 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691188524733; Max-Age=63072000; "..."th.js  'nonce-YWNiODg0ZDYtOWNhMy00OTQ4LWExOTQtNzkwYzgzZjUyYjRh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/fortelabs/status/1251976256540696576
 https://wiki.itdobelikethat.org/docs/ideas/timelines/
 	404	https://www.openbloc.fr/home/about
 	429	https://github.com/CUTR-at-USF/awesome-transit
@@ -157,23 +64,9 @@ https://wiki.itdobelikethat.org/docs/ideas/timelines/
 	429	https://github.com/vbarbaresi/MetroGit
 	429	https://github.com/witcher3map/witcher3map
 	429	https://github.com/wwcline/list-of-frequent-transit-maps
-	503	https://news.ycombinator.com/item?id=27469715
 	id #!/Bio not found	http://worrydream.com/#!/Bio
 	id #map=5/51.500/-0.100&layers=O&date=1850&daterange=1800,2021 not found	https://www.openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1850&daterange=1800,2021
 	id #zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF not found	https://www.lightpollutionmap.info/#zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF
-https://wiki.itdobelikethat.org/docs/ideas/interesting_pictures/
-	404	https://wiki.itdobelikethat.org/img/interesting_pics/ccc.jpg
-https://wiki.itdobelikethat.org/docs/ideas/humor/
-	429	https://github.com/kleampa/not-paid
-	429	https://github.com/pjf/rickastley
-https://wiki.itdobelikethat.org/docs/ideas/running_bsns/
-	404	https://www.reforge.com/blog/growth-loopS
-	dialing to the given TCP address timed out	https://twitter.com/obiltschnig/status/1473915766743445506
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:35 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878191595069533; Max-Age=63072000; "..."th.js  'nonce-MjJmZDBjYmQtZjkxMy00M2YxLThmOWMtNjY1ZTc1OGM3NWI5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/shreyas/status/1411394575877296128
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878191597759244; Max-Age=63072000; "..."th.js  'nonce-YmZkNDNiNDUtNWYwYi00MjYwLTllZmQtYTZkZjZmMjVkMjhh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/barrettjoneill/status/1497950095228080137
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878191647498139; Max-Age=63072000; "..."th.js  'nonce-NDdhZmJlODctNmQ0MC00NTdkLWIwMzMtODFhYjE5YTAwMmVj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/david_perell/status/1413995757552689154
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:36 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878191649567821; Max-Age=63072000; "..."th.js  'nonce-MTE4ZmZmMzEtNzBkNC00ZDA1LTk2ZmUtYjdmMmY2ZGM4YTZj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/patio11/status/1483267542080626693
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:37 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878191746252470; Max-Age=63072000; "..."th.js  'nonce-MTZjYmRkZTctZTYxZS00NjI0LWFiMTItOTU2NWVhZTM4NDJj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/shreyas/status/1412622302185881600
 https://wiki.itdobelikethat.org/docs/ideas/ideas_in_ed/
 	429	https://bibliogram.art/u/paintedladieslibrary
 	429	https://github.com/PharkMillups/beautiful-docs
@@ -190,22 +83,26 @@ https://wiki.itdobelikethat.org/docs/ideas/ideas_in_ed/
 	429	https://github.com/startrekdude/taoquiz
 	429	https://github.com/susam/muboard
 	429	https://github.com/toger5/TheBoard
-	530	https://www.entangled.solutions/portfolio/unlocking-career-potential/
-	dialing to the given TCP address timed out	https://macwright.com/2020/12/24/the-new-reading-stack.html
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:28 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190824525517; Max-Age=63072000; "..."th.js  'nonce-MDM2Mjk2NTEtYjIzMC00Yjk1LWJiM2YtMWMxMWIwYWVjMDQ5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/AarihantAaryan/status/1488379957923704832
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:28 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190858391290; Max-Age=63072000; "..."th.js  'nonce-MjZlOGQyODItZmY3ZS00ZDRlLThiZmYtNmJmNWU4ODA2OTRl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/gwenckatz/status/1487530360703361024
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:28 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190863439101; Max-Age=63072000; "..."th.js  'nonce-NTk4YzQ3ZTQtMTgyOS00MGFlLWJkZTQtZGIxOGI2ZDcwNmZl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/david_perell/status/1478946655995105281
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:28 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190897020355; Max-Age=63072000; "..."th.js  'nonce-NjMzMGFiN2QtMTA2ZS00YTg0LTkwZDAtZDBkMDhiNjkzN2Qx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/DrLivGibbs/status/1406507357308284930
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:29 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190920809717; Max-Age=63072000; "..."th.js  'nonce-NmIxNmIwNzYtYjdmMC00ZmIxLTg1MzUtM2ViNTg1NTQ2NGRl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/OpenDoor_Edu
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:29 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190935883122; Max-Age=63072000; "..."th.js  'nonce-N2U1MTgzOGYtZmZjZC00OWQ2LTk4MjMtNzU2MTBlMTE3Yjc2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/wilks_isaac/status/1185430062503473153
-	lookup www.diybookscanner.org: Temporary failure in name resolution	https://www.diybookscanner.org/
+	503	https://news.ycombinator.com/item?id=27419954
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:10 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691096323414; Max-Age=63072000; "..."th.js  'nonce-NTExMzkyYWEtNGIwOS00ZGY5LTlkMTUtZGU0MTdlMzRiZjYw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/OpenDoor_Edu
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:11 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691100459077; Max-Age=63072000; "..."th.js  'nonce-N2E3ZGNlZDMtNTg4MC00OTg5LWIyYzItNDQ5ZTZjOGMwNmRk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/gwenckatz/status/1487530360703361024
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:11 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691111574353; Max-Age=63072000; "..."th.js  'nonce-NTU3ZmU0NWItZWNiNC00ZDcyLThjNzItYmZiZDMzMmY0YzM2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/AarihantAaryan/status/1488379957923704832
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:11 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691116779233; Max-Age=63072000; "..."th.js  'nonce-YzA1OTE3OGQtY2U0OS00NjBjLTg5YjEtYzBhMzZkY2M4MjY4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/DrLivGibbs/status/1406507357308284930
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:11 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691120114463; Max-Age=63072000; "..."th.js  'nonce-ZTQxZDJiYzUtNWVhYy00NjQyLWFkOWQtNmUzNzcxZjg2ZGVh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/david_perell/status/1478946655995105281
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:11 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691138635868; Max-Age=63072000; "..."th.js  'nonce-ODBkODEyNGUtMjQ4Ny00Nzc2LWE2OWYtYjMzOTI3YzUyZmE0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/wilks_isaac/status/1185430062503473153
+https://wiki.itdobelikethat.org/docs/ideas/humor/
+	429	https://github.com/kleampa/not-paid
+	429	https://github.com/pjf/rickastley
+https://wiki.itdobelikethat.org/docs/ideas/running_bsns/
+	404	https://www.reforge.com/blog/growth-loopS
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691432848660; Max-Age=63072000; "..."th.js  'nonce-YzdmMmY1MmItMTU5Yi00YjVkLWE5NDYtMDIyYWNkMmQ4N2Yy'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/obiltschnig/status/1473915766743445506
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691445067204; Max-Age=63072000; "..."th.js  'nonce-NTljMGU4MzctYmM4MS00Yjc1LTk0NDYtZGQ4ODI3Nzk3ZmVk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/shreyas/status/1411394575877296128
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691446081618; Max-Age=63072000; "..."th.js  'nonce-MzZiYzhkMTEtMTljMi00MTNiLTgwNDMtMTExZTFmNDRjZDgy'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/david_perell/status/1413995757552689154
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691446708328; Max-Age=63072000; "..."th.js  'nonce-OWJmOTc4MDEtYThlMi00ZmFlLWIyOTgtYThiYWM3OGEwYjFm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/patio11/status/1483267542080626693
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691457274320; Max-Age=63072000; "..."th.js  'nonce-MGM3ZjM4ZjYtYzI4Ni00ZGJlLWIxMzEtN2VmZGE5Y2JlZWFj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/shreyas/status/1412622302185881600
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691457277346; Max-Age=63072000; "..."th.js  'nonce-MzRjZDc2NjMtMGY3YS00ZmE2LWEwZWEtN2ZjYzE2NzU5NjM4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/barrettjoneill/status/1497950095228080137
 https://wiki.itdobelikethat.org/docs/ideas/subjects/
 	403	http://medievalcookery.com/recipes/
-https://wiki.itdobelikethat.org/docs/notes/study/network/
-	429	https://github.com/PacktPublishing/Network-Programming-with-Rust
-	429	https://github.com/clowwindy/Awesome-Networking
-	429	https://github.com/diracdeltas/FastestWebsiteEver
-	429	https://github.com/jvinet/knock
 https://wiki.itdobelikethat.org/docs/notes/guides/communities/
 	429	https://github.com/XXIIVV/webring
 	429	https://github.com/forstmeier/askpaulgraham
@@ -214,22 +111,7 @@ https://wiki.itdobelikethat.org/docs/notes/guides/communities/
 	429	https://github.com/orbit-love/orbit-model
 	429	https://github.com/withspectrum/spectrum
 	lookup cstheory.stackexchange.co: Temporary failure in name resolution	https://cstheory.stackexchange.co
-https://wiki.itdobelikethat.org/docs/notes/study/storage/
-	403	https://news.ycombinator.com/item?id=19177435
-	429	https://gist.github.com/huntrar/e42aee630bee3295b2c671d098c81268
-	429	https://github.com/agherzan/yubikey-full-disk-encryption
-	429	https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
-https://wiki.itdobelikethat.org/docs/links/people/
-	dialing to the given TCP address timed out	http://z3bra.org/
-https://wiki.itdobelikethat.org/docs/notes/case_studies/
-	404	https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/
-	429	https://github.com/golang/go/issues/23687#issuecomment-496705293
-	id #end-to-end-principle not found	https://wiki.itdobelikethat.org/docs/notes/study/internet#end-to-end-principle
-https://wiki.itdobelikethat.org/docs/notes/study/os/
-	403	https://news.ycombinator.com/item?id=22953730
-	429	https://github.com/vvaltchev/tilck
 https://wiki.itdobelikethat.org/docs/notes/study/security/
-	403	https://news.ycombinator.com/item?id=23187662
 	429	https://github.com/Hack-with-Github/Awesome-Hacking
 	429	https://github.com/Igglybuff/awesome-piracy
 	429	https://github.com/StarCrossPortal/bug-hunting-101
@@ -254,25 +136,24 @@ https://wiki.itdobelikethat.org/docs/notes/study/security/
 	429	https://github.com/sundowndev/hacker-roadmap
 	429	https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 	429	https://github.com/veeral-patel/how-to-secure-anything
+https://wiki.itdobelikethat.org/docs/notes/study/programming_langs/rust/
+	429	https://github.com/jakmeier/nuts
+	429	https://github.com/lunatic-solutions/lunatic
+	429	https://github.com/rustviz/rustviz
+https://wiki.itdobelikethat.org/docs/notes/study/p2p/
+	429	https://github.com/ccding/go-stun
+	429	https://github.com/kgryte/awesome-peer-to-peer
+	429	https://github.com/pion/turn
+	429	https://github.com/wilfreddenton/udp-hole-punching
+https://wiki.itdobelikethat.org/docs/notes/study/network/
+	429	https://github.com/PacktPublishing/Network-Programming-with-Rust
+	429	https://github.com/clowwindy/Awesome-Networking
+	429	https://github.com/diracdeltas/FastestWebsiteEver
+	429	https://github.com/jvinet/knock
+	503	https://news.ycombinator.com/item?id=23177607
 https://wiki.itdobelikethat.org/docs/notes/questions/
 	id #classification not found	https://wiki.itdobelikethat.org/docs/notes/study/comp_arch#classification
 	id #virtual-memory not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#virtual-memory
-https://wiki.itdobelikethat.org/docs/notes/study/math/
-	429	https://github.com/StoreyLab/reading
-	id #Order_of_continuity not found	https://en.wikipedia.org/wiki/Smoothness#Order_of_continuity
-https://wiki.itdobelikethat.org/docs/notes/podcasts/
-	404	https://player.fm/series/crazy-wisdom-2497498/how-to-tell-a-computer-what-to-do-stephen-wolfram-founder-ceo-wolfram-alpha
-https://wiki.itdobelikethat.org/docs/notes/twitter/
-	dialing to the given TCP address timed out	https://twitter.com/ali01/status/1228348422056374272
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:49 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878192995817350; Max-Age=63072000; "..."th.js  'nonce-OWRlZGFjMjctMDk4ZS00Mzk4LWE4MWUtNGQ4ODkzMzlmYTFk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/visakanv/status/866490888519770114
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:49 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878192995827990; Max-Age=63072000; "..."th.js  'nonce-MGJiM2MwZDMtOTg0OC00MmVjLWEzODQtOTU5NmRkNTM5ODI1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/ShriramKMurthi
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:50 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878193003476984; Max-Age=63072000; "..."th.js  'nonce-M2IwMmU4NDktNzA3ZC00ZGFlLTgzNjUtNGViYzE3Y2Y0YjIw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/ShriramKMurthi/status/1249081347857174533
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:50 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878193004150556; Max-Age=63072000; "..."th.js  'nonce-MDIzZjNjY2UtMTM4YS00MWZhLThkNTMtNDc1NjA1ZmMyMWRh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/david_perell/status/1228873220167753728
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:50 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878193006244560; Max-Age=63072000; "..."th.js  'nonce-YmFhMmQ4MDYtNmVjMC00M2NjLThiY2EtNWE2MDViYTVhNTNl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/visakanv/status/1129212169701085186
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:50 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878193006484349; Max-Age=63072000; "..."th.js  'nonce-NjExYTlmMzAtNzM2Ny00ZjBjLTg5MzItYWQ5YWVhYmRkNWRm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/fortelabs/status/1251976256540696576
-https://wiki.itdobelikethat.org/docs/notes/study/programming_langs/ruby/
-	429	https://github.com/rubocop-hq/ruby-style-guide#no-character-literals
-	429	https://github.com/rubocop-hq/ruby-style-guide/issues/631
 https://wiki.itdobelikethat.org/docs/notes/guides/web3/
 	403	https://cheapskatesguide.org/articles/beauty-of-text.html
 	403	https://cheapskatesguide.org/articles/gopherspace.html
@@ -351,26 +232,175 @@ https://wiki.itdobelikethat.org/docs/notes/guides/web3/
 	429	https://github.com/zerok/webmentiond
 	429	https://github.com/zeskeertwee/vach
 	502	https://hummingbard.com/hummingbard/introducing-hummingbard
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:42 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878192266304363; Max-Age=63072000; "..."th.js  'nonce-NzU4ZDdiOTYtMWQ4Mi00YTQ2LTk2YWYtNjdiNmFmZmQ1MzNi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/Ash_uxi/status/1486565969682055178
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:43 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878192316407087; Max-Age=63072000; "..."th.js  'nonce-MzFhY2ZmNDUtOWMzYi00NWU5LTg5NjUtODE0ZGMxNDJmZjFi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/internetarchive/status/1386423512810721284
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:43 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878192392365187; Max-Age=63072000; "..."th.js  'nonce-NDNmNmVlYjMtNDBkOC00ZDljLTliYzYtYTExOTk0MjczYzEw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/bramcohen/status/1484258430302912512
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878192403233691; Max-Age=63072000; "..."th.js  'nonce-NTljYTU5NzYtYTM0ZC00YzIzLWFkYWQtZGZlNjM1Y2I1MzFh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/anandchokkavelu/status/1371129975752044547
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878192482946595; Max-Age=63072000; "..."th.js  'nonce-NWQ2MzY3MTgtNDRlYi00YzBmLWEzNTUtMDY5ODQ2ODNkOTdj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/chriscantino/status/1477665773619486720
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:46 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 165433\r\nConnection: close\r\nX-Powered-By: Express\r\nStrict-Transport-Security: max-age=31536"..."L0Lfoa1E3YsY=' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM='; img-src * data:; style-src 'self' 'unsafe-inline' https://assets-cdn.github.com https://github.githubassets.com https://assets.hac"	https://hackmd.io/ZRTimHheSU-mH3B6sg3Z0g
+	dialing to the given TCP address timed out	https://twitter.com/chriscantino/status/1477665773619486720
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:25 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886692570271064; Max-Age=63072000; "..."th.js  'nonce-ZGVlYjQ4NzItMzY2Yi00Y2FiLWE5YzYtNmI5NjE5MmIxOWZk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/anandchokkavelu/status/1371129975752044547
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:25 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886692597024260; Max-Age=63072000; "..."th.js  'nonce-YjdjNGI0YTktZTIwZi00NDNiLTg0OGUtYzJkMzQ1ZjUxZTRm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/bramcohen/status/1484258430302912512
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:26 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886692604356385; Max-Age=63072000; "..."th.js  'nonce-NmU4NmE1ZGQtYmYwYi00OGE1LTkyZDEtOTIxNmEwYTc3NTZi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/Ash_uxi/status/1486565969682055178
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:27 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886692716682722; Max-Age=63072000; "..."th.js  'nonce-Yzc1N2EyYzgtYTdkNS00ODU0LWFkMjMtZWU5YjgxYTljMGY1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/internetarchive/status/1386423512810721284
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:28 GMT\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 165433\r\nConnection: close\r\nX-Powered-By: Express\r\nStrict-Transport-Security: max-age=31536"..."s9ZxesA+4xg0QDSrdI=' 'sha256-8HvL1KRq6jEwDkuVgxMDK7Gag1vnT70L0Lfoa1E3YsY=' 'sha256-81acLZNZISnyGYZrSuoYhpzwDTTxi7vC1YM4uNxqWaM='; img-src * data:; style-src 'self' 'unsafe-inline' https://assets-cdn.g"	https://hackmd.io/ZRTimHheSU-mH3B6sg3Z0g
 	id #1 not found	https://blog.mauve.moe/slides/agregore-presentation/#1
 	id #what-is-the-difference-between-matrix-and-xmpp not found	https://matrix.org/faq/#what-is-the-difference-between-matrix-and-xmpp
 	lookup infosec-handbook.eu: No address associated with hostname	https://infosec-handbook.eu/news/2020-12-05-leaving-the-fediverse/
-	lookup randomgeekery.org: Temporary failure in name resolution	https://randomgeekery.org/post/2020/11/using-the-webmentionio-api/
-	the server closed connection before returning the first response byte. Make sure the server returns 'Connection: close' response header before closing the connection	http://len.falken.ink/web/perceived-relations-between-gopher-gemini-and-http.txt
+https://wiki.itdobelikethat.org/docs/notes/study/storage/
+	429	https://gist.github.com/huntrar/e42aee630bee3295b2c671d098c81268
+	429	https://github.com/agherzan/yubikey-full-disk-encryption
+	429	https://github.com/lfit/itpol/blob/master/linux-workstation-security.md
+	503	https://news.ycombinator.com/item?id=11761491
+	503	https://news.ycombinator.com/item?id=19299404
 https://wiki.itdobelikethat.org/docs/notes/study/digital_rights/
 	404	http://www.loc.gov/teachers/copyrightmystery/text/files/
-https://wiki.itdobelikethat.org/docs/notes/study/p2p/
-	403	https://news.ycombinator.com/item?id=23023675
-	403	https://news.ycombinator.com/item?id=23180572
-	429	https://github.com/ccding/go-stun
-	429	https://github.com/kgryte/awesome-peer-to-peer
-	429	https://github.com/pion/turn
-	429	https://github.com/wilfreddenton/udp-hole-punching
+https://wiki.itdobelikethat.org/docs/notes/research/
+	429	https://github.com/petar
+https://wiki.itdobelikethat.org/docs/notes/study/math/
+	429	https://github.com/StoreyLab/reading
+	id #Order_of_continuity not found	https://en.wikipedia.org/wiki/Smoothness#Order_of_continuity
+https://wiki.itdobelikethat.org/docs/notes/case_studies/
+	404	https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/
+	429	https://github.com/golang/go/issues/23687#issuecomment-496705293
+	id #end-to-end-principle not found	https://wiki.itdobelikethat.org/docs/notes/study/internet#end-to-end-principle
+https://wiki.itdobelikethat.org/docs/notes/study/os/
+	429	https://github.com/vvaltchev/tilck
+https://wiki.itdobelikethat.org/docs/links/people/
+	dialing to the given TCP address timed out	http://z3bra.org/
+https://wiki.itdobelikethat.org/docs/notes/podcasts/
+	404	https://player.fm/series/crazy-wisdom-2497498/how-to-tell-a-computer-what-to-do-stephen-wolfram-founder-ceo-wolfram-alpha
+https://wiki.itdobelikethat.org/docs/notes/guides/quantify/
+	429	https://github.com/AnandChowdhary/life-data
+	429	https://github.com/JacobEvelyn/friends
+	429	https://github.com/JohnPhamous/strava-box
+	429	https://github.com/KrauseFx/FxLifeSheet
+	429	https://github.com/MasterScrat/Chatistics
+	429	https://github.com/Reportr/dashboard
+	429	https://github.com/TailorDev/Watson
+	429	https://github.com/almarklein/timetagger
+	429	https://github.com/cheeaun/life
+	429	https://github.com/getredash/redash
+	429	https://github.com/heedy/heedy
+	429	https://github.com/katmeister/tokyo-2019
+	429	https://github.com/lord/mortalical
+	429	https://github.com/luisandani/valencia-notes
+	429	https://github.com/metabase/metabase
+	429	https://github.com/mholt/timeliner
+	429	https://github.com/mr-karan/swiggy-analytics/tree/master/swiggy_analytics
+	429	https://github.com/nicbou/timeline
+	429	https://github.com/phiresky/timetrackrs
+	429	https://github.com/schollz/howmanypeoplearearound
+	429	https://github.com/sourcegraph/thyme
+	429	https://github.com/thesephist/sounds
+	429	https://github.com/tmcw/running-for-nerds
+	429	https://github.com/traumverloren/camping-in-iceland
+	429	https://github.com/turbomaze/28-hour-day
+	429	https://github.com/twintproject/twint
+	429	https://github.com/vaguileradiaz/tinfoleak
+	429	https://github.com/woop/awesome-quantified-self
+	429	https://github.com/yihong0618/running_page
+	429	https://github.com/zuchka/grafana-docs-exporter
+https://wiki.itdobelikethat.org/docs/notes/history/
+	404	https://computer.rip/https://buttondown.email/hillelwayne/archive/oracle-testing/
+	429	https://github.com/2d-inc/HistoryOfEverything
+	429	https://github.com/JesseKPhillips/USA-Constitution
+	429	https://github.com/bagder/irchistory
+	429	https://github.com/geekodour/wiki/blob/master/docs/notes/history.md
+	429	https://github.com/michael-lazar/finger2020
+	429	https://github.com/mraible/history-of-web-frameworks-timeline
+	429	https://github.com/simh/simh
+	429	https://github.com/watson/awesome-computer-history
+	429	https://github.com/worrydream/EarlyHistoryOfSmalltalk
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:31 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886693134125355; Max-Age=63072000; "..."th.js  'nonce-YzY4NGI5NzUtNmY3Yy00ZWYxLWEwODgtYmNkZTY5ZDZkY2M3'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/jschauma/status/1480391335634997248
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:32 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886693266130505; Max-Age=63072000; "..."th.js  'nonce-ODEzZjA3ZTktNTZhOS00M2IyLTljNDYtMDBiODY0MTVjYjRj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/krishashok/status/1475009729726349312
+	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
+	id #eeprom not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#eeprom
+	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
+	lookup exple.tive.org: Temporary failure in name resolution	http://exple.tive.org/blarg/2020/11/26/punching-holes/
+https://wiki.itdobelikethat.org/docs/links/books/
+	429	https://github.com/PJ-Finlay/Notes/tree/main/Books
+	429	https://github.com/RichardLitt/awesome-fantasy
+	429	https://github.com/cs-books/influential-cs-books
+	429	https://github.com/isaacs/reading-list
+https://wiki.itdobelikethat.org/docs/courses/others/human_memory/
+	429	https://github.com/ContextLab/human-memory
+https://wiki.itdobelikethat.org/docs/workshops/projects/
+	404	http://seriot.ch/ntp.php
+	429	https://github.com/Pithikos/C-Thread-Pool
+	429	https://github.com/andygrove/how-query-engines-work
+	429	https://github.com/antirez/rax
+	429	https://github.com/anvaka/atree
+	429	https://github.com/anvaka/e-sum
+	429	https://github.com/async-raft/async-raft
+	429	https://github.com/codebutler/farebot
+	429	https://github.com/erikgrinaker/toydb
+	429	https://github.com/florinpop17/app-ideas
+	429	https://github.com/hankhank10/vinylemulator
+	429	https://github.com/iomonad/KFS
+	429	https://github.com/jamesroutley/write-a-hash-table
+	429	https://github.com/johang/btfs
+	429	https://github.com/josevalim/nested-data-structure-traversal
+	429	https://github.com/jpillora/chisel
+	429	https://github.com/karan/Projects
+	429	https://github.com/karan/Projects-Solutions
+	429	https://github.com/maddox/magic-cards
+	429	https://github.com/nodejs/undici
+	429	https://github.com/pomerium/autocache
+	429	https://github.com/practical-tutorials/project-based-learning
+	429	https://github.com/risinglightdb/risinglight
+	429	https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+	429	https://github.com/s-matyukevich/raspberry-pi-os
+	429	https://github.com/serialx/hashring
+	429	https://github.com/sindresorhus/quick-lru
+	429	https://github.com/spencertipping/jit-tutorial
+	429	https://github.com/spencertipping/shell-tutorial
+	429	https://github.com/ssloy/tinyrenderer/wiki
+	429	https://github.com/whykatherine/every-element-is-an-html
+	id #T1-Interface not found	https://deadlockempire.github.io/#T1-Interface
+https://wiki.itdobelikethat.org/docs/courses/others/accessp2p/
+	429	https://github.com/warner/magic-wormhole
+	429	https://github.com/warner/magic-wormhole/issues/348
+https://wiki.itdobelikethat.org/docs/links/tweets/
+	dialing to the given TCP address timed out	https://twitter.com/NirantK/status/1234077539020050432
+	dialing to the given TCP address timed out	https://twitter.com/QuinnyPig/status/1387937035382452230
+	dialing to the given TCP address timed out	https://twitter.com/SamoBurja/status/1094412351623712768
+	dialing to the given TCP address timed out	https://twitter.com/i/status/1093552400453885958
+	dialing to the given TCP address timed out	https://twitter.com/michael_nielsen/status/1098098218565390337
+	dialing to the given TCP address timed out	https://twitter.com/samjawed65/status/1499980556091670528
+	dialing to the given TCP address timed out	https://twitter.com/visakanv/status/1088354634429677570
+	dialing to the given TCP address timed out	https://twitter.com/visakanv/status/1487465133123448832
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:43 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694327595881; Max-Age=63072000; "..."th.js  'nonce-ZDQzZmZmY2UtOTkwOC00NGI0LWFlZDQtOTMzYmYzNTU3ODQz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/dharmeshba/status/1429124984446668802
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:43 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694327784160; Max-Age=63072000; "..."th.js  'nonce-MDkwYjVhZjMtM2Y0ZC00NGJmLThhOGMtNmNhNzQ5OWY5NDFm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/michael_nielsen/status/1081070044648398848
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:43 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694329501899; Max-Age=63072000; "..."th.js  'nonce-ZjU0ZDliMjAtNGE3NS00OGM0LWEwNTctNjU3OWY3NWY1YTZj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/james_d_baird/status/1372936895668322309
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:43 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694351468699; Max-Age=63072000; "..."th.js  'nonce-ZGZlNDAwMjgtMTM5Yy00Yzg2LWI0NTktZGRmNzQzOTk2Y2U2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/kushaanshah/status/1500501827120353287
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:43 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694351845301; Max-Age=63072000; "..."th.js  'nonce-NmM0NDU0NWYtZjhjNi00NWMwLWI3Y2MtZjJjM2U5NjQxY2Nm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/jmikolay/status/1381635288238325761
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:43 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694359888156; Max-Age=63072000; "..."th.js  'nonce-ODcxYjc4MWQtNDJjZi00OTRhLTkyZGQtNzQ3OTk1OGNjYTQw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/crystaljjlee/status/1358171293456035840
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:43 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694372729040; Max-Age=63072000; "..."th.js  'nonce-NjU1MWY0ODctZDIwOC00NjYxLWE5M2UtYWNmNjQ2YTY0OWVi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/mrcatacroquer/status/1386318806411325440
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694402349423; Max-Age=63072000; "..."th.js  'nonce-MTI5NTk3ZjAtYmQ0ZC00NzcxLTlkMmMtZjU3OTU5YzE0YzRj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/elamje/status/1280714011990913024
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694404069720; Max-Age=63072000; "..."th.js  'nonce-YTZhMjQxYWYtN2E5My00NDc2LTliMDYtMzJiYTEyZjM0YmZk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/FarzaTV/status/1488965852519022592
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694408383094; Max-Age=63072000; "..."th.js  'nonce-NTM5NmI4NGItOWQwNi00Yzc4LTkwMWItNDM1ZTI1ODczZDdk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/KevinSimler/status/1171278541788348416
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694439240644; Max-Age=63072000; "..."th.js  'nonce-MjIwODRiODMtOTIwZi00OWMwLWI3OWItODZiNGZhOTYzYTMz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/dan_abramov/status/1476085561064669185
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694442564613; Max-Age=63072000; "..."th.js  'nonce-NmRlNTU4ZmItM2IzMS00OTJjLWFlZDktOWUwOWJhYjA3ZTlk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/michael_nielsen/status/1224902391331319809
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694444074466; Max-Age=63072000; "..."th.js  'nonce-ZGYzN2Q0ODQtMDU4Yy00ODFjLTk1NTctNjk3M2E5MzY1ZGVj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/shreyas/status/1303150374124048386
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694455166352; Max-Age=63072000; "..."th.js  'nonce-YWQ3ZjhiZTUtZWZkNi00OGIwLTk4OGEtZjVhZTQ3NTFlNjVi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/shreyas/status/1384008853004578822
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694473442502; Max-Age=63072000; "..."th.js  'nonce-Nzg1ZjU2NTUtZGI3OS00MGY5LWEzMTEtM2U0ZDNiNWYyYzQ4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/patio11/status/936615043126370306
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694488066571; Max-Age=63072000; "..."th.js  'nonce-ZjYyMDhkNTQtMjkwNy00NzljLTk2NjAtNTAxM2ViNDFlYmI5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/ShriramKMurthi/status/1223053225705852929
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:44 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694496638124; Max-Age=63072000; "..."th.js  'nonce-MWQyNzM2MWUtOTEyOS00NmNkLTlmMWQtMDI1ZGNhZjNhYjA5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/vgr/status/1204884591598686208
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:45 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694516794838; Max-Age=63072000; "..."th.js  'nonce-MzU5MTYwMzctY2RhZS00NWMzLWEyZWQtNjk3ZmRhZmUwMDll'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/paraschopra/status/1346688696599252993
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:45 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694518134265; Max-Age=63072000; "..."th.js  'nonce-MzJiYjUwZTctNmZmNC00MjE3LWIzMmUtN2YzNDg0NGVlMjMz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/avichal/status/1250906803849711616
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:45 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694529943917; Max-Age=63072000; "..."th.js  'nonce-NWQyY2E2YTItNzlhMS00N2FlLWI0ODUtNzkzZmJmMGQ0MmUz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/daveambrose/status/864476831306719232
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:45 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694536598833; Max-Age=63072000; "..."th.js  'nonce-YTdmYjE1ZDctMzc1My00ODQ2LTg4NWYtYTgzMDUxY2NjYzVk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/kshitiz/status/1405190674966712320
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:45 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694584874750; Max-Age=63072000; "..."th.js  'nonce-MjEyNGUyYWItYWE5NS00NTdhLWE3ZjQtODkxY2NiYzI1NjFi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/james_d_baird/status/1381675761359273993
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:45 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694585152893; Max-Age=63072000; "..."th.js  'nonce-NWJjZDEwNTAtNjE1Zi00MGUwLTljYjktMzMzODc2NTZiNDBm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/visakanv/status/1296877467940995073
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:46 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694641507167; Max-Age=63072000; "..."th.js  'nonce-NzdiYmM1YjYtYWFmOC00NGZkLTg3NTktNzdkN2M3M2M5YjVj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/adityaagrw/status/1500115866935267331
+https://wiki.itdobelikethat.org/docs/courses/others/gc_essentials_udemy/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:48 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nCf-Ray: 6f562c5a9fbc81be-IAD\r\nAge: 0\r\nCache-Control: max-ag"..."pires=Sun, 03 Apr 2022 02:35:48 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_modern_browser=0; expires=Sun, 03 Apr 2022 02:35:48 GMT; Max-Age=86400; Path=/; Secure\r\nSet-Cookie: ud_cache_lo"	https://www.udemy.com/course/essentials-of-garbage-collectors/
+https://wiki.itdobelikethat.org/docs/tools/db/promql/
+	429	https://github.com/cloudflare/pint
+	429	https://github.com/infinityworks/prometheus-example-queries
+	429	https://github.com/jitendra-1217/promql.cheat.sheet
+	429	https://github.com/prometheus/prometheus/blob/2209fa98b42aee3aed864d7ea3534775ca8cd6e9/promql/engine.go#L920
+	429	https://github.com/prometheus/prometheus/issues/1246
+	429	https://github.com/prometheus/prometheus/issues/2564
+	429	https://github.com/prometheus/prometheus/issues/398
+	429	https://github.com/prometheus/prometheus/issues/5415
+	429	https://github.com/prometheus/prometheus/pull/7011
+	id #errors not found	https://promtools.dev/#errors
 https://wiki.itdobelikethat.org/docs/tools/open_source_projects/
 	403	https://news.ycombinator.com/item?id=26956271
 	429	https://github.com/AltSysrq/proptest
@@ -720,22 +750,318 @@ https://wiki.itdobelikethat.org/docs/tools/open_source_projects/
 	429	https://github.com/zverok/wikipedia_ql
 	429	https://github.com/zyantific/zydis
 	id #/ not found	https://mermaid-js.github.io/mermaid/#/
-https://wiki.itdobelikethat.org/docs/notes/guides/askingq/
-	lookup nedbatchelder.com: Temporary failure in name resolution	https://nedbatchelder.com//blog/202009/how_to_be_helpful_online.html
-https://wiki.itdobelikethat.org/docs/tools/db/promql/
-	429	https://github.com/cloudflare/pint
-	429	https://github.com/infinityworks/prometheus-example-queries
-	429	https://github.com/jitendra-1217/promql.cheat.sheet
-	429	https://github.com/prometheus/prometheus/blob/2209fa98b42aee3aed864d7ea3534775ca8cd6e9/promql/engine.go#L920
-	429	https://github.com/prometheus/prometheus/issues/1246
-	429	https://github.com/prometheus/prometheus/issues/2564
-	429	https://github.com/prometheus/prometheus/issues/398
-	429	https://github.com/prometheus/prometheus/issues/5415
-	429	https://github.com/prometheus/prometheus/pull/7011
-	id #errors not found	https://promtools.dev/#errors
-https://wiki.itdobelikethat.org/docs/notes/research/
-	429	https://github.com/petar
-	lookup dynamicland.org: Temporary failure in name resolution	https://dynamicland.org/
+https://wiki.itdobelikethat.org/docs/tools/db/postgres/
+	429	https://github.com/allaboutapps/integresql
+https://wiki.itdobelikethat.org/docs/workshops/tech-guides/
+	404	http://tumregels.github.io/Network-Programming-with-Go/
+	404	https://anonymousplanet.github.io/thgtoa/guide.html
+	429	https://github.com/Workiva/go-datastructures
+	429	https://github.com/fliptheweb/bash-shortcuts-cheat-sheet
+	429	https://github.com/fpereiro/backendlore
+	429	https://github.com/gerasdf/InsecureProgramming
+	429	https://github.com/go-modules-by-example/index
+	429	https://github.com/golang/go/wiki/LearnConcurrency
+	429	https://github.com/gurugio/lowlevelprogramming-university
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:09 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886690947041896; Max-Age=63072000; "..."th.js  'nonce-NWUwNGVjMWUtZTU5OS00OWY4LWE1NWQtOWYzNjBmNWYyN2Nl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/jschauma/status/1415858462064533505
+	timeout	https://howhttps.works/
+https://wiki.itdobelikethat.org/docs/notes/study/memory/alloc/
+	429	https://gist.github.com/geekodour/543d370e9e7816fe368d264374c86cfc
+https://wiki.itdobelikethat.org/docs/tools/self_hosting/
+	429	https://github.com/28mm/blast-radius
+	429	https://github.com/42wim/matterbridge
+	429	https://github.com/AboutRSS/ALL-about-RSS
+	429	https://github.com/AdguardTeam/AdGuardHome
+	429	https://github.com/ArchiveBox/ArchiveBox
+	429	https://github.com/Cloud-Foundations/keymaster
+	429	https://github.com/DIYgod/RSSHub
+	429	https://github.com/DNSCrypt/dnscrypt-proxy
+	429	https://github.com/DNSCrypt/encrypted-dns-server
+	429	https://github.com/DavidWells/analytics
+	429	https://github.com/Enapiuz/awesome-monitoring
+	429	https://github.com/FiloSottile/mkcert
+	429	https://github.com/IceWhaleTech/CasaOS
+	429	https://github.com/IrosTheBeggar/mStream
+	429	https://github.com/Jackett/Jackett
+	429	https://github.com/Jwink3101/syncrclone
+	429	https://github.com/LemmyNet/lemmy
+	429	https://github.com/Luminarys/synapse
+	429	https://github.com/LycheeOrg/Lychee
+	429	https://github.com/Mailtrain-org/mailtrain
+	429	https://github.com/MayaPosch/NymphCast/
+	429	https://github.com/NaturalSelectionLabs/RSS3-Wiki
+	429	https://github.com/PostHog/posthog
+	429	https://github.com/PrivateBin/PrivateBin
+	429	https://github.com/PurritoBin/PurritoBin
+	429	https://github.com/RSS-Bridge/rss-bridge
+	429	https://github.com/RunaCapital/awesome-oss-alternatives
+	429	https://github.com/Shopify/ghostferry
+	429	https://github.com/StackExchange/dnscontrol
+	429	https://github.com/SuperQ/smokeping_prober
+	429	https://github.com/TwinProduction/gatus
+	429	https://github.com/amritb/poor-mans-vpn
+	429	https://github.com/anderspitman/awesome-tunneling
+	429	https://github.com/andrewchambers/bupstash
+	429	https://github.com/appvia/krane
+	429	https://github.com/aquasecurity/tfsec
+	429	https://github.com/arackaf/booklist
+	429	https://github.com/athensresearch/athens
+	429	https://github.com/authelia/authelia
+	429	https://github.com/awesome-selfhosted/awesome-selfhosted
+	429	https://github.com/backstage/backstage
+	429	https://github.com/base2Services/bastion-cli
+	429	https://github.com/berty/berty
+	429	https://github.com/bookwyrm-social/bookwyrm
+	429	https://github.com/boypt/simple-torrent
+	429	https://github.com/bridgecrewio/checkov
+	429	https://github.com/buzzfeed/sso
+	429	https://github.com/caarlos0/starcharts
+	429	https://github.com/calendso/calendso
+	429	https://github.com/caronc/apprise
+	429	https://github.com/coinbase/salus
+	429	https://github.com/containrrr/watchtower
+	429	https://github.com/cozy/cozy-stack
+	429	https://github.com/craigerl/aprsd
+	429	https://github.com/danderson/livemon
+	429	https://github.com/dani-garcia/vaultwarden
+	429	https://github.com/devsnd/cherrymusic
+	429	https://github.com/djyde/cusdis
+	429	https://github.com/doitintl/secure-gcp-reference
+	429	https://github.com/eikek/docspell
+	429	https://github.com/emre/storm
+	429	https://github.com/excalidraw/excalidraw
+	429	https://github.com/external-secrets/external-secrets
+	429	https://github.com/filebrowser/filebrowser
+	429	https://github.com/firefly-iii/firefly-iii
+	429	https://github.com/flatt-security/shisho
+	429	https://github.com/flomesh-io/pipy
+	429	https://github.com/foxcpp/maddy
+	429	https://github.com/freedomofpress/securedrop
+	429	https://github.com/geph-official/geph4
+	429	https://github.com/gerbera/gerbera
+	429	https://github.com/getumbrel/umbrel
+	429	https://github.com/ghostfolio/ghostfolio
+	429	https://github.com/glauth/glauth
+	429	https://github.com/gocolly/colly
+	429	https://github.com/gogs/gogs
+	429	https://github.com/gotify/server
+	429	https://github.com/gr2m/twitter-together
+	429	https://github.com/grafana/k6
+	429	https://github.com/gravitational/teleport
+	429	https://github.com/gravitl/netmaker
+	429	https://github.com/groundnuty/k8s-wait-for
+	429	https://github.com/hashicorp/nomad
+	429	https://github.com/home-assistant/core
+	429	https://github.com/honeycombio/refinery
+	429	https://github.com/honeytrap/honeytrap
+	429	https://github.com/horahoradev/horahora
+	429	https://github.com/houndci/hound
+	429	https://github.com/huginn/huginn
+	429	https://github.com/hyprspace/hyprspace
+	429	https://github.com/i5ik/22120
+	429	https://github.com/internetarchive/heritrix3
+	429	https://github.com/jaksi/sshesame
+	429	https://github.com/jameslittle230/stork
+	429	https://github.com/joeyates/imap-backup
+	429	https://github.com/jpillora/chisel
+	429	https://github.com/juliomrqz/statusfy
+	429	https://github.com/k8s-at-home/awesome-home-kubernetes
+	429	https://github.com/kanidm/kanidm
+	429	https://github.com/knadh/listmonk
+	429	https://github.com/knotworks/knot-server
+	429	https://github.com/ligurio/awesome-ci
+	429	https://github.com/magicbug/Cloudlog
+	429	https://github.com/mail-in-a-box/mailinabox
+	429	https://github.com/marcinguy/scanmycode-ce
+	429	https://github.com/matrix-org/dendrite
+	429	https://github.com/mattermost/focalboard
+	429	https://github.com/mickael-kerjean/filestash
+	429	https://github.com/milesmcc/shynet
+	429	https://github.com/monitoringsucks/metrics-catalog
+	429	https://github.com/monosidev/monosi
+	429	https://github.com/muesli/beehive
+	429	https://github.com/ndbeals/keep-exporter
+	429	https://github.com/nerab/dropcaster
+	429	https://github.com/netbox-community/netbox
+	429	https://github.com/netdata/netdata
+	429	https://github.com/nikitavoloboev/privacy-respecting
+	429	https://github.com/ocelotsloth/csmapper
+	429	https://github.com/octodns/octodns
+	429	https://github.com/offen/offen
+	429	https://github.com/omnivore-app/omnivore
+	429	https://github.com/oragono/oragono
+	429	https://github.com/ory/hydra
+	429	https://github.com/ory/keto
+	429	https://github.com/ossec/ossec-hids
+	429	https://github.com/ovh/the-bastion
+	429	https://github.com/parkr/ping
+	429	https://github.com/paschmann/changd
+	429	https://github.com/paulogr/dstatuspage
+	429	https://github.com/pentacent/keila
+	429	https://github.com/pglombardo/PasswordPusher
+	429	https://github.com/photoprism/photoprism
+	429	https://github.com/pirate/wireguard-docs
+	429	https://github.com/pixelfed/pixelfed
+	429	https://github.com/plausible/analytics
+	429	https://github.com/pomerium/pomerium
+	429	https://github.com/privacybot-berkeley/privacybot
+	429	https://github.com/prymitive/karma
+	429	https://github.com/pulumi/pulumi
+	429	https://github.com/pyroscope-io/pyroscope
+	429	https://github.com/qdm12/gluetun
+	429	https://github.com/rclone/rclone
+	429	https://github.com/restic/others
+	429	https://github.com/reviewdog/reviewdog
+	429	https://github.com/robscott/kube-capacity
+	429	https://github.com/rshipp/awesome-malware-analysis
+	429	https://github.com/rstacruz/kingraph
+	429	https://github.com/rykov/paperboy
+	429	https://github.com/sabre-io/Baikal
+	429	https://github.com/safing/portmaster
+	429	https://github.com/samber/awesome-prometheus-alerts
+	429	https://github.com/schn4ck/schnack
+	429	https://github.com/schollz/hostyoself
+	429	https://github.com/sebgl/htpc-download-box
+	429	https://github.com/secretlint/secretlint
+	429	https://github.com/sergiomarotco/Network-segmentation-cheat-sheet
+	429	https://github.com/shlinkio/shlink
+	429	https://github.com/simon987/awesome-datahoarding
+	429	https://github.com/sissbruecker/linkding
+	429	https://github.com/skeeto/endlessh
+	429	https://github.com/slok/sloth
+	429	https://github.com/smallstep/certificates
+	429	https://github.com/smallstep/step-ssh-example
+	429	https://github.com/square/sudo_pair
+	429	https://github.com/stringer-rss/stringer
+	429	https://github.com/tailscale/tailscale
+	429	https://github.com/testground/testground
+	429	https://github.com/thatmattlove/hyperglass
+	429	https://github.com/thaum-xyz/ankhmorpork
+	429	https://github.com/thelounge/thelounge
+	429	https://github.com/thinkst/opencanary
+	429	https://github.com/thp/urlwatch
+	429	https://github.com/thwidge/thoughts
+	429	https://github.com/toboshii/hajimari
+	429	https://github.com/tomnomnom/waybackurls
+	429	https://github.com/tonarino/innernet
+	429	https://github.com/tycrek/degoogle
+	429	https://github.com/uriel1998/muna
+	429	https://github.com/usefathom/fathom
+	429	https://github.com/utterance/utterances
+	429	https://github.com/valeriansaliou/vigil
+	429	https://github.com/varbhat/exatorrent
+	429	https://github.com/vincelwt/RaspberryCast
+	429	https://github.com/whylabs/whylogs
+	429	https://github.com/whytheplatypus/switchboard
+	429	https://github.com/yrutschle/sslh
+	429	https://github.com/zhenghaoz/gorse
+	429	https://github.com/zrepl/zrepl
+	x509: certificate signed by unknown authority	https://piratebox.cc/goals
+https://wiki.itdobelikethat.org/docs/notes/study/memory/gc/
+	403	https://news.ycombinator.com/item?id=23214535
+	429	https://github.com/golang/go/blob/master/src/runtime/malloc.go
+	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
+https://wiki.itdobelikethat.org/docs/notes/study/memory/mem_hie/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:55 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nCache-Control: private, no-store, max-age=0, no-cache, must"..."x_Di48DiVy6JicmUQFaVrIjMy_E_E-1648866955-0-ATp5/eES3YyPMS/CT0zPCRds/CbXeajwmNw5liwJg9i7WnRBAuaUiYf6a4pYOgDCEpwXJgh5S0enEs98WM1Y450=; path=/; expires=Sat, 02-Apr-22 03:05:55 GMT; domain=.quora.com; Htt"	https://www.quora.com/What-is-a-cache-line-actually
+https://wiki.itdobelikethat.org/docs/notes/study/os/elf/
+	429	https://gist.github.com/geekodour/8b5eea3aa26c3ce6c9ef293a8a8ffe28
+https://wiki.itdobelikethat.org/docs/tools/db/others/
+	404	https://lyft.github.io/amundsen/
+	429	https://github.com/MichaelMure/git-bug/blob/master/doc/model.md
+	429	https://github.com/buraksezer/olric
+	429	https://github.com/datafuselabs/datafuse
+	429	https://github.com/tensorbase/tensorbase
+https://wiki.itdobelikethat.org/docs/notes/study/p2p/nat/
+	429	https://github.com/pion/turn
+	id #selection-15.0-20.0 not found	https://archive.is/u7His#selection-15.0-20.0
+https://wiki.itdobelikethat.org/docs/ideas/pantry/
+	429	https://github.com/0x263b/Otherside
+	429	https://github.com/AutoSpotting/AutoSpotting
+	429	https://github.com/Couchers-org/couchers
+	429	https://github.com/CultureHub/LiveLab
+	429	https://github.com/GetTogetherComm/GetTogether
+	429	https://github.com/Godmartinz/snipe-it
+	429	https://github.com/GoogleChromeLabs/quicklink
+	429	https://github.com/HttpErrorPages/HttpErrorPages
+	429	https://github.com/Kozea/WeasyPrint
+	429	https://github.com/MacPaw/together-app
+	429	https://github.com/Netflix-Skunkworks/stethoscope
+	429	https://github.com/ProjectDrawdown/solutions
+	429	https://github.com/Unleash/unleash
+	429	https://github.com/alvaromontoro/almond.css
+	429	https://github.com/beizhedenglong/rough-charts
+	429	https://github.com/captn3m0/ideas
+	429	https://github.com/chatwoot/chatwoot
+	429	https://github.com/drbh/wasm-flate
+	429	https://github.com/earthly/earthly
+	429	https://github.com/edumeet/edumeet
+	429	https://github.com/egoist/ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
+	429	https://github.com/erxes/erxes
+	429	https://github.com/esimov/triangle
+	429	https://github.com/factbook/factbook.json
+	429	https://github.com/fogleman/primitive
+	429	https://github.com/foodcoops/foodsoft
+	429	https://github.com/forem/forem
+	429	https://github.com/frappe/books
+	429	https://github.com/geekodour/reachout
+	429	https://github.com/getredash/redash
+	429	https://github.com/growthbook/growthbook
+	429	https://github.com/hql287/Manta
+	429	https://github.com/huggingface/transformers
+	429	https://github.com/imazen/imageflow
+	429	https://github.com/jbenet/random-ideas/issues
+	429	https://github.com/jdan/98.css
+	429	https://github.com/kamranahmedse/brusher
+	429	https://github.com/knadh/dont.build
+	429	https://github.com/lexiross/fattest-cat
+	429	https://github.com/mautic/mautic
+	429	https://github.com/open-source-ideas/ideas/issues
+	429	https://github.com/openemr/openemr
+	429	https://github.com/papercups-io/papercups
+	429	https://github.com/paulirish/lite-youtube-embed
+	429	https://github.com/qrohlf/trianglify
+	429	https://github.com/remotion-dev/remotion
+	429	https://github.com/ro31337/libretaxi
+	429	https://github.com/rudderlabs/rudder-server
+	429	https://github.com/samsquire/ideas
+	429	https://github.com/samsquire/wants
+	429	https://github.com/segmentio/ksuid
+	429	https://github.com/smirnov-am/awesome-saas-boilerplates
+	429	https://github.com/sverweij/state-machine-cat
+	429	https://github.com/sw-yx/spark-joy
+	429	https://github.com/taivop/awesome-data-annotation
+	429	https://github.com/timhaines/saas-pricing-resources
+	429	https://github.com/tvler/laundry-symbols
+	429	https://github.com/uetchy/namae
+	429	https://github.com/ustaxes/UsTaxes
+	429	https://github.com/vercel/virtual-event-starter-kit
+	429	https://github.com/woltapp/blurhash
+	dialing to the given TCP address timed out	https://wintermute.app/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:13 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691311343621; Max-Age=63072000; "..."th.js  'nonce-NTYxM2VhMjctMzY1Ny00YzQwLTkwMTctOGNiZjk4YzY5NWY2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/rsnous/status/1373691707326222337
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:13 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691321867865; Max-Age=63072000; "..."th.js  'nonce-MDZlN2U3ZDAtMTk4ZC00MDNmLWEyNTctNDdjMmE1YWUzN2Vk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://open-startup.com/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:13 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691335129662; Max-Age=63072000; "..."th.js  'nonce-ODc2ZjMwNmYtYjgwZS00NGRkLWEzOGYtMzVlNThjMTY3M2Y4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/MatthewWSiu/status/1488911987333500932
+	lookup ahilapaati.com: no such host	https://ahilapaati.com/
+	lookup waitwho.is: no such host	https://waitwho.is/
+	timeout	https://bootstrappingcalculator.com/
+https://wiki.itdobelikethat.org/docs/notes/study/comp_arch/multiprocessing/
+	403	https://news.ycombinator.com/item?id=23446543
+https://wiki.itdobelikethat.org/docs/notes/study/math/matrix/
+	429	https://gist.github.com/nadavrot/5b35d44e8ba3dd718e595e40184d03f0
+https://wiki.itdobelikethat.org/docs/notes/study/math/log/
+	404	https://qedinsight.wordpress.com/2011/04/17/a-practical-use-for-logarithms/
+	404	https://qedinsight.wordpress.com/2011/04/22/a-practical-use-for-logarithms-part-2-how-we-multiplied-large-numbers-40-years-ago-and-how-integral-transforms-use-the-same-basic-idea/
+https://wiki.itdobelikethat.org/docs/notes/study/go_lang/pprof/
+	429	https://github.com/golang/go/wiki/Performance
+	429	https://github.com/golang/proposal/blob/master/design/17280-profile-labels.md
+	429	https://github.com/google/pprof
+	429	https://github.com/google/pprof#basic-usage
+	429	https://github.com/google/pprof#using-pprof-with-linux-perf
+	429	https://github.com/google/pprof/blob/master/proto/profile.proto
+	429	https://github.com/google/pprof/tree/master/doc
+	429	https://github.com/google/pprof/tree/master/doc#interpreting-the-callgraph
+	429	https://github.com/google/pprof/tree/master/doc#options
+	429	https://github.com/google/pprof/tree/master/third_party
+	429	https://github.com/pkg/profile
+	429	https://github.com/profefe/profefe
 https://wiki.itdobelikethat.org/docs/tools/laptop_tools/
 	403	https://omglord.com/maps
 	404	https://ols.wtf/2021/05/10/orgy-personal-tech-stack.html
@@ -1617,288 +1943,37 @@ https://wiki.itdobelikethat.org/docs/tools/laptop_tools/
 	429	https://github.com/zhenyolka/DPITunnel
 	429	https://github.com/ziberna/i3-py
 	429	https://github.com/zmap/zmap
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:09 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878188913011846; Max-Age=63072000; "..."th.js  'nonce-N2I1NzZhM2ItMjQxNC00YzMzLThkZGQtOTQ5MmFkY2E2MzZh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/MagnetsOh/status/1390597915727433729
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:12 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878189271727332; Max-Age=63072000; "..."th.js  'nonce-Nzk5NWY1Y2QtMjc1My00OTQ4LTkxMWYtNzc0ODY0N2I4YjE2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/thingskatedid/status/1386077306381242371
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:12 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878189278715757; Max-Age=63072000; "..."th.js  'nonce-NmI2NjcyNmEtM2VmMi00ODBiLTk4ZjgtZDYwZDhmZTJlMTgz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/10kdiver/status/1380942728222011395
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:13 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878189333647669; Max-Age=63072000; "..."th.js  'nonce-YTNkOGQzZTMtYTBhYi00ZWIwLWEwMjEtMmJhZGNlYTQ4NTYw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/radicle/status/1364980998530879498
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:13 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878189343969935; Max-Age=63072000; "..."th.js  'nonce-MWRjY2FiYTAtNTZkMS00NWU5LTlmNjgtMjQ3NjI5NTAxOTA1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/yassineARK/status/1047978606297792513
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:13 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878189378321412; Max-Age=63072000; "..."th.js  'nonce-NWMzMjRjNmMtZmY1NS00N2ZkLWFkZjQtZjgxOGYyN2ZkM2Nk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/archillect
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878189413609019; Max-Age=63072000; "..."th.js  'nonce-NTViNTc4MTctYzFjZi00MjI0LWE2MjItMzYyYWZhYTk5Y2Q5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/saxena_puru/status/1215909869670129665
+	dialing to the given TCP address timed out	https://artvee.com/
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691412485721; Max-Age=63072000; "..."th.js  'nonce-MjUyOGVlMGMtZjQxNy00ZDIxLWJlODYtZTYyODJiYjczYzIz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/thingskatedid/status/1386077306381242371
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:14 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691416662322; Max-Age=63072000; "..."th.js  'nonce-Y2Y1YzliNzYtYjBiMi00NTYzLWE4ZTEtYTE1NjgxYmI4NDE4'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/10kdiver/status/1380942728222011395
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:15 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691580521883; Max-Age=63072000; "..."th.js  'nonce-Zjg5ZWVhZjEtZmFhYS00OTc0LThkM2EtOTMxNzQ1YjYyNzFj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/MagnetsOh/status/1390597915727433729
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:17 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691708866606; Max-Age=63072000; "..."th.js  'nonce-OWIxNjlhYzgtN2QyNi00ZDYwLTliZTgtYmJlMDBjYjc2OGI2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/radicle/status/1364980998530879498
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:19 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886691962946837; Max-Age=63072000; "..."th.js  'nonce-ZGJlNzQ3OTEtMzA2ZC00Mzc1LWIxYzgtOTNhMTUwNjMyMWRl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/yassineARK/status/1047978606297792513
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:20 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nCache-Control: private, no-store, max-age=0, no-cache, must"..."r642x7Lu_.uf3pxITSFe0bTb7g8Rs-1648866920-0-AZCUFEY3+FzPGlF5I0BjvkKZtKS8yjB7y5Vb4WOZAMwpIZeHZ9RkDiTVXkFSfk21PjSMPpJjM0985tT706lJg3c=; path=/; expires=Sat, 02-Apr-22 03:05:20 GMT; domain=.quora.com; Htt"	https://www.quora.com/What-is-the-difference-between-netstat-and-netcat-nc
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:21 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886692155536791; Max-Age=63072000; "..."th.js  'nonce-YjgzMmYxZmQtN2JjNC00NmJlLWE4MjMtZGFlMTljZGZkYzQx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/saxena_puru/status/1215909869670129665
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:21 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886692183337343; Max-Age=63072000; "..."th.js  'nonce-OTJhZjg4MDEtMjk4YS00MmFhLThkZDItMjgxNGJlNWNiZDU0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/archillect
 	id #/github.com/prometheus/prometheus not found	https://go-city.github.io/#/github.com/prometheus/prometheus
 	id #L156-L179 not found	https://code.p1k3.com/gitea/brennen/bpb-kit/src/branch/main/home/.sh_common#L156-L179
-	lookup geekwagon.net: Temporary failure in name resolution	http://geekwagon.net/projects/xkcd1190/
-	lookup toonify.photos: Temporary failure in name resolution	https://toonify.photos/
-	timeout	https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html
+	timeout	https://vicariously.io/
+	timeout	https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 	x509: certificate has expired or is not yet valid	https://ban.ai/multics/
 	x509: certificate signed by unknown authority	https://ar5iv.labs.arxiv.org/
-https://wiki.itdobelikethat.org/docs/tools/db/postgres/
-	429	https://github.com/allaboutapps/integresql
-https://wiki.itdobelikethat.org/docs/tools/self_hosting/
-	429	https://github.com/28mm/blast-radius
-	429	https://github.com/42wim/matterbridge
-	429	https://github.com/AboutRSS/ALL-about-RSS
-	429	https://github.com/AdguardTeam/AdGuardHome
-	429	https://github.com/ArchiveBox/ArchiveBox
-	429	https://github.com/Cloud-Foundations/keymaster
-	429	https://github.com/DIYgod/RSSHub
-	429	https://github.com/DNSCrypt/dnscrypt-proxy
-	429	https://github.com/DNSCrypt/encrypted-dns-server
-	429	https://github.com/DavidWells/analytics
-	429	https://github.com/Enapiuz/awesome-monitoring
-	429	https://github.com/FiloSottile/mkcert
-	429	https://github.com/IceWhaleTech/CasaOS
-	429	https://github.com/IrosTheBeggar/mStream
-	429	https://github.com/Jackett/Jackett
-	429	https://github.com/Jwink3101/syncrclone
-	429	https://github.com/LemmyNet/lemmy
-	429	https://github.com/Luminarys/synapse
-	429	https://github.com/LycheeOrg/Lychee
-	429	https://github.com/Mailtrain-org/mailtrain
-	429	https://github.com/MayaPosch/NymphCast/
-	429	https://github.com/NaturalSelectionLabs/RSS3-Wiki
-	429	https://github.com/PostHog/posthog
-	429	https://github.com/PrivateBin/PrivateBin
-	429	https://github.com/PurritoBin/PurritoBin
-	429	https://github.com/RSS-Bridge/rss-bridge
-	429	https://github.com/RunaCapital/awesome-oss-alternatives
-	429	https://github.com/Shopify/ghostferry
-	429	https://github.com/StackExchange/dnscontrol
-	429	https://github.com/SuperQ/smokeping_prober
-	429	https://github.com/TwinProduction/gatus
-	429	https://github.com/amritb/poor-mans-vpn
-	429	https://github.com/anderspitman/awesome-tunneling
-	429	https://github.com/andrewchambers/bupstash
-	429	https://github.com/appvia/krane
-	429	https://github.com/aquasecurity/tfsec
-	429	https://github.com/arackaf/booklist
-	429	https://github.com/athensresearch/athens
-	429	https://github.com/authelia/authelia
-	429	https://github.com/awesome-selfhosted/awesome-selfhosted
-	429	https://github.com/backstage/backstage
-	429	https://github.com/base2Services/bastion-cli
-	429	https://github.com/berty/berty
-	429	https://github.com/bookwyrm-social/bookwyrm
-	429	https://github.com/boypt/simple-torrent
-	429	https://github.com/bridgecrewio/checkov
-	429	https://github.com/buzzfeed/sso
-	429	https://github.com/caarlos0/starcharts
-	429	https://github.com/calendso/calendso
-	429	https://github.com/caronc/apprise
-	429	https://github.com/coinbase/salus
-	429	https://github.com/containrrr/watchtower
-	429	https://github.com/cozy/cozy-stack
-	429	https://github.com/craigerl/aprsd
-	429	https://github.com/danderson/livemon
-	429	https://github.com/dani-garcia/vaultwarden
-	429	https://github.com/devsnd/cherrymusic
-	429	https://github.com/djyde/cusdis
-	429	https://github.com/doitintl/secure-gcp-reference
-	429	https://github.com/eikek/docspell
-	429	https://github.com/emre/storm
-	429	https://github.com/excalidraw/excalidraw
-	429	https://github.com/external-secrets/external-secrets
-	429	https://github.com/filebrowser/filebrowser
-	429	https://github.com/firefly-iii/firefly-iii
-	429	https://github.com/flatt-security/shisho
-	429	https://github.com/flomesh-io/pipy
-	429	https://github.com/foxcpp/maddy
-	429	https://github.com/freedomofpress/securedrop
-	429	https://github.com/geph-official/geph4
-	429	https://github.com/gerbera/gerbera
-	429	https://github.com/getumbrel/umbrel
-	429	https://github.com/ghostfolio/ghostfolio
-	429	https://github.com/glauth/glauth
-	429	https://github.com/gocolly/colly
-	429	https://github.com/gogs/gogs
-	429	https://github.com/gotify/server
-	429	https://github.com/gr2m/twitter-together
-	429	https://github.com/grafana/k6
-	429	https://github.com/gravitational/teleport
-	429	https://github.com/gravitl/netmaker
-	429	https://github.com/groundnuty/k8s-wait-for
-	429	https://github.com/hashicorp/nomad
-	429	https://github.com/home-assistant/core
-	429	https://github.com/honeycombio/refinery
-	429	https://github.com/honeytrap/honeytrap
-	429	https://github.com/horahoradev/horahora
-	429	https://github.com/houndci/hound
-	429	https://github.com/huginn/huginn
-	429	https://github.com/hyprspace/hyprspace
-	429	https://github.com/i5ik/22120
-	429	https://github.com/internetarchive/heritrix3
-	429	https://github.com/jaksi/sshesame
-	429	https://github.com/jameslittle230/stork
-	429	https://github.com/joeyates/imap-backup
-	429	https://github.com/jpillora/chisel
-	429	https://github.com/juliomrqz/statusfy
-	429	https://github.com/k8s-at-home/awesome-home-kubernetes
-	429	https://github.com/kanidm/kanidm
-	429	https://github.com/knadh/listmonk
-	429	https://github.com/knotworks/knot-server
-	429	https://github.com/ligurio/awesome-ci
-	429	https://github.com/magicbug/Cloudlog
-	429	https://github.com/mail-in-a-box/mailinabox
-	429	https://github.com/marcinguy/scanmycode-ce
-	429	https://github.com/matrix-org/dendrite
-	429	https://github.com/mattermost/focalboard
-	429	https://github.com/mickael-kerjean/filestash
-	429	https://github.com/milesmcc/shynet
-	429	https://github.com/monitoringsucks/metrics-catalog
-	429	https://github.com/monosidev/monosi
-	429	https://github.com/muesli/beehive
-	429	https://github.com/ndbeals/keep-exporter
-	429	https://github.com/nerab/dropcaster
-	429	https://github.com/netbox-community/netbox
-	429	https://github.com/netdata/netdata
-	429	https://github.com/nikitavoloboev/privacy-respecting
-	429	https://github.com/ocelotsloth/csmapper
-	429	https://github.com/octodns/octodns
-	429	https://github.com/offen/offen
-	429	https://github.com/omnivore-app/omnivore
-	429	https://github.com/oragono/oragono
-	429	https://github.com/ory/hydra
-	429	https://github.com/ory/keto
-	429	https://github.com/ossec/ossec-hids
-	429	https://github.com/ovh/the-bastion
-	429	https://github.com/parkr/ping
-	429	https://github.com/paschmann/changd
-	429	https://github.com/paulogr/dstatuspage
-	429	https://github.com/pentacent/keila
-	429	https://github.com/pglombardo/PasswordPusher
-	429	https://github.com/photoprism/photoprism
-	429	https://github.com/pirate/wireguard-docs
-	429	https://github.com/pixelfed/pixelfed
-	429	https://github.com/plausible/analytics
-	429	https://github.com/pomerium/pomerium
-	429	https://github.com/privacybot-berkeley/privacybot
-	429	https://github.com/prymitive/karma
-	429	https://github.com/pulumi/pulumi
-	429	https://github.com/pyroscope-io/pyroscope
-	429	https://github.com/qdm12/gluetun
-	429	https://github.com/rclone/rclone
-	429	https://github.com/restic/others
-	429	https://github.com/reviewdog/reviewdog
-	429	https://github.com/robscott/kube-capacity
-	429	https://github.com/rshipp/awesome-malware-analysis
-	429	https://github.com/rstacruz/kingraph
-	429	https://github.com/rykov/paperboy
-	429	https://github.com/sabre-io/Baikal
-	429	https://github.com/safing/portmaster
-	429	https://github.com/samber/awesome-prometheus-alerts
-	429	https://github.com/schn4ck/schnack
-	429	https://github.com/schollz/hostyoself
-	429	https://github.com/sebgl/htpc-download-box
-	429	https://github.com/secretlint/secretlint
-	429	https://github.com/sergiomarotco/Network-segmentation-cheat-sheet
-	429	https://github.com/shlinkio/shlink
-	429	https://github.com/simon987/awesome-datahoarding
-	429	https://github.com/sissbruecker/linkding
-	429	https://github.com/skeeto/endlessh
-	429	https://github.com/slok/sloth
-	429	https://github.com/smallstep/certificates
-	429	https://github.com/smallstep/step-ssh-example
-	429	https://github.com/square/sudo_pair
-	429	https://github.com/stringer-rss/stringer
-	429	https://github.com/tailscale/tailscale
-	429	https://github.com/testground/testground
-	429	https://github.com/thatmattlove/hyperglass
-	429	https://github.com/thaum-xyz/ankhmorpork
-	429	https://github.com/thelounge/thelounge
-	429	https://github.com/thinkst/opencanary
-	429	https://github.com/thp/urlwatch
-	429	https://github.com/thwidge/thoughts
-	429	https://github.com/toboshii/hajimari
-	429	https://github.com/tomnomnom/waybackurls
-	429	https://github.com/tonarino/innernet
-	429	https://github.com/tycrek/degoogle
-	429	https://github.com/uriel1998/muna
-	429	https://github.com/usefathom/fathom
-	429	https://github.com/utterance/utterances
-	429	https://github.com/valeriansaliou/vigil
-	429	https://github.com/varbhat/exatorrent
-	429	https://github.com/vincelwt/RaspberryCast
-	429	https://github.com/whylabs/whylogs
-	429	https://github.com/whytheplatypus/switchboard
-	429	https://github.com/yrutschle/sslh
-	429	https://github.com/zhenghaoz/gorse
-	429	https://github.com/zrepl/zrepl
-	x509: certificate signed by unknown authority	https://piratebox.cc/goals
-https://wiki.itdobelikethat.org/docs/links/blogs/
-	403	https://nabeelqu.co/understanding
-	429	https://github.com/Quartz/bad-data-guide
-	429	https://github.com/andytudhope/APerspectiveOnTechnology
-	429	https://github.com/chobeat/awesome-critical-tech-reading-list
-	429	https://github.com/copyconstruct/library
-	429	https://github.com/danluu/post-mortems
-	429	https://github.com/dessalines/essays
-	429	https://github.com/donnemartin/system-design-primer
-	429	https://github.com/hack-earth/manifesto
-	429	https://github.com/heathermiller/dist-prog-book
-	429	https://github.com/heidi-ann/distributed-consensus-reading-list
-	429	https://github.com/hjacobs/kubernetes-failure-stories
-	429	https://github.com/hkalant/awesome-edtech-tools
-	429	https://github.com/hwayne/awesome-cold-showers
-	429	https://github.com/hypotext/notation
-	429	https://github.com/jnv/lists
-	429	https://github.com/kdeldycke/awesome-falsehood
-	429	https://github.com/lorin/resilience-engineering
-	429	https://github.com/lorin/systems-reading
-	429	https://github.com/mfleming/performance-resources
-	429	https://github.com/mxssl/sre-interview-prep-guide
-	429	https://github.com/philsturgeon/awesome-earth
-	429	https://github.com/rxin/db-readings
-	429	https://github.com/vmbrasseur/Public_Speaking
-	429	https://github.com/watson/awesome-computer-history
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:15 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878189590510087; Max-Age=63072000; "..."th.js  'nonce-MjdkYzQyMjgtYTQ5NC00NGIyLTk4NzMtODcyNDA0YWYzODJj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/blisstweeting/status/1443228379638030337
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:16 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878189598365485; Max-Age=63072000; "..."th.js  'nonce-M2NhMjM2YTQtY2U2My00YjRkLTliYWMtMzRiNjA2ZGExMDEx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/DrYohanJohn/status/1481508290941136900
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:17 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878189737855585; Max-Age=63072000; "..."th.js  'nonce-ZjBiOTI3MjUtNzZmZC00YWQ3LWJmMGQtYTU4YzQ5ZTA3OWJm'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/james_d_baird/status/1379113187983908866
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Fri, 01 Apr 2022 02:58:15 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=5c6f8f99-8bfb-4cd5-818"..."t-2.amazonaws.com https: http: https://cdn.amplitude.com https://api.amplitude.com https://hkfxbbdzib.notion.so https://www.notion.so https://api.embed.ly https://js.intercomcdn.com https://api-iam.in"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
-	id #/app/visakanv-public/page/aHYzCZnry not found	https://roamresearch.com/#/app/visakanv-public/page/aHYzCZnry
-	lookup chrisnovello.com: Temporary failure in name resolution	http://chrisnovello.com/teaching/risd/computer-utopias/
-	lookup hint.fm: Temporary failure in name resolution	http://hint.fm/projects/wordtree/
-	lookup www.conradakunga.com: Temporary failure in name resolution	https://www.conradakunga.com/blog/what-do-you-actually-agree-to-when-you-accept-all-cookies/
-	lookup www.socialcooling.com: Temporary failure in name resolution	https://www.socialcooling.com/
-	timeout	https://en.arguman.org/
-https://wiki.itdobelikethat.org/docs/notes/study/comp_arch/multiprocessing/
-	403	https://news.ycombinator.com/item?id=23446543
-https://wiki.itdobelikethat.org/docs/tools/db/others/
-	404	https://lyft.github.io/amundsen/
-https://wiki.itdobelikethat.org/docs/notes/guides/quantify/
-	429	https://github.com/AnandChowdhary/life-data
-	429	https://github.com/JacobEvelyn/friends
-	429	https://github.com/JohnPhamous/strava-box
-	429	https://github.com/KrauseFx/FxLifeSheet
-	429	https://github.com/MasterScrat/Chatistics
-	429	https://github.com/Reportr/dashboard
-	429	https://github.com/TailorDev/Watson
-	429	https://github.com/almarklein/timetagger
-	429	https://github.com/cheeaun/life
-	429	https://github.com/getredash/redash
-	429	https://github.com/heedy/heedy
-	429	https://github.com/katmeister/tokyo-2019
-	429	https://github.com/lord/mortalical
-	429	https://github.com/luisandani/valencia-notes
-	429	https://github.com/metabase/metabase
-	429	https://github.com/mholt/timeliner
-	429	https://github.com/mr-karan/swiggy-analytics/tree/master/swiggy_analytics
-	429	https://github.com/nicbou/timeline
-	429	https://github.com/phiresky/timetrackrs
-	429	https://github.com/schollz/howmanypeoplearearound
-	429	https://github.com/sourcegraph/thyme
-	429	https://github.com/thesephist/sounds
-	429	https://github.com/tmcw/running-for-nerds
-	429	https://github.com/traumverloren/camping-in-iceland
-	429	https://github.com/turbomaze/28-hour-day
-	429	https://github.com/twintproject/twint
-	429	https://github.com/vaguileradiaz/tinfoleak
-	429	https://github.com/woop/awesome-quantified-self
-	429	https://github.com/yihong0618/running_page
-	429	https://github.com/zuchka/grafana-docs-exporter
+https://wiki.itdobelikethat.org/docs/notes/study/os/resource_mgmt/
+	404	http://geekswing.com/geek/quickie-tutorial-ulimit-soft-limits-hard-limits-soft-stack-hard-stack/
+	404	http://www.linuxfromscratch.org/lfs/view/7.2/chapter06/util-linux.html
+	id #:~:text=There are two types of,user once it is set.&text=A soft limit, however, can,equal to 'hard limit' not found	https://serverfault.com/questions/265155/soft-limit-vs-hard-limit#:~:text=There%20are%20two%20types%20of,user%20once%20it%20is%20set.&text=A%20soft%20limit,%20however,%20can,equal%20to%20%27hard%20limit%27
+	lookup nics.tennessee.edufaq: no such host	https://www.nics.tennessee.edu/faq/general-how-do-i-change-my-default-limits-stack-size-core-file-size-etc#:~:text=The%20soft%20limit%20is%20the,decreased,%20but%20its%20not%20recommended
+	mime: invalid media parameter	https://www.ibm.com/support/knowledgecenter/SSCRJU_4.1.1/com.ibm.streams.install.doc/doc/ibminfospherestreams-install-operating-system-settings.html
+https://wiki.itdobelikethat.org/docs/notes/study/programming_langs/ruby/
+	429	https://github.com/rubocop-hq/ruby-style-guide#no-character-literals
+	429	https://github.com/rubocop-hq/ruby-style-guide/issues/631
+	timeout	https://blog.appsignal.com/2018/10/02/ruby-magic-class-level-instance-variables.html
 https://wiki.itdobelikethat.org/docs/links/oneshot/
 	404	http://erratique.ch/software/uucp/doc/Uucp.html#uminimal
 	404	http://www.linuxprogrammingblog.com/all-about-linux-signals?page=show
 	404	https://cscie28.dce.harvard.edu/~lib215/reference/programming/pikestyle.html
 	404	https://drive.google.com/file/d/1msGTeCIV0ZfHefb_MpHZDZqv8qcGnhEU/view
+	404	https://valerieaurora.org/tcpip.html
 	429	https://gist.github.com/geekodour/543d370e9e7816fe368d264374c86cfc
 	429	https://gist.github.com/geekodour/c5b6e49b3b2e355c0110b8f0f6fecfac
 	429	https://github.com/Raynos/topology
@@ -1915,131 +1990,43 @@ https://wiki.itdobelikethat.org/docs/links/oneshot/
 	429	https://github.com/tree-sitter/tree-sitter
 	429	https://github.com/yarrick/pingfs
 	500	https://wtanaka.com/node/8136
+	522	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
 	id #/ not found	https://faculty.washington.edu/ajko/books/foundations-of-information/#/
-	lookup amir.rachum.com: Temporary failure in name resolution	https://amir.rachum.com/blog/2016/09/17/shared-libraries/
-	lookup aosabook.org: Temporary failure in name resolution	http://aosabook.org/en/index.html
-	lookup valerieaurora.org: Temporary failure in name resolution	https://valerieaurora.org/tcpip.html
-	timeout	https://aos.sh/2018/02/24/understanding-dijkstras-algorithm/
 	timeout	https://ipfs.io/ipns/gkbrk.com/2017/10/putting-my-blog-on-ipfs/
 	x509: certificate is valid for webredirect.inria.fr, not modernc.gforge.inria.fr	https://modernc.gforge.inria.fr/
-https://wiki.itdobelikethat.org/docs/notes/history/
-	403	https://news.ycombinator.com/item?id=28280051
-	404	https://computer.rip/https://buttondown.email/hillelwayne/archive/oracle-testing/
-	429	https://github.com/2d-inc/HistoryOfEverything
-	429	https://github.com/JesseKPhillips/USA-Constitution
-	429	https://github.com/bagder/irchistory
-	429	https://github.com/geekodour/wiki/blob/master/docs/notes/history.md
-	429	https://github.com/michael-lazar/finger2020
-	429	https://github.com/mraible/history-of-web-frameworks-timeline
-	429	https://github.com/simh/simh
-	429	https://github.com/watson/awesome-computer-history
-	429	https://github.com/worrydream/EarlyHistoryOfSmalltalk
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:51 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878193180142517; Max-Age=63072000; "..."th.js  'nonce-NWZkOTFlNTktZTlhNy00NzRjLTk1MzYtNmY4Njg3NmFhOTdi'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/krishashok/status/1475009729726349312
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:51 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878193183183027; Max-Age=63072000; "..."th.js  'nonce-Y2FlOGJkYWMtNzIyNi00ZTQ1LTg5YjUtMGY5YTIwZDNmOThl'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/jschauma/status/1480391335634997248
-	id #1970s not found	https://www.zakon.org/robert/internet/timeline/#1970s
-	id #eeprom not found	https://wiki.itdobelikethat.org/docs/notes/study/memory#eeprom
-	id #lamport-paxos not found	http://lamport.azurewebsites.net/pubs/pubs.html#lamport-paxos
-	lookup exple.tive.org: Temporary failure in name resolution	http://exple.tive.org/blarg/2020/11/26/punching-holes/
-https://wiki.itdobelikethat.org/docs/notes/study/memory/
-	lookup landley.net: Temporary failure in name resolution	http://landley.net/writing/memory-faq.txt
-https://wiki.itdobelikethat.org/docs/notes/study/go_lang/pprof/
-	id #basic-usage not found	https://github.com/google/pprof#basic-usage
-	id #interpreting-the-callgraph not found	https://github.com/google/pprof/tree/master/doc#interpreting-the-callgraph
-	id #options not found	https://github.com/google/pprof/tree/master/doc#options
-	id #using-pprof-with-linux-perf not found	https://github.com/google/pprof#using-pprof-with-linux-perf
-https://wiki.itdobelikethat.org/docs/notes/study/os/elf/
-	dialing to the given TCP address timed out	https://sourceware.org/elfutils/
-https://wiki.itdobelikethat.org/docs/ideas/pantry/
-	429	https://github.com/0x263b/Otherside
-	429	https://github.com/AutoSpotting/AutoSpotting
-	429	https://github.com/Couchers-org/couchers
-	429	https://github.com/CultureHub/LiveLab
-	429	https://github.com/GetTogetherComm/GetTogether
-	429	https://github.com/Godmartinz/snipe-it
-	429	https://github.com/GoogleChromeLabs/quicklink
-	429	https://github.com/HttpErrorPages/HttpErrorPages
-	429	https://github.com/Kozea/WeasyPrint
-	429	https://github.com/MacPaw/together-app
-	429	https://github.com/Netflix-Skunkworks/stethoscope
-	429	https://github.com/ProjectDrawdown/solutions
-	429	https://github.com/Unleash/unleash
-	429	https://github.com/alvaromontoro/almond.css
-	429	https://github.com/beizhedenglong/rough-charts
-	429	https://github.com/captn3m0/ideas
-	429	https://github.com/chatwoot/chatwoot
-	429	https://github.com/drbh/wasm-flate
-	429	https://github.com/earthly/earthly
-	429	https://github.com/edumeet/edumeet
-	429	https://github.com/egoist/ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
-	429	https://github.com/erxes/erxes
-	429	https://github.com/esimov/triangle
-	429	https://github.com/factbook/factbook.json
-	429	https://github.com/fogleman/primitive
-	429	https://github.com/foodcoops/foodsoft
-	429	https://github.com/forem/forem
-	429	https://github.com/frappe/books
-	429	https://github.com/geekodour/reachout
-	429	https://github.com/getredash/redash
-	429	https://github.com/growthbook/growthbook
-	429	https://github.com/hql287/Manta
-	429	https://github.com/huggingface/transformers
-	429	https://github.com/imazen/imageflow
-	429	https://github.com/jbenet/random-ideas/issues
-	429	https://github.com/jdan/98.css
-	429	https://github.com/kamranahmedse/brusher
-	429	https://github.com/knadh/dont.build
-	429	https://github.com/lexiross/fattest-cat
-	429	https://github.com/mautic/mautic
-	429	https://github.com/open-source-ideas/ideas/issues
-	429	https://github.com/openemr/openemr
-	429	https://github.com/papercups-io/papercups
-	429	https://github.com/paulirish/lite-youtube-embed
-	429	https://github.com/qrohlf/trianglify
-	429	https://github.com/remotion-dev/remotion
-	429	https://github.com/ro31337/libretaxi
-	429	https://github.com/rudderlabs/rudder-server
-	429	https://github.com/samsquire/ideas
-	429	https://github.com/samsquire/wants
-	429	https://github.com/segmentio/ksuid
-	429	https://github.com/smirnov-am/awesome-saas-boilerplates
-	429	https://github.com/sverweij/state-machine-cat
-	429	https://github.com/sw-yx/spark-joy
-	429	https://github.com/taivop/awesome-data-annotation
-	429	https://github.com/timhaines/saas-pricing-resources
-	429	https://github.com/tvler/laundry-symbols
-	429	https://github.com/uetchy/namae
-	429	https://github.com/ustaxes/UsTaxes
-	429	https://github.com/vercel/virtual-event-starter-kit
-	429	https://github.com/woltapp/blurhash
-	dialing to the given TCP address timed out	https://open-startup.com/
-	dialing to the given TCP address timed out	https://wintermute.app/
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:24 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190438212857; Max-Age=63072000; "..."th.js  'nonce-NGE0ZjYwZTEtOTM0ZC00MGIzLWEwZDktNDYxMjAzYjFiZGUy'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/MatthewWSiu/status/1488911987333500932
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:24 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878190475633967; Max-Age=63072000; "..."th.js  'nonce-OTFjZDU1ZDItZjA5OS00NmEyLWIxNzEtNWMzODY1ZWU0MWYw'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/rsnous/status/1373691707326222337
-	lookup ahilapaati.com: no such host	https://ahilapaati.com/
-	lookup waitwho.is: no such host	https://waitwho.is/
-	timeout	https://draculatheme.com/pro/journey
-https://wiki.itdobelikethat.org/docs/notes/study/programming_langs/rust/
-	429	https://github.com/jakmeier/nuts
-	429	https://github.com/lunatic-solutions/lunatic
-	429	https://github.com/rustviz/rustviz
-https://wiki.itdobelikethat.org/docs/notes/study/os/resource_mgmt/
-	404	http://geekswing.com/geek/quickie-tutorial-ulimit-soft-limits-hard-limits-soft-stack-hard-stack/
-	404	http://www.linuxfromscratch.org/lfs/view/7.2/chapter06/util-linux.html
-	id #:~:text=There are two types of,user once it is set.&text=A soft limit, however, can,equal to 'hard limit' not found	https://serverfault.com/questions/265155/soft-limit-vs-hard-limit#:~:text=There%20are%20two%20types%20of,user%20once%20it%20is%20set.&text=A%20soft%20limit,%20however,%20can,equal%20to%20%27hard%20limit%27
-	lookup nics.tennessee.edufaq: no such host	https://www.nics.tennessee.edu/faq/general-how-do-i-change-my-default-limits-stack-size-core-file-size-etc#:~:text=The%20soft%20limit%20is%20the,decreased,%20but%20its%20not%20recommended
-	mime: invalid media parameter	https://www.ibm.com/support/knowledgecenter/SSCRJU_4.1.1/com.ibm.streams.install.doc/doc/ibminfospherestreams-install-operating-system-settings.html
-https://wiki.itdobelikethat.org/docs/notes/study/memory/gc/
-	403	https://news.ycombinator.com/item?id=23214535
-	id #footnote1 not found	https://www.jamesgolick.com/2013/5/19/how-tcmalloc-works.html#footnote1
-https://wiki.itdobelikethat.org/docs/notes/study/p2p/nat/
-	429	https://github.com/pion/turn
-	id #selection-15.0-20.0 not found	https://archive.is/u7His#selection-15.0-20.0
-https://wiki.itdobelikethat.org/docs/notes/study/memory/alloc/
-	429	https://gist.github.com/geekodour/543d370e9e7816fe368d264374c86cfc
-https://wiki.itdobelikethat.org/docs/notes/study/math/log/
-	404	https://qedinsight.wordpress.com/2011/04/17/a-practical-use-for-logarithms/
-	404	https://qedinsight.wordpress.com/2011/04/22/a-practical-use-for-logarithms-part-2-how-we-multiplied-large-numbers-40-years-ago-and-how-integral-transforms-use-the-same-basic-idea/
+https://wiki.itdobelikethat.org/docs/links/papers/
+	403	https://news.ycombinator.com/item?id=23727877
+	404	http://www.sigops.org/ew-history/1998/papers/mazieres.ps
+	404	https://arxiv.org/abs/1606.05519i
+	404	https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37755.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41342.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44860.pdf
+	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45409.pdf
+	404	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
+	404	https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
+	429	https://github.com/AljoschaMeyer/set-reconciliation
+	429	https://github.com/ReScience/ReScience
+	429	https://github.com/datprotocol/whitepaper/blob/master/dat-paper.pdf
+	429	https://github.com/hashicorp/research-resources
+	429	https://github.com/jbrew/readability
+	429	https://github.com/karpathy/researchlei
+	429	https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf
+	429	https://github.com/timelydataflow/differential-dataflow/blob/master/differentialdataflow.pdf
+	503	https://onlinelibrary.wiley.com/doi/abs/10.1111/jcal.12414
+	503	https://onlinelibrary.wiley.com/doi/full/10.1002/pmrj.12305
+	dial tcp4 162.255.119.129:443: connect: connection refused	https://www.rgoarchitects.com/Files/fallacies.pdf
+	id #selection-113.133-113.150 not found	https://archive.is/2ZOLj#selection-113.133-113.150
+	timeout	https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf
+	x509: certificate has expired or is not yet valid	http://archives.cse.iitd.ernet.in/~sbansal/csl862-virt/2010/readings/bellard.pdf
+	x509: certificate signed by unknown authority	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
+	x509: certificate signed by unknown authority	http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
+	x509: certificate signed by unknown authority	https://www.hpl.hp.com/techreports/tandem/TR-86.1.pdf
 https://wiki.itdobelikethat.org/docs/links/others/dump/
+	403	https://news.ycombinator.com/item?id=24233820
+	404	https://darkpatterns.org/types-of-dark-pattern.html
 	404	https://wiki.itdobelikethat.org/img/image_dump
 	429	https://github.com/AmnestyTech/investigations
 	429	https://github.com/DustinBrett/daedalOS
@@ -2071,53 +2058,54 @@ https://wiki.itdobelikethat.org/docs/links/others/dump/
 	429	https://github.com/tachiyomiorg/tachiyomi
 	429	https://github.com/witheve/Eve
 	429	https://github.com/wnzhang/rtb-papers
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:58:31 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878191161587266; Max-Age=63072000; "..."th.js  'nonce-ZmE5ODE2MmMtMTBmZi00YWJlLTkzNTUtY2VmMzRiY2ViMzIz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/rajbhagatt/status/1260588325846560774
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:40 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694059365574; Max-Age=63072000; "..."th.js  'nonce-Mjg0ZDM2OWMtM2RhNy00Mzg0LTgzZjMtMGQyNDFlOWUxMjA0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/rajbhagatt/status/1260588325846560774
 	id #ch3.1 not found	https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm#ch3.1
 	id #ss-carousel_ss not found	https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss
-	lookup darkpatterns.org: Temporary failure in name resolution	https://darkpatterns.org/types-of-dark-pattern.html
 	timeout	https://witchcraft.computer/tech/a-tT
-	timeout	https://www.meshtastic.org/
-https://wiki.itdobelikethat.org/docs/links/papers/
-	404	http://www.sigops.org/ew-history/1998/papers/mazieres.ps
-	404	https://arxiv.org/abs/1606.05519i
-	404	https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36737.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37755.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/39983.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41342.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44860.pdf
-	404	https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45409.pdf
-	404	https://www.cs.rice.edu/~druschel/publications/Pastry.pdf
-	404	https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf
-	429	https://github.com/AljoschaMeyer/set-reconciliation
-	429	https://github.com/ReScience/ReScience
-	429	https://github.com/datprotocol/whitepaper/blob/master/dat-paper.pdf
-	429	https://github.com/hashicorp/research-resources
-	429	https://github.com/jbrew/readability
-	429	https://github.com/karpathy/researchlei
-	429	https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf
-	429	https://github.com/timelydataflow/differential-dataflow/blob/master/differentialdataflow.pdf
-	503	https://onlinelibrary.wiley.com/doi/abs/10.1111/jcal.12414
-	503	https://onlinelibrary.wiley.com/doi/full/10.1002/pmrj.12305
-	dial tcp4 162.255.119.129:443: connect: connection refused	https://www.rgoarchitects.com/Files/fallacies.pdf
-	id #selection-113.133-113.150 not found	https://archive.is/2ZOLj#selection-113.133-113.150
-	timeout	https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf
-	x509: certificate has expired or is not yet valid	http://archives.cse.iitd.ernet.in/~sbansal/csl862-virt/2010/readings/bellard.pdf
-	x509: certificate has expired or is not yet valid	https://nikita.ca/papers/eigenspeed-iptps09.pdf
-	x509: certificate signed by unknown authority	http://pages.saclay.inria.fr/laurent.massoulie/ieee_tocs.pdf
-	x509: certificate signed by unknown authority	http://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
-	x509: certificate signed by unknown authority	https://www.hpl.hp.com/techreports/tandem/TR-86.1.pdf
-https://wiki.itdobelikethat.org/docs/notes/study/memory/vm/
-	lookup landley.net: Temporary failure in name resolution	https://landley.net/writing/memory-faq.txt
+https://wiki.itdobelikethat.org/docs/links/blogs/
+	403	https://nabeelqu.co/understanding
+	403	https://news.ycombinator.com/item?id=24638756
+	429	https://github.com/Quartz/bad-data-guide
+	429	https://github.com/andytudhope/APerspectiveOnTechnology
+	429	https://github.com/chobeat/awesome-critical-tech-reading-list
+	429	https://github.com/copyconstruct/library
+	429	https://github.com/danluu/post-mortems
+	429	https://github.com/dessalines/essays
+	429	https://github.com/donnemartin/system-design-primer
+	429	https://github.com/hack-earth/manifesto
+	429	https://github.com/heathermiller/dist-prog-book
+	429	https://github.com/heidi-ann/distributed-consensus-reading-list
+	429	https://github.com/hjacobs/kubernetes-failure-stories
+	429	https://github.com/hkalant/awesome-edtech-tools
+	429	https://github.com/hwayne/awesome-cold-showers
+	429	https://github.com/hypotext/notation
+	429	https://github.com/jnv/lists
+	429	https://github.com/kdeldycke/awesome-falsehood
+	429	https://github.com/lorin/resilience-engineering
+	429	https://github.com/lorin/systems-reading
+	429	https://github.com/mfleming/performance-resources
+	429	https://github.com/mxssl/sre-interview-prep-guide
+	429	https://github.com/philsturgeon/awesome-earth
+	429	https://github.com/rxin/db-readings
+	429	https://github.com/vmbrasseur/Public_Speaking
+	429	https://github.com/watson/awesome-computer-history
+	dialing to the given TCP address timed out	https://twitter.com/james_d_baird/status/1379113187983908866
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:41 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694148068692; Max-Age=63072000; "..."th.js  'nonce-MTYwNjg1YmEtNDEzYi00NjgwLTljOTUtYmEzOGQ5OTA5OThj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/blisstweeting/status/1443228379638030337
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:42 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886694268338682; Max-Age=63072000; "..."th.js  'nonce-ODdkMDJkMzQtNDgwNC00MGExLWFlZDYtMGQ3NjBhZTU2Mzg2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/DrYohanJohn/status/1481508290941136900
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 404 Not Found\r\nDate: Sat, 02 Apr 2022 02:35:41 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=14e2e62a-e347-4627-875"..."t-2.amazonaws.com https: http: https://cdn.amplitude.com https://api.amplitude.com https://hkfxbbdzib.notion.so https://www.notion.so https://api.embed.ly https://js.intercomcdn.com https://api-iam.in"	https://www.notion.so/the-best-of-visakanv-s-twitter-threads-1a6ed25cf06e49e388a303903d597b73
+	id #/app/visakanv-public/page/aHYzCZnry not found	https://roamresearch.com/#/app/visakanv-public/page/aHYzCZnry
+	timeout	https://en.arguman.org/
 https://wiki.itdobelikethat.org/docs/tools/workstation/
 	403	https://news.ycombinator.com/item?id=27029196
 	429	https://github.com/44670/44Key
 	429	https://github.com/AdguardTeam/AdGuardHome
 	429	https://github.com/David00/rpi-power-monitor
 	429	https://github.com/DeviceFarmer/stf
+	429	https://github.com/Jana-Marie/otterlinear-keyboard
 	429	https://github.com/MichMich/MagicMirror
 	429	https://github.com/aaga/choo-choo-clock
 	429	https://github.com/aaqaishtyaq/lab
+	429	https://github.com/alexellis/growlab
 	429	https://github.com/cjdelisle/cjdns
 	429	https://github.com/corkami/pics
 	429	https://github.com/dilshan/usb2-power-hub
@@ -2126,33 +2114,48 @@ https://wiki.itdobelikethat.org/docs/tools/workstation/
 	429	https://github.com/fulldecent/system-bus-radio
 	429	https://github.com/fwiedmann/icof
 	429	https://github.com/geerlingguy/internet-monitoring
+	429	https://github.com/googlecreativelab/anypixel
+	429	https://github.com/greatscottgadgets/hackrf
 	429	https://github.com/haimgel/display-switch
 	429	https://github.com/help-14/mechanical-keyboard
 	429	https://github.com/home-assistant/core
+	429	https://github.com/ipartola/hawkeye
 	429	https://github.com/joeycastillo/Sensor-Watch
 	429	https://github.com/kbumsik/VirtScreen
+	429	https://github.com/keirf/flashfloppy
 	429	https://github.com/khuedoan/homelab
 	429	https://github.com/koreader/koreader
 	429	https://github.com/maqp/tfc
+	429	https://github.com/matrix-org/pinecone
+	429	https://github.com/maxandersen/internet-monitoring
 	429	https://github.com/merbanan/rtl_433
+	429	https://github.com/merge/skulls
 	429	https://github.com/neutrinolabs/xrdp
 	429	https://github.com/norasector/turbine
+	429	https://github.com/penk/penkesu
 	429	https://github.com/pikvm/pikvm
 	429	https://github.com/qubist/aqo
 	429	https://github.com/rasteri/SC1000
 	429	https://github.com/rbaron/catprinter
 	429	https://github.com/reef-pi/reef-pi
 	429	https://github.com/rtr7/router7
+	429	https://github.com/scottbez1/smartknob
 	429	https://github.com/seemoo-lab/openhaystack
+	429	https://github.com/sibbl/hass-lovelace-kindle-screensaver
+	429	https://github.com/skiffos/SkiffOS
+	429	https://github.com/stapelberg/costream
 	429	https://github.com/tidbyt/pixlet
 	429	https://github.com/usbarmory/usbarmory
 	429	https://github.com/yggdrasil-network/public-peers
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:59:01 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=56bdff18-c112-4e52-b9d7-309ff"..."zonaws.com https: http: https://cdn.amplitude.com https://api.amplitude.com https://hkfxbbdzib.notion.so https://www.notion.so https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom."	https://www.notion.so/A-Beginner-s-Guide-to-Houseplants-f90190a8c15b4bb8b65c60f16e3f9502
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:59:01 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878194122144840; Max-Age=63072000; "..."th.js  'nonce-NzIyNDE0NjYtNjUwMC00YTZlLWIzYTItOTYwNDdkMmM2MDk5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/aschmelyun/status/1506960015063625733
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:59:02 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878194249835475; Max-Age=63072000; "..."th.js  'nonce-NGUwZTM2YmMtZWQyMi00NWU5LWEzOGEtMWIwNjQ3ZmE0NTM1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/visakanv/status/1412980584159211521
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:51 GMT\r\nContent-Type: text/html; charset=utf-8\r\nTransfer-Encoding: chunked\r\nConnection: close\r\nSet-Cookie: notion_browser_id=9d5699ff-22d5-4f49-af4b-9f90c"..."zonaws.com https: http: https://cdn.amplitude.com https://api.amplitude.com https://hkfxbbdzib.notion.so https://www.notion.so https://api.embed.ly https://js.intercomcdn.com https://api-iam.intercom."	https://www.notion.so/A-Beginner-s-Guide-to-Houseplants-f90190a8c15b4bb8b65c60f16e3f9502
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:51 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886695137027679; Max-Age=63072000; "..."th.js  'nonce-MmI3ODkyMjUtMzRkNy00ZTU1LTlkNmMtNjdkN2YzMzgzODBk'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/visakanv/status/1412980584159211521
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:51 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886695144404896; Max-Age=63072000; "..."th.js  'nonce-ZjI4OTc0YWQtNjYxNC00ZTRkLWE0ZWYtMTkyMmU2NWM5NTA1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/aschmelyun/status/1506960015063625733
 	timeout	https://healeycodes.com/listening-to-satellites-with-my-raspberry-pi/
+	timeout	https://mtlynch.io/tinypilot/
+	timeout	https://wiki.itdobelikethat.org/226147cd.e4346767.js
 	x509: certificate has expired or is not yet valid	https://blog.notryan.com/009.txt
 https://wiki.itdobelikethat.org/docs/notes/unread_case_studies/
+	403	https://akshayr.me/blog/articles/python-dictionaries
 	403	https://blog.stackpath.com/bpf-hook-points-part-1/
 	403	https://news.ycombinator.com/item?id=23096166
 	403	https://news.ycombinator.com/item?id=23682450
@@ -2161,30 +2164,62 @@ https://wiki.itdobelikethat.org/docs/notes/unread_case_studies/
 	403	https://www.allthingsdistributed.com/2020/09/reinventing-virtualization-with-aws-nitro.html
 	404	https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/
 	404	https://blog.koehntopp.info/2021/01/20/database-as-a-queue.html
-	404	https://info.acloud.guru/resources/kubernetes-aws-cloud-scaling-hey
 	404	https://redditblog.com/2017/01/17/caching-at-reddit/
 	404	https://susam.in/blog/reliance-jio-impersonation-issue/
 	404	https://symas.com/cache-management-lessons-learned/
+	429	https://github.com/DataDog/gostackparse
+	429	https://github.com/GrrrDog/weird_proxies
+	429	https://github.com/Ivoah/minimap
+	429	https://github.com/NieDzejkob/cursedfs
+	429	https://github.com/ThreeDotsLabs/watermill
+	429	https://github.com/armon/bloomd
 	429	https://github.com/benbjohnson/litestream
+	429	https://github.com/captn3m0/hello-cloudflare
+	429	https://github.com/danluu/debugging-stories
+	429	https://github.com/dpapathanasiou/simple-graph
+	429	https://github.com/ept/hermitage
+	429	https://github.com/futurice/backend-best-practices
+	429	https://github.com/geohot/minikeyvalue
 	429	https://github.com/getredash/redash
+	429	https://github.com/globalcitizen/taoup
+	429	https://github.com/gotoz/runq
 	429	https://github.com/hwayne/awesome-cold-showers
+	429	https://github.com/ianpreston/redditfs
+	429	https://github.com/jameslk/awesome-falsehoods
+	429	https://github.com/ligurio/software-quality-wiki/wiki
+	429	https://github.com/lorin/awesome-limits
+	429	https://github.com/mmcgrana/services-engineering
+	429	https://github.com/pazguille/offline-first
+	429	https://github.com/phoboslab/qoi
+	429	https://github.com/pltr/onering
+	429	https://github.com/rmarx/h3-protocol-stack
+	429	https://github.com/schollz/kiki
+	429	https://github.com/securitybunker/databunker
+	429	https://github.com/sirupsen/napkin-math
+	429	https://github.com/sit-fyi/sit
+	429	https://github.com/spacejam/sled
 	429	https://github.com/styfle/breaking-changes-web
+	429	https://github.com/upgundecha/howtheyaws
+	429	https://github.com/upgundecha/howtheysre
+	dialing to the given TCP address timed out	http://rachelbythebay.com/w/2014/08/19/fork/
 	dialing to the given TCP address timed out	https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:59:03 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878194358628160; Max-Age=63072000; "..."th.js  'nonce-OGY4YjAwMDgtMTJlMi00MGQxLTljOGYtMTg0M2RlZDk2NjZh'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/el_bhs/status/1360276734344450050
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:59:03 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878194379653906; Max-Age=63072000; "..."th.js  'nonce-ZjUyYWZiNTUtNTQzNy00NTQzLTkwYTQtNjc2MTNmY2VhMDU0'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/el_bhs/status/1349406398388400128
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:59:04 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878194452315150; Max-Age=63072000; "..."th.js  'nonce-MWM4NDEyOGUtMmM0Mi00YTc2LWExNjAtYzdkYzg5NzU5OGM5'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/el_bhs/status/1375236202949799938
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:59:05 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878194552186726; Max-Age=63072000; "..."th.js  'nonce-ZjI4MGE0MmYtMDI0Yy00ZTczLTk0NzItNGViYWY3NDgzYjFj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/amodm/status/1486949200579690499
-	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Fri, 01 Apr 2022 02:59:09 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164878194937256248; Max-Age=63072000; "..."th.js  'nonce-ZWZiZGNmOWYtYjRlOS00MDJhLTlhYmUtZWM4NTQ2Y2M5NjZj'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/nixxin/status/1487254103956746241
+	dialing to the given TCP address timed out	https://info.acloud.guru/resources/kubernetes-aws-cloud-scaling-hey
+	dialing to the given TCP address timed out	https://rachelbythebay.com/w/2020/05/01/owned/
+	dialing to the given TCP address timed out	https://rachelbythebay.com/w/2020/08/11/files/
+	dialing to the given TCP address timed out	https://rachelbythebay.com/w/2020/08/11/files/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:59 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886695930138031; Max-Age=63072000; "..."th.js  'nonce-NTkyYWFhYTQtZjkxNy00NzFhLWIzYzgtZjU5NTk1MTcwOGIx'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/el_bhs/status/1375236202949799938
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:35:59 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886695965678155; Max-Age=63072000; "..."th.js  'nonce-ZmU1Mjk5MzYtN2FmNy00MzUyLTk0NDAtYmRhZjhmNzA4YmY1'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/el_bhs/status/1360276734344450050
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:36:00 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886696001833537; Max-Age=63072000; "..."th.js  'nonce-ZTNiNjZjZTAtMGY0Ny00OTQyLTg1MzQtMzljYmIzYWE1MDll'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/el_bhs/status/1349406398388400128
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:36:00 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886696054465041; Max-Age=63072000; "..."th.js  'nonce-MmI3ODc1ZDgtYjMxZS00NGM0LWJkZTMtYTA4ZTc3MDllYTkz'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/nixxin/status/1487254103956746241
+	error when reading response headers: small read buffer. Increase ReadBufferSize. Buffer size=4096, contents: "HTTP/1.1 200 OK\r\nDate: Sat, 02 Apr 2022 02:36:03 GMT\r\nExpiry: Tue, 31 Mar 1981 05:00:00 GMT\r\nPragma: no-cache\r\nServer: tsa_b\r\nSet-Cookie: guest_id_marketing=v1%3A164886696364714608; Max-Age=63072000; "..."th.js  'nonce-YWM4YjY1NGEtM2NkNS00MDljLWFmMTYtMDQ2Mjc0MTQ0NTg2'; style-src 'self' 'unsafe-inline' https://accounts.google.com/gsi/style https://*.twimg.com; worker-src 'self' blob:; report-uri https:/"	https://twitter.com/amodm/status/1486949200579690499
 	id #fallacies not found	https://www.oilshell.org/blog/2021/07/blog-backlog-1.html#fallacies
 	id #selection-3017.0-3017.31 not found	https://archive.is/RIuRY#selection-3017.0-3017.31
 	id #slide=id.g35f391192_00 not found	https://docs.google.com/presentation/d/1AcB4x7JCWET0ysDr0gsX-EIdQSTyBtmi6OAW7bE0jm0/mobilepresent#slide=id.g35f391192_00
 	lookup docs.https.dev: no such host	https://docs.https.dev/acme-ops
 	lookup dongyuxuan.me: no such host	http://dongyuxuan.me/posts/pipeline.html
-	lookup www.michaelnielsen.org: Temporary failure in name resolution	http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/
-	the server closed connection before returning the first response byte. Make sure the server returns 'Connection: close' response header before closing the connection	https://akshayr.me/blog/articles/python-dictionaries
-	timeout	https://acco.io/read-from-dbs
-	timeout	https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a
-	timeout	https://making.pusher.com/debugging-mysql-replication-lag/
+	timeout	https://itnext.io/websocket-load-testing-with-artillery-io-b8b7ecbcd7ed
+	timeout	https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513
+	timeout	https://sirupsen.com/napkin/problem-1/
 	x509: certificate has expired or is not yet valid	https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe
 https://wiki.itdobelikethat.org/docs/notes/study/os/libs/
 	404	http://www.goldsborough.me/c/low-level/kernel/2016/08/29/16-48-53-the*-ld_preload-_trick/
