@@ -26,6 +26,7 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - https://github.com/karan/Projects
 - https://github.com/florinpop17/app-ideas
 - https://github.com/practical-tutorials/project-based-learning
+- https://github.com/NaNoGenMo/2021
 
 ## Web Engineering
 
@@ -52,11 +53,16 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - [in Rust](https://github.com/erikgrinaker/toydb)
 - https://github.com/erikgrinaker/toydb
 - https://github.com/andygrove/how-query-engines-work
+- https://github.com/huachaohuang/awesome-dbdev
+- https://github.com/wspeirs/btree
 
 ## Compilers and Parsers
 
 - [Writing a simple JSON parser](http://notes.eatonphil.com/writing-a-simple-json-parser.html)
 - https://github.com/spencertipping/jit-tutorial
+- https://github.com/banach-space/llvm-tutor
+- https://github.com/DoctorWkt/acwj
+- https://github.com/sampsyo/bril
 
 ## Systems
 
@@ -92,6 +98,7 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - https://github.com/ssloy/tinyrenderer/wiki
 - [How to get better at recursion](https://notes.eatonphil.com/practicing-recursion.html)
 - https://github.com/sindresorhus/quick-lru
+- https://github.com/arata-nvm/mitnal
 
 ## Hardware
 
@@ -110,3 +117,5 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - https://github.com/anvaka/atree
 - https://github.com/anvaka/e-sum
 - https://github.com/whykatherine/every-element-is-an-html
+- https://github.com/nomemory/lc3-vm
+-	[Ask HN: Is there a pure SMS based UI?](https://news.ycombinator.com/item?id=30685223)

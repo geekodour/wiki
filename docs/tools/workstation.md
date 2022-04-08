@@ -16,6 +16,7 @@ sidebar_label: Workstation
 - https://healeycodes.com/listening-to-satellites-with-my-raspberry-pi/
 - [Workstation guide](https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide)
 - [How To Setup Pi-hole On A Synology NAS](https://kevq.uk/how-to-setup-pi-hole-on-a-synology-nas/)
+  - https://github.com/sterrenburg/flutterhole
 - https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/
 - https://www.reddit.com/r/darknetplan/comments/rg6dyv/yggdrasil_and_routers/
   - https://github.com/yggdrasil-network/public-peers
@@ -24,11 +25,13 @@ sidebar_label: Workstation
 - https://viggy28.dev/article/pain-of-setting-up-port-forwarding-in-xfinity/
 - [Building a better home network](https://kevin.burke.dev/kevin/building-a-better-home-network/)
 - [Monitoring my home network](https://mrkaran.dev/posts/isp-monitoring/)
+  - https://github.com/zaneclaes/network-traffic-metrics
 - https://github.com/tidbyt/pixlet
 - https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html
 - https://github.com/rbaron/catprinter
 - https://github.com/maqp/tfc
 - https://ben.balter.com/2021/09/01/how-i-re-over-engineered-my-home-network/
+- https://github.com/jnewland/ha-config
 - https://github.com/alexellis/growlab
 - http://serenityos.org/
 - https://twitter.com/visakanv/status/1412980584159211521
@@ -54,6 +57,7 @@ sidebar_label: Workstation
 
 ## Hardware
 ### Tools
+- https://github.com/MilhouseVH/bcmstat
 - [Nitrokey](https://lists.archlinux.org/pipermail/arch-dev-public/2021-March/030400.html)
   - https://github.com/44670/44Key
 - https://github.com/fulldecent/system-bus-radio
@@ -64,6 +68,10 @@ sidebar_label: Workstation
   - [TinyPilot: Build a KVM Over IP for Under $100](https://mtlynch.io/tinypilot/)
 ### Projects
 - [Nethood(DIY networking)](https://archive.is/KnsnU)
+- https://github.com/iiab/iiab
+- https://www.nycmesh.net/
+- https://github.com/supersat/tlsmy.net
+- https://github.com/kurthildebrand/hyperspace
 - https://l-o-o-s-e-d.net/vim-clutch
 - [openhaystack](https://github.com/seemoo-lab/openhaystack): Build your own 'AirTags' label today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network. 
 - [Althea ISP](https://althea.net/) Fast, affordable, locally run internet
@@ -71,11 +79,15 @@ sidebar_label: Workstation
 ### Alternatives
 - https://github.com/rtr7/router7
 - https://github.com/koreader/koreader
+- https://github.com/MichaIng/DietPi
 - https://github.com/sibbl/hass-lovelace-kindle-screensaver
 ### Electronics
 - [WireViz](https://github.com/formatc1702/WireViz): Easily document cables and wiring harnesses 
 - https://github.com/David00/rpi-power-monitor
 - https://github.com/merbanan/rtl_433
+- https://github.com/jprochazka/adsb-receiver
+  - https://github.com/wiedehopf/tar1090
+  - https://planefinder.net/coverage
 - https://github.com/DeviceFarmer/stf
 
 ## workstation pictures
@@ -103,6 +115,7 @@ sidebar_label: Workstation
 - https://github.com/greatscottgadgets/hackrf
 - https://github.com/aaga/choo-choo-clock
 - https://github.com/penk/penkesu
+- https://www.openhab.org/
 - https://github.com/merge/skulls
 - https://github.com/usbarmory/usbarmory
 - https://twitter.com/aschmelyun/status/1506960015063625733
@@ -112,3 +125,8 @@ sidebar_label: Workstation
 - https://github.com/keirf/flashfloppy
 - https://github.com/Jana-Marie/otterlinear-keyboard
 - https://github.com/joeycastillo/Sensor-Watch
+- https://github.com/mkrl/misbrands
+- https://github.com/cubic-print/timeframe
+- https://github.com/kaiokot/gpod
+- https://github.com/antirez/pngtostl
+- https://news.ycombinator.com/item?id=30803589

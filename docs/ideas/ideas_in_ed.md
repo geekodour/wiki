@@ -61,6 +61,8 @@ sidebar_label: Ideas in Education
 - https://matthewrhoads.com/
 - https://archive.is/ZtBX9
 - https://twitter.com/AarihantAaryan/status/1488379957923704832
+- https://news.ycombinator.com/item?id=30887690
+- https://www.electropedia.org/
 - https://twitter.com/gwenckatz/status/1487530360703361024
 - https://www.teachthought.com/learning/ways-to-use-blooms-taxonomy-in-the-classroom/
 - https://archive.is/SZVlf

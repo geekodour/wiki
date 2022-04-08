@@ -8,11 +8,12 @@ sidebar_label: Dump
 
 - https://teenage.engineering/
 - https://github.com/costela/wesher
-- https://brid.gy/
 - https://bits.coop/#
 - https://www.meshtastic.org/
 - https://www.lulu.com/
 - https://zenx.medium.com/so-you-want-to-buy-a-farm-c56af5d85a7e
+- http://www.cookingforengineers.com/
+- https://frcal.qt.ax/
 - https://documentation.divio.com/
 - https://tangible.media.mit.edu/projects/
 - Mills is an amateur radio operator, callsign W3HCF
@@ -56,10 +57,14 @@ sidebar_label: Dump
 - https://github.com/sonic-pi-net/sonic-pi
 - https://github.com/joshwcomeau/panther
 - https://github.com/OctoPrint/OctoPrint
+- https://github.com/hundredrabbits/awesome-uxn
 - https://github.com/Toufool/Auto-Split
 - https://github.com/microsoft/recommenders
 - https://github.com/IKEA/IKEA3DAssemblyDataset
 - https://github.com/mjyc/awesome-robotics-projects
+- https://github.com/A-Herzog/Mini-Callcenter-Simulator
+- https://github.com/HabitRPG/habitica
+- https://github.com/commaai/openpilot
 - https://github.com/wnzhang/rtb-papers
 - https://github.com/martinwhitaker/pcmemtest
 - https://github.com/cotoami/cotoami

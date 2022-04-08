@@ -184,14 +184,48 @@ Try saving links to Pocket when you see shiny link on social media to avoid goin
 - https://github.com/yoshuawuyts/notes
 - https://github.com/WardCunningham/remodeling
 - https://github.com/jashkenas/docco
+- https://www.system.com/graph
+- https://alexturek.com/2022-03-07-How-to-do-less/
+- https://github.com/b3z/reventlou
+- https://lobste.rs/s/jsr6mk/my_personal_website_is_one_binary
+- https://news.ycombinator.com/item?id=30714647
+- https://github.com/ariroffe/personal-website
+- https://github.com/wilrnh/emergencywalletcards.com
+- https://github.com/jamesmunns/yogslaw
+- https://braintool.org/
+- https://plaintext-productivity.net/
+- [The Cognitive Style of PowerPoint](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
+  - https://dynomight.net/lists/
+- https://github.com/gordonbrander/subtext
+- https://github.com/bastianallgeier/bulletjournal
+- https://github.com/jhaals/yopass
+- https://news.ycombinator.com/item?id=30917940
+- https://www.gwern.net/Design
+- https://www.gwern.net/Archiving-URLs
+- https://subconscious.substack.com/p/all-you-need-is-links?s=r
+- https://dsebastien.net/blog/2022-04-03-25-years-of-personal-knowledge-management
+- https://fortelabs.co/blog/para/
+- https://github.com/pdepip/mmap.it
+- https://github.com/paulbricman/conceptarium
+- https://github.com/ossf/wg-best-practices-os-developers
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
+- https://github.com/na--/ebook-tools
+- https://github.com/foambubble/foam
+- https://github.com/ArthurSonzogni/Diagon
+- https://github.com/unigraph-dev/unigraph-dev
+- https://github.com/prathyvsh/history-of-logic
 - https://github.com/tylertreat/CS-Literature-of-the-Day
+- https://github.com/ncase/loopy
 - https://github.com/jkup/awesome-personal-blogs
 - https://github.com/xwmx/nb
 - https://github.com/zim-desktop-wiki/zim-desktop-wiki
 - https://github.com/jdavis/til
   - https://github.com/jbranchaud/til
+- https://github.com/nmartin84/logseq-tokyo-theme
+- https://github.com/wirtzdan/logseq-paper-theme
 - https://github.com/killercup/scribbles
 - https://manassaloi.com/links/
+- https://github.com/lostdesign/linked
 
 ## Tools of thought
 - https://www.remnote.io/

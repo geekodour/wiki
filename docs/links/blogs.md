@@ -10,6 +10,8 @@ sidebar_label: Blogs
 - [copyconstruct/library](https://github.com/copyconstruct/library) : A collection of the papers, conference talks, articles, blog posts, interesting Twitter threads, HN/reddit comments on systems engineering
 - [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html?m=1)
 - [hwayne/awesome-cold-showers](https://github.com/hwayne/awesome-cold-showers) : Very nice
+- [adaptivecapacitylabs/Resilience-Engineering-Resources](https://github.com/adaptivecapacitylabs/Resilience-Engineering-Resources)
+- http://catern.com/compdist.html
 - [heidi-ann/distributed-consensus-reading-list](https://github.com/heidi-ann/distributed-consensus-reading-list) : List of academic papers on distributed consensus
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) : Site Reliability Engineer Interview Preparation Guide
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/) : Curated list of resources on testing distributed systems
@@ -62,7 +64,10 @@ sidebar_label: Blogs
 - [Notation and thought](https://github.com/hypotext/notation)
 - [jameshk/research](https://jameshk.com/research)
 - https://untools.co/
+- https://github.com/GavinMendelGleason/many_worlds
+- https://paulbricman.com/thoughtware/semantica
 - https://github.com/andytudhope/APerspectiveOnTechnology
+- https://github.com/osnr/cruncher
 - https://github.com/chobeat/awesome-critical-tech-reading-list
 - https://thesystemsthinker.com/nurturing-systemic-wisdom-through-knowledge-ecology/
 - https://vickiboykis.com/2021/11/07/the-programmers-brain-in-the-lands-of-exploration-and-production/

@@ -14,5 +14,6 @@ sidebar_label: Memory Allocation
 - [Syscalls used by malloc.](https://sploitfun.wordpress.com/2015/02/11/syscalls-used-by-malloc/)
 - https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
 - https://blog.janestreet.com/memory-allocator-showdown/
+- https://github.com/rain-1/awesome-allocators
 
 Nowadays, the heap, where malloc() goes, is backed by mmap() calls which obtain chunks of memory at whatever address the kernel sees fit.

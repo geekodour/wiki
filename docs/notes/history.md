@@ -1154,3 +1154,7 @@ A lot of events in history are important, but some events are more important to 
 - https://github.com/worrydream/EarlyHistoryOfSmalltalk
 - https://github.com/mraible/history-of-web-frameworks-timeline
 - https://github.com/michael-lazar/finger2020
+- http://www.uchronia.net/ (alternate hstory genere books)
+- https://tiemoko.com/blog/vintage-tech-books/
+- http://www.eightyeightynine.com/culture/80susenet.html
+- https://dfarq.homeip.net/how-much-did-vhs-tapes-cost-in-the-80s/

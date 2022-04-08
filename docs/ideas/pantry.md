@@ -23,6 +23,7 @@ sidebar_label: Idea Pantry
 - https://github.com/open-source-ideas/ideas/issues
 - https://github.com/egoist/ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 - https://github.com/samsquire/wants
+- https://github.com/pel-daniel/mind-bicycles
 - https://twitter.com/rsnous/status/1373691707326222337
 
 ## Side Project Tools
@@ -35,6 +36,8 @@ sidebar_label: Idea Pantry
 - https://www.causal.app/saas-metrics
 - https://github.com/AutoSpotting/AutoSpotting
 - https://github.com/tvler/laundry-symbols
+- https://github.com/gmrchk/blobity
+- https://github.com/yosriady/api-development-tools
 - https://github.com/imazen/imageflow
 - https://github.com/segmentio/ksuid
 - https://github.com/beizhedenglong/rough-charts
@@ -50,6 +53,7 @@ sidebar_label: Idea Pantry
 - https://github.com/sverweij/state-machine-cat
 - https://github.com/sw-yx/spark-joy
 - https://github.com/paulirish/lite-youtube-embed
+- https://github.com/sindresorhus/modern-normalize
 - https://github.com/drbh/wasm-flate
 - https://github.com/Unleash/unleash
 - https://github.com/qrohlf/trianglify
@@ -88,6 +92,14 @@ sidebar_label: Idea Pantry
 - https://news.ycombinator.com/item?id=25614966
 - https://gemini.wntr.dev/
 
+### other links idk where i got from
+- https://trends.co/
+- https://join.trends.vc/
+- https://explodingtopics.com/
+- https://www.descript.com/pricing
+- https://getlatka.com/
+
+
 ### Self-hosting needs for community
 - https://github.com/hql287/Manta
 - https://github.com/chatwoot/chatwoot 
@@ -97,11 +109,13 @@ sidebar_label: Idea Pantry
 - https://github.com/erxes/erxes
 - https://github.com/GetTogetherComm/GetTogether
 - https://framagit.org/framasoft/mobilizon/
+- https://github.com/alextselegidis/easyappointments
 - https://github.com/forem/forem
 - https://github.com/ro31337/libretaxi
 - https://meedan.com/check
 - https://github.com/MacPaw/together-app
 - https://github.com/edumeet/edumeet
+- https://github.com/knadh/dictmaker
 - https://github.com/Netflix-Skunkworks/stethoscope
 - https://github.com/foodcoops/foodsoft
 - https://github.com/Couchers-org/couchers
@@ -122,6 +136,8 @@ sidebar_label: Idea Pantry
 - https://www.routinedb.com/routines
 - https://github.com/ustaxes/UsTaxes
 - https://abhas.io/libretechshop/
+- https://github.com/EtherDream/web2img
+- https://github.com/ngshiheng/burplist
 
 ## Interesting websites
 - [TheStrangeRoots](https://www.thestrangeroots.com/): A website exploring the strange etymological roots of words used in technology and computer science.
@@ -137,3 +153,4 @@ sidebar_label: Idea Pantry
 - https://discourse.opensourcedesign.net/t/continuing-conversations-about-fellowships-internships-in-open-source-design/2722/8
   - https://www.openusability.org/
 - https://twitter.com/MatthewWSiu/status/1488911987333500932
+- https://github.com/eBildungslabor/tinyhumans

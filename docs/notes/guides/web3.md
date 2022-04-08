@@ -23,7 +23,15 @@ sidebar_label: Web 3.0
 - [conifer : WebRecorder Service](https://conifer.rhizome.org/)
 - https://archive.org/details/Ambedkar_CompleteWorks/01.Caste%20in%20India
 - https://github.com/gilesbowkett/rewind
+- https://github.com/lucasdavid/wikiart
+- https://github.com/daveshap/PlainTextWikipedia
+- https://github.com/vmbrasseur/iadownload
+- https://github.com/magcius/noclip.website
+- https://github.com/crisdosyago/Diskernet
+- https://www.bbc.com/news/world-africa-60689699
+- https://github.com/danderson/mixtape
 - https://archive.org/details/jonah-edwards-presentation
+- https://github.com/artefactual/archivematica
 - https://github.com/simonw/shot-scraper
 - https://github.com/projectblacklight/spotlight
 - https://github.com/zeskeertwee/vach
@@ -32,6 +40,9 @@ sidebar_label: Web 3.0
 - https://twitter.com/internetarchive/status/1386423512810721284
 - https://github.com/oduwsdl/archivenow
 - https://github.com/WebMemex/freeze-dry
+- https://github.com/Y2Z/monolith
+- https://github.com/danburzo/percollate
+- https://github.com/internetarchive/openlibrary
 - https://github.com/openzim/mwoffliner
 - https://github.com/makeworld-the-better-one/tiktok-link
 - https://github.com/larrabee/s3sync
@@ -172,12 +183,17 @@ sidebar_label: Web 3.0
 
 ### Offline
 - https://github.com/google/physical-web
+- https://github.com/makeworld-the-better-one/neartalk
 - https://github.com/gmarland/lohost
 
 ### IPFS
 
 - [How IPFS works](https://research.protocol.ai/blog/2020/ndn-seminar-a-high-level-overview-of-the-interplanetary-file-system/)
 - [Nix × IPFS - Milestone 1](https://blog.ipfs.io/2020-09-08-nix-ipfs-milestone-1/)
+- https://github.com/Peergos/ipfs-nucleus
+- https://github.com/Peergos/Peergos
+- https://yournfts.org/#stats
+- https://www.semanticscholar.org/paper/Performance-Evaluation-of-IPFS-in-Private-Networks-Lajam-Helmy/e18310f0250786be1f573359ceb6c421711c76af
 
 #### Based Projects
 - [OrbitDB](https://orbitdb.org/): OrbitDB is a serverless, distributed, peer-to-peer database. OrbitDB uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers. 
@@ -270,11 +286,21 @@ Webmention is a W3C recommendation that describes a simple protocol to notify an
 - https://github.com/jashmenn/cryptocurrencies-in-four-words
 - https://jacob.energy/hyperstructures.html
 - https://github.com/MrChrisJ/World-Citizenship
+- https://github.com/ghuntley/thenftbay.org
+- https://github.com/publiusfederalist/federalist
+- https://github.com/ArweaveTeam/weavemail
+- https://www.notboring.co/
+  - https://www.readthegeneralist.com/
+  - https://newsletter.banklesshq.com/
+- https://github.com/trustwallet/assets
+- https://github.com/CristinaSolana/solana-developer-resources
+- https://github.com/blockscout/blockscout
 - https://twitter.com/bramcohen/status/1484258430302912512
 - https://twitter.com/chriscantino/status/1477665773619486720
 - https://github.com/w3f/Grants-Program 
 - [Cryptocurrencies Are Detrimental to Society](https://louwrentius.com/cryptocurrencies-are-detrimental-to-society.html)
 - https://github.com/noya-app/studio721
+- https://github.com/izqui/awesome-crypto-trackers
 - https://github.com/rainbow-me/rainbow
 - https://github.com/ConsenSys/surya
 - https://blockprotocol.org/ (not really crypto but why did they use the word block, hmmm)
@@ -311,3 +337,5 @@ Webmention is a W3C recommendation that describes a simple protocol to notify an
 - https://github.com/upspin/upspin
 - https://github.com/tomeshnet/meshstream
 - [Announcing GitTorrent: A Decentralized GitHub(2015)](https://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
+- https://github.com/unbalancedparentheses/best_learning_resources
+- https://github.com/unbalancedparentheses/crypto_links

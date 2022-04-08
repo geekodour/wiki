@@ -52,6 +52,8 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - https://matrix.org/blog/2020/11/03/how-we-fixed-synapses-scalability
 - [Improving how we deploy GitHub](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
 - [A lesson in creating and using niche business DSLs at scale](https://zerodha.tech/blog/a-lesson-in-niche-business-dsls-at-scale/)
+- https://github.com/ashwio/arm64-pgtable-tool
+- https://www.datamesh-architecture.com/
 
 ## Kernel
 
@@ -126,6 +128,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Taking Back What Is Already Yours: Router Wars Episode I](https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/)
 - https://daniel.haxx.se/blog/2021/05/31/curl-localhost-as-a-local-host/
 - https://susam.in/blog/reliance-jio-impersonation-issue/
+- https://wirelessbits.net/checking-in-on-ieee-802-11ax-wi-fi-6-adoption-8aa52f9cc352
 - [IPv4 route lookup on Linux](https://vincent.bernat.ch/en/blog/2017-ipv4-route-lookup-linux)
 - https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network
 - [How NAT traversal works](https://tailscale.com/blog/how-nat-traversal-works/)
@@ -178,6 +181,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [Thoughts on going down the network stack](https://fasterthanli.me/articles/thoughts-on-going-down-the-network-stack)
 - [Telnetserver with wasm](https://lunatic.solutions/blog/lunatic-chat/)
 - [RPC over RabbitMQ (with Elixir)](https://andrealeopardi.com/posts/rpc-over-rabbitmq-with-elixir/)
+- https://github.com/GitbookIO/proxies-on-cloudflare
 
 ## Observability
 - https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f
@@ -195,11 +199,14 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - https://coywolf.pro/webmaster/cloudflare-stream/
 - https://github.com/pazguille/offline-first
 - https://fasterthanli.me/series/dont-shell-out
+- https://macwright.com/2022/03/04/browsers-and-files.html
+- https://www.usenix.org/conference/usenixsecurity22/presentation/bollinger
 - https://blog.syncinc.so/events-not-webhooks
   - https://en.wikipedia.org/wiki/Server-sent_events
 
 ## Dist Sys
 
+- [csp_security_mistakes](https://github.com/SummitRoute/csp_security_mistakes)
 - [Consistent Hashing in viemo](https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed)
 - [Files and storing them](https://danluu.com/deconstruct-files/)
 - https://codahale.com/you-cant-sacrifice-partition-tolerance/
@@ -293,11 +300,16 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [How to store data forever](https://drewdevault.com/2020/04/22/How-to-store-data-forever.html)
 - [trace art](https://esoteric.codes/blog/stack-trace-art)
 - [What I've learned about data recently](https://seldo.com/posts/what-i-ve-learned-about-data-recently)
+- https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/
+- https://sidbala.com/h-264-is-magic/
+- https://matrix.org/blog/2022/03/25/interoperability-without-sacrificing-privacy-matrix-and-the-dma
 - https://github.com/globalcitizen/taoup
 - [Choosing boring tech](https://mcfunley.com/choose-boring-technology)
 - [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/)
 - https://nolanlawson.com/2021/08/26/my-love-hate-affair-with-technology/
 - https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/
+- https://www.ctrl.blog/entry/account-deletions-2021.html
+- [Why is it so hard to buy things that work well?](https://danluu.com/nothing-works/)
 - [FOSDEM on matrix](https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix)
 - [How To Write Unmaintainable Code](https://cs.fit.edu/~kgallagher/Schtick/How%20To%20Write%20Unmaintainable%20Code.html)
 - [Comparing Compression](https://etbe.coker.com.au/2020/06/06/comparing-compression/)
@@ -366,6 +378,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - https://github.com/ept/hermitage
 - https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
 - https://scattered-thoughts.net/writing/against-sql/
+- https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/
 - https://gramin.pro/posts/database-as-code/
 - https://riffle.systems/essays/prelude/
 - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
@@ -415,6 +428,9 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 ## Timezone
 - https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/
 - https://blog.wesleyac.com/posts/timezone-bullshit
+- https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/
+- https://geometrian.com/programming/reference/timestds/index.php
+- https://nickb.dev/blog/designing-a-rest-api-unix-time-vs-iso-8601
 
 ## Writing tests
 - [Oracle Testing](https://buttondown.email/hillelwayne/archive/oracle-testing/)
@@ -443,6 +459,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - https://massimo-nazaria.github.io/blog/2019/09/05/software-architecture-design-for-busy-developers.html
 - https://jemma.dev/blog/gc-compaction
 - https://www.hillelwayne.com/post/cleverness/
+- https://250bpm.com/blog:71/
 - https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/
 - [if-then-else/if-then-else.md](https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md)
 - [TCO](https://eklitzke.org/how-tail-call-optimization-works)

@@ -25,6 +25,15 @@ Read links will be removed and added somewhere else where they fit better.
 - https://github.com/sundowndev/hacker-roadmap
 - https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet
 - https://github.com/StarCrossPortal/bug-hunting-101
+- https://github.com/riramar/Web-Attack-Cheat-Sheet
+- https://github.com/mzfr/notes/wiki
+- https://github.com/FallibleInc/security-guide-for-developers
+- https://github.com/shieldfy/API-Security-Checklist
+- https://github.com/breakerspace/weaponizing-censors
+  - https://github.com/Kkevsterrr/geneva
+- https://github.com/vaib25vicky/awesome-mobile-security
+- https://news.ycombinator.com/item?id=30673009
+- https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/
 
 ### Attacks
 
@@ -88,3 +97,5 @@ Read links will be removed and added somewhere else where they fit better.
 - https://github.com/gmelodie/awesome-wordlists
 - https://github.com/Igglybuff/awesome-piracy
 - https://github.com/jonaschn/awesome-he
+- https://github.com/DavidBuchanan314/ambiguous-png-packer
+- https://github.com/Lisa-Katharina/masterthesis

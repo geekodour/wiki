@@ -28,10 +28,16 @@ Self Quantification
 - https://github.com/zuchka/grafana-docs-exporter nice way to keep track of how my wiki/knowledge base grows
 - https://github.com/vaguileradiaz/tinfoleak
 - https://github.com/phiresky/timetrackrs
+- https://github.com/larose/utt
+- https://github.com/nikolassv/bartib
+- https://github.com/lowlighter/metrics
 - https://jeffhuang.com/extracting_data_from_tracking_devices/
 - https://github.com/TailorDev/Watson
 - https://github.com/thesephist/sounds A collection of sounds from places I've been
 - https://github.com/mholt/timeliner
+- https://github.com/samg/timetrap
+- https://github.com/alex-hhh/ActivityLog2
+- https://github.com/laffra/Ikke
 - https://github.com/JohnPhamous/strava-box
 - https://github.com/lord/mortalical this can go with the history app, sort of it also can fork this project
 - https://github.com/MasterScrat/Chatistics

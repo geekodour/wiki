@@ -73,4 +73,7 @@ Read links will be removed and added somewhere else where they fit better.
 - [DMZ (computing)](<https://en.wikipedia.org/wiki/DMZ_(computing)>)
 - https://github.com/diracdeltas/FastestWebsiteEver
 - https://github.com/PacktPublishing/Network-Programming-with-Rust
+- https://github.com/RangerMauve/WifiP2P-MDNS-Test
+- https://github.com/espressif/esp-now
+- https://github.com/mayuresh82/gocast
 

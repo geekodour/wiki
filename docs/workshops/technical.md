@@ -17,6 +17,7 @@ I'll be adding/removing links to and from this page time to time.
 - [Linked lists, pointer tricks and good taste](https://github.com/mkirchner/linked-list-good-taste)
 - https://github.com/braydie/HowToBeAProgrammer
 - https://github.com/hemanth/functional-programming-jargon
+- https://github.com/mtdvio/every-programmer-should-know
 
 ## Go Programming Language
 
@@ -70,10 +71,14 @@ I'll be adding/removing links to and from this page time to time.
 - [C internals](http://www.avabodh.com/cin/cin.html)
 - [Linux Assembly HOWTO](http://www.tldp.org/HOWTO/Assembly-HOWTO/)
 - [RISC-V - Getting Started Guide](https://risc-v-getting-started-guide.readthedocs.io/en/latest/)
+- https://github.com/stakach/uefi-bootstrap
+- https://github.com/MaskRay/ElfHacks
 
 ## Systems Admin
 
 - [Simple Awk](https://github.com/adrianscheff/simple-awk)
+- https://github.com/adrianscheff/useful-sed
+- https://github.com/bregman-arie/devops-exercises
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) : Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules) : When you don't have time to read ProGit.
 - https://github.com/KillingSpark/HowLogindWorks
@@ -98,6 +103,7 @@ I'll be adding/removing links to and from this page time to time.
 
 ## Database
 
+- https://github.com/benbjohnson/thesecretlivesofdata (a good general idea aswell, we should prolly do this for other things in life)
 - [Tiny intro to DBMS](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 - [zytrax/ldap](https://www.zytrax.com/books/ldap/) : LDAP for Rocket Scientists
 - [An introduction to Conflict-Free Replicated Data Types](https://lars.hupel.info/topics/crdt/01-intro/)
@@ -159,13 +165,17 @@ I'll be adding/removing links to and from this page time to time.
 - [Port scanning examples to teach Go concurrency bounding](https://github.com/jboursiquot/portscan)
 - [Internet Search Tips](https://www.gwern.net/Search)
 - [embedded-trainings-2020](https://github.com/ferrous-systems/embedded-trainings-2020)
+- https://github.com/codethesaurus/codethesaur.us
 - https://www.catem.be/app/sd-explainer/
 - [Writing a Technical Book](https://andregarzia.com/2021/04/writing-a-technical-book.html)
 - [The confusing world of USB](https://fabiensanglard.net/nousb/index.html)
+- https://github.com/rougier/scipy-crash-course
+- https://github.com/open-guides/og-aws
 - [Evaluating the Evaluation: A Benchmarking Checklist](http://www.brendangregg.com/blog/2018-06-30/benchmarking-checklist.html)
 - [Linux Applications Performance: Introduction](https://unixism.net/2019/04/linux-applications-performance-introduction/)
 - https://github.com/in3rsha/learnmeabitcoin-code
 - https://github.com/austintgriffith/eth.build
+- https://github.com/stackgl/shader-school
 - https://github.com/dpw/kvm-hello-world
 - https://github.com/tidb-incubator/tinykv
 - https://hakibenita.com/sql-for-data-analysis

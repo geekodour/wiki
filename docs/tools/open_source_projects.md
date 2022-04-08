@@ -18,6 +18,7 @@ sidebar_label: Open Source Projects
 - https://github.com/mitsuhiko/indicatif
 - https://github.com/matcornic/hermes
 - https://github.com/zserge/awfice
+- https://github.com/youtube/doorman
 - https://github.com/slatedocs/slate
 - https://github.com/project-oak/oak
 - https://github.com/biscuit-auth/biscuit
@@ -31,17 +32,29 @@ sidebar_label: Open Source Projects
 - https://github.com/rust-lang/hashbrown
 - https://github.com/bevyengine/bevy
 - https://github.com/skypjack/uvw
+- https://github.com/knadh/csv2json
+- https://github.com/tinylibs/tinypool
 - https://github.com/hashicorp/memberlist
+- https://github.com/ziglibs/known-folders
 - https://github.com/habitat-sh/habitat
+- https://github.com/micheleriva/gauguin
 - https://github.com/infinitered/nsfwjs
+- https://github.com/vb/lazyframe
+- https://github.com/lukeed/sockette
+- https://github.com/naia-rs/naia
+- https://github.com/lvgl/lvgl
 - https://github.com/fyne-io/fyne
 - https://evervault.com/?s=09
+- https://github.com/steveruizok/perfect-arrows
+- https://github.com/ksrichard/easyraft
 - https://github.com/oblador/loki
+- https://github.com/pdbpp/pdbpp
 - https://git.sr.ht/~gregkh/presentation-non-tech-security
 - https://github.com/estevanmaito/windmill-dashboard
 - https://github.com/keith-turner/ecoji
 - https://github.com/vectordotdev/vector
 - https://github.com/cloudflare/tableflip
+- https://github.com/ritelabs/riteraft
 - https://github.com/yl2chen/cidranger
 - https://github.com/pinterest/snappass
 - https://github.com/mgechev/revive
@@ -51,10 +64,20 @@ sidebar_label: Open Source Projects
 - https://utteranc.es/
 - https://news.ycombinator.com/item?id=26956271
 - https://github.com/Tencent/libpag
+- https://github.com/diegomura/react-pdf
 - https://github.com/elastic/beats
 - https://www.gisgraphy.com/index.php
 - https://github.com/hathach/tinyusb
+- https://github.com/aduros/wasm4
 - https://github.com/kciter/qart.js
+- https://github.com/taiki-e/cargo-hack
+- https://github.com/gschup/ggrs
+- https://github.com/jsoma/tabletop
+- https://github.com/tctianchi/pyvenn
+- https://github.com/anacrolix/dht
+- https://github.com/you-win/openseeface-gd
+- https://github.com/statelyai/xstate
+- https://github.com/treeverse/lakeFS
 - https://github.com/anseki/leader-line
 - https://github.com/rough-stuff/rough-notation
 - https://github.com/crawlab-team/artipub
@@ -84,9 +107,9 @@ sidebar_label: Open Source Projects
 - https://github.com/analysis-tools-dev/static-analysis
 - https://github.com/gregjacobs/Autolinker.js
 - https://github.com/uNetworking/uSockets
+- https://github.com/timc1/kbar
 - https://github.com/DIYgod/DPlayer
 - https://github.com/raysan5/raylib
-- https://github.com/stepchowfun/toast
 - https://github.com/rosettatype/hyperglot
 - https://github.com/gdabah/distormx
 - https://github.com/arguiot/Descartes
@@ -163,6 +186,7 @@ sidebar_label: Open Source Projects
 - https://github.com/Screenly/screenly-ose
 - https://github.com/egoist/taki
 - https://github.com/mscdex/ssh2
+- https://github.com/bufbuild/buf
 - https://github.com/code-hike/codehike
 - https://github.com/valeriansaliou/constellation
 - https://github.com/release-it/release-it
@@ -190,7 +214,13 @@ sidebar_label: Open Source Projects
 - https://github.com/andreasonny83/unique-names-generator
 - https://github.com/goldfire/howler.js
 - https://github.com/excaliburjs/Excalibur
+- https://github.com/intel/hyperscan
+- https://github.com/gVguy/nice-waves
+- https://github.com/rthalley/dnspython
+- https://github.com/Mayandev/notion-avatar
+- https://github.com/diesel-rs/diesel
 - https://github.com/orgapp/orgajs
+- https://github.com/gotestyourself/gotestsum
 - https://github.com/Delta456/box-cli-maker
 - https://github.com/benfred/py-spy
 - https://github.com/postlight/mercury-parser
@@ -248,14 +278,21 @@ sidebar_label: Open Source Projects
 - https://github.com/shachaf/mustardwatch
 - https://github.com/rxi/microui
 - https://github.com/hugapi/hug
+- https://github.com/WesleyAC/deeplinks
+- https://github.com/nccgroup/PMapper
+- https://github.com/airbnb/streamalert
 - https://github.com/cessen/ropey
 - https://github.com/meilisearch/MeiliSearch
 - https://github.com/reacherhq/check-if-email-exists
+- https://github.com/Xetera/ghost-cursor
 - https://github.com/mike-engel/jwt-cli
 - https://github.com/lukewhyte/textpack
 - https://github.com/deepset-ai/haystack
 - https://github.com/ValveSoftware/GameNetworkingSockets
 - https://github.com/gdamore/tcell
+- https://github.com/dbt-labs/dbt-core
+  - https://github.com/lightdash/lightdash
+  - https://github.com/MarquezProject/marquez
 - https://github.com/ruilisi/css-checker
 - https://github.com/c-bata/go-prompt
 - https://github.com/ggerganov/imtui
@@ -292,10 +329,12 @@ sidebar_label: Open Source Projects
 - [PI Zero W Audio Book](https://github.com/ahosna/Pi0AudioBook): Audio book player for senior visually impaired.
 - https://cuelang.org/
 - https://github.com/opensumi/core
+- https://github.com/orchest/orchest
 - https://github.com/fastai/fastpages
 - https://github.com/centrifugal/centrifugo
 - https://github.com/mergestat/mergestat
 - https://github.com/alecmuffett/real-world-onion-sites
+- https://github.com/gulien/orbit
 - https://github.com/ResearchKit/ResearchKit
 - https://github.com/Netflix/flamescope
 - https://github.com/casbin/casbin
@@ -322,6 +361,10 @@ sidebar_label: Open Source Projects
 - https://github.com/kdzwinel/SnappySnippet
 - https://github.com/tiangolo/fastapi
 - https://github.com/Bycelium/PyFlow
+- https://github.com/prabhatsharma/zinc
+- https://github.com/tabular-rs/tabular-rs
+- https://github.com/wilsonzlin/edgesearch
+- https://github.com/fastai/ghapi (is this available in other langs?)
 - https://github.com/booktype/Booktype
 - https://github.com/panphora/animatize
 - https://github.com/concourse/concourse

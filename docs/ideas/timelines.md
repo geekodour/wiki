@@ -29,8 +29,10 @@ sidebar_label: Timelines
 
 - [time graphics](http://archive.is/nq0H4)
 - [Mapping a World of Cities](https://www.leventhalmap.org/projects/mapping-a-world-of-cities/)
+- https://github.com/jasonreisman/Timeline
 - [Ridge maps](https://github.com/ColCarroll/ridge_map)
 - [wtf1971](http://archive.is/rYiI3) : https://wtfhappenedin1971.com/
+- https://github.com/dracos/Theatricalia
 - https://app.litmaps.co/create
 - https://github.com/jwngr/sdow
 - https://github.com/lo-th/neo
@@ -41,9 +43,22 @@ sidebar_label: Timelines
 - https://protomaps.com/blog/new-way-to-make-maps
 - https://github.com/platers/MAL-Map (ugh)
 - https://www.openmapchest.org/shutting-down/
+- https://github.com/JoeWDavies/geoblender
+- https://www.trufi-association.org/video-why-open-data-matters-for-cycling-visualizing-a-cycling-city/
+- https://news.ycombinator.com/item?id=30764095 Elecrtricty map
+- https://github.com/lukechampine/goldilocks
+- https://hdersch.github.io/
+- https://www.peakfinder.org/
+- https://www.heywhatsthat.com/
+- https://caltopo.com/map.html
+- https://github.com/peermaps/mixmap-georender
+- https://github.com/earthlab/earthpy
+- https://github.com/matkoniecz/lunar_assembler
 - https://www.halcyonmaps.com/map-of-the-internet-2021/
 - https://github.com/shuding/cobe
+- https://github.com/hotosm/toolbox
 - https://wiki.openstreetmap.org/wiki/Mkgmap/help/How_to_create_a_map
+- https://github.com/activityworkshop/GpsPrune
 - https://github.com/keplergl/kepler.gl
 - https://www.lightpollutionmap.info/#zoom=4.00&lat=47.1422&lon=25.4015&layers=B0FFFFFFTFFFFFFFFFF
 - https://github.com/mapnificent/mapnificent

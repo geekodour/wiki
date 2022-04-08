@@ -250,8 +250,12 @@ $ time -v <exec>
 ## Tools/Practices to adopt
 ### Blogposts to read before starting
 - Do the IP addressing Video course
+- https://github.com/NikkiSatmaka/dotfiles
+- https://github.com/renemarc/dotfiles
 - https://github.com/Delapouite/dot-in-the-sky
+- https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
 - https://github.com/nanotee/nvim-lua-guide
+- https://github.com/vendasta/setup-new-computer-script
 - There's some politics here
   - https://github.com/containers
   - https://github.com/opencontainers
@@ -295,13 +299,21 @@ $ time -v <exec>
 ### Meta
 - [Mystery Knowledge and Useful Tools](https://nikhilism.com/post/2020/mystery-knowledge-useful-tools/)
 - [Linux productivity tools](/pdf/lisa19_maheshwari.pdf)
+- https://github.com/felipecrs/dotfiles
+- https://github.com/yutkat/dotfiles
+- https://news.ycombinator.com/item?id=30712175
 - [Browsers](https://venam.nixers.net/blog/unix/2017/06/04/browsers-on-unix.html)
 - [Licenses](https://venam.nixers.net/blog/unix/2017/06/04/licenses.html)
+- https://github.com/mayfrost/guides
 - [Linux Hardening Guide](https://madaidans-insecurities.github.io/guides/linux-hardening.html)
 - https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
 - [Basic Git Setup](https://batsov.com/articles/2020/11/22/basic-git-setup/)
 - https://jwiegley.github.io/git-from-the-bottom-up/1-Repository/1-directory-content-tracking.html
+- https://news.ycombinator.com/item?id=30724830 (public wifi)
+- https://news.ycombinator.com/item?id=30658324
+- https://rubenerd.com/my-essential-firefox-fixes-in-2022/
 - Along with thoughts clone, i also need a rant site where simply want to vent. It will have a message that i can literally vent on anything this may protray myself as a bad person but i am doing all of this just to reflect on my thoughts not to hurt someone else, well sometimes i might be slightly evil too
+- https://rtfm.co.ua/en/what-is-linux-keyring-gnome-keyring-secret-service-and-d-bus/
 - We can use this: https://github.com/knadh/tg-archive instead of making thoughts clone if I make a group in telegram where i simply shitpost then i can shitpost from phone aswell as the cli. Then this will automatically generate a website with correct timestamps.
 - When installing doom the next time check what are the base files emacs has first of all and then check the changes that doom makes
 - LEARN PACMAN FOR REAL PLEASE: eg. Understand what the flags and other related flags mean. please.
@@ -357,6 +369,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/casey/just
   - https://github.com/go-task/task
 - https://github.com/libfuse/sshfs
+  - https://github.com/kahing/catfs
 - https://github.com/lfit/itpol IT  policies
 - https://github.com/nayafia/microgrants
   -  https://github.com/mezod/awesome-indie
@@ -392,7 +405,50 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/nushell/nushell its a replacement for fish but i am gon use
   fish so will need to see when i want to use it.
 - https://github.com/alt-romes/programmer-calculator
+- https://github.com/srcery-colors/srcery-terminal
+- https://github.com/yuvadm/cidr.xyz
+- https://github.com/balena-os/wifi-connect
+- https://github.com/karthink/popper
+- https://github.com/caesiumstudio/csBooks-updates (i dont like it)
+- https://github.com/awth13/org-appear
+- https://github.com/Byron/dua-cli
+- https://github.com/dvorka/hstr
+  - https://github.com/ellie/atuin
+- https://github.com/bootandy/dust
+- https://github.com/nerdypepper/eva
+- https://github.com/pimutils/khal
+  - https://github.com/pimutils/vdirsyncer
+- https://github.com/rbrito/usbmount
+- https://github.com/yt-dlp/yt-dlp
+- https://github.com/ajbura/cinny
+- https://github.com/theryangeary/choose
+- https://github.com/ogham/dog
+- https://github.com/Olical/aniseed
+- https://github.com/joehillen/sysz
+- https://github.com/pwntester/octo.nvim
+- https://github.com/diit/overtime-cli
+- https://github.com/Julien-R44/fast-ssh
+- https://github.com/emersion/slurp
+- https://github.com/Ulauncher/Ulauncher
+- https://github.com/iamadamdev/bypass-paywalls-chrome
+- https://github.com/Wilfred/helpful
 - https://github.com/orhun/kmon
+- https://github.com/yourduskquibbles/webannoyances
+- https://github.com/StevenBlack/hosts
+- https://github.com/refined-github/refined-github
+- https://github.com/ytmdesktop/ytmdesktop
+- https://github.com/alphapapa/org-ql
+- https://github.com/minad/org-modern
+- https://github.com/words/moby (instead of google dict)
+- https://github.com/purcell/page-break-lines
+- https://github.com/tarsius/moody
+- https://github.com/fosskers/aura
+- https://github.com/tectonic-typesetting/tectonic
+- https://github.com/containerd/nerdctl
+- https://github.com/raxod502/prescient.el
+- https://github.com/raxod502/selectrum
+- https://github.com/minad/marginalia
+- https://github.com/alphapapa/org-sidebar
 - https://github.com/ujjwal96/xwinwrap
 - https://github.com/mpv-player/mpv
 - https://github.com/mdp/qrterminal
@@ -411,10 +467,14 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/mattreduce/oblique-fortunes
 - https://github.com/bcye/Hello-Goodbye
 - https://github.com/ClementTsang/bottom
+- https://github.com/facebookincubator/below
+- https://github.com/aristocratos/bpytop
 - https://github.com/twitter/rezolus
 - https://github.com/seanbreckenridge/browserexport
 - https://github.com/bugaevc/wl-clipboard
 - https://github.com/Hummer12007/brightnessctl
+- https://github.com/bloomberg/goldpinger
+- https://github.com/alexellis/k3sup
 - https://github.com/ErikReider/SwayNotificationCenter
 - https://github.com/phiresky/ripgrep-all
   - https://github.com/tmbinc/bgrep
@@ -518,6 +578,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/linuxserver/Heimdall : I need a way to list all applications web, cli, mobile etc i am using at one place and have notes(multiple) about them. Have a way to debug them easily from there. For any problem at hand i should be able to see what are the tools i can use only after thinking what are the tools that i need. Hamidall still fills a different usecase.
   - https://github.com/jeroenpardon/sui this is for listing all my self hosted public applications. for local ones i can keep using hamidall
 - https://github.com/debauchee/barrier
+  - https://github.com/input-leap/input-leap
 - https://github.com/pavlobu/deskreen
 - https://github.com/direnv/direnv (i can use this for adwyze/adyze)
 - https://github.com/tmuxinator/tmuxinator (my personal projects can have this file, as well adwyze)
@@ -628,6 +689,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://web.archive.org/web/19970711071555/http://www.cooltool.com/apr96.html have a newslettter like cronweekly and this combined
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh)
 - [croc](https://github.com/schollz/croc)
+  - https://github.com/atek-cloud/spork
   - https://github.com/Antonito/gfile
 - https://github.com/ZinoKader/portal
 - [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole): get things from one computer to another, safely 
@@ -639,6 +701,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/birchb1024/frangipanni
 - https://code.p1k3.com/gitea/brennen/bpb-kit/src/branch/main/home/.sh_common#L156-L179
     - https://lobste.rs/s/nsfdaw/improving_shell_workflows_with_fzf
+    - https://jvns.ca/blog/2020/06/28/entr/
 - https://james.darpinian.com/satellites/
 - A set of onelines from sed/awk/tr/col to do basic things like snakecase, downcase etc
 - https://github.com/ahmetb/kubectx
@@ -689,6 +752,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/guardianproject/haven this is simply amazing i need it
 - https://github.com/pdfarranger/pdfarranger
 - https://github.com/docker-slim/docker-slim
+  - https://github.com/GoogleContainerTools/distroless
 - https://github.com/notwaldorf/tiny-care-terminal I need the tweet thing from here, might have to write my own. Also need some way to export my digital wellbeing from phone. then later can graph is somewhere.
 - https://github.com/simeji/jid / jiq
 - [peek](https://github.com/phw/peek) GIF maker
@@ -707,6 +771,9 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/bbugyi200/funky
 - https://github.com/antonmedv/fx compare to ijq etc. for speed and everything.
 - https://github.com/ogham/exa https://github.com/Peltoche/lsd
+- https://github.com/wader/fq
+- https://github.com/antonmedv/eat
+- https://github.com/any-json/any-json
 - jq https://sr.ht/~gpanders/ijq/
 - https://sr.ht/~halzy/waitforit/
 ### Utility
@@ -714,14 +781,72 @@ sudo pacman --needed --noconfirm -S ripgrep
   - https://github.com/muesli/smartcrop
 - https://github.com/jhnc/findimagedupes
 - https://github.com/bokuweb/lcs-image-diff-rs
+- https://github.com/rougier/nano-bell
 - https://github.com/emersion/meltsub
+- https://github.com/epilys/buke
+- https://www.biglybt.com/
+- https://github.com/umputun/rss2twitter
+- https://github.com/pkolaczk/fclones duplicate finder
+  - https://github.com/pauldreik/rdfind
+- https://github.com/alphapapa/taxy.el
+- https://github.com/liamg/lyric
+- https://github.com/jashandeep-sohi/webcam-filters
+- https://github.com/arl/statsviz
+- https://github.com/gotenberg/gotenberg
+- https://github.com/varnamproject/govarnam
+- https://github.com/alexhallam/tv
+- https://github.com/strang1ato/nhi
+- https://github.com/benjojo/hot-clone
+- https://github.com/microlinkhq/metascraper
+- https://github.com/Zulko/moviepy
+- https://github.com/Fuco1/smartparens
+- https://github.com/nst/UniBinary
+- https://github.com/kahole/edamagit
+- https://github.com/xxh/xxh
+- https://github.com/a-wing/filegogo
+- https://github.com/foresterre/sic
+- https://github.com/argosopentech/argos-translate
+  - https://github.com/LibreTranslate/LibreTranslate
+- https://github.com/Datamosh-js/datamosh
+- https://github.com/kornelski/deunicode
+- https://github.com/pts/pdfsizeopt
+- https://github.com/JimmXinu/FanFicFare
+- https://github.com/divan/txqr
+- https://github.com/containers/bubblewrap
+- https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology
+- https://github.com/NerdWalletOSS/shepherd
+- https://github.com/GraphiteEditor/Graphite
+- https://github.com/texworld/betterbib
+- https://github.com/dekkagaijin/go-dockerfile
+- https://github.com/tyiannak/pyAudioAnalysis
+- https://github.com/vinceliuice/WhiteSur-gtk-theme
+- https://github.com/zznidar/lecture-speedrun
+- https://github.com/countvajhula/symex.el
+- https://github.com/rcarmo/imapbackup
+- https://github.com/arq5x/bedtools2
+- https://github.com/bluebird75/maildir2mbox
+- https://github.com/thunlp/WantWords nice
+- https://github.com/bokub/gradient-string
+- https://github.com/yaochih/awesome-video-stabilization
+- https://github.com/makeworld-the-better-one/amfora
 - https://github.com/dessant/buster
+- https://github.com/dperson/samba
+- https://github.com/rfjakob/gocryptfs
+- https://github.com/AlDanial/cloc
+- https://github.com/aantipov/moiva
+- https://github.com/fwupd/fwupd
+- https://github.com/epilys/rlr
+- https://github.com/kristoff-it/bork
+- https://github.com/igorbrigadir/twitter-advanced-search
 - https://github.com/abhimanyu003/sttr
 - https://github.com/bytedance/music_source_separation
 - https://github.com/rs/curlie
 - https://github.com/charmbracelet/wishlist
 - https://github.com/koenrh/delete-tweets
 - https://github.com/google/butteraugli
+- https://github.com/nschloe/deadlink
+  - https://github.com/lycheeverse/lychee
+  - https://github.com/dkhamsing/awesome_bot
 - https://github.com/axa-group/Parsr
 - https://github.com/nukeop/nuclear
 - https://github.com/caarlos0/tasktimer
@@ -784,6 +909,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/vasi/pixz
 - https://datasette.io/
 - https://github.com/dimitri/pgcopydb
+- https://github.com/gvalkov/tailon
 - https://github.com/multiprocessio/dsq
 - https://github.com/torakiki/pdfsam
 - https://archive.is/y0JtV
@@ -791,18 +917,36 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/nico2sh/semtag (use this in my projects)
 - https://github.com/analysis-tools-dev/static-analysis
 - https://github.com/nickgerace/gfold
+- https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14
+- https://github.com/0x192/universal-android-debloater
+- https://github.com/asdf-vm/asdf
+  - https://jinyuz.dev/posts/tips-and-tricks/Switching-from-pyenv,-rbenv,-goenv-and-nvm-to-asdf
+  - https://github.com/xermicus/blindspot
+  - https://github.com/zyedidia/eget
+- https://github.com/marcusbuffett/pipe-rename
 - https://github.com/siemens/jailhouse
+- https://github.com/stepchowfun/toast
+- https://github.com/naia-rs/naia-socket
+- https://github.com/mellowcandle/bitwise
+- https://github.com/sqlfluff/sqlfluff
 - https://github.com/benbjohnson/litestream
+- https://github.com/fcsonline/drill
+- https://github.com/adnanh/webhook
 - https://github.com/golang-migrate/migrate
+- https://github.com/webrtcHacks/chromestatus
 - https://github.com/textbrowser/dooble
 - https://github.com/remote-android/redroid-doc
+- https://github.com/sindresorhus/get-port-cli
+- https://github.com/charmbracelet/wish
 - https://github.com/binwiederhier/ntfy
 - https://github.com/qayshp/TestDisk
 - https://github.com/elkowar/eww
+- https://github.com/osandov/drgn
 - https://github.com/abatsakidis/PDFDeSecure
 - https://github.com/mickeynp/combobulate
 - https://github.com/wandersoncferreira/code-review
 - https://github.com/iorate/ublacklist
+- https://github.com/semantic-release/semantic-release
 - https://github.com/proper-testing/proper
   - https://github.com/BurntSushi/quickcheck
 - I need some way to list all the possible tools i can use to look at a problem. might need to build this myself.
@@ -817,7 +961,6 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/postgres-ai/database-lab-engine
 - https://github.com/lief-project/LIEF
 - https://github.com/facebook/flipper
-- https://github.com/debauchee/barrier
 - https://github.com/amir20/dozzle
 - https://github.com/plexsystems/sinker
 - https://github.com/tcdi/pgx
@@ -849,6 +992,7 @@ sudo pacman --needed --noconfirm -S ripgrep
   - https://github.com/cs01/gdbgui
   - https://github.com/hugsy/gef
 - https://github.com/AlexStocks/redis-tool-set
+  - https://github.com/obukhov/redis-inventory
   - https://github.com/rediscookbook/rediscookbook
 - https://github.com/styfle/packagephobia
 - https://github.com/sharkdp/hexyl
@@ -1051,12 +1195,25 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/musically-ut/lovely-forks
 - https://github.com/zenorocha/codecopy
 - https://github.com/klange/nyancat
+- https://github.com/javierbyte/emoji-to-scale
+- https://github.com/norns-study-group/pirate-radio
 - https://github.com/dustinkirkland/hollywood
+- https://github.com/pipeseroni/pipes.sh
+- https://github.com/ahhhh6980/Mosaic
+  - https://github.com/CrociDB/doomoji
+- https://github.com/adi1090x/dynamic-wallpaper
 - https://github.com/yuzu-emu/yuzu
+- https://github.com/TheRawMeatball/meme-cli
+  - https://github.com/beatfreaker/text-meme-cli
+- https://github.com/sindresorhus/emoj
 - https://github.com/caarlos0/org-stats
+- https://github.com/mifi/editly
+- https://github.com/Aloxaf/silicon
+- https://github.com/caarlos0/parttysh
 - https://github.com/achannarasappa/ticker
 - https://github.com/polybar/polybar
 - https://github.com/maaslalani/confetty
+- https://github.com/TheWeirdDev/Bluetooth_Headset_Battery_Level
 - https://github.com/sachac/subed
 - https://github.com/SimulaVR/Simula
 - https://github.com/asciimoo/drawille
@@ -1177,11 +1334,15 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/watson/cheatsheets/blob/master/google-calendar.md need a wiki for these things aswell
 - https://github.com/adri/memex
 - https://github.com/JustinBeckwith/linkinator
+- https://github.com/surge-ai/profanity
 - https://github.com/dundalek/GrammKit
 ### Binary data
 - ar, nm, readelf, objdump
 - https://github.com/angr/angr
 - cgasm, [rappel](https://github.com/yrp604/rappel)
+- https://github.com/tenderlove/asmrepl
+- https://github.com/sharkdp/binocle
+- https://github.com/NationalSecurityAgency/ghidra
 - [GNU Poke](https://www.youtube.com/watch?v=Nwb_8VJ5ZeQ)
 - [ImHex](https://github.com/WerWolv/ImHex)
 ### Network
@@ -1191,8 +1352,18 @@ sudo pacman --needed --noconfirm -S ripgrep
 - [Deprecated Linux networking commands and their replacements](https://dougvitale.wordpress.com/2011/12/21/deprecated-linux-networking-commands-and-their-replacements/)
 - https://github.com/apenwarr/netselect
 - https://github.com/benjojo/sping
+- https://github.com/mehrdadrad/tcpprobe
+- https://github.com/vishnubob/wait-for-it
+- https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/
+- https://github.com/pvarentsov/iola
+- https://github.com/gershnik/wakeonlan
 - https://github.com/Lochnair/xt_tls
 - https://github.com/sshuttle/sshuttle
+- https://github.com/cilium/pwru
+- https://github.com/gwuhaolin/livego
+- https://github.com/nicolaka/netshoot
+- https://github.com/google/stenographer
+- https://github.com/Shopify/toxiproxy
 - https://github.com/ducaale/xh
 - https://github.com/Overv/outrun (what, we do this all the timE)
 - https://github.com/batchcorp/plumber
@@ -1245,10 +1416,26 @@ sudo pacman --needed --noconfirm -S ripgrep
 - http://firehol.org/tutorial/firehol-by-goal/ unsure
 - https://github.com/future-architect/vuls
 - https://github.com/s0md3v/XSStrike
+- https://github.com/sniptt-official/ots
 - https://github.com/medialab/minet
+- https://joern.io/
+- https://github.com/BloodHoundAD/BloodHound
 - https://github.com/inotify-tools/inotify-tools
+- https://github.com/BishopFox/GitGot
+- https://github.com/m4ll0k/SecretFinder
+- https://github.com/achillean/shodan-python
+- https://github.com/AppThreat/dep-scan
+- https://github.com/vysecurity/LinkedInt
+- https://github.com/S3cur3Th1sSh1t/WinPwn
+- https://github.com/jesseduffield/horcrux
+- https://github.com/j3ssie/osmedeus
+- https://github.com/ncase/trust
+- https://github.com/mufeedvh/moonwalk
+- https://github.com/stuhli/awesome-event-ids
 - https://github.com/tejado/android-usb-gadget
 - https://github.com/charmbracelet/melt (explore other tools from this org)
+- https://github.com/ChrisTheCoolHut/Zeratool
+- https://github.com/jedisct1/minisign
 - https://github.com/trufflesecurity/truffleHog
 - https://github.com/androguard/androguard (need a more updated version of this from somewhere)
 - https://github.com/snovvcrash/VeraCryptThief
@@ -1301,6 +1488,7 @@ sudo pacman --needed --noconfirm -S ripgrep
 - https://github.com/taviso/ctftool
 - https://github.com/beurtschipper/Depix
 - https://github.com/mitmproxy/mitmproxy
+  - https://github.com/muzuiget/mitmpcap
 - https://github.com/violentmonkey/violentmonkey
 - https://github.com/orjail/orjail
 - https://github.com/evilsocket/pwnagotchi
@@ -1377,12 +1565,23 @@ Make some app where i can keep track of online tools that i use.
 - [cool backgrounds](https://coolbackgrounds.io/)
 - https://jpeg.rocks/
 - https://squoosh.app/
+- https://github.com/tldraw/tldraw
 - https://github.com/LingDong-/fishdraw
 - https://tradingeconomics.com/india/gdp-growth
+- https://brid.gy/
+- https://chrome.google.com/webstore/detail/what-hacker-news-says/khgegkjchclhgpglloficdmdannlpmoi
+- https://plaintextsports.com/
+- http://shadowcalculator.eu/
+- https://github.com/janeczku/calibre-web
+- https://github.com/chubin/awesome-console-services
+- https://github.com/lukechampine/goldilocks (also added in maps)
+- https://howrichami.givingwhatwecan.org/how-rich-am-i
+- https://population.io/
 - https://github.com/initml/cleanup.pictures
 - https://github.com/calebj0seph/spectro
 - https://github.com/piskelapp/piskel
 - https://github.com/rgab1508/PixelCraft
+- https://github.com/vsueiro/supertunnel
 - https://github.com/tomdionysus/foaas
 - https://github.com/Miodec/monkeytype
 - https://github.com/alyssaxuu/screenity
@@ -1442,6 +1641,9 @@ Make some app where i can keep track of online tools that i use.
 - https://github.com/standardebooks/tools
 - https://github.com/launchbadge/sqlx
 - https://danyspin97.org/blog/improving-linux-packaging-rinstall/
+- https://github.com/hackclub/muse
+- https://github.com/bigscience-workshop/promptsource
+- https://github.com/sinclairzx81/smoke
 
 ## others
 - https://venthur.de/2021-06-26-python-packaging.html
@@ -1455,6 +1657,8 @@ Make some app where i can keep track of online tools that i use.
 - https://github.com/jon4hz/ascii-ssh-movie
 - https://github.com/kripthor/WiFiBeaconJam
 - https://github.com/rofl0r/proxychains-ng
+- https://github.com/LeviBorodenko/primify
+- https://github.com/trishume/telefork
 
 ## Blog inspirations
 - https://manfred.life/
@@ -1478,3 +1682,4 @@ Make some app where i can keep track of online tools that i use.
 - https://github.com/julius-speech/julius
 - https://github.com/alphacep/vosk-api
 - https://github.com/ideasman42/nerd-dictation
+- https://github.com/babysor/MockingBird

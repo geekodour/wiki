@@ -13,6 +13,7 @@ sidebar_label: Self Hosting
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://github.com/schollz/hostyoself
 - https://github.com/IceWhaleTech/CasaOS
+- https://github.com/GrrrDog/weird_proxies
 - https://github.com/tycrek/degoogle
 - https://github.com/nikitavoloboev/privacy-respecting
 - https://sirupsen.com/metrics
@@ -22,7 +23,13 @@ sidebar_label: Self Hosting
 - https://github.com/sergiomarotco/Network-segmentation-cheat-sheet
 - https://github.com/netbox-community/netbox
 - https://github.com/RunaCapital/awesome-oss-alternatives
+- https://andreas.welcomes-you.com/zfs-risc-v-512mb-lichee-rv/
 
+## diagramming
+- https://www.cloudcraft.co/
+- https://docs.microsoft.com/en-us/azure/architecture/browse/
+- https://c4model.com/
+- https://icepanel.io/
 
 ## DNS/Ad Blocking
 - https://github.com/AdguardTeam/AdGuardHome
@@ -55,9 +62,19 @@ sidebar_label: Self Hosting
 
 ## Hosting
 - Caddy : for hosting personal websites
+- nginx for some other websites
+- https://github.com/squat/kilo
 - https://github.com/getumbrel/umbrel
 - https://github.com/pulumi/pulumi small shit apps
+- https://github.com/thecodingmachine/workadventure
 - https://github.com/groundnuty/k8s-wait-for
+- https://github.com/EsperoTech/yaade
+  - https://github.com/hoppscotch/hoppscotch
+- https://github.com/robrotheram/gogallery
+- https://github.com/nocodb/nocodb
+- https://github.com/sigstore/cosign
+- https://github.com/charmbracelet/soft-serve
+- https://github.com/jonaswinkler/paperless-ng
 - https://github.com/offen/offen
 - https://github.com/k8s-at-home/awesome-home-kubernetes
 - https://github.com/gerbera/gerbera
@@ -83,8 +100,10 @@ sidebar_label: Self Hosting
 - https://github.com/knadh/listmonk
 - https://github.com/djyde/cusdis
 - https://github.com/amritb/poor-mans-vpn
+- https://github.com/matrix-org/synapse
 - https://github.com/ndbeals/keep-exporter
 - https://github.com/PrivateBin/PrivateBin
+- https://github.com/GOATS2K/overpass
 - https://github.com/reviewdog/reviewdog
   - https://github.com/houndci/hound
 - https://www.monicahq.com for contacts CRM
@@ -104,10 +123,16 @@ sidebar_label: Self Hosting
 - [Glauth](https://github.com/glauth/glauth): A lightweight LDAP server for development, home use, or CI 
 - https://github.com/pomerium/pomerium
 - pass/bitwarden/keybase/tail/yubi (security setup)
+  - https://github.com/drduh/YubiKey-Guide
 - https://github.com/authelia/authelia
 - https://github.com/appvia/krane
 - https://github.com/kanidm/kanidm
+- https://bastian.rieck.me/blog/posts/2022/server/
+- https://github.com/crowdsecurity/crowdsec
+- https://news.ycombinator.com/item?id=30655479
 - https://github.com/gravitational/teleport
+  - https://goteleport.com/blog/why-sso-sucks/
+- https://github.com/panther-labs/panther-analysis
 - https://github.com/external-secrets/external-secrets
 - https://github.com/pglombardo/PasswordPusher
 - https://github.com/ory/hydra
@@ -143,10 +168,12 @@ sidebar_label: Self Hosting
 - [BorgBackup](https://www.borgbackup.org/) and [rsync.net](https://www.rsync.net/index.html)
 - https://github.com/andrewchambers/bupstash
 - https://github.com/mickael-kerjean/filestash
+- https://github.com/easimon/maximize-build-space
 
 ## Information sharing
 - https://github.com/AboutRSS/ALL-about-RSS
 - https://github.com/stringer-rss/stringer
+- https://github.com/benbusby/whoogle-search
 - https://github.com/LemmyNet/lemmy
 - https://github.com/Mailtrain-org/mailtrain
 - [BookstackApp](https://www.bookstackapp.com/): BookStack is a simple, self-hosted, easy-to-use platform for organising and storing information. ( I plan to use to store book reviews of all books)
@@ -167,9 +194,12 @@ sidebar_label: Self Hosting
 - [Tailscale](https://github.com/tailscale/tailscale)
 - https://brokenco.de//2021/06/06/high-density-homelab.html
 - https://github.com/pirate/wireguard-docs (VPN) for experimenting we can probably run tailscale and wireguard both, This is really good resource
+- https://github.com/netbirdio/netbird
 - https://github.com/gravitl/netmaker
 - https://github.com/qdm12/gluetun
 - https://github.com/aquasecurity/tfsec
+- https://github.com/safing/portmaster
+- https://github.com/hstreamdb/hstream
 - https://github.com/hyprspace/hyprspace
 - https://github.com/caronc/apprise
 - https://github.com/thatmattlove/hyperglass
@@ -180,8 +210,21 @@ sidebar_label: Self Hosting
 - https://github.com/honeycombio/refinery
 - https://github.com/DavidWells/analytics
 - https://github.com/PostHog/posthog
+- https://github.com/louislam/uptime-kuma
+- https://github.com/roshan8/slo-tracker
+- https://github.com/parca-dev/parca
+- https://github.com/quickwit-oss/quickwit
+- https://github.com/SpectralOps/keyscope
+- https://github.com/hauxir/errorpush
+- https://github.com/fastmail/towncrier
+- https://github.com/bors-ng/bors-ng
+- https://github.com/ossf/scorecard
+- https://github.com/cyberark/KubiScan
+- https://github.com/Checkmarx/kics
 - https://github.com/28mm/blast-radius
+- https://github.com/hubblo-org/scaphandre
 - https://github.com/Enapiuz/awesome-monitoring
+- https://github.com/periskop-dev/periskop
 - https://github.com/plausible/analytics
 - https://github.com/parkr/ping
 - https://github.com/paschmann/changd
@@ -215,12 +258,14 @@ sidebar_label: Self Hosting
 - https://github.com/prymitive/karma
 
 ## Archiving
+- https://github.com/geerlingguy/my-backup-plan
 - [heritrix3](https://github.com/internetarchive/heritrix3)
 - [colly](https://github.com/gocolly/colly)
 - https://github.com/ArchiveBox/ArchiveBox
 - https://github.com/i5ik/22120
 - https://github.com/Jwink3101/syncrclone
 - https://github.com/geph-official/geph4
+- https://github.com/Clivern/Walrus
 - https://github.com/uriel1998/muna
 - https://github.com/pentacent/keila
 - https://github.com/Shopify/ghostferry
@@ -231,6 +276,7 @@ sidebar_label: Self Hosting
 - https://lidarr.audio/
 - https://github.com/varbhat/exatorrent
 - https://github.com/sebgl/htpc-download-box
+- https://github.com/Dusk-Labs/dim
 - https://github.com/Luminarys/synapse
 - https://github.com/devsnd/cherrymusic
 - https://github.com/IrosTheBeggar/mStream

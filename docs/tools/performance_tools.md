@@ -49,3 +49,6 @@ $ ps -p 322453 -u
 # then feed it to `grep`, grep will slowly consume 4GB of memory.
 $ yes | tr \\n x | head -c $BYTES | grep showmedamoney
 ```
+
+## Books
+- https://github.com/dendibakh/perf-book
