@@ -63,6 +63,7 @@ sidebar_label: Blogs
 
 - [Notation and thought](https://github.com/hypotext/notation)
 - [jameshk/research](https://jameshk.com/research)
+- https://fronterablog.com/mental-model-examples-and-their-explanations/
 - https://untools.co/
 - https://github.com/GavinMendelGleason/many_worlds
 - https://paulbricman.com/thoughtware/semantica

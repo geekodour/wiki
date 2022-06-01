@@ -26,6 +26,7 @@ I had a GitHub repository called `geekodour/oneshot`(no longer public) for stori
 ## Compilers
 
 - https://github.com/aprell/compiler-potpourri
+- https://github.com/compiler-explorer/compiler-explorer
 - [Resources for Amateur Compiler Writers](http://c9x.me/compile/bib/)
 - [Hello world program in esoteric languages](https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages)
 - https://github.com/tree-sitter/tree-sitter

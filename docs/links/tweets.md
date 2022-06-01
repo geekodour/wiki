@@ -53,6 +53,7 @@ sidebar_label: Tweets
 - https://twitter.com/vgr/status/1204884591598686208
 - https://twitter.com/kushaanshah/status/1500501827120353287
 - https://twitter.com/adityaagrw/status/1500115866935267331
+- https://twitter.com/10kdiver/status/1380942728222011395
 - https://twitter.com/samjawed65/status/1499980556091670528
 - https://twitter.com/FarzaTV/status/1488965852519022592
 - https://twitter.com/visakanv/status/1487465133123448832

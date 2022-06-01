@@ -15,7 +15,7 @@ sidebar_label: Security
 Read links will be removed and added somewhere else where they fit better.
 
 ### general
-
+- https://github.com/sweis/crypto-might-not-suck
 - [Keyrings](https://askubuntu.com/questions/32164/what-does-a-keyring-do)
 - [How to Secure Anything](https://github.com/veeral-patel/how-to-secure-anything)
 - https://github.com/corkami/collisions
@@ -99,3 +99,4 @@ Read links will be removed and added somewhere else where they fit better.
 - https://github.com/jonaschn/awesome-he
 - https://github.com/DavidBuchanan314/ambiguous-png-packer
 - https://github.com/Lisa-Katharina/masterthesis
+- https://github.com/danielmiessler/SecLists

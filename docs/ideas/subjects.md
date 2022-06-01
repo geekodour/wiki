@@ -8,6 +8,7 @@ sidebar_label: Interesting Subjects
 - [Nondualism](https://en.wikipedia.org/wiki/Nondualism)
 - [Extropianism](https://en.wikipedia.org/wiki/Extropianism)
 - [Cybernetics](http://pespmc1.vub.ac.be/ASHBBOOK.html)
+- Cartography
 
 ## Cooking and Health
 - https://www.reciperadar.com/

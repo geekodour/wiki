@@ -10,6 +10,9 @@ sidebar_label: Dump
 - https://github.com/costela/wesher
 - https://bits.coop/#
 - https://www.meshtastic.org/
+- https://github.com/LingDong-/fishdraw
+- https://github.com/sinclairzx81/smoke
+- https://github.com/LeviBorodenko/primify
 - https://www.lulu.com/
 - https://zenx.medium.com/so-you-want-to-buy-a-farm-c56af5d85a7e
 - http://www.cookingforengineers.com/
@@ -21,6 +24,7 @@ sidebar_label: Dump
 - http://popcornlinux.org/
 - https://github.com/brantou/reading/issues uses tags!
 - https://party.lol/# (private part by gun founder)
+- https://knots3d.com/
 - https://astexplorer.net/
 - [Aerialod @ ephtracy (Win v0.0.1)](https://ephtracy.github.io/index.html?page=aerialod#ss-carousel_ss)
 - https://twitter.com/rajbhagatt/status/1260588325846560774

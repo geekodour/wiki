@@ -10,21 +10,30 @@ sidebar_label: Self Hosting
 - I will never install directly from github, promise. If i have to i'll always create AUR package and download my own shit.
 - I am done with using other ppl code (subjective)
 - https://chown.me/blog/infrastructure-2020
+- https://github.com/snarfed/granary
+- https://news.ycombinator.com/item?id=31534316
+- https://github.com/mingrammer/diagrams
+  - https://swimlanes.io/
+- https://github.com/emitter-io/emitter
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://github.com/schollz/hostyoself
 - https://github.com/IceWhaleTech/CasaOS
 - https://github.com/GrrrDog/weird_proxies
+- https://github.com/msoap/shell2http
 - https://github.com/tycrek/degoogle
 - https://github.com/nikitavoloboev/privacy-respecting
 - https://sirupsen.com/metrics
 - https://perfectmediaserver.com/index.html (important)
+- https://github.com/hacdias/eagle
 - https://github.com/doitintl/secure-gcp-reference
 - https://github.com/thaum-xyz/ankhmorpork
 - https://github.com/sergiomarotco/Network-segmentation-cheat-sheet
 - https://github.com/netbox-community/netbox
 - https://github.com/RunaCapital/awesome-oss-alternatives
 - https://andreas.welcomes-you.com/zfs-risc-v-512mb-lichee-rv/
-
+- https://github.com/linuxserver/Heimdall : I need a way to list all applications web, cli, mobile etc i am using at one place and have notes(multiple) about them. Have a way to debug them easily from there. For any problem at hand i should be able to see what are the tools i can use only after thinking what are the tools that i need. Hamidall still fills a different usecase.
+  - https://cockpit-project.org/
+  - https://github.com/jeroenpardon/sui this is for listing all my self hosted public applications. for local ones i can keep using hamidall
 ## diagramming
 - https://www.cloudcraft.co/
 - https://docs.microsoft.com/en-us/azure/architecture/browse/
@@ -34,6 +43,7 @@ sidebar_label: Self Hosting
 ## DNS/Ad Blocking
 - https://github.com/AdguardTeam/AdGuardHome
 - https://github.com/whytheplatypus/switchboard
+- https://github.com/looterz/grimd
 - https://github.com/honeytrap/honeytrap
 - https://github.com/thinkst/opencanary
 - https://github.com/octodns/octodns for managing my self hosted shit
@@ -60,25 +70,53 @@ sidebar_label: Self Hosting
 - https://github.com/anderspitman/awesome-tunneling
 - https://github.com/joeyates/imap-backup
 
+## Database
+- https://github.com/supabase/postgres	
+- https://github.com/darold/pgbadger	
+- https://github.com/postgres-ai/database-lab-engine	
+- https://github.com/tcdi/pgx	
+- https://github.com/turbot/steampipe
+- https://pgstats.dev/
+- https://github.com/batchcorp/plumber
+- https://github.com/dbgate/dbgate
+
 ## Hosting
 - Caddy : for hosting personal websites
+- https://github.com/owncast/owncast
+- https://github.com/Waboodoo/HTTP-Shortcuts
 - nginx for some other websites
+- https://github.com/shlinkio/shlink
+- https://github.com/ntop/ntopng
+- https://github.com/joshdick/microstat
+- https://github.com/haxpax/gosms
 - https://github.com/squat/kilo
 - https://github.com/getumbrel/umbrel
 - https://github.com/pulumi/pulumi small shit apps
 - https://github.com/thecodingmachine/workadventure
+- https://github.com/benbjohnson/litestream
+- https://github.com/golang-migrate/migrate
+- https://github.com/freqtrade/freqtrade
+- danbooru 
+- https://github.com/tsileo/microblog.pub
+- https://github.com/discourse/discourse
+- https://github.com/gwuhaolin/livego
+- https://github.com/plexsystems/sinker
 - https://github.com/groundnuty/k8s-wait-for
 - https://github.com/EsperoTech/yaade
   - https://github.com/hoppscotch/hoppscotch
 - https://github.com/robrotheram/gogallery
 - https://github.com/nocodb/nocodb
 - https://github.com/sigstore/cosign
+- https://github.com/cenkalti/rain
 - https://github.com/charmbracelet/soft-serve
 - https://github.com/jonaswinkler/paperless-ng
 - https://github.com/offen/offen
 - https://github.com/k8s-at-home/awesome-home-kubernetes
+- https://pushover.net/
+- https://github.com/dimitri/pgcopydb
 - https://github.com/gerbera/gerbera
 - https://github.com/sabre-io/Baikal
+- https://github.com/NerdWalletOSS/shepherd
 - Move personal projects to sr.ht maybe or maybe self host git, maybe not initially
 - https://github.com/hashicorp/nomad this prolly will be a good idea
 - https://dokku.com/docs/
@@ -86,6 +124,7 @@ sidebar_label: Self Hosting
 - https://github.com/LycheeOrg/Lychee
 - https://github.com/arackaf/booklist
 - https://github.com/marcinguy/scanmycode-ce
+- https://github.com/caesiumstudio/csBooks-updates
 - https://github.com/firefly-iii/firefly-iii
 - https://github.com/schn4ck/schnack
 - https://github.com/pixelfed/pixelfed
@@ -102,6 +141,7 @@ sidebar_label: Self Hosting
 - https://github.com/amritb/poor-mans-vpn
 - https://github.com/matrix-org/synapse
 - https://github.com/ndbeals/keep-exporter
+- https://github.com/umputun/rss2twitter
 - https://github.com/PrivateBin/PrivateBin
 - https://github.com/GOATS2K/overpass
 - https://github.com/reviewdog/reviewdog
@@ -122,6 +162,7 @@ sidebar_label: Self Hosting
 ## Auth
 - [Glauth](https://github.com/glauth/glauth): A lightweight LDAP server for development, home use, or CI 
 - https://github.com/pomerium/pomerium
+- https://github.com/segmentio/chamber
 - pass/bitwarden/keybase/tail/yubi (security setup)
   - https://github.com/drduh/YubiKey-Guide
 - https://github.com/authelia/authelia
@@ -194,9 +235,13 @@ sidebar_label: Self Hosting
 - [Tailscale](https://github.com/tailscale/tailscale)
 - https://brokenco.de//2021/06/06/high-density-homelab.html
 - https://github.com/pirate/wireguard-docs (VPN) for experimenting we can probably run tailscale and wireguard both, This is really good resource
+- https://ninad.pundaliks.in/blog/2020/12/thrift-vpn/
+  - https://shadowsocks.org/en/index.html
+  - https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028
 - https://github.com/netbirdio/netbird
 - https://github.com/gravitl/netmaker
 - https://github.com/qdm12/gluetun
+- https://github.com/balena-os/wifi-connect
 - https://github.com/aquasecurity/tfsec
 - https://github.com/safing/portmaster
 - https://github.com/hstreamdb/hstream
@@ -206,7 +251,10 @@ sidebar_label: Self Hosting
 
 ## Monitoring
 - Prometheus&Grafana : no brainer
+- https://github.com/binwiederhier/ntfy
 - https://github.com/samber/awesome-prometheus-alerts
+- https://oss.oetiker.ch/smokeping/ 
+- https://www.cs.swarthmore.edu/~finney/proj/wuzzah/
 - https://github.com/honeycombio/refinery
 - https://github.com/DavidWells/analytics
 - https://github.com/PostHog/posthog
@@ -285,6 +333,7 @@ sidebar_label: Self Hosting
 - https://radarr.video/#downloads-v3-linux
 - [Funkwhale](https://funkwhale.audio/en_US/)
 - [Replacing YouTube & Invidious](https://secluded.site/replacing-youtube-invidious/)
+- nitter
 - [DIY Video Hosting](https://tyler.io/diy-video-hosting/)
 - https://grocy.info/
 - need some server to store movies and audio books etc.

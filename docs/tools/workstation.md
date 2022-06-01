@@ -6,6 +6,19 @@ sidebar_label: Workstation
 
 > Things related to workstation and homelab
 
+## k8s
+- https://github.com/alexellis/k3sup 
+- https://github.com/bloomberg/goldpinger
+- https://github.com/derailed/k9s
+- https://github.com/icy/gk8s#seriously-why-dont-just-use-kubectl-config
+- https://www.atomiccommits.io/everything-useful-i-know-about-kubectl
+- https://github.com/pch/dotfiles/blob/master/kubernetes/utils.zsh
+- https://github.com/nicolaka/netshoot
+- https://github.com/ahmetb/kubectx
+- https://github.com/sbstp/kubie
+- https://github.com/itaysk/kubectl-neat
+- https://github.com/databricks/click
+
 ## Homelab related blogposts
 - https://github.com/aaqaishtyaq/lab
 - [Raspberry Pi as a local server for self hosting applications](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/)
@@ -17,7 +30,11 @@ sidebar_label: Workstation
 - [Workstation guide](https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide)
 - [How To Setup Pi-hole On A Synology NAS](https://kevq.uk/how-to-setup-pi-hole-on-a-synology-nas/)
   - https://github.com/sterrenburg/flutterhole
+- https://github.com/batfish/batfish
 - https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/
+- https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/
+- https://github.com/netbirdio/netbird
+- https://github.com/Foxboron/sbctl
 - https://www.reddit.com/r/darknetplan/comments/rg6dyv/yggdrasil_and_routers/
   - https://github.com/yggdrasil-network/public-peers
   - https://github.com/matrix-org/pinecone
@@ -71,6 +88,8 @@ sidebar_label: Workstation
 - https://github.com/iiab/iiab
 - https://www.nycmesh.net/
 - https://github.com/supersat/tlsmy.net
+- https://github.com/GlasgowEmbedded/glasgow
+- https://safeboot.dev/install/
 - https://github.com/kurthildebrand/hyperspace
 - https://l-o-o-s-e-d.net/vim-clutch
 - [openhaystack](https://github.com/seemoo-lab/openhaystack): Build your own 'AirTags' label today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network. 
@@ -130,3 +149,4 @@ sidebar_label: Workstation
 - https://github.com/kaiokot/gpod
 - https://github.com/antirez/pngtostl
 - https://news.ycombinator.com/item?id=30803589
+- https://www.bramadams.dev/projects/invest-in-lights

@@ -22,7 +22,22 @@ sidebar_label: Web 3.0
 - https://indicnlp.ai4bharat.org/samanantar/
 - [conifer : WebRecorder Service](https://conifer.rhizome.org/)
 - https://archive.org/details/Ambedkar_CompleteWorks/01.Caste%20in%20India
+- https://github.com/MontFerret/ferret
 - https://github.com/gilesbowkett/rewind
+- https://github.com/reanalytics-databoutique/webscraping-open-project
+- https://github.com/sahib/brig
+- https://github.com/DeploySentinel/Recorder
+- https://github.com/ciur/papermerge
+- https://github.com/ianhan/BitmapFonts
+- https://news.google.com/newspapers?nid=P9oYG7HA76QC&dat=19630731&b_mode=2&hl=en
+- https://freeyourstuff.cc/
+- https://github.com/Skallwar/suckit
+- https://github.com/mholt/archiver
+- https://github.com/ngosang/trackerslist
+- https://github.com/TheDiscordian/ipfs-sync
+- https://github.com/microlinkhq/metascraper
+- https://github.com/makeworld-the-better-one/amfora
+- https://github.com/iipc/awesome-web-archiving
 - https://github.com/lucasdavid/wikiart
 - https://github.com/daveshap/PlainTextWikipedia
 - https://github.com/vmbrasseur/iadownload
@@ -285,6 +300,7 @@ Webmention is a W3C recommendation that describes a simple protocol to notify an
 - [The Square Crypto Book of Bitcoin Mythology](https://bitcoinmythology.org/)
 - https://github.com/jashmenn/cryptocurrencies-in-four-words
 - https://jacob.energy/hyperstructures.html
+- https://github.com/OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
 - https://github.com/MrChrisJ/World-Citizenship
 - https://github.com/ghuntley/thenftbay.org
 - https://github.com/publiusfederalist/federalist

@@ -51,6 +51,10 @@ sidebar_label: Timelines
 - https://www.peakfinder.org/
 - https://www.heywhatsthat.com/
 - https://caltopo.com/map.html
+- https://news.ycombinator.com/item?id=31536217
+- http://shadowcalculator.eu/#/lat/50.08/lng/19.9
+- https://github.com/rastapasta/mapscii
+- https://github.com/schollz/find3
 - https://github.com/peermaps/mixmap-georender
 - https://github.com/earthlab/earthpy
 - https://github.com/matkoniecz/lunar_assembler

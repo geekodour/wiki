@@ -194,6 +194,11 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 - [observability replacing monitoring](https://twitter.com/el_bhs/status/1349406398388400128)
 - [About cardanility](https://twitter.com/el_bhs/status/1360276734344450050)
 - https://twitter.com/el_bhs/status/1375236202949799938
+- https://klarasystems.com/articles/basics-of-zfs-snapshot-management/
+  - https://github.com/jimsalterjrs/sanoid
+  - https://github.com/presslabs/z3
+- https://speedtestdemon.com/a-guide-to-curls-performance-metrics-how-to-analyze-a-speed-test-result/
+- https://github.com/librariesio/metrics
 
 ## Web
 - https://coywolf.pro/webmaster/cloudflare-stream/
@@ -297,6 +302,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 
 ## Misc
 
+- https://architecturenotes.co/datasette-simon-willison/
 - [How to store data forever](https://drewdevault.com/2020/04/22/How-to-store-data-forever.html)
 - [trace art](https://esoteric.codes/blog/stack-trace-art)
 - [What I've learned about data recently](https://seldo.com/posts/what-i-ve-learned-about-data-recently)
@@ -451,6 +457,7 @@ See the main [case studies page for summaries.](/docs/notes/case_studies)
 
 ## Programming
 
+- https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14
 - [Faster Integer Parsing](https://kholdstare.github.io/technical/2020/05/26/faster-integer-parsing.html)
 - https://github.com/phoboslab/qoi
 - [Discord switching from go to rust](https://blog.discord.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)

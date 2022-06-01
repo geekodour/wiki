@@ -9,6 +9,10 @@ sidebar_label: Open Source Projects
 ## Meta
 - https://github.com/multiformats/multiformats
 
+## Translations
+- https://github.com/argosopentech/argos-translate
+- https://github.com/LibreTranslate/LibreTranslate
+
 ## Libraries
 - [matt-auckland/retro-css](https://github.com/matt-auckland/retro-css): A list of retro-inspired CSS frameworks and design systems 
 - [Online text to diagram tools](https://xosh.org/text-to-diagram/)
@@ -43,6 +47,8 @@ sidebar_label: Open Source Projects
 - https://github.com/lukeed/sockette
 - https://github.com/naia-rs/naia
 - https://github.com/lvgl/lvgl
+- https://github.com/tqdm/tqdm
+- https://mediasoup.org/
 - https://github.com/fyne-io/fyne
 - https://evervault.com/?s=09
 - https://github.com/steveruizok/perfect-arrows
@@ -50,8 +56,10 @@ sidebar_label: Open Source Projects
 - https://github.com/oblador/loki
 - https://github.com/pdbpp/pdbpp
 - https://git.sr.ht/~gregkh/presentation-non-tech-security
+- https://github.com/Sangarshanan/jazzit
 - https://github.com/estevanmaito/windmill-dashboard
 - https://github.com/keith-turner/ecoji
+- https://github.com/Redocly/redocly-cli
 - https://github.com/vectordotdev/vector
 - https://github.com/cloudflare/tableflip
 - https://github.com/ritelabs/riteraft
@@ -70,6 +78,9 @@ sidebar_label: Open Source Projects
 - https://github.com/hathach/tinyusb
 - https://github.com/aduros/wasm4
 - https://github.com/kciter/qart.js
+- https://github.com/checkly/headless-recorder
+- https://github.com/docker-slim/docker-slim
+  - https://github.com/GoogleContainerTools/distroless
 - https://github.com/taiki-e/cargo-hack
 - https://github.com/gschup/ggrs
 - https://github.com/jsoma/tabletop

@@ -28,15 +28,32 @@ sidebar_label: Idea Pantry
 
 ## Side Project Tools
 - https://bootstrappingcalculator.com/
+- https://github.com/teenyicons/teenyicons
+- https://github.com/vishnubob/wait-for-it
+- https://coolbackgrounds.io/
+- https://jpeg.rocks/
+  - https://squoosh.app/
+- https://github.com/tldraw/tldraw
+- https://github.com/calebj0seph/spectro
+- https://github.com/bestony/logoly
 - https://ec2.shop/
+- https://github.com/evanw/esbuild for webapps, try elm and slevetle or whatever that is
+- https://github.com/moul/rules.mk
+- https://github.com/kdabir/has
 - Instagram public API: `https://www.instagram.com/___aryan___/?__a=1`
 - [instant.page](https://instant.page/): Make your site’s pages instant in 1 minute and improve your conversion rate noticeably. , https://github.com/GoogleChromeLabs/quicklink
 - https://github.com/sw-yx/spark-joy
 - https://github.com/uetchy/namae
+- https://github.com/arvindell/envful
+- https://github.com/axa-group/Parsr
+- https://github.com/conventional-changelog/commitlint
+  - https://github.com/typicode/husky
+  - https://github.com/styfle/packagephobia
 - https://www.causal.app/saas-metrics
 - https://github.com/AutoSpotting/AutoSpotting
 - https://github.com/tvler/laundry-symbols
 - https://github.com/gmrchk/blobity
+- https://github.com/contribsys/faktory
 - https://github.com/yosriady/api-development-tools
 - https://github.com/imazen/imageflow
 - https://github.com/segmentio/ksuid
@@ -46,6 +63,7 @@ sidebar_label: Idea Pantry
 - https://github.com/HttpErrorPages/HttpErrorPages
 - https://github.com/kamranahmedse/brusher
 - https://github.com/earthly/earthly
+- https://github.com/typpo/asterank
 - https://github.com/papercups-io/papercups
 - https://github.com/remotion-dev/remotion
 - https://github.com/fogleman/primitive
@@ -69,6 +87,7 @@ sidebar_label: Idea Pantry
 
 ## SAAS
 - https://blog.thea.codes/winterblooms-tech-stack/
+- https://github.com/tomdionysus/foaas
 - https://publish.obsidian.md/swyx/R+-+Product/Launch+Cheatsheet
 - https://dlopuch.github.io/venture-dealr/ nice
 - https://github.com/smirnov-am/awesome-saas-boilerplates

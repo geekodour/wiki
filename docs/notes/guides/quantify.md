@@ -19,6 +19,7 @@ Self Quantification
 - https://www.youtube.com/watch?v=cf_vX0vDckM
 - https://github.com/nicbou/timeline : This software collects my data (files, articles, comments, geolocation...) from different sources, and displays it on a timeline. It's a mix between a personal diary, a personal history, photo stream and backup tool.
 - https://github.com/metabase/metabase Use metabase to visualize things : https://github.com/mr-karan/swiggy-analytics/tree/master/swiggy_analytics
+- https://github.com/davidhampgonsalves/life-dashboard
 - https://github.com/tmcw/running-for-nerds
 - https://github.com/sourcegraph/thyme
 - A personal CMS of people is super important, otherwise its so hard to get to know ppl.
@@ -26,6 +27,7 @@ Self Quantification
 - https://github.com/turbomaze/28-hour-day
 - https://github.com/twintproject/twint
 - https://github.com/zuchka/grafana-docs-exporter nice way to keep track of how my wiki/knowledge base grows
+- https://github.com/wtfutil/wtf
 - https://github.com/vaguileradiaz/tinfoleak
 - https://github.com/phiresky/timetrackrs
 - https://github.com/larose/utt
