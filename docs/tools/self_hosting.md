@@ -322,6 +322,7 @@ sidebar_label: Self Hosting
 ## Entertainment
 - [Jellyfin](https://jellyfin.org/): Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached. Your media, your server, your way.
 - https://lidarr.audio/
+- https://lobste.rs/s/n6o6ez/move_away_from_streaming_platforms_take
 - https://github.com/varbhat/exatorrent
 - https://github.com/sebgl/htpc-download-box
 - https://github.com/Dusk-Labs/dim
