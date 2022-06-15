@@ -22,6 +22,7 @@ sidebar_label: Web 3.0
 - https://indicnlp.ai4bharat.org/samanantar/
 - [conifer : WebRecorder Service](https://conifer.rhizome.org/)
 - https://archive.org/details/Ambedkar_CompleteWorks/01.Caste%20in%20India
+- https://github.com/medialab/minet
 - https://github.com/MontFerret/ferret
 - https://github.com/gilesbowkett/rewind
 - https://github.com/reanalytics-databoutique/webscraping-open-project

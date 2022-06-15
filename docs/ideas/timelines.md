@@ -47,6 +47,7 @@ sidebar_label: Timelines
 - https://www.trufi-association.org/video-why-open-data-matters-for-cycling-visualizing-a-cycling-city/
 - https://news.ycombinator.com/item?id=30764095 Elecrtricty map
 - https://github.com/lukechampine/goldilocks
+- https://anvaka.github.io/peak-map/#6.01/48.802/-117.126 🌟
 - https://hdersch.github.io/
 - https://www.peakfinder.org/
 - https://www.heywhatsthat.com/
@@ -61,6 +62,9 @@ sidebar_label: Timelines
 - https://www.halcyonmaps.com/map-of-the-internet-2021/
 - https://github.com/shuding/cobe
 - https://github.com/hotosm/toolbox
+- https://vis.gl/
+- https://github.com/w3reality/three-geo
+- https://github.com/ptabriz/FOSS4G_workshop
 - https://wiki.openstreetmap.org/wiki/Mkgmap/help/How_to_create_a_map
 - https://github.com/activityworkshop/GpsPrune
 - https://github.com/keplergl/kepler.gl

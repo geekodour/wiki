@@ -30,7 +30,7 @@ $ kubectl exec -it <pod-name> -- /bin/bash
 - Our cluster(nodes, pods) is one big flat IP network, no NAT etc in between, namespaces are not a security feature.
 - K8s does not mandate any particular implementations, currently lists about [15 different implementations.](https://kubernetes.io/docs/concepts/cluster-administration/networking/#how-to-implement-the-kubernetes-networking-model)
 - A _service_(L4) is a stable address for a pod/bunch of pods(L3). You can do L2 networks in K8s but many cloud providers don't allow it.
-- By default everything can reach everything, we can add network policies to address this.
+- [ ] By default everything can reach everything, we can add network policies to address this.
 
 ### Links (Unread)
 

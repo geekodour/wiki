@@ -18,6 +18,7 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 - [The Computer Language Benchmarks Game](https://en.wikipedia.org/wiki/The_Computer_Language_Benchmarks_Game)
 - [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code)
 - [Esolang](https://esolangs.org/wiki/Main_Page)
+- https://mystery.knightlab.com/
 - https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html
 - http://jimbly.github.io/regex-crossword
 - https://github.com/karan/Projects-Solutions

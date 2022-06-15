@@ -59,6 +59,7 @@ sidebar_label: Idea Pantry
 - https://github.com/segmentio/ksuid
 - https://github.com/beizhedenglong/rough-charts
 - https://github.com/alvaromontoro/almond.css
+- https://hash.ai/
 - https://github.com/woltapp/blurhash
 - https://github.com/HttpErrorPages/HttpErrorPages
 - https://github.com/kamranahmedse/brusher

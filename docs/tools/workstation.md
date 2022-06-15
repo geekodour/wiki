@@ -22,9 +22,13 @@ sidebar_label: Workstation
 ## Homelab related blogposts
 - https://github.com/aaqaishtyaq/lab
 - [Raspberry Pi as a local server for self hosting applications](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/)
+- https://news.ycombinator.com/item?id=26380520
+- https://wiringbits.net/wiringbits/2020/06/07/a-raspberry-pi-as-a-decent-residential-proxy.html
 - [Ansible-defined Homelab](https://0xc45.com/blog/ansible-defined-homelab/)
 - [Home Lab Beginners guide – Hardware](https://haydenjames.io/home-lab-beginners-guide-hardware/)
 - https://christine.website/blog/my-homelab-2021-06-08
+- https://github.com/captn3m0/hello-cloudflare
+- https://0x90.psaux.io/2020/03/01/Taking-Back-What-Is-Already-Yours-Router-Wars-Episode-I/
 - https://github.com/khuedoan/homelab
 - https://healeycodes.com/listening-to-satellites-with-my-raspberry-pi/
 - [Workstation guide](https://lobste.rs/s/0t2llm/ultra_geek_linux_workstation_guide)
@@ -145,6 +149,7 @@ sidebar_label: Workstation
 - https://github.com/Jana-Marie/otterlinear-keyboard
 - https://github.com/joeycastillo/Sensor-Watch
 - https://github.com/mkrl/misbrands
+- https://fabiensanglard.net/nousb/index.html
 - https://github.com/cubic-print/timeframe
 - https://github.com/kaiokot/gpod
 - https://github.com/antirez/pngtostl

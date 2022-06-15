@@ -173,6 +173,7 @@ The `/dev` tree contains device nodes, which gives user space access to the devi
 - https://kernelnewbies.org/RootFileSystem
   > [Rules on accessing `sysfs`](https://www.kernel.org/doc/html/latest/admin-guide/sysfs-rules.html)
 - https://www.one-tab.com/page/UU3KiBdnRZujYl3cnNY_ZQ
+- https://github.com/NieDzejkob/cursedfs
 
 ## Things people say
 

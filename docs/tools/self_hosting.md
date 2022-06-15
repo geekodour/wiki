@@ -17,6 +17,7 @@ sidebar_label: Self Hosting
 - https://github.com/emitter-io/emitter
 - https://github.com/awesome-selfhosted/awesome-selfhosted
 - https://github.com/schollz/hostyoself
+- https://github.com/AnalogJ/scrutiny
 - https://github.com/IceWhaleTech/CasaOS
 - https://github.com/GrrrDog/weird_proxies
 - https://github.com/msoap/shell2http
@@ -90,6 +91,7 @@ sidebar_label: Self Hosting
 - https://github.com/joshdick/microstat
 - https://github.com/haxpax/gosms
 - https://github.com/squat/kilo
+- https://bridge.grumpy-troll.org/2020/07/small-mailserver-bcp/
 - https://github.com/getumbrel/umbrel
 - https://github.com/pulumi/pulumi small shit apps
 - https://github.com/thecodingmachine/workadventure

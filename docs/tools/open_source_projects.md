@@ -57,6 +57,9 @@ sidebar_label: Open Source Projects
 - https://github.com/pdbpp/pdbpp
 - https://git.sr.ht/~gregkh/presentation-non-tech-security
 - https://github.com/Sangarshanan/jazzit
+- https://github.com/getredash/redash
+- https://github.com/benbjohnson/litestream
+- https://github.com/ThreeDotsLabs/watermill
 - https://github.com/estevanmaito/windmill-dashboard
 - https://github.com/keith-turner/ecoji
 - https://github.com/Redocly/redocly-cli
