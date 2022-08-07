@@ -8,27 +8,6 @@ A list of educational projects that one could try. Maybe i'll add more to this l
 
 ## Challenges/Interesting places to spend time
 
-- [Project Euler](https://projecteuler.net/)
-- [Eudyptula Challenge](http://eudyptula-challenge.org/)
-- [Cryptopals](https://cryptopals.com/)
-- [MonadChallenge](https://mightybyte.github.io/monad-challenges/)
-- [Deadlock Empire](https://deadlockempire.github.io/#T1-Interface)
-- [Advent of Code](https://adventofcode.com/)
-- [Postgres Exercises](https://pgexercises.com/gettingstarted.html)
-- [The Computer Language Benchmarks Game](https://en.wikipedia.org/wiki/The_Computer_Language_Benchmarks_Game)
-- [Rosetta Code](http://www.rosettacode.org/wiki/Rosetta_Code)
-- [Esolang](https://esolangs.org/wiki/Main_Page)
-- https://mystery.knightlab.com/
-- https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html
-- http://jimbly.github.io/regex-crossword
-- https://github.com/karan/Projects-Solutions
-- https://treasure21.timotijhof.net/index.html
-- https://mysteries.wizardzines.com/50ms-request.html
-- https://github.com/karan/Projects
-- https://github.com/florinpop17/app-ideas
-- https://github.com/practical-tutorials/project-based-learning
-- https://github.com/NaNoGenMo/2021
-
 ## Web Engineering
 
 - [Build a Browser Engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)

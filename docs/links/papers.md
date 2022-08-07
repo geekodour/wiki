@@ -17,6 +17,7 @@ I'll be updating the notes on these papers in the [notes section](/docs/notes/pa
 - https://www.scinapse.io/
 - https://www.connectedpapers.com
 - https://archive.is/95QNt
+- https://www.litmaps.com/
 - https://github.com/karpathy/researchlei
 - https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 - https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/

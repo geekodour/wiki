@@ -30,3 +30,4 @@ sidebar_label: Running a Business
 - https://twitter.com/obiltschnig/status/1473915766743445506
 - https://www.ted.com/talks/yochai_benkler_the_new_open_source_economics?language=en
 - https://sive.rs/multiply
+- https://github.com/everpix/Everpix-Intelligence

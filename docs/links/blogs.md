@@ -9,12 +9,6 @@ sidebar_label: Blogs
 - [hkalant/awesome-edtech-tools](https://github.com/hkalant/awesome-edtech-tools) : Not a reading list but more of an interesting tool list that can help generate ideas in EdTech.
 - https://github.com/hack-earth/manifesto
 
-## Climate Change
-
-- [A Data-Driven Guide to Effective Personal Climate Action](https://erikareinhardt.com/personal-climate-action) : What you as an individual can do today to help address climate change.
-- [philsturgeon/awesome-earth](https://github.com/philsturgeon/awesome-earth) : The planet doesn't need to be simultaneously on fire and underwater. We can fix things. Lots of resources and ideas on protecting mother earth.
-- [Bret on CC](http://worrydream.com/ClimateChange/)
-
 ## History
 
 - [watson/awesome-computer-history](https://github.com/watson/awesome-computer-history) : An Awesome List of computer history videos, documentaries and related folklore

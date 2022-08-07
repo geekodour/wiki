@@ -1156,5 +1156,10 @@ A lot of events in history are important, but some events are more important to 
 - https://github.com/michael-lazar/finger2020
 - http://www.uchronia.net/ (alternate hstory genere books)
 - https://tiemoko.com/blog/vintage-tech-books/
+- https://patrickcollison.com/svhistory
 - http://www.eightyeightynine.com/culture/80susenet.html
+- https://www.flashgamehistory.com/
+- https://www.glitchwrks.com/vintage.html
+- https://www.livinginternet.com/
+- https://gracesguide.co.uk/Main_Page
 - https://dfarq.homeip.net/how-much-did-vhs-tapes-cost-in-the-80s/
