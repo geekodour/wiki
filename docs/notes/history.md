@@ -1160,6 +1160,7 @@ A lot of events in history are important, but some events are more important to 
 - http://www.eightyeightynine.com/culture/80susenet.html
 - https://www.flashgamehistory.com/
 - https://www.glitchwrks.com/vintage.html
+- https://peabee.substack.com/p/15-mafatlal-and-the-early-indian
 - https://www.livinginternet.com/
 - https://gracesguide.co.uk/Main_Page
 - https://dfarq.homeip.net/how-much-did-vhs-tapes-cost-in-the-80s/
